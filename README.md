@@ -1,7 +1,13 @@
-# ChurchSlavonic
+# PetkaBrowser
 
-New primary sources for learning Church Slavonic, the oldest Slavic language of literature - an easy-to-read textbook (with systematic references to other, less-easy-to-read works), translation of Frank Herbert's novel "Dune" using a simplified orthography, and others. Ported from GitLab.
+PHP-based web interface developed for a diachronic corpus of Balkan Slavic texts. Currently includes the following subcorpora:
 
-Се источници нови за неже ѧзыкъ оучити словѣньскый, старѣйшѫ ѿ бесѣдъ кънижьныхъ оу словѣнъ - оугодь читательное правило (съ ѿказы сѫставьны къ инѣмъ мьне оугодь читательномъ) и прѣводъ съказанïa "Дꙋна" Френ͛ка Хер͛бер͛та въ правописѣ опростеномь, и дрꙋго. Прѣнесено изъ Гитлаба.
+1. manuscript NBKM 693 (Pop Punčov Sbornik) from 1796, an example of folk literature from Northwest Bulgaria
+2. Life of St. Petka of Tarnovo by Patriarch Euthymius, a parallel corpus of multiple Church Slavonic and vernacular-based versions 
+3. Psalterium Sinaiticum, the oldest known Glagolitic/Old Church Slavonic edition of the Book of Psalms
+4. Tale of Alexander the Elder, a parallel corpus of a late Church Slavonic text
+5. Excerpts from vernacular Balkan Slavic literature from various epochs
+
+The project was funded by the Stiftung Empiris, Jakob Wüest Fonds, via Foundation for Research in Science and Humanities at the University of Zurich, and realized at the Institute of Slavic Studies at the University of Zurich and at the Slavic Institute of the Czech Academy of Sciences.
 
 
