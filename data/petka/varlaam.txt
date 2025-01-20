@@ -1,0 +1,2016 @@
+text	Cyrillic	diplomatic	lemma	PoS_tag	PoS_ext	sent_id	UD_id	UD_ncy	UD_type	UD_ext	page	folio	translation	eol	chapter	ref	desc					chunk	
+																							
+LUNA+	ЛꙊНА+	luna	luna	Nfson		1	1	5	nmod		46	/img/varlaam/cazania46.jpg	[Title] on 14th day of Month October	0	caz Cazania lui Varlaam 1643 - Petka	CS text - Zogr 172	<i>Carte Românească de Învăţătură</i> of Varlaam Moţoc, Metropolite of Moldavia <br/>Iaşi: Metropolitan printing house, 1643 <br/>source: Central Library of the University of Cluj "Lucian Blaga", <a href='http://dspace.bcucluj.ro/handle/123456789/67727'>link</a><br/>editors: Dumitru Chihai, Cristina Bleorţu, Olivier Winistörfer, Mihaela Lorelai Anghel Ciurea					1	Title
+WKTOVRïE+	ѠКТОВРїЄ+	octovrie	octombrie	Nmsnn		1	2	1	appos														
+î+	ꙟ+	î	în	S		1	3	5	case														
+PATRUSPRъŹĚČE	ПАТРꙊСПРъЅѢЧЄ	patrusprezece	patrusprezece	Ml		1	4	5	nummod					1									
+źile.	ѕиле.	zile	zi	Nfpnn		1	5	0	root														
+																							
+îvъcǫturǫ.	ꙟвъцѫтꙋрѫ.	învățătură	învățătură	Nfsnn		2	1	0	root				[Title] Homily on the Life of our Reverend Mother Parascheva			žitïe i žiznь prpdbnyǫ matere našę paraskevi							
+De+	Де+	De	de	S		2	2	3	case														
+vïaca	вїаца	viața	viața	Nfson		2	3	1	nmod														
+Prěkuvïwase+	Прѣкꙋвїѡасе+	precuvioase	precuvios	Afsd		2	4	6	amod														
+i	и	i	ul	Pd-fsd		2	5	4	det	p_adj				1									
+Maiče+	Маиче+	Maice	maică	Nfsdy		2	6	3	nmod	poss													
+i	и	i	ul	Pd-fsd		2	7	6	det	p_nom													
+Noastre	Ноастре	noastre	nostru	Afsd		2	8	6	amod														
+Paraskeva.	Параскева.	Parascheva	Parascheva	Nfsoy		2	9	3	appos					1									
+(n/a)	(n/a)	(n/a)	(n/a)						mrg													2	Introduction
+																							
+Ačasta	Ачаста	aceasta	acest	Pd-fsn		3	1	2	amod				This holy and reverend girl Paraskeva was from a farm in Epibates 			Sïa ubo sïa prpdbnaa otčsьstvo iměaše epïvaty.						3	Petka's Childhood
+Svъntǫ	Свънтѫ	sfântă	sfînt	Afsn		3	2	6	amod														
+ši	ши	și	și	C		3	3	2	cc														
+Prěkuvïwasǫ	Прѣкꙋвїѡасѫ	precuvioasă	precuvios	Afsn		3	4	2	conj					1									
+fečoarǫ,	фечоарѫ,	fecioară	fecioară	Nfsny		3	5	6	appos														
+Paraskeva.	Параскева.	Parascheva	Parascheva	Nfsoy		3	6	7	nsubj														
+era	ера	era	fi	Vmii3s		3	7	0	root														
+de+	де+	de	de	S		3	8	9	case														
+mošïe	мошїе	moșie	moșie	Nfsnn		3	9	7	obl					1									
+di_î+	ди_ꙟ+	di	din	S		3	10	11	case														
+epivat.	епиват.	epivat	Epivat	Nmsnn		3	11	9	nmod														
+																							
+nǫskutǫ	нѫскꙋтѫ	născută	născut	Afsn		4	1	20	acl				Born to devout and well Christian parents, she dedicated herself to God with compassion and good deeds.			roditele i blgočьstivěišix i bgoljubezněišix sǫšti otrasli. {xodęštïixь vь vsěxь bžïixь zapovědex neuklonno.							
+diî+	диꙟ+	diin	din	S		4	2	3	case														
+pǫrici	пѫрици	părinți	părinte	Nmpny		4	3	1	obl					1									
+kredinčoši	крединчоши	credincioși	credincios	Ampn		4	4	3	amod														
+ši	ши	și	și	C		4	5	6	cc														
+kreštini	крещини	creștini	creștin	Nmpny		4	6	3	conj														
+buni,	бꙋни,	buni	bun	Ampn		4	7	6	amod														
+î_tru+	ꙟ_трꙋ+	întru	întru	S		4	8	10	case					1									
+toatǫ	тоатѫ	toată	tot	Afsn		4	9	10	amod														
+vïaca+	вїаца+	viața	viață	Nfson		4	10	20	obl														
+sa	са	sa	său	Afsn		4	11	10	amod	poss													
+ku+	кꙋ+	cu	cu	C		4	12	13	case														
+mlstenïe	млстенїе	mlstenie	milostenie	Nfsnn		4	13	20	obl														
+ši	ши	și	și	C		4	14	16	cc														
+ku+	кꙋ+	cu	cu	S		4	15	16	case														
+fapte	фапте	fapte	faptă	Nfpnn		4	16	13	conj														
+bune	бꙋне	bune	bun	Afpn		4	17	16	amod					1									
+lui	лꙋи	lui	ille	Pd-msd		4	18	19	det														
+dmźъu	дмѕъꙋ	dmdzău	Dumnezeu	Nmsoy		4	19	20	obl	iobj													
+îgǫduę.	ꙟгѫдꙋѧ.	îngăduia	îngădui	Vmii3s		4	20	0	root														
+																							
+fъrǫ	фърѫ	fără	fără	S		5	1	4	case				except this holy, they also had another virtuous child who his parents gave to the books (to the study of the holy book) and to study the book well 			i takovyx dobrodětělei dělatele byvše, oboimь otročętemь spdbišǫs byti oci· Ixže ovь ubo mǫžьsky, ovo že žensky javlěaše sę polь.							
+d+	д+	de	de	S		5	2	4	case														
+ěčasta	ѣчаста	aceasta	acest	Pd-fsn		5	3	4	det														
+svъntǫ	свънтѫ	svîntă	sfînt	Nfsny		5	4	5	obl					1									
+avurǫ	авꙋрѫ	avură	avea	Vmia3p		5	5	0	root														
+ši+	ши+	și	și	C		5	6	8	amod														
+altь	алть	alt	alt	Afsn		5	7	8	amod														
+fečorь	фечорь	fecior	fecior	Nmsny		5	8	5	obj														
+parte	парте	parte	parte	Nfsnn		5	9	8	appos														
+bǫrbǫtěskǫ.	бѫрбѫтѣскѫ.	bărbătească	bărbătesc	Afsn		5	10	9	amod														
+																							
+pre	пре	pre	pre	S		6	1		case					1									
+kare+	каре+	care	care	Pr		6	2		obl	iobj													
+le.	ле.	le	ille	Pp-fp		6	3		expl														
+děderǫ+	дѣдерѫ+	deaderă	da	Vmia3s		6	4		root														
+lь	ль	l	el	Pp3-sa		6	5		expl														
+pъrincï+	пъринцї+	părinți	părinte	Nmpny		6	6		nsubj														
+i	и	i	ille	Pd-mpn		6	7		det	p_nom													
+lui	лꙋи	lui	lui	Pp3msd		6	8		det	poss													
+la+	ла+	la	la	S		6	9		case														
+karte.	карте.	carte	carte	Nfsnn		6	10		obl														
+																							
+ši	ши	și	și	C		7	1	4	cc					1									
+děka+	дѣка+	deacă	dacă	C		7	2	4	cc														
+l'	л͛	l	el	Pp3msa		7	3	4	expl														
+îvъcǫ	ꙟвъцѫ	învăță	învăță	Vmia3s		7	4	0	root														
+karte	карте	carte	carte	Nfsnn		7	5	4	obj														
+bine.	бине.	bine	bine	R		7	6	4	advmod														
+																							
+pǫrincï+	пѫринцї+	părinți	părinte	Nmpny		8	1	6	obj				He left the parents and all the people to dress himself (as a monk) and he was given the monk's name Eftimie			jako ubo sštennaa dobrě izvyče pisanïa, roditelę dobrě kь bu prděposla, inočьskyimь sebe oděa obrazomь. kѵrь eѵѳѵmïemь imenovanь byvь·							
+i	и	i	ille	Pd-mpn		8	2	1	det	p_nom													
+ši	ши	și	și	C		8	3	4	cc														
+lumě	лꙋмѣ	lumea	lume	Nfson		8	4	1	conj					1									
+toatǫ	тоатѫ	toată	tot	Afsn		8	5	4	amod														
+pǫrǫsi.	пѫрѫси.	părăsi	părăsi	Vmia3s		8	6	0	root														
+ši	ши	și	și	C		8	7	11	conj														
+pre+	пре+	pre	pre 	S		8	8	9	case														
+sine	сине	sine	sine	Px---o		8	9	11	obj														
+sъ+	съ+	să	se	C		8	10	11	expl														
+kǫlugǫri,	кѫлꙋгѫри,	călugări	călugări	Vmia3s	Vmn	8	11	6	conj														
+																							
+šï+	шї+	și	și	C		9	1	4	cc														
+i	и	i	el	Pp3-sd		9	2	4	obl	iobj				1									
+fou	фоу	fu	fi	Vaia3s		9	3	4	aux														
+pusь	пꙋсь	pus	pune	Vmpa		9	4	0	root														
+nume	нꙋме	nume	nume	Nnsnn		9	5	4	obj														
+de+	де+	de	de	S		9	6	7	case														
+kъlugǫrïe	кълꙋгѫрїе	călugărie	călugărie	Nfsnn		9	7	5	nmod														
+Eѳimïe.	Єѳимїе.	Eftimie	Eftimie	Nfsny		9	8	7	appos														
+																							
+ši	ши	și	și	C		10	1	6	cc				and for his numerous good deeds, he was named Archbishop and Pastor in the chair which is called Madit			jakože imeni ego po vьsǫdu obnosimo byti• iže za prěmnogyǫ ego dobrodětěli, na arxïereistva prěstolь vьzvednь bys. i maditьsky postavlenь bys prьvoprěstolnikь že i pastyrь⸱							
+pen'_	пен͛_	pentru	pentru	S		10	2	6	case					1									
+multe	мꙋлте	multe	mult	Afpn		10	3	6	amod														
+a+	а+	a 	a 	Ps-fs		10	4	5	case														
+lui	лꙋи	lui	el	Pp3msd		10	5	6	nmod	poss													
+bunǫtǫci,	бꙋнѫтѫци,	bunătăți	bunătate	Nfpnn		10	6	8	advcl														
+fou	фоу	fu	fi	Vaia3s		10	7	8	aux														
+pusь	пꙋсь	pus	pune	Vmp--e		10	8	0	root														
+Aprxïereu	Апрхїереꙋ	arhiereu	arhiereu	Nmsoy		10	9	8	obl					1									
+ši	ши	și	și	C		10	10	11	cc														
+pǫstorju.	пѫсторю.	păstoriu	păstor	Nmsoy		10	11	8	conj														
+la+	ла+	la	la	S		10	12	13	case														
+skaun+	скаꙋн+	scaun	scaun	Nnsnn		10	13	11	nmod														
+ulь	ꙋль	ul	ille	Pd-nsn		10	14	13	det	p_nom													
+če+	че+	ce	ce	Pr		10	15	13	mark														
+sъ+	съ+	se	se	Px---a		10	16	17	expl														
+kema	кема	chema	chema	Vmip3s	Vmn	10	17	13	acl														
+i+maditь.	и+мадить.	Imadit	Imadit	Nmsny		10	18	17	obj					1									
+																							
+ši	ши	și	și	C		11	1	7	cc				and there she made many and great wonders			ideže i mnogaa i prěslavna sьděa čjudesa.							
+akolo	аколо	acolo	acolo	R		11	2	7	adv														
+multe	мꙋлте	multe	mult	Afpn		11	3	6	amod														
+ši	ши	și	și	C		11	4	5	cc														
+mari	мари	mari	mare	Afpn		11	5	3	conj														
+čjudese	чюдесе	ciudese	ciudesă	Nfpnn		11	6	7	obj														
+fǫkou.	фѫкоу.	făcu	face	Vmia3s		11	7	0	root														
+																							
+ši	ши	și	și	C		12	1	3	cc				and after his death, a source of chrism ran out of his body	1		nǫ i prěkǫ mѵra prěslavno istočišǫ. jaže na pьprište edino istěkaaše vь more.							
+dupǫ	дꙋпѫ	după	după	S		12	2	3	case														
+moartě	моартѣ	moartea	moarte	Nfson		12	3	9	advcl														
+lui.	лꙋи.	lui	el	Pp3msd		12	4	3	nmod	poss													
+izvorь	изворь	izvor	izvor	Nmsnn		12	5	9	nsubj														
+de+	де+	de	de	S		12	6	7	case														
+mirь	мирь	mir	mir	Nnsn		12	7	5	nmod														
+au+	аꙋ+	au	avea	Vaip3p		12	8	9	aux														
+kursь	кꙋрсь	curs	curge	Vmp--e		12	9	0	root														
+di_î+	ди_ꙟ+	di	din	S		12	10	11	case					1									
+trup+	трꙋп+	trup	trup	Nnsnn		12	11	9	obl														
+ulь	ꙋль	ul	ille	Pd-nsn		12	12	11	det	p_nom													
+lui.	лꙋи.	lui	el	Pp3msd		12	13	11	nmod	poss													
+																							
+Jarǫ	Ꙗрѫ	iară	iar	C		13	1	8	cc				And the holy (Parascheva) spent (her life) at her parent's house			-							
+svъnta	свънта	svînta	sfînt	Nfsoy		13	2	8	nsubj														
+î+	ꙟ+	în	în	S		13	3	4	case														
+kasa.	каса.	casa	casă	Nfson		13	4	8	obl														
+pъrinci+	пъринци	părinți	părințe	Nmpny		13	5	4	nmod					1									
+lorь	лорь	lor	ille	Pd-mpd		13	6	5	det														
+sǫi+	сѫи+	săi	său	Ampn		13	7	5	amod	poss													
+petrečę.	петречѧ.	petrecea	petrece	Vmii3s		13	8	0	root														
+																							
+jarǫ	ꙗрѫ	iară	iar	C		14	1	3	cc				and when she was ten years old, after having the ritual to guard the church, she went to the church of the Holy Mother on one of the days			desętomu že lětu toǫ vьzrasta jako prišedšu, 							
+kъndь	къндь	cînd	cînd	R		14	2	3	mark														
+fou	фоу	fu	fi	Vmia3s		14	3		advcl														
+de	де	de	de	S		14	4	5	case														
+*ı*	·ı·	10	10	Mc		14	5	6	nummod														
+li	ли	an	an	Nmpnn		14	6	8	nmod														
+de+	де+	de	de 	S		14	7	8	case	abl													
+vъr_stǫ.	вър_стѫ.	vîrstă	vîrstă	Nfsnn		14	8	3	obl					2									
+dupǫ	дꙋпѫ	după 	după	S		14	9	11	cc		47	/img/varlaam/cazania47.jpg				vь crkovь prčtsyǫ bcǫ i prinso dvy marіǫ, po obyčau prïide.							
+kum'	кꙋм͛	cum	cum	R		14	10	11	cc														
+avě	авѣ	avea	avea	Vmii3s		14	11	17	advcl														
+wbičnǫ	ѡбичнѫ	obicnă	obicină	Nfsnn		14	12	11	obj														
+a+	а+	a 	a	C		14	13	14	aux	inf													
+pǫzi	пѫзи	păzi	păzi	Vmia3s	Vmn	14	14	11	advcl														
+besěreka,	бесѣрека,	besearecă	biserică	Nfsnn		14	15	14	obj					1									
+měrsǫ	мѣрсѫ	mearsă	merge	Vmp--e		14	16	0	root														
+într+	ꙟнтр+	între	în 	S		14	17	18	case														
+una	ꙋна	una	una	Pd-fsn		14	18	16	obl	det													
+de+	де+	de	de 	S		14	19	20	case														
+źile	ѕиле	zi	zi	Nfpnn		14	20	18	obl														
+le	ле	le	ul	Pd-fpn		14	21																
+la+	ла+	la	la	S		14	22	23	case														
+w	ѡ	o 	o 	Pd-fsn		14	23	23	det														
+besěrekǫ	бесѣрекѫ	biserică	biserică	Nfsnn		14	24	16	obl														
+a	а	a	a	Ps-fs		14	25	25	cc	??													
+Prěčis_te+	Прѣчис_те+	Preciste	Precistă	Nfsdy		14	26	23	nmod														
+i.	и.	i	ille	Pd-fsd		14	27	25	det	p_nom				1									
+																							
+ši	ши	și	și	C		15	1	3	cc				and there she heard reading the God's word from the Holy Gospel 			i obyčně bžstьvnomu eѵglïu pročitaemu,							
+akolo	аколо	acolo	acolo	R		15	2	3	advmod														
+auźi	аꙋѕи	auzi	auzi	Vmia3s	Vmn	15	3	0	root														
+četindь	четиндь	citind	citi	Vmpp		15	4	3	cop														
+î+	ꙟ+	în	în	S		15	5	7	case														
+svъnta	свънта	sfînta	sfînt	Afsn		15	6	7	amod														
+eva_gelïe,	ева_гелїе,	Evanghelie	Evanghelie	Nfsnn		15	7	4	obl					1									
+kuvъnt+	кꙋвънт	cuvînt	cuvînt	Nnsnn		15	8	3	obj							Slyša bžtsьvnyi onь glas glęštïi.							
+ulь	ꙋль	ul	ul	Pd-nsn		15	9	8	det	p_nom													
+lui	лꙋи	lui	lui	Pd-msd		15	10	11	det														
+dmźъu	дмѕъꙋ	Dumnezeu	Dumnezeu	Nmsny		15	11	8	nmod														
+ačela	ачела	acela	acel	Pd-msn		16	12	8	aposs				the one that says										
+čau+	чаꙋ+	ce	ce	Pr		16	13	12	mark														
+źisь,	ѕись,	zice	zice	Vmip3s	Vmn	16	14	12	acl														
+																							
+či	чи	cine	cine	Pr		17	1	6	nsubj				Who wants to follow me, shall shed oneself	1									
+ne+	не+	ne	ne	Qz		17	2	3	advmod														
+vavrě	ваврѣ	vavrea	vrea	Vmn		17	3	6	aux							iže xoštet po mně iti, da otvrьžet sę sebe i vьzmet krstь svoi i poslěduet mi (Mt 16:24)							
+va	ва	va	vrea	Vaip3s		17	4	3	aux														
+sъ+	съ+	să	să	C		17	5	6	mark														
+vïe	вїе	vie	veni	Vmip3s		17	6	11	advcl	csubj													
+dupъ+	дꙋпъ+	după	după cum	S		17	7	8	case														
+mene,	мене,	mene	eu	Pp1-so		17	8	6	obl														
+sъ+	съ+	să	să	C		17	9	11	aux	opt													
+sǫ	сѫ	se	se	Px---a		17	10	11	expl														
+lěpede	лѣпеде	lepăde	lepăda	Vmsp3s		17	11	0	root														
+de+	де+	de	de	S		17	12	13	case														
+sine	сине	sine	sine	Px---o		17	13	11	obl														
+																							
+ši	ши	și	și	C		18	1	3	cc				And take their cross	1									
+sъ+	съ+	să	să	C		18	2	3	aux	opt													
+ja	ꙗ	ia	lua	Vmip3s		18	3	0	root														
+kručę	крꙋчѧ	cruce	cruce	Nfsnn		18	4	3	obj														
+sa	са	sa	sa	Afsn		18	5	4	amod	poss													
+																							
+ši	ши	și	și	C		19	1	4	cc				and shall follow me like this										
+ašę	ашѧ	așa	așa	R		19	2	4	advmod														
+sъ+	съ+	să	să	C		19	3	4	aux	opt													
+vïe	вїе	vie	veni	Vmip3s		19	4	0	root														
+dupǫ+	дꙋпѫ+	după	după cum	C		19	5	6	case														
+mene.	мене.	mene	eu	Pp1-so		19	6	4	obl														
+																							
+de+	де+	de	de	S		20	1	3	case				from this word she was hit in the soul like from an arrow	1	i jako strěloǫ někotoroǫ ujazvena byvši, abïe izь crьkve izšedši.								
+ače_sta	аче_ста	acesta	acest	Pd-nsn		20	2	3	det														
+kuvъntь	кꙋвънть	cuvînt	cuvînt	Nnsnn		20	3	9	obl														
+ka+	ка+	ca	ca	Pr		20	4	7	case														
+de+	де+	de	de	C		20	5	7	case														
+o+	о+	o	o	Pd-fsn		20	6	7	det														
+siѡџatǫ	сиѡџатѫ	săgeată	săgeată	Nfsnn		20	7	9	obl														
+fou	фоу	fu	fi	Vmia3s		20	8	9	aux	perf													
+rǫnitǫ	рѫнитѫ	rănită	răni	Vmpa	Afsn	20	9	0	root														
+la+	ла+	la	la	S		20	10	11	case					1									
+nii_mǫ.	нии_мѫ.	niimă	inimă	Nfsnn		20	11	9	obl														
+																							
+ši	ши	și	și	C		21	1	3	cc				and when she left the church, greeted a poor										
+děka	дѣка	deacă	dacă	C		21	2	3	cc														
+eši	еши	ieși	ieși	Vmia3s		21	3	6	advcl														
+diî+	диꙟ+	din	din	C		21	4	5	case														
+bsěrekǫ,	бсѣрекѫ,	bserică	biserică	Nfsnn		21	5	3	obl														
+tъîpinǫ	тъꙟпинѫ	tăîmpină	întâmpina	Vmia3s		21	6	0	root					1		i uboga někoego srětši, sьnemši sь sebe rizy i vьsę ęže nošaaše děvičьskǫę utvarь, tomu vьsě usrьdno otdastь							
+ounь	оунь	un	un	Pd-msn		21	7	8	det														
+sǫrakь	сѫракь	sărac	sărac	Nmsny		21	8	6	obj														
+																							
+ši	ши	și	și	C		22	1	3	cc				and took off her cloth and her girly ornaments										
+sъ+	съ+	să	se	Px---a		22	2	3	expl														
+dezbrǫkǫ	дезбрѫкѫ	dezbrăcă	dezbrăca	Vmia3s		22	3	0	root														
+de+	де+	de	de	S		22	4	5	case														
+xaina	хаина	haină	haină	Nfsnn		22	5	3	obl														
+če	че	ce	ce	Pr		22	6	7	mark														
+avě	авѣ	avea	avea	Vmii3s		22	7	5	acl					1									
+de+	де+	de	de	S		22	8	9	case														
+supra,	сꙋпра,	supra	asupra	R		22	9	7	advmod														
+ši	ши	și	și	C		22	10	13	cc														
+de+	де+	de	de	S		22	11	13	case														
+toate	тоате	toate	tot	Afpn		22	12	13	amod														
+podoabe+	подоабе+	podoabe	podoabă	Nfpnn		22	13	5	conj														
+le	ле	le	ille	Pd-fpn		22	14	13	det	p_nom													
+fetešti.	фетещи.	fetești	fetesc	Afpn		22	15	13	amod														
+																							
+ši	ши	și	și	C		23	1	7	cc				and with zeal she gave all of them away	1		Vь takověmь oubo obrazě vь domь jako prišedši i ot roditelei jako viděna byvši, čto podobaetь i glati koliko ukorena bys i ponosima ot nix i biema, jako da ne takožde drugoici sьtvoritь.							
+ačeluę	ачелꙋѧ	aceluia	aceluia	Pd-msd		23	2	3	nmod														
+toate	тоате	toate	tot	Pi-pn		23	3	7	amod														
+ku+	кꙋ+	cu	cu	S		23	4	5	cc														
+wsrъdïe	ѡсръдїе	osîrdie	osîrdie	Nfsnn		23	5	7	obl														
+le+	ле+	le	le	Pp3fpa		23	6	5	det	p_nom													
+děde.	дѣде.	deade	da	Vmii3s		23	7	0	root							ni vь čto že těxь ukorizny vьměni. nǫ bžtsьvnymь raspalivši sę želanïemь, bgootca dvda vь umě obnošaaše glь.							
+																							
+ši	ши	și	și	C		24	1	7	cc				and she came to her parents house										
+ašę	ашѧ	așia	așa	R		24	2	7	advmod														
+î	ꙟ	î	în	S		24	3	4	case					1									
+kasa.	каса.	casa	casă	Nfson		24	4	7	obl														
+pǫrinci+	пѫринци+	părinţi	părinte	Nmpny		24	5	4	nmod														
+lorь	лорь	lor	ille	Pd-mpd		24	6	5	det														
+veni.	вени.	veni	veni	Vmia3s		24	7	0	root														
+																							
+ši	ши	și	și	C		25	1	4	cc				and when the parents heard of it, they sufficiently scolded her 										
+děka	дѣка	deacă	dacă	C		25	2	4	cc														
+fu	фꙋ	fu	fi	Vmia3s		25	3	4	aux	pass													
+štïutъ	щїꙋтъ	știut	ști	Vmp		25	4	8	advcl					1									
+de+	де+	de	de	C		25	5	6	case														
+pǫrinci.	пѫринци.	părinţi	părinte	Nmpny		25	6	4	obl														
+w+	ѡ+	o	ea	Pp3fsa		25	7	8	obj							nǫ dobraa ona dva, i blgočьstivaa větvь paraskevi, ni vь čto že těxь ukorizny vьměni.							
+mustrarǫ	мꙋстрарѫ	mustrară	mustra	Vmia3p		25	8	0	root														
+destulь	дестꙋль	destul	destul	R		25	9	8	advmod														
+																							
+ši	ши	și	și	C		26	1	3	cc				and they beat her so that she would not do this again										
+o+	о+	o	ea	Pp3fsa		26	2	3	obj														
+bǫturъ	бѫтꙋръ	bătur	bate	Vmia3p		26	3	0	root					1									
+ka+	ка+	ca	ca	C		26	4	7	mark														
+sъ+	съ+	să	să	C		26	5	7	aux	opt													
+nu+	нꙋ+	nu	nu	Qz		26	6	7	advmod														
+fakǫ	факѫ	facă	face	Vmsi3s		26	7	3	advcl														
+ši	ши	și	și	C		26	8	10	amod														
+altǫ	алтѫ	altă	alt	Afsn		26	9	10	amod														
+datǫ	датѫ	dată	dată	Nfsnn		26	10	7	obl														
+ašę.	ашѧ.	așia	așa	R		26	11	7	advmod														
+																							
+če	че	ce	ci	C		27	1	11	cc														
+ačěę+	ачѣѧ+	aceaia	acea	Pd-fsn		27	2	6	det				but the kind and wise virgin didn't care about it										
+buna	бꙋна	buna	bun	Afso		27	3	6	amod					1									
+ši	ши	și	și	C		27	4	5	cc														
+îcelěpta	ꙟцелѣпта	înțelepta	înțelept	Afso		27	5	3	conj														
+fečoarǫ	фечоарѫ	fecioară	fecioară	Nfsny		27	6	11	nsubj														
+ačěstę	ачѣстѧ	acestea	acest	Afsn		27	7	6	det														
+nemikǫ.	немикѫ.	nemică	nimic	Pz		27	8	11	obj														
+nu+	нꙋ+	nu	nu	Qz		27	9	11	advmod														
+le	ле	le	ei	Pp3pa		27	10	11	obl	iobj				1									
+sokotïa.	сокотїа.	socotia	socoti	Vmii3s		27	11	0	root														
+																							
+če+	че+	ci	ci	C		28	1	14	cc				and she gave again all her things to another poor man										
+š+	ш+	ș	și	C		28	2	14	cc														
+altǫ	алтѫ	altă	alt	Afsn		28	3	4	amod														
+datǫ	датѫ	dată	dată	Nfsnn		28	4	14	obl														
+altui	алтꙋи	altui	alt	Amsd		28	5	6	amod														
+sъrakь	съракь	sărac	sărac	Nmsny		28	6	14	obl	iobj													
+toate	тоате	toate	tot	Afpn		28	7	8	amod					1									
+podoabe+	подоабе+	podoabe	podoabă	Nfpnn		28	8	14	obj														
+le	ле	le	ul	Pd-fpn		28	9	8	det	p_nom													
+sale	сале	sale	sa	Afpn		28	10	8	amod	poss													
+če+	че+	ce	ce	Pr		28	11	12	mark														
+purta	пꙋрта	purta	purta	Vmii3s		28	12	8	acl														
+le+	ле+	le	ele	Pp3fpa		28	13	14	expl														
+děde.	дѣде.	deade	da	Vmii3s		28	14	0	root														
+																							
+ši	ши	și	și	C		29	1	15	cc				And she did not give her clothes away only two or three times, but many times			i ne tьčïǫ dvašti ili trіšti, no i mnogaždi takožde svoja oděanïa ništïimь otdaaše.							
+nu+	нꙋ+	nu	nu	Qz		29	2	15	advmod														
+numai	нꙋмаи	numai	numai	R		29	3	15	advmod														
+de	де	de	de	S		29	4	6	case					1									
+da+	да+	da	două	Ml		29	5	6	nummod														
+wri	ѡри	ori	oară	Nfpnn		29	6	15	obl														
+sau	саꙋ	sau	sau	C		29	7	10	cc														
+de+	де+	de	de	S		29	8	10	case														
+trei+	треи+	trei	trei	Ml		29	9	10	nummod														
+wri,	ѡри,	ori	oară	Nfpnn		29	10	6	conj														
+če+	че+	ce	ci	C		29	11	14	cc														
+de+	де+	de	de	S		29	12	14	case														
+multe+	мꙋлте+	multe	mult	Afpn		29	13	14	amod														
+wri	ѡри	ori	oară	Nfpnn		29	14	6	conj														
+da+	да+	da	da	Vmip3s		29	15	0	root														
+sъrači	дасърачи	săraci	sărac	Nmpn		29	16	15	obl	iobj				1									
+lorь	лорь	lor	ille	Pd-mpd		29	17	16	det	p_nom													
+vešmente+	вешменте+	veșmînte	veșmânt	Nnpnn		29	18	15	obj														
+le	ле	le	ul	Pd-npn		29	19	18	det	p_nom													
+sale,	сале,	sale	sa	Afpn		29	20	18	amod	poss													
+																							
+ši	ши	și	și	C		30	1	4	cc				and nobody scolded in the taxes?  / but she didn't care about the quarrel 			ni vь čto že vьměněǫšti sixь radi roditelnęǫ dosady že i prěštenïa i nesьtrьpimyǫ jazvy.							
+nemikǫ	немикѫ	nemică	nimic	Pz		30	2	4	nsubj														
+nu+	нꙋ+	nu	nu	Qz		30	3	4	advmod														
+bǫga	бѫга	băga	băga	Vmii3s		30	4	0	root														
+î+	ꙟ+	î	în	S		30	5	6	case														
+sa_mǫ	са_мѫ	samă	samă	Nfsnn		30	6	4	obl					1									
+čertarě	чертарѣ	certarea	certare	Nfson		30	7	4	obj														
+																							
+ši	ши	și	și	C		31	1	2	cc				and about the beatings that she took from her parents for this										
+bǫtǫi+	бѫтѫи+	bătaie	bătaie	Nfsnn		31	2	0	root														
+le	ле	le	ille	Pd-fpn		31	3	2	det	p_nom													
+če+	че+	ce	ce	Pr		31	4	5	mark														
+lua	лꙋа	lua	lua	Vmii3s		31	5	2	acl														
+de+	де+	de	de	S		31	6	8	case														
+la	ла	la	la	S		31	7	8	case														
+pǫrincï+	пѫринцї+	părinţi	părinte	Nmpny		31	8	5	obl					1									
+i	и	i	ille	Pd-mpn		31	9	8	det	p_nom													
+sъi	съи	săi	său	Ampn		31	10	8	amod	poss													
+pen'tr+	пен͛тр+	pentr	pentru	S		31	11	12	case														
+ačasta.	ачаста.	aceasta	aceasta	Pd-fsn		31	12	5	obl														
+																							
+kъči	къчи	căci	căci	C		32	1	4	cc				because she was enlightened by divine mourning			nǫ bžtsьvnymь raspalivši sę želanïemь,							
+kъ	къ	că	că	C		32	2	4	cc														
+era	ера	era	fi	Vmii3s		32	3	4	aux														
+aprinsǫ	апринсѫ	aprinsă	aprinde	Vmp	Afsn	32	4	0	root														
+de+	де+	de	de	S		32	5	6	case														
+žela_nïe	жела_нїе	jelanie	jelanie	Nfsnn		32	6	4	nsubj					1									
+dmnźъjaskǫ.	дмнѕъꙗскѫ.	dmnzăiescă	dumnezeiesc	Afsn		32	7	6	amod														
+																							
+ši	ши	și	și	C		33	1	4	cc				and her heart burned with the fire of the Holy Spirit			pače že prěstgo dxa iže vь nemь glšta							
+inima	инима	inima	inimă	Nfsnn		33	2	4	nsubj														
+ei	еи	ei	ea	Pp3fsd		33	3	2	nmod	poss													
+ardě	ардѣ	arde	arde	Vmii3s		33	4	0	root														
+ku+	кꙋ+	cu	cu	S		33	5	6	case														
+fok+	фок+	foc	foc	Nmsnn		33	6	4	obl					1									
+ulь	ꙋль	ul	ul	Pd-msn		33	7	6	det	p_nom													
+dx҃+	дх҃+	dh	duh	Nmsnn		33	8	6	nmod														
+ului	ꙋлꙋи	ului	ul	Pd-msd		33	9	10	det	p_nom													
+svъntь.	свънть.	sfînt	sfînt	Amsn	or?: Nmsnn	33	10	8	nmod														
+																							
+ši	ши	și	și	C		34	1	13	cc				and she could not hide the diligence that she had towards the Lord, so she hid herself away from anyone			Elma ubo srčdnoe raždeženïe i ęže po bźě revnostь trьpěti na mnoźě ne vьzmože, vьsěxь abïe utaiv sę.						4	Desert Life
+rъvna	ръвна	rîvna	râvnă	Nfsnn		34	2	13	nsubj														
+če+	че+	ce	ce	Pr		34	3	4	mark														
+avě	авѣ	avea	avea	Vmii3s		34	4	13	acl														
+kъtrǫ+	кътрѫ+	cătră	către	S		34	5	6	case														
+dmźъu	дмѕъꙋ	dmzău	Dumnezeu	Nmsny		34	6	4	obl	iobj				1									
+nu+	нꙋ+	nu	nu	Qz		34	7	13	advmod														
+putu	пꙋтꙋ	putu	putea	Vmia3s		34	8	13	aux														
+mai	маи	mai	mai	R		34	9	10	advmod														
+multь,	мꙋлть,	mult	mult	R		34	10	13	advmod														
+sъ+	съ+	să	să	C		34	11	13	cc	inf													
+o+	о+	o	o	Pp3fsa		34	12	13	obj														
+cïe.	цїе.	ție	ține	Vmip3s		34	13	0	root														
+če+	че+	ce	ce	Pr		34	14	18	cc														
+de+	де+	de	de	S		34	15	18	case														
+toci	тоци	toți	toți	Pi-mpn		34	16	18	csubj														
+sъ+	съ+	să	se	Px---a		34	17	18	expl														
+asku_nsǫ.	аскꙋ_нсѫ.	ascunsă	ascunde	Vmia3s		34	18	13	advcl					1									
+																							
+pǫrincï+	пѫринцї+	părinţi	părinte	Nmpny		35	1	17	obj				She left the parents, the family,  the servants and all the beauty of this world			roditelę kupno i sьrodniky. rabь že i rabynь, pustynnoe sь tьštanïemь postiže nědro.							
+i	и	i	ul	Pd-mpn		35	2	1	det	p_nom													
+ši	ши	și	și	C		35	3	4	cc														
+semencï+	семенцї+	semenți	seminție	Nmpnn		35	4	1	conj														
+ile,	иле,	ile	ul	Pd-mpn		35	5	4	det	p_nom													
+sluџi+	слꙋџи+	slugi	slugă	Nfpny		35	6	4	conj														
+le	ле	le	ul	Pd-mpn		35	7	6	det	p_nom													
+ši	ши	și	și	C		35	8	9	cc					1									
+služ'niče+	слꙋж͛ниче+	slujnice	slujnică	Nfpny		35	9	6	conj														
+le,	ле,	le	ul	Pd-fpn		35	10	9	det														
+de_preunǫ	де_преꙋнѫ	depreună	depreună	R		35	11	9	advmod														
+ši+	ши+	și	și	C		35	12	14	cc														
+toatǫ	тоатѫ	toată	tot	Afsn		35	13	14	amod														
+frъmsěcę	фръмсѣцѧ	frămseațe	frumusețe	Nfsnn		35	14	9	conj														
+ače_štïi	аче_щїи	acestii	acestei	Pd-fsd		35	15	16	det					1									
+lumi	лꙋми	lumi	lume	Nfsdn		35	16	14	nmod														
+pǫrъsi.	пѫръси.	părăsi	părăsi	Vmia3s		35	17	0	root														
+																							
+ši+	ши+	și	și	C		36	1	5	cc				and with much endeavour she reached the depth of the wasteland			Izvěstno vědęšti, jako ničto že tako ino plьtskaa obyče uspivati vьzygranïa, jakože pustyně• 							
+ku+	кꙋ+	cu	cu	S		36	2	4	case														
+multǫ	мꙋлтѫ	multă	mult	Afsn		36	3	4	amod														
+sъrguire	съргꙋире	sîrguire	sîrguire	Nfsnn		36	4	5	obl														
+aџun'sъ	аџꙋн͛съ	ajunsă	ajunge	Vmia3s		36	5	0	root					1									
+adъnk+	адънк+	adînc	adânc	Nmsnn		36	6	5	obl	lat													
+ulь	ꙋль	ul	ul	Pd-msn		36	7	6	det	p_nom													
+pustïe+	пꙋстїе+	pustie	pustiu	Nnsdn		36	8	6	nmod														
+i.	и.	i	ul	Pd-npd		36	9	8	det	p_nom													
+																							
+štïind'+	щїинд͛+	știind	ști	Vmpp		37	1	0	root				knowing that nothing else could pacify the jumping of the body except the life in the wasteland										
+kъ	къ	că	că	C		37	2	7	mark														
+altǫ	алтѫ	altă	alt	Afsn		37	3	4	amod														
+nemikǫ	немикѫ	nemică	nimic	Pz		37	4	7	nsubj														
+nu-	нꙋ-	nu	nu	Qz		37	5	7	advmod					2									
+nu+	нꙋ+	nu	nu	Qz		37	6	5	rep?		48	/img/varlaam/cazania48.jpg											
+potoale	потоале	potoale	potoli	Vmip3s		37	7	1	advcl														
+sъltarę	сълтарѧ	săltaria	săltare	Nfson		37	8	7	obj														
+trup+	трꙋп+	trup	trup	Nnsnn		37	9	8	nmod														
+ului	ꙋлꙋи	ului	ul	Pd-nsd		37	10	9	det	p_nom													
+ka+	ка+	ca	ca	C		37	11	12	case														
+vïjaca	вїꙗца	viața	viață	Nfson		37	12	7	obl														
+pustïe+	пꙋстїе+	pustie	pustiu	Nnsn		37	13	12	nmod														
+i	и	i	ul	Pd-fsd		37	14	13	det	p_nom				1									
+																							
+Dě+	Дѣ+	de	de	S		38	1	2	case				and so she arrived in the wasteland			Prpdbnaa ubo jako pustynę dostigši jakože prděreč sę apslkomu usrьdno vьzrevnova žitïu.}							
+čïi	чїи	aici	aici	R		38	2	4	obl														
+děka	дѣка	deaca	dacă	C		38	3	4	cc														
+aџun'sǫ	аџꙋн͛сѫ	ajunsă	ajunge	Vmia3s		38	4	0	root														
+la+	ла+	la	la	S		38	5	6	case														
+pustïe.	пꙋстїе.	pustie	pustiu	Nnsn		38	6	4	obl	lat													
+																							
+ši	ши	și	și	C		39	1	2	cc				and she got her will to see herself free of all the worries of the world										
+dobъndi	добънди	dobîndi	dobândi	Vmia3s		39	2	0	root					1									
+voę	воѧ	voie	voie	Nfsnn		39	3	2	obj														
+sa	са	sa	sa	Afsn		39	4	3	amod	poss													
+de+	де+	de	de	S		39	5	6	case														
+sъ+	съ+	să	se	Px---a		39	6	7	mark	inf													
+vǫźu+	вѫѕꙋ+	văzu	vedea	Vmia3s		39	7	2	advcl														
+pre+	пре+	pre	pe	S		39	8	9	case														
+sine	сине	sine	sine	Px---o		39	9	7	obl														
+slobodǫ	слободѫ	slobodă	slobod	Afsn		39	10	0	root														
+de+	де+	de	de	S		39	11	4	case														
+toate	тоате	toate	tot	Anpn		39	12	4	amod														
+vъlъ_šaguri+	вълъ_шагꙋри+	vălășaguri	vălășag	Nnpnn		39	13	1	nmod					1				hu. válság 'crisis'					
+le	ле	le	ul	Pd-nsn		39	14	4	det	p_nom													
+lumïe+	лꙋмїе+	lumie	lume	Nfsnn		39	15	4	nmod														
+i.	и.	i	ul	Pd-fsd		39	16	6	det	p_nom													
+																							
+ku+	кꙋ+	cu	cu	S		40	1	2	case				she was totally giving herself to fasting, without sleeping, only praying			postǫm i bděnïem iznurěǫ tělo. zlostradnïi že i na zemli lěganïi. ot sǫdu že i bžtsьvnymь ražьdešis' želanïemь. ne sьtrьpě na mnoźě sebe štǫděti.							
+tot+	тот+	tot	tot	Amsn		40	2	5	obl														
+ulь	ꙋль	ul	ul	Pd-msn		40	3	2	det														
+sъ+	съ+	să	se	Px---a		40	4	5	aux														
+děde	дѣде	deade	da	Vmii3s		40	5	0	root														
+postu	постꙋ	postu	post	Nnsnn		40	6	5	iobl					1									
+lui,	лꙋи,	lui	ul	Pd-nsd		40	7	6	det														
+ši	ши	și	și	C		40	8	10	cc														
+ne+	не+	ne	ne	Qz		40	9	10	expl														
+dormire+	дормире+	dormire	dormire	Nfsnn	Vmp	40	10	6	conj														
+i,	и,	i	ul	Pd-fsd		40	11	10	det														
+ši+	ши+	și	și	C		40	12	13	cc														
+ruџe+	рꙋџе+	ruge	rugă	Nfsdn		40	13	10	conj														
+i	и	i	ul	Pd-fsd		40	14	13	det	p_nom													
+																							
+ne+	не+	ne	ne	Qz		41	1	15	expl				remaining there for a short time, she killed all the craving of the body										
+pǫrǫsitь.	пѫрѫсить.	părăsit	părăsi	Vmpa		41	2	21	advmod					1									
+kъt'	кът͛	cît	cît	R		41	3	21	advmod														
+î+	ꙟ+	î	în	S		41	4	20	case														
+pucinǫ	пꙋцинѫ	puțină	puțin	Afsn		41	5	20	amod														
+vrěme	врѣме	vreame	vreme	Nfsnn		41	6	21	obl														
+wmorъ	ѡморъ	omor	omorî	Vmia3s		41	7	0	root														
+toatǫ	тоатѫ	toată	tot	Afsn		41	8	23	amod														
+pox'ta	пох͛та	pohta	pofta	Nfson		41	9	21	obj					1									
+trup+	трꙋп+	trup	trup	Nnsnn		41	10	23	nmod														
+ului.	ꙋлꙋи.	ului	ul	Pd-msd		41	11	24	det	p_nom													
+																							
+akolo	аколо	acolo	acolo	R		42	1	4	advmod				There she lived an angelic life			nǫ vьsě kupno do konca sebe umrьtvi⸱ i pustynę polučьši, tamo neveštestьvnoe i agglskoe prěbyvaaše žitïe⸱ 							
+vïacǫ	вїацѫ	viață	viață	Nfsnn		42	2	4	nsubj														
+îџerěskǫ	ꙟџерѣскѫ	îngerescă	îngeresc	Afsn		42	3	2	amod														
+vïecuę.	вїецꙋѧ.	viețuia	viețui	Vmii3s		42	4	0	root					1									
+																							
+mъîkarě+	мъꙟкарѣи	mîncareai	mîncare	Nfson		43	1	3	nsubj				and her food was the grass that grew there and not that much and only once by the evening			pustynnoe že bylïe prïčęštaǫ sę. i se skarędě že i xudě.							
+ěi	ѣи	ei	ea	Pp3fsd		43	2	1	nmod														
+era	ера	era	fi	Vmii3s		43	3	0	root														
+de+	де+	de	de	S		43	4	5	case														
+erbi+	ерби+	iarbi	iarbă	Nfpn		43	5	3	obl	pred													
+le	ле	le	ul	Pd-fpn		43	6	5	det	p_nom													
+če+	че+	ce	ce	Pr		43	7	8	mark														
+kreště	крещѣ	creștea	crește	Vmii3p		43	8	5	acl														
+akolo.	аколо.	acolo	acolo	R		43	9	8	advmod														
+ši	ши	și	și	C		43	10	17	cc					1									
+îkǫ	ꙟкѫ	încă	încă	R		43	11	17	advmod														
+ši	ши	și	și	C		43	12	17	advmod														
+de+	де+	de	de	S		43	13	17	case														
+ačělę	ачѣлѧ	acelea	acelea	Pd-fpn		43	14	5	acl														
+kъte+	къте+	cîte 	cîte 	R		43	15	19	advmod														
+pucinel'	пꙋцинел͛	puținel	puținel	R		43	16	17	advmod														
+ši	ши	și	și	C		43	17	21	cc														
+numai	нꙋмаи	numai	numai	R		43	18	3	advcl														
+dъnǫwarǫ	дънѫѡарѫ	dănăoară	dănăoară	R		43	19	21	advmod					1									
+îtr+	ꙟтр	într	într	S		43	20	26	case														
+o	о	o	o	Pd-fsn		43	21	25	det														
+źi	ѕи	zi	zi	Nfsn		43	22	21	obl														
+de+	де+	de	de	S		43	23	28	case														
+kъtrǫ	кътрѫ	cătră	către	S		43	24	28	case														
+sarǫ.	сарѫ.	sară	seară	Nfsnn		43	25	25	conj														
+																							
+Čine+	Чине+	cine	cine	Pr		44	1	5	nsubj				Who could tell her efforts and weariness, her tears, her sighs, her prayers	1		Kto bo toǫ iže togda sьpověstь slьznyi istočnik. stenanïa že čęstaa i neprěstannaa, kto izrečetь.							
+va+	ва+	va	va	Vaip3s		44	2	3	aux														
+putě	пꙋтѣ	putea	putea	Vmn		44	3	5	aux														
+sъ+	съ+	să	să	C		44	4	5	aux														
+spue	спꙋе	spue	spune	Vmip3s		44	5	0	root														
+trude+	трꙋде+	trude	trudă	Nfpnn		44	6	5	obj														
+le	ле	le	ul	Pd-fpn		44	7	6	det	p_nom													
+ši	ши	și	și	C		44	8	9	cc														
+usteniîce+	ꙋстениꙟце+	ostenințe	ostenință	Nfpnn		44	9	5	conj														
+le	ле	le	ul	Pd-fpn		44	10	9	det	p_nom													
+ei,	еи,	ei	ea	Pp3fsd		44	11	9	nmod	poss													
+lakrǫmi+	лакрѫми+	lacrămi	lacrimă	Nfpnn		44	12	5	conj					1									
+le	ле	le	ul	Pd-fpn		44	13	12	det	p_nom													
+suspini+	сꙋспини+	suspini	suspin	Nnpnn		44	14	5	conj														
+le	ле	le	ul	Pd-npn		44	15	14	det	p_nom													
+îkinǫ_čjuni+	ꙟкинѫ_чюни+	închinăciuni	închinăciune	Nfpnn		44	16	5	conj														
+le	ле	le	ul	Pd-fpn		44	17	16	det	p_nom													
+																							
+čine+	чине+	cine	cine	Pr		45	1	4	nsubj				who would tell it, because there was nobody else that could see her soul things, that could only be seen by the eye of the one who can see everything										
+le+	ле+	le	le	Pp3-pd		45	2	4	expl	obj													
+va	ва	va	va	Vaip3s		45	3	4	aux														
+povesti.	повести.	povesti	povesti	Vmn		45	4	0	root														
+kъ	къ	că	că	C		45	5	3	mark					1		ne bo běše tamo inogo kogo sьmatrěti ta mogǫštago, tьčïǫ iže vьsě naziraǫštee oko							
+nu+	нꙋ+	nu	nu	Qz		45	6	3	advmod														
+era	ера	era	fi	Vmii3s		45	7	4	ccomp														
+alt+	алт+	alt	alt	Amsn		45	8	6	amod														
+ulь	ꙋль	ul	ul	Pd-msn		45	9	4	det	p_adj													
+nime	ниме	nimeni	nimeni	Pz---n		45	10	3	nsubj														
+akolo	аколо	acolo	acolo	R		45	11	3	advmod	lmod													
+sъ+	съ+	să	să	C		45	12	3	aux														
+poatǫ	поатѫ	poată	putea	Vmsp3s		45	13	6	acl														
+vedě	ведѣ	vedea	vedea	Vmn		45	14	9	ccomp														
+fapte	фапте	fapte	fapt	Nfpnn		45	15	10	obj					1									
+le	ле	le	ul	Pd-fpn		45	16	11	det	p_nom													
+ei	еи	ei	ea	Pp3fsd		45	17	10	nmod	poss													
+čěle	чѣле	ceale	cel	Pd-fpn		45	18	11	mark														
+sufletešti.	сꙋфлетещи.	sufletești	sufletesc	Afpn		45	19	11	amod														
+numai	нꙋмаи	numai	numai	R		45	20	17	advmod														
+ok+	ок+	ochi	ochi	Nmsnn		45	21	4	nsubj														
+julь	юль	ul	ul	Pd-msn		45	22	17	det	p_nom													
+čeluę	челꙋѧ	celuia	cel	Pd-msn		45	23	17	nmod														
+če	че	ce	ce	Pr		45	24	19	mark					1									
+věde	вѣде	vede	vedea	Vmip3s		45	25	19	acl														
+toate.	тоате.	toate	tot	Pi-fpn		45	26	21	obj														
+																							
+Nu	Нꙋ	nu	nu	Qz		46	1	2	advmod				there she didn't have to care about the plows, about the bulls, about the horses with expensive shelves or about the swings, neither about vestments and bed clothes, neither about the food and the table, about the house or about the maids.			ne bě toi tamo popečenïe o sьprǫgox volovь. niž o zlatouzndyx konex. ne o odeždax i postelxě. ne o domoxь i rabynxě,							
+era	ера	era	fi	Vmii3s		46	2	0	root														
+ei	еи	ei	ea	Pp3fsd		46	3	5	nmod	poss													
+akolo	аколо	acolo	acolo	R		46	4	2	advmod	lmod													
+griže	гриже	grijă	grije	Nfsnn		46	5	2	nsubj														
+de+	де+	de	de	S		46	6	7	case														
+pluguri	плꙋгꙋри	pluguri	plug	Nnpnn		46	7	5	nmod														
+de	де	de	de	S		46	8	9	case														
+boi.	бои.	boi	bou	Nmpny		46	9	5	nmod					1									
+niče	ниче	nice	nici	Qz		46	10	2	advmod														
+de+	де+	de	de	S		46	11	12	case														
+kai	каи	cai	cal	Nmpny		46	12	5	nmod														
+ku+	кꙋ+	cu	cu	S		46	13	14	case														
+rafturi	рафтꙋри	rafturi	raft	Nnpnn		46	14	12	obl														
+skuîpe,	скꙋꙟпе,	scumpe	scump	Afpn		46	15	14	amod														
+sau+	саꙋ+	sau	sau	C		46	16	5	cc					1									
+de+	де+	de	de	S		46	17	18	case														
+lě_џene.	лѣ_џене.	leagene	leagăn	Nfpnn		46	18	5	nmod														
+niče+	ниче+	nice	nici	C		46	19	2	advmod														
+de+	де+	de	de	S		46	20	21	case														
+vešmen'te	вешмен͛те	veșmînte	veșmînt	Nnpnn		46	21	5	nmod														
+ši+	ши+	și	și	C		46	22	5	cc														
+de+	де+	de	de	S		46	23	24	case														
+ašternuturi,	ащернꙋтꙋри,	așternuturi	așternut	Nnpnn		46	24	5	conj														
+niče	ниче	nice	nici	C		46	25	2	advmod					1									
+de+	де+	de	de	S		46	26	27	case														
+mъîkǫri	мъꙟкѫри	mîncări	mîncare	Nfpnn		46	27	5	nmod														
+ši+	ши+	și	și	C		46	28	5	cc														
+de+	де+	de	de	S		46	29	30	case														
+měse.	мѣсе.	mease	masă	Nfpnn		46	30	5	conj														
+niče+	ниче+	nice	nici	Qz		46	31	2	advmod														
+de+	де+	de	de	S		46	32	33	case														
+kasǫ	касѫ	casă	casă	Nfsnn		46	33	5	nmod														
+sau+	саꙋ+	sau	sau	C		46	34	5	cc														
+de	де	de	de	S		46	35	36	case														
+slu_žiniče,	слꙋ_жиниче,	slujinice	slujnică	Nfpny		46	36	5	conj					1									
+																							
+če+	че+	ce	ci	C		47	1	2	cc				only about the purity of her soul and about the answer of the judge that will come one day 			nǫ o dševnomь očišteni. o otvětě bǫdštag sǫda. 							
+numai+	нꙋмаи+	numai	numai	R		47	2	2	advmod														
+de+	де+	de	de	S		47	3	40	case														
+kurǫcïę	кꙋрѫцїѧ	curăție	curăție	Nfsnn		47	4	5	nmod														
+suflet+	сꙋфлет+	suflet	suflet	Nnsnn		47	5	40	nmod														
+ului	ꙋлꙋи	ului	ul	Pd-nsd		47	6	41	det	p_nom													
+ši+	ши+	și	și	C		47	7	45	cc														
+de	де	de	de	S		47	8	45	case														
+rǫspun's+	рѫспꙋн͛с+	răspuns	răspuns	Nnsnn		47	9	40	conj					1									
+ulь	ꙋль	ul	ul	Pd-nsn		47	10	45	det	p_nom													
+џjudec+	џюдец+	județ	județ	Nnsnn		47	11	45	nmod														
+ului	ꙋлꙋи	ului	ul	Pd-nsd		47	12	47	det	p_nom													
+če+	че+	ce	ce	Pr		47	13	47	mark														
+va+	ва+	va	va	Vaip3s		47	14	52	aux														
+sъ+	съ+	să	său	C		47	15	52	aux														
+xïe.	хїе.	hie	fie	Vmsp3s		47	16	47	acl														
+																							
+ši	ши	și	și	C		48	1	3	cc				and about the coming of her groom Christ			o srětenii ženixově,							
+detъ	детъ	detă	de	S		48	2	3	case														
+î_pinarę	ꙟ_пинарѧ	împinare	întîmpinare	Nfsnn		48	3	0	root					1									
+mire+	мире+	mire	mire	Nmsny		48	4	3	obl	iobj													
+lu_i	лꙋ_и	lui	ul	Pd-msd		48	5	4	det	p_nom													
+sъu	съꙋ	său	său	Amsn		48	6	4	det	poss													
+lui	лꙋи	lui	lui	Pd-msd		48	7	8	det	det													
+xs.	хс.	Hs	Hristos	Nmsny		48	8	4	aposs														
+																							
+De+	Де+	de	de	S		49	1	1	case				that is why she was always sighing and ceaseless aching for embellish her soul and aching for engage herself to the celestial groom Jesus Christ, aching for get sweetened by the view of her groom, by the glory and by the light and the happy joy			O semь čęsto bolěznuaše, kako oukrasitь světilnik. kako masla isplьnitь.							
+ačasta	ачаста	aceasta	aceasta	Pd-fsn		49	2	4	mark														
+pururě	пꙋрꙋрѣ	pururea	pururi	R		49	3	4	advmod					1									
+suspina,	сꙋспина,	suspina	suspina	Vmii3s		49	4	0	root														
+ši+	ши+	și	și	C		49	5	32	cc														
+ne+	не+	ne	ne	Pp1pa		49	6																
+pǫrǫsitь	пѫрѫсить	părăsit	părăsit	Vmpa		49	7		advmod														
+tъn'žïę.	тън͛жїѧ.	tînjia	tînji	Vmii3s		49	8	28	conj														
+kumu+	кꙋмꙋ+	cumu	cum	R		49	9	36	mark														
+š'+	ш͛+	ș	se	Px---a		49	10	36	expl														
+va	ва	va	va	Vaip3s		49	11	36	aux					1									
+î+frъmseca	ꙟ+фръмсеца	îfrumseța	înfrumuseța	Vmn		49	12	0	advcl														
+suflet+	сꙋфлет+	suflet	suflet	Nnsnn		49	13	36	obj														
+ulь	ꙋль	ul	ul	Pd-nsd		49	14	37	det	p_nom													
+kum'.	кꙋм͛.	cum	cum	R		49	15	42	mark														
+sъ+	съ+	să	se	Px---a		49	16	42	expl							kako sladkago ženixova uslyšit glasa. kako dvamь sьlikьstvuet mǫdryim. kako ženixova nasladit sę zrěnïa. krasoty. slavy. světlosti. sьprěbyvanïa. blaženstva							
+va+	ва+	va	va	Vaip3s		49	17	42	aux														
+logodi+	логоди+	logodi	logodi	Vmn		49	18	0	advcl														
+pre+	пре+	pre	pre	S		49	19	44	case														
+sine	сине	sine	sine	Px---o		49	20	42	obj					1									
+mire+	мире+	mire	mire	Nmsny		49	21	42	obl	iobj													
+lui	лꙋи	lui	ul	Pd-msd		49	22	45	det	p_nom													
+čereskь	черескь	ceresc	ceresc	Amsn		49	23	45	amod														
+lui	лꙋи	lui	lui	Pd-msd		49	24	49	det	ext													
+ıs	ıс	Is	Iisus	Nmsny		49	25	45	aposs														
+xs.	хс.	Hs	Hristos	Nmsny		49	26	45	aposs														
+kum'	кꙋм͛	cum	cum	R		49	27	55	mark														
+sъ+	съ+	să	se	Px---a		49	28	55	expl														
+va	ва	va	va	Vaip3s		49	29	55	aux														
+îdulči	ꙟдꙋлчи	îndulci	îndulci	Vmn		49	30	55	advcl					1									
+de+	де+	de	de	S		49	31	57	case														
+veděrę	ведѣрѧ	vedeare	vedere	Nfsnn		49	32	55	obl														
+mire+	мире+	mire	mire	Nmsny		49	33	57	nmod														
+lui	лꙋи	lui	ul	Pd-msd		49	34	58	det	p_nom													
+sǫu.	сѫꙋ.	său	său	Amsn	Amsd?	49	35	58	amod														
+de+	де+	de	de	S		49	36	62	case														
+slava	слава	slava	slavă	Nfson		49	37	55	obl														
+ši	ши	și	și	C		49	38	65	cc														
+de+	де+	de	de	S		49	39	65	case														
+lumina	лꙋмина	lumina	lumină	Nfson		49	40	57	conj					1									
+ši	ши	și	și	C		49	41	68	cc														
+de+	де+	de	de	S		49	42	68	case														
+bukurïę	бꙋкꙋрїѧ	bucurie	bucurie	Nfsnn		49	43	57	conj														
+čě+	чѣ+	cea	cea	Pd-fsn		49	44	68	det	p_adj													
+feričitǫ.	феричитѫ.	fericită	fericit	Afsn		49	45	68	amod														
+																							
+De+	Де+	de	de	S		50	1	2	case				that is why her heart was in pain 			O semь tьčіǫ toǫ srcde bolěznьno běše. o semь toǫ ꙫči slьzami pomračaemy běxǫ vynǫ, 							
+ačasta	ачаста	aceasta	aceasta	R		50	2	6	advmod														
+numai+	нꙋмаи+	numai	numai	R		50	3	6	advmod					1									
+če	че	ce	ce	Pr		50	4	7	advmod														
+w+	ѡ+	o	o	Pp3fsa		50	5	6	obj														
+durę	дꙋрѧ	durea	durea	Vmii3s		50	6	0	root														
+inima	инима	inima	inimă	Nfson		50	7	6	nsubj														
+																							
+ši+	ши+	și	și	C		51	1	8	cc				and her eyes were always darkened by tears										
+okï+	окї+	ochi	ochi	Nmpnn		51	2	8	nsubj														
+i	и	i	ul	Pd-mpn		51	3	2	det	p_nom													
+de+	де+	de	de	S		51	4	5	case														
+lakrǫmi+	лакрѫми+	lacrămi	lacrimă	Nfpnn		51	5	8	obl														
+i	и	i	îl	Pd--sd		51	6	8	obl	iobj													
+era	ера	era	fi	Vmii3p		51	7	8	cop														
+îtune_kaci	ꙟтꙋне_каци	întune_caţi	întunecat	Ampn		51	8	0	root					1									
+pururę.	пꙋрꙋрѧ.	pururia	pururi	R		51	9	8	advmod														
+																							
+îtr+	ꙟтр+	într	într-	S		52	1	2	case				Compelled by these and carefulness, and the cunning devil didn't let her without the annoyance of the freaking apparitions and without horrible visions			Vь six i sicevyx toi upražněǫštis' i pekǫštis', nikakože prěsta lǫkavyi tǫ iskušaǫšti mьčtanmi že i prividěnmi. 						5	Struggle with the Devil
+ačěstę	ачѣстѧ	acestea	acestea	Pd-fpn		52	2	3	obl														
+nevoindu+	невоиндꙋ+	nevoindu	nevoi	Vmpp		52	3	0	root														
+se	се	se	se	Px---a		52	4	3	expl														
+ši	ши	și 	și 	C		52	5	6	cc														
+gri_žindu+	гри_жиндꙋ	grijinduse	îngriji	Vmpp		52	6	3	conj					2									
+se,	се,	se	se	Px---a		52	7	6	expl														
+																							
+jarǫ	ꙗрѫ	iară	iară	C		53	1	7	cc		49	/img/varlaam/cazania49.jpg											
+viklěn+	виклѣн+	viclean	viclean	Amsn		53	2	4	amod														
+ulь	ꙋль	ul	ul	Pd-msn		53	3	2	det	p_adj													
+dïavolь	дїаволь	diavol	diavol	Nmsny		53	4	7	nsubj														
+nu+	нꙋ+	nu	nu	Qz		53	5	7	advmod														
+mai	маи	mai	mai	R		53	6	7	advmod														
+pǫrǫ_sïę	пѫрѫ_сїѧ	părăsia	părăsi	Vmii3s		53	7	0	root					1									
+dě+	дѣ+	de	de	S		53	8	10	case														
+w+	ѡ+	o	o	Pp3fsa		53	9	10	obj														
+supǫrarě.	сꙋпѫрарѣ.	supărarea	supărare	Nfson	Vmp	53	10	14	obl														
+ku+	кꙋ+	cu	cu	S		53	11	12	case														
+arǫtъri	арѫтъри	arătări	arătare	Nfpnn		53	12	10	nmod														
+îfrikošate,	ꙟфрикошате,	înfricoșăte	înfricoșător	Afpn		53	13	12	amod					1									
+ši	ши	și	și	C		53	14	16	cc														
+ku+	кꙋ+	cu	cu	S		53	15	16	case														
+nǫlučiri.	нѫлꙋчири.	năluciri	nălucire	Nfpnn		53	16	12	conj														
+grozniče.	грозниче.	groaznice	groaznic	Afpn		53	17	16	amod														
+																							
+unewri	ꙋнеѡри	uneori	uneori	R		54	1	4	advmod				sometimes it was like a snake, sometimes it was like a horrible beast			množiceǫ že i vь različnyę źvěrę sebe prětvarěaše, eže kako bi toi sponǫ ot tečenïa sьtvorilь							
+šěrpe+	шѣрпе+	șarpe	șarpe	Nmsny		54	2	4	xcomp					1									
+sъ+	съ+	să	se	Px---a		54	3	4	expl														
+fъ_čě	фъ_чѣ	făce	face	Vmii3s		54	4	0	root														
+altewtri	алтеѿри	alteotri	alteori	R		54	5	4	advmod														
+xïarǫ	хїарѫ	hiară	hiară	Nfsny		54	6	4	xcomp														
+grozlivǫ.	грозливѫ.	grozlivă	grozliv	Afsn		54	7	6	amod														
+																							
+sъ+	съ+	să	se 	Px---a		55	1	2	expl				it showed to scare the saint, to make her stop her penitence										
+arǫta	арѫта	arăta	arăta	Vmii3s		55	2	0	root														
+ka+	ка+	ca	ca	C		55	3	5	mark														
+sъ	съ	să	să	C		55	4	5	aux														
+sparïe	спарїе	sparie	speria	Vmsp3s		55	5	2	advcl					1									
+svъnta	свънта	sfînta	sfîntă	Nfsoy		55	6	5	obj														
+sъ+	съ+	să	să	C		55	7	8	aux														
+pǫrǫsaskǫ	пѫрѫсаскѫ	părăsască	părăsi	Vmsp3s		55	8	5	conj														
+podvig+	подвиг+	podvig	podvig	Nnsnn		55	9	8	obj														
+ulь	ꙋль	ul	ul	Pd-nsn		55	10	9	det	p_nom													
+sъu.	съꙋ.	său	său	Ansn		55	11	9	amod	poss													
+																							
+če	че	ce	ce	C		56	1	9	cc				but the good virgin Parascheva put her hope in the hands of the one above 			nǫ doblaa paraskevi vyšněgo položi priběžište sebě, slьznoi ot ꙫčіu neprěstanno izvodęšti istočnik							
+bouna	боуна	buna	bună	Afsn		56	2	3	amod					1									
+fečoarǫ	фечоарѫ	fecioară	fecioară	Nfsny		56	3	4	aposs														
+paraskeva.	параскева.	Parascheva	Parascheva	Nfsoy		56	4	9	nsubj														
+Pre+	Пре+	pre	pe	S		56	5	6	case														
+čela	чела	cela	cela	Pd-msn		56	6	9	obl														
+de+	де+	de	de	S		56	7	8	case														
+susь	сꙋсь	sus	sus	R		56	8	6	nmod														
+pusǫ	пꙋсѫ	pusă	pune	Vmia3s		56	9	0	root														
+nedě_ždę	недѣ_ждѧ	nadeajde	nădejde	Nfsnn		56	10	9	obj					1									
+sa.	са.	sa	sa	Afsn		56	11	10	amod	poss													
+																							
+ši	ши	și 	și 	C		57	1	14	cc				and with his strength in the women's nature, she got threw all his trades and tricks like a man			Sice ubo toi vь ženskomь estьstvě mǫžьskyi stęžavši razumь							
+ku+	кꙋ+	cu 	cu 	S		57	2	3	case														
+putěrę	пꙋтѣрѧ	puteria	putere	Nfson		57	3	9	obl														
+ačeluę,	ачелꙋѧ,	aceluia	acela	Pd-msd		57	4	3	det														
+î+	ꙟ+	î	în	S		57	5	6	case														
+fire	фире	fire	fire	Nfsnn		57	6	9	obl														
+muerě_skǫ	мꙋерѣ_скѫ	muierească	muierească	Afsn		57	7	6	amod					1									
+bǫrbǫtěšte	бѫрбѫтѣще	bărbăteaște	bărbătește	R		57	8	9	advmod														
+kъl'kǫ	къл͛кѫ	călcă	călca	Vmia3s		57	9	0	root														
+toate	тоате	toate	tot	Anpn		57	10	11	amod														
+mešteršuguri+	мещершꙋгꙋри+	meșteșuguri	meșteșug	Nnpnn		57	11	9	obj					1									
+le	ле	le	ul	Pd-npn		57	12	11	det	p_nom													
+lui.	лꙋи.	lui	el	Pp3msd		57	13	11	nmod	poss													
+ši	ши	și	și	C		57	14	15	cc														
+viklešuguri+	виклешꙋгꙋриле	vicleșuguri	vicleșug	Nnpnn		57	15	11	conj														
+le	ле	le	ul	Pd-npn		57	16	15	det	p_nom													
+lui,	лꙋи,	lui	el	Pp3msd		57	17	15	nmod	poss													
+																							
+ka+	ка+	ca	ca	C		58	1	7	cc				as easy as a spider she ruined and vanished it			vьsę vražïę jakože někotorǫǫ paǫčinǫ razarěaše kьzni							
+w+	ѡ+	o	un	Pd-fsn		58	2	3	det	p_nom													
+pain'žinǫ	паин͛жинѫ	păianjină	păianjen	Nfsny		58	3	7	obl					1									
+de+	де+	de	de	S		58	4	5	case														
+juštorь	ющорь	uștor	ușor	R		58	5	7	advmod														
+le+	ле+	le	le	Pp3-pa		58	6	7	obj														
+strika	стрика	strica	strica	Vmii3s		58	7	0	root														
+ši	ши	și	și	C		58	8	10	cc														
+le+	ле+	le	le	Pp3-pa		58	9	10	obj														
+rǫsipïę.	рѫсипїѧ.	răsipia	risipi	Vmii3s		58	10	7	conj														
+																							
+ašę	ашѧ	așa	așa	R		59	1	5	advmod				that well he got into her nature			I sice ubo podvigšis' na estestvo i sice svoǫ ukrasi dšǫ, 							
+de+	де+	de	de	S		59	2	3	case														
+vine	вине	vine	bine	R		59	3	5	advmod					1									
+sъ	съ	să	se 	Px---a		59	4	5	expl														
+nevoi	невои	nevoi	nevoi	Vmia3s		59	5	0	root														
+asupra	асꙋпра	asupra	asupra	S		59	6	7	case														
+firen+	фирен+	firen	fire	Nfsnn		59	7	5	obl														
+sale,	сале,	sale	sale	Afsd		59	8	7	amod														
+																							
+ši	ши	și	și	C		60	1	4	cc				and she embellished her soul so much that she got fullfilled with the word of David prophet.										
+atъta+	атъта+	atîta 	atâta 	R		60	2	4	advmod														
+šь	шь	șă	își	Px---d		60	3	4	obl	iobj													
+îfrъ_mše	ꙟфръ_мше	înfrumușe	înfrumuseța	Vmii3s		60	4	0	root					1									
+suflet+	сꙋфлет+	suflet	suflet	Nnsn		60	5	4	obj														
+ulь,	ꙋль,	ul	ul	Pd-nsn		60	6	5	det	p_nom													
+kъtь	къть	cît	cât	R		60	7	9	mark							jakož i na toi isplьniti sę prročьskoe ono,							
+sъ+	съ+	să	se	Px---a		60	8	9	expl														
+îplu	ꙟплꙋ	umple	umple	Vmip3s		60	9	4	advcl														
+di+	ди+	di	din	S		60	10	12	case														
+sǫ	сѫ	să	să	C		60	11	12	aux														
+kuvъnt+	кꙋвънт+	cuvînt	cuvânt	Nnsnn		60	12	9	obl					1									
+ul	ꙋл	ul	ul	Pd-nsn		60	13	12	det	p_nom													
+prork+	прорк+	prorc	proroc	Nmsny		60	14	12	nmod														
+ului	ꙋлꙋи	ului	ul	Pd-msd		60	15	14	det	p_nom													
+dvdь.	двдь.	dvd	David	Nmsny		60	16	14	aposs														
+																							
+kъ+	къ+	că	că	C		61	1	2	mark				and because of that the celestial emperor loved her beauty			vьzždelěetь crь dobrotě tvoei.							
+jubi	юби	iubi	iubi	Vmia3s		61	2	0	root														
+îpǫrat+	ꙟпѫрат+	împărat	împărat	Nmsny		61	3	2	nsubj														
+ulь	ꙋль	ul	ul	Pd-msn		61	4	3	det	p_nom													
+čereskь	черескь	ceresc	ceresc	Amsn		61	5	3	amod														
+frъm_sěcę	фръм_сѣцѧ	frumusețea	frumusețe	Nfson		61	6	2	obj					1									
+ei.	еи.	ei	ea	Pp3fsd		61	7	6	nmod	poss													
+																							
+ku+	кꙋ+	cu	cu	S		62	1	2	case				she spent lots of years in wasteland with this goodness 										
+ačěstę	ачѣстѧ	acestea	acestea	Pd-fpn		62	2	3	det	ext													
+bunǫtǫci	бꙋнѫтѫци	bunătăți	bunătate	Nfpnn		62	3	4	obl														
+petreku	петрекꙋ	petrecu	petrece	Vmia3s		62	4	0	root														
+an	ан	an	an	Nmsnn		62	5	4	obl														
+mulc"	мꙋлц"	mulț	mult	Ampn		62	6	5	amod					1									
+î+	ꙟ+	î	în	S		62	7	8	case														
+pustïe,	пꙋстїе,	pustie	pustiu	Nnsnn		62	8	4	obl														
+																							
+kъn'dь	кън͛дь	cînd	când	R		63	1	2	mark				And in one of the nights, as she gave herself to the prayer, as usual, she raised her hands with love towards heavens									6	Petka in Blachernae
+fou	фоу	fu	fi	Vmia3s		63	2	8	advcl														
+îtr+	ꙟтр+	într-	într-	S		63	3	5	case														
+o+	о+	o	o	Pd-fsn		63	4	5	det	p_nom													
+noapte.	ноапте.	noapte	noapte	Nfsn		63	5	2	obl														
+děka	дѣка	deacă	dacă	C		63	6	8	mark														
+sъdě	съдѣ	sădea	se	Px---a		63	7	8	expl					1									
+de	де	de	da	Vmii3s		63	8	0	root														
+pre+	пре+	pre	pe	S		63	9	10	case														
+rugǫ	рꙋгѫ	rugă	rugă	Nfsn		63	10	8	obl														
+kumu	кꙋмꙋ	cumu	cum	R		63	11	13	mark														
+š'	ш͛	ș	se	Px---g		63	12	13	expl														
+avě	авѣ	avea	avea	Vmii3s		63	13	8	advcl														
+wbyčnǫ,	ѡбычнѫ,	obîcnă	obîcină	Nfsnn		63	14	13	obj														
+ši+	ши+	și 	și 	C		63	15	29	cc														
+mъnule	мънꙋле	mână	mână	Nfsnn		63	16	21	obj					1									
+kъtrǫ	кътрѫ	cătră	cătră	S		63	17	18	case														
+čerju	черю	ceriu	ceriu	Nnsnn		63	18	21	obl														
+ku+	кꙋ+	cu	cu	S		63	19	20	case														
+wmilnicǫ	ѡмилницѫ	umilință	umilință	Nfsnn		63	20	21	obl														
+îtinsěse.	ꙟтинсѣсе.	întinsease	întinde	Vmil3s		63	21	8	conj														
+																							
+vъźou	въѕоу	văzu	vedea	Vmia3s		64	1	0	root				she saw a husky divine man in a very illuminated place where he came to her	1									
+un'	ꙋн͛	un	un	Pd-msn		64	2	3	det	ext													
+vonikь	воникь	vonic	voinic	Nmsny		64	3	1	obj														
+dmźǫeskь	дмѕѫескь	dmzăiesc	dumnezeiesc	Amsn		64	4	3	amod														
+prě+	прѣ+	prea	prea	R		64	5	6	advmod														
+luminatь	лꙋминать	luminat	luminat	Amsn		64	6	4	conj														
+unde+	ꙋнде+	unde 	unde 	R		64	7	8	mark														
+veni	вени	veni	veni	Vmia3s		64	8	3	acl					1									
+kъtrъ+	кътръ+	cătră	către	S		64	9	10	case														
+n'sǫ,	н͛сѫ,	însă	însa	C		64	10	8	obl														
+																							
+ši	ши	și 	și 	C		65	1	2	cc				and he said like this										
+źise	ѕисе	zise	zice	Vmia3s		65	2	0	root														
+ašę.	ашѧ.	așa	așa	R		65	3	2	advmod														
+																							
+sъ	съ	să	să	C		66	1	2	aux	opt			leave the wasteland and go back to your farm										
+laši	лаши	lași	lăsa	Vmip2s		66	2	0	root														
+pustïa	пꙋстїа	pustia	pustiu	Nfson		66	3	2	obj							vgl. pustiu <br/> mitropolie							
+ši	ши	și 	și 	C		66	4	10	cc					1									
+la+	ла+	la	la	S		66	5	6	case														
+mošïa	мошїа	moșia	moșie	Nfson		66	6	10	obl														
+ta	та	ta	tău	Afsn		66	7	6	amod	poss													
+sъ+	съ+	să	să	C		66	8	10	aux	opt													
+te+	те+	te	te	Pp2-sa		66	9	10	expl														
+îtorči.	ꙟторчи.	întorci	întoarce	Vmip2s		66	10	2	conj														
+																							
+kъ+	къ+	că	că	C		67	1	5	mark				because is it there the place where you have to leave your body to the soil										
+akolo+	аколо+	acolo	acolo	R		67	2	5	advmod														
+ci	ци	ți	tu	Pp2-sd		67	3	5	expl														
+sъ+	съ+	să	să	C		67	4	5	aux	opt													
+kade.	каде.	căde	cădea	Vmip3s		67	5	0	root					1									
+sъ+	съ+	să	să	C		67	6	7	aux	opt													
+laši	лаши	lăși 	lăsa	Vmip2s		67	7	5	advcl														
+trup+	трꙋп+	trup	trup	Nnsnn		67	8	7	obj														
+ulь	ꙋль	ul	ul	Pd-nsn		67	9	8	det	p_nom													
+pǫmъnt+	пѫмънт+	pământ	pământ	Nnsnn		67	10	7	obl	iobj													
+ului.	ꙋлꙋи.	ului	ul	Pd-nsd		67	11	10	det	p_nom													
+																							
+ši	ши	și	și	C		68	1	3	cc				and pass from this world to the land of the Lord, the one you have loved										
+sъ+	съ+	să	să	C		68	2	3	aux	opt													
+treči	тречи	treci	trece	Vmip2s		68	3	0	root														
+di_î+	ди_ꙟ+	diî	din	S		68	4	6	case					1									
+častǫ+	частѫ+	ceastă 	această 	Pd-fsn		68	5	6	det	ext													
+lume,	лꙋме,	lume	lume	Nfsnn		68	6	3	obl														
+kъtrǫ	кътрѫ	cătră	către	S		68	7	8	case														
+dmźъu	дмѕъꙋ	Dmzău	Dumnezeu	Nmsny		68	8	3	obl														
+čela	чела	cela	cela	Pd-msn		68	9	8	aposs														
+č+	ч+	ce	ce	Pr		68	10	12	mark														
+ai	aи	ai	avea	Vaip2s		68	11	12	aux	perf													
+jubitь.	юбить.	iubit	iubit	Vmpa		68	12	9	acl					1									
+																							
+Ačasta	Ачаста	aceasta	această	Pd-fsn		69	1	2	det	ext			because the Saint saw this vision										
+viděnïe	видѣнїе	videanie	vedenie	Nfsnn		69	2	5	obj														
+svъnta	свънта	sfînta	sfîntă	Nfsoy		69	3	5	nsubj														
+děka	дѣка	deacă	dacă	C		69	4	5	advmod														
+vǫźu.	вѫѕꙋ.	văzu	vedea	Vmia3s		69	5	0	root														
+																							
+pričepou	причепоу	pricepu	pricepe	Vmia3s		70	1	0	root				she understood that it was an apparition from God	1									
+kǫ+	кѫ+	că	că	C		70	2	3	mark														
+jaste	ꙗсте	este	fi	Vmip3s		70	3	1	ccomp														
+arǫtare	арѫтаре	arătare	arătare	Nfsnn		70	4	3	obl	pred													
+de+	де+	de	de	S		70	5	7	case														
+la	ла	la	la 	S		70	6	7	case														
+dmźъu.	дмѕъꙋ.	dmzău	Dumnezeu	Nmsny		70	7	3	obl														
+																							
+pъrě+	пърѣ	părea	părea	Vmii3s		71	1	0	root				On one hand she was satisfied by leaving her body, but on the other hand she was feeling revolted by leaving the wasteland 										
+i	и	i	ea	Pp3-sd		71	2	1	obl	iobj													
+bine	бине	bine	bine	R		71	3	1	advmod														
+î_tr+	ꙟ_тр+	într-	într-	S		71	4	6	case					1									
+un+	ꙋн+	un	un	Pd-nsn		71	5	6	det	ext													
+kipь	кипь	chip	chip	Nnsnn		71	6	1	obl														
+pentru	пентрꙋ	pentru	pentru	S		71	7	8	case														
+despǫrcirě	деспѫрцирѣ	despărțirea	despărțire	Nfson		71	8	1	obl														
+trup+	трꙋп+	trup	trup	Nnsnn		71	9	8	nmod														
+ului.	ꙋлꙋи.	ului	ul	Pd-nsd		71	10	9	det	p_nom													
+într+	ꙟнтр+	într	într	S		71	11	13	case					1									
+al_tь	ал_ть	alt	alt	Ansn		71	12	13	amod														
+kipь	кипь	chip	chip	Nnsnn		71	13	15	obl														
+sъ+	съ+	să	se	C		71	14	15	expl														
+skrъbïa.	скръбїа.	scîrbia	scârbi	Vmii3s		71	15	1	conj														
+pentru	пентрꙋ	pentru	pentru	S		71	16	17	case														
+pǫrǫsirę	пѫрѫсирѧ	părăsirea	părăsire	Nfson		71	17	15	obl														
+pustïe+	пꙋстїе+	pustie	pustiu	Nfsnn		71	18	17	nmod					1									
+i.	и.	i	ul	Pd-fsn		71	19	18	det	p_nom													
+																							
+însǫ	ꙟнсѫ	însă	însă	C		72	1	6	cc				even though she didn't want it, she left the wasteland and she came back to the world and she came to Țarigrad										
+ši	ши	și 	și 	C		72	2	6	cc														
+fǫrǫ	фѫрѫ	fără 	fără 	S		72	3	5	case														
+de+	де+	de	de	S		72	4	5	case														
+voe	вое	voie	voie	Nfsnn		72	5	6	obl														
+lǫsǫ	лѫсѫ	lăsă	lăsa	Vmia3s		72	6	0	root														
+pustïę	пꙋстїѧ	pustia	pustiu	Nfson		72	7	6	obj														
+ši	ши	și 	și 	C		72	8	10	cc														
+sъ+	съ+	să	se	C		72	9	10	expl														
+îtoar_sǫ	ꙟтоар_сѫ	întoarsă	întoarce	Vmia3s		72	10	6	conj					1									
+î+	ꙟ+	î	în	S		72	11	12	case														
+lume,	лꙋме,	lume	lume	Nfsnn		72	12	10	obl														
+ši	ши	și 	și 	C		72	13	16	cc														
+la	ла	la 	la 	S		72	14	15	case														
+Crigradь	Цриградь	Țarigrad	Țarigrad	Nmsnn		72	15	16	obl														
+veni.	вени.	veni	veni	Vmai3s		72	16	10	conj														
+																							
+ši+	ши+	și 	și 	C		73	1	2	cc				and she went to the Holy Mother's church that it is in Vlaherna 										
+měrse	мѣрсе	mearse	merge	Vmai3s		73	2	0	root														
+î	ꙟ	î	în 	S		73	3	5	case					2									
+î+	ꙟ+	î	în 	S		73	4	5	expl		50	/img/varlaam/cazania50.jpg											
+besěreka	бесѣрека	besearică	biserică	Nfsnn		73	5	2	obl	lat													
+prěčiste+	прѣчисте+	preciste	precistă	Nfsdy		73	6	5	nmod														
+i	и	i	ul	Pd-fsd		73	7	6	det	p_nom													
+če+	че+	ce	ce	Pr		73	8	9	mark														
+jaste	ꙗсте	este	fi	Vmip3s		73	9	5	acl														
+î+	ꙟ+	î	în 	S		73	10	11	case														
+vlaxerna.	влахерна.	vlaherna	Vlaherna	Nfsnn		73	11	9	obl	loc													
+																							
+ši	ши	și 	și 	C		74	1	7	cc				and she fell in front of the icon of the Holy Mother	1									
+kъtrǫ	кътрѫ	către	către	S		74	2	3	case														
+Ikoana	Икоана	icoana	icoană	Nfson		74	3	7	obl														
+svencïe+	свенцїе+	sfinție	sfinție	Nfsnn		74	4	3	nmod														
+i+	и+	i	ul	Pd-fsd		74	5	4	det	p_nom													
+sale	сале	sale	său	Afsd		74	6	4	amod	poss													
+kъźu,	къѕꙋ,	căzu	cădea	Vmia3s		74	7	0	root														
+																							
+ši	ши	și 	și 	C		75	1	5	cc				and with tears in her eyes  she was praying like this										
+ku+	кꙋ+	cu	cu	S		75	2	3	case														
+lakrǫ_mi	лакрѫ_ми	lacrimi	lacrimă	Nfpnn		75	3	5	obl					1									
+sъ+	съ+	să	se	Px---a		75	4	5	expl														
+ruga	рꙋга	ruga	ruga	Vmii3s		75	5	0	root														
+ašę	ашѧ	așa	așa	R		75	6	5	advmod														
+																							
+ši	ши	și 	și 	C		76	1	2	cc				and she says										
+źičę.	ѕичѧ.	zice	zice	Vmip3s		76	2	0	root														
+																							
+Despoitoare	Деспоитоаре	despuietoare	despuietor	Nfsny		77	1	15	vocative				Master of the world, mother of the Jesus Christ of my Lord, I have put all my hope in you, Holy Virgin										
+lumïe"	лꙋмїе"	lumiei	lume	Nfsnn		77	2	1	nmod					1									
+maika	маика	maica	maică	Nfsoy		77	3	1	aposs														
+lui	лꙋи	lui	lui	Pd-msn		77	4	5	det	poss													
+ıs	ıс	Is	Iisus	Nmsny		77	5	3	nmod														
+xs	хс	Hs	Hristos	Nmsny		77	6	5	flat														
+dmźъu+	дмѕъꙋ+	dmzъu	dumnezeu	Nmsny		77	7	5	aposs														
+lui	лꙋи	lui	ul	Pd-msn		77	8	7	det	p_nom													
+mïeu	мїеꙋ	mieu	meu	Amsn		77	9	7	amod	poss													
+toatǫ	тоатѫ	toată	tot	Afsn		77	10	11	amod														
+nedě_ždę	недѣ_ждѧ	nedeajdea	nădejde	Nfson		77	11	15	obj					1									
+mę	мѧ	mea	mea	Afsn		77	12	11	amod	poss													
+w+	ѡ+	o	o	Pd3fsa		77	13	15	expl														
+amь	амь	am	am	Vaip1s		77	14	15	aux	perf													
+pusь	пꙋсь	pus	pus	Vmpa		77	15	0	root														
+pre+	пре+	pre	pe	S		77	16	17	case														
+tine	тине	tine	tine	Pp2-sa		77	17	15	obl														
+fečoarǫ.	фечоарѫ.	fecioară	fecioară	Nfsny		77	18	15	vocative														
+																							
+nu+	нꙋ+	nu	nu	Qz		78	1		advmod				don't shed yourself of me, don't shed yourself of a poor human like me, don't be disgusted by you slave???										
+mǫ	мѫ	mă	mă	Pp1sa		78	2		expl					1									
+lepǫda	лепѫда	lepăda	lepăda	Vmm-2s		78	3		root														
+pre+	пре+	pre	pe	S		78	4		case														
+w+	ѡ+	o	o	Pd-fsn		78	5		det	p_nom													
+sǫrakǫ	сѫракѫ	săracă	săracă	Nfsny		78	6		obj														
+ka+	ка+	ca	ca	C		78	7		case														
+mene,	мене,	mine	mine	Pp1-sa		78	8		obl/nmod														
+nu+	нꙋ+	nu	nu	Qz		78	9		advmod														
+te+	те+	te	te	Px		78	10		expl														
+oskrъbi	оскръби	oscîrbi	oscîrbi	Vmm-2s		78	11		conj														
+de	де	de	de	S		78	12		case					1									
+šarba+	шарба+	șărba	șărba	Nfsny		78	13		obl														
+ta,	та,	ta	ta	Afsn		78	14		amod	poss													
+kъ+	къ+	că	că	C		78	15		mark														
+di	ди	di	din 	S		78	16		case														
+îtinerěce+	ꙟтинерѣце+	tinereațe	tinerețe	Nfpnn		78	17		obl														
+le	ле	le	ul	Pd-fpn		78	18		det	p_nom													
+měle	мѣле	meale	mele	Afpn		78	19		amod	poss													
+ounuę	оунꙋѧ	unuia	unui	Pd-msn		78	20		det														
+nǫ_skutь	нѫ_скꙋть	născut	naște	Amsn	Vmpa	78	21		aposs					1									
+fïju+	фїю+	fiu	fiu	Nmsny		78	22		obl	iobj													
+lui	лꙋи	lui	ul	Pd-msd		78	23		det	p_nom													
+tǫu.	тѫꙋ.	tău	tău	Amsd		78	24		amod	poss													
+																							
+am'	ам͛	am	am	Vaip1s		79	1	2	aux	perf			I have travelled, you know, Holy Virgin, the women's nature helplessness 										
+kǫlǫtoritь,	кѫлѫторить,	călătorit	călători	Vmpa		79	2	0	root														
+štïi	щїи	ști	ști	Vmip2s		79	3	2	conj														
+fe_čoarǫ	фе_чоарѫ	fecioară	fecioară	Nfsny		79	4	3	vocative					1									
+neputinca	непꙋтинца	neputința	neputință	Nfson		79	5	3	obj														
+firei	фиреи	fire	fire	Nfsdn		79	6	5	nmod														
+i	и	i	ul	Pd-fsd		79	7	6	det	p_nom													
+muerešti.	мꙋерещи.	muierești	muierești	Afsd		79	8	6	amod														
+																							
+štïi	щїи	ști	ști	Vmip2s		80	1	0	root				you know the aversion of my soul										
+skrъba	скръба	scîrba	scârbă	Nfson		80	2	1	obj					1									
+suflet+	сꙋфлет+	suflet	suflet	Nnsnn		80	3	2	nmod														
+ului	ꙋлꙋи	ului	ul	Pd-nsd		80	4	3	det	p_nom													
+mïeu.	мїеꙋ.	meu	meu	Ansd		80	5	3	amod	poss													
+																							
+n+	н+	n-	n-	Qz		81	1	2	advmod				I don't have another hope, I don't have another roof										
+am'	ам͛	am	am	Vmip1s		81	2	0	root														
+altǫ	алтѫ	altă	altă	Afsn		81	3	4	amod														
+neděžde,	недѣжде,	nedeajde	nădejde	Nfsnn		81	4	2	obj														
+																							
+n+	н+	n-	n-	Qz		82	1	2	advmod														
+am'	ам͛	am	am	Vmip1s		82	2	0	root					1									
+altь	алть	alt	alt	Ansn		82	3	4	amod														
+akoperemъntь.	акоперемънть.	acoperemînt	acoperămînt	Nnsnn		82	4	2	obj														
+																							
+tu+	тꙋ+	tu	tu	Pp2-sn		83	1	3	nsubj				you be my guide										
+m'	м͛	m	îmi	Pp1-sd		83	2	3	obl	iobj													
+fïi	фїи	fii	fi	Vmm-2s		83	3	0	root														
+îdireptǫto_are.	ꙟдирептѫто_аре.	îndreptătoare	îndreptător	Afsn		83	4	3	obl	pred				1									
+																							
+tu+	тꙋ+	tu	tu	Pp2-sn		84	1	3	nsubj				you be useful to me and my life's guardian										
+m+	м+	m	îmi	Pp1-sd		84	2	3	obl	iobj													
+xïi	хїи	hii	fi	Vmm-2s		84	3	0	root														
+folositoare.	фолоситоаре.	folositoare	folositor	Afsn		84	4	1	obl	pred													
+ši	ши	și	și 	C		84	5	10	cc														
+a+	а+	a 	a 	Ps-fsn		84	6	8	det	poss													
+toatǫ	тоатѫ	toată	toată	Afsn		84	7	8	amod														
+vïaca	вїаца	viață	viață	Nfsnn		84	8	10	obl	iobj				1									
+mę	мѧ	mea	mea	Afsn		84	9	8	amod	poss													
+sokotitoare.	сокотитоаре.	socotitoare	socotitor	Afsn		84	10	3	conj														
+																							
+kъ+	къ+	că	că	C		85	1	4	mark				because while I was in wasteland I had your help, 										
+pǫnǫ+	пѫнѫ+	pînă	până	S		85	2	4	advmod														
+am'	ам͛	am	am	Vaip1s		85	3	4	aux	perf													
+îmblat	ꙟмблат	îmblat	îmbla	Vmap		85	4	10	advcl														
+î+	ꙟ+	în	în	S		85	5	6	case														
+pustïe	пꙋстїе	pustie	pustiu	Nnsnn		85	6	4	obl					1									
+pre+	пре+	pre	pe	S		85	7	8	case														
+tine	тине	tine	tine	Pp2-sa		85	8	10	obj														
+am'	ам͛	am	am	Vaip1s		85	9	10	aux														
+avutь	авꙋть	avut	avea	Vmap		85	10	0	root	perf													
+aџutorju	аџꙋторю	ajutorju	ajutor	Nnson		85	11	10	obl														
+																							
+jarǫ	ꙗрѫ	iară	iar	C		86	1	6	cc				and now if I come back to the world, I don't need the help of other people, but yours.										
+akmu	акмꙋ	acmu	acum	R		86	2	6	advmod														
+děka+	дѣка+	dacă	dacă	C		86	3	6	mark					1									
+m+	м+	m	eu	Pp1-sa		86	4	6	expl														
+am	ам͛	am	avea	Vaip2s		86	5	6	aux														
+î_toreь	ꙟ_тореь	întoarce	întoarce	Vmn		86	6	13	advcl														
+î+	ꙟ+	în	în	S		86	7	8	case														
+lume.	лꙋме.	lume	lume	Nfsnn		86	8	6	obl														
+če	че	ce	ce	Pr		86	9	13	mark														
+aџjutorju	аџюторю	ajutorju	ajutor	Nnson		86	10	13	obj														
+altwre	алтѡре	altore	altor	Afsd		86	11	12	amod														
+lumi	лꙋми	lumi	lume	Nfsdn		86	12	13	nmod														
+trebu_ęšte	требꙋ_ѧще	trebuiește	trebui	Vmip3s		86	13	0	conj					1									
+fǫrǫ	фѫрѫ	fără	fără	S		86	14	16	case														
+de+	де+	de	de	S		86	15	16	case														
+tine.	тине.	tine	tine	Pp2-sa		86	16	13	obl														
+																							
+deči	дечи	deci 	deci 	C		87	1	4	cc				so now, master, guide me to the end of my life, because I don't have another hope										
+akmu	акмꙋ	acmu	acum	R		87	2	4	advmod														
+despuitoare.	деспꙋитоаре.	despuitoare	despuitor	Nfsv		87	3	4	vocative					1									
+îdireptęźǫmǫ	ꙟдирептѧѕѫмѫ	îndrepteazămă	îndrepta	Vmm-2s		87	4	0	root														
+mǫ	мѫ	mă	eu	Pp1-sa		87	5	4	obj														
+pъnъ	пънъ	pînă	pînă	S		87	6	8	case														
+la+	ла+	la	la	S		87	7	8	case														
+svъršit+	свършит+	sfîrșit	sfîrșit	Nnsn		87	8	4	obl	lat													
+ulь	ꙋль	ul	ul	Pd-nsn		87	9	8	det	p_nom													
+vïece+	вїеце+	viețe	viață	Nfsdn		87	10	8	nmod														
+i	и	i	ul	Pd-fsd		87	11	10	det	p_nom													
+mě_le	мѣ_ле	meale	mele	Afsd		87	12	10	amod	poss				1									
+kъ+	къ+	că	că	C		87	13	17	mark														
+altǫ	алтѫ	altă	altă	Afsn		87	14	15	amod														
+neděže+	недѣже+	nedeaje	nădejde	Nfsnn		87	15	17	obj														
+nu+	нꙋ+	nu	nu	Qz		87	16	17	advmod														
+amь.	амь.	am	avea	Vmip1s		87	17	4	advcl														
+																							
+Ašę+	Ашѧ+	așa	așa	R		88	1	7	advmod				she prayed like that with all her soul 									7	Death of Petka
+ku+	кꙋ+	cu	cu	S		88	2	4	case														
+totь	тоть	tot	tot	Ansn		88	3	4	amod														
+sufle_t+	сꙋфле_т+	suflet	suflet	Nnsnn		88	4	7	obl					1									
+ulь	ꙋль	ul	ul	Pd-nsn		88	5	4	det	p_nom													
+sъ+	съ+	să	se	Px---a		88	6	7	expl														
+rugǫ.	рꙋгѫ.	rugă	ruga	Vmia3s		88	7	0	root														
+																							
+ši	ши	și	și	C		89	1	6	cc				and she went back to the farm 										
+la+	ла+	la	la	S		89	2	3	case														
+mošïę	мошїѧ	moșie	moșie	Nfsnn		89	3	6	obl														
+sa	са	sa	sa	Afsn		89	4	3	amod	poss													
+sъ+	съ+	să	se	Px---a		89	5	6	expl														
+duse	дꙋсе	duse	duce	Vmia3s		89	6	0	root														
+																							
+ši+	ши+	și	și	C		90	1	6	cc				and she did not stay much time there 										
+akolo	аколо	acolo	acolo	R		90	2	6	advmod					1									
+nu+	нꙋ+	nu	nu	Qz		90	3	4	advmod														
+multǫ	мꙋлтѫ	mult	mult	Afsn		90	4	5	amod														
+vrěme	врѣме	vreame	vreme	Nfsnn		90	5	6	obl														
+petreku	петрекꙋ	petrecu	petrece	Vmia3s		90	6	0	root														
+																							
+trudǫ	трꙋдѫ	trudă	trudă	Nfsnn		91	1	8	obj				labour after labour and pain after pain she added										
+kǫtrъ	кѫтръ	cătră	către	S		91	2	3	case														
+trudǫ.	трꙋдѫ.	trudă	trudă	Nfsnn		91	3	1	nmod					1									
+ši	ши	și	și	C		91	4	5	cc														
+durěre	дꙋрѣре	dureare	durere	Nfsnn		91	5	1	conj														
+kъtrǫ	кътрѫ	cătră	către	S		91	6	7	case														
+durěre	дꙋрѣре	dureare	durere	Nfsnn		91	7	5	nmod														
+adǫoџě.	адѫоџѣ.	adăogea	adăuga	Vmii3s		91	8	0	advcl														
+																							
+ku+	кꙋ+	cu	cu	S		92	1	2	case				she was embellishing herself by fasting and not sleeping										
+po_stь	по_сть	post	post	Nnsnn		92	2	10	obl					1									
+ši	ши	și	și	C		92	3	6	cc														
+ku+	кꙋ+	cu	cu	S		92	4	6	case														
+ne+	не+	ne	ne	Qz		92	5	6	advmod														
+dormire	дормире	dormire	dormire	Nfsnn	Vmp	92	6	2	conj														
+pre+	пре+	pre	pe	S		92	7	8	case														
+sine	сине	sine	sine	Px---o		92	8	10	obj														
+sъ	съ	să	se	Px---a		92	9	10	expl														
+îfrъmseca.	ꙟфръмсеца.	înfrumseța	înfrumuseța	Vmii3s		92	10	0	root					1									
+																							
+Vrěme+	Врѣме+	vreme	vreme	Nfsnn		93	1	4	nsubj				not a long time after										
+multǫ	мꙋлтѫ	multă	multă	Afsn		93	2	1	amod														
+děka	дѣка	deaca	dacă	C		93	3	4	advmod														
+treku.	трекꙋ.	trecu	trece	Vmia3s		93	4	0	root														
+																							
+štïu	щїꙋ	știu	ști	Vmip1s	Vmia3s	94	1	0	root				she knew before about her death 										
+de+	де+	de	de	S		94	2	3	case														
+moartę	моартѧ	moarte	moarte	Nfsnn		94	3	1	obl														
+sa	са	sa	sa	Afsn		94	4	3	amod	poss				1									
+mai	маи	mai	mai	R		94	5	6	advmod														
+denainte	денаинте	denainte	dinainte	R		94	6	7	case														
+vrěme.	врѣме.	vreame	vreme	Nfsnn		94	7	1	obl														
+																							
+ši	ши	și	și	C		95	1	4	cc				and she came back to pray										
+ačïiš'	ачїиш͛	aciiș	aciiși 	R		95	2	4	advmod														
+sъ+	съ+	să	se	Px---a		95	3	4	expl														
+îtoarsъ	ꙟтоарсъ	întoarsă	întoarce	Vmia3s		95	4	0	conj														
+spe	спе	spe	spre	S		95	5	6	case														
+rugǫ.	рꙋгѫ.	rugă	rugă	Vmia3s		95	6	4	obl					1									
+																							
+ši	ши	și 	și 	C		96	1	6	cc				and with her tears she wet the soil 										
+ku+	кꙋ+	cu	cu	S		96	2	3	case														
+lakrъmi	лакръми	lacrămi	lacrimă	Nfpnn		96	3	6	obl														
+pǫmъnt+	пѫмънт+	pămînt	pămînt	Nnsnn		96	4	6	obj														
+ul	ꙋл	ul	ul	Pd-nsn		96	5	4	det	p_nom													
+uda	ꙋда	uda	uda	Vmii3s		96	6	0	conj														
+																							
+ši	ши	și 	și 	C		97	1	4	cc				and she was praying like this and saying										
+ašę	ашѧ	așa	așa	R		97	2	4	advmod					1									
+sъ+	съ+	să	se	Px---a		97	3	4	expl														
+ruga	рꙋга	ruga	ruga	Vmii3s		97	4	0	root														
+de+	де+	de 	de 	S		97	5	6	mark														
+źičę.	ѕичѧ.	zice	zice	Vmip3s		97	6	4	advcl														
+																							
+jubitorju	юбиторю	iubitorju	iubitor	Nmsoy		98	1	8	vocative				human lover, master, Lord Jesus Christ , look after me from your place above 										
+de+	де+	de	de	S		98	2	3	case														
+wameni	ѡамени	oameni	om	Nmsny		98	3	2	nmod														
+despunto_are	деспꙋнто_аре	despuitoare	despuitor	Nfsvy		98	4	8	vocative					1									
+doamne	доамне	doamne	domn	Nmsvy		98	5	8	vocative														
+Isѵ	Исѵ	Isu	Iisus	Nmsny		98	6	5	aposs														
+Xse.	Хсе.	Hse	Hristos	Nmsny		98	7	6	flat														
+kawtǫ	каѿѫ	căută	căuta	Vmm-2s		98	8	0	root														
+diî+	диꙟ+	din	din	S		98	9	10	case														
+lъkaš+	лъкаш+	lăcaș	locaș	Nnsnn		98	10	9	obl														
+ulь	ꙋль	ul	ul	Pd-nsn		98	11	10	det	p_nom													
+tǫu	тѫꙋ	tău	tău	Ansn		98	12	10	amod	poss				1									
+de	де	de	de	S		98	13	14	case														
+sui	сꙋи	sui	sus	R		98	14	10	advmod														
+																							
+ši+	ши+	și	și	C		99	1	3	cc				and don't leave me, your slave, don't leave me										
+nu+	нꙋ+	nu	nu	Qz		99	2	3	advmod														
+pъrъsi	пъръси	părăsi	părăsi	Vmm-2s		99	3	0	root														
+pre+	пре+	pre	pe	S		99	4	5	case														
+mene	премене	mene	eu	Pp1-sa		99	5	3	obj														
+šarba+	шарба+	șărba	șărba	Nfsoy		99	6	5	aposs														
+ta.	та.	ta	ta	Afsn		99	7	6	amod	poss													
+niče	ниче	nice	nici	Qz		99	8	10	advmod														
+mъ+	мъ+	mă	mă	Pp2-sa		99	9	10	obj														
+lъsa	лъса	lăsa	lăsa	Vmm-2s	Vmn	99	10	3	conj					2									
+																							
+kъ+	къ+	că	că	C		100	1	9	mark		51	/img/varlaam/cazania51.jpg	it was for your holy name that I left everything and I have travelled all my life for you										
+pentru	пентрꙋ	pentru	pentru	S		100	2	3	case														
+nume+	нꙋме+	nume	nume	Nnsnn		100	3	9	obl														
+le	ле	le	ul	Pd-nsn		100	4	3	det	p_nom													
+tǫu	тѫꙋ	tău	tău	Ansn		100	5	3	amod	poss													
+čel'	чел͛	cel	cel	Pd-nsn		100	6	7	mark														
+svъntь	свънть	sfînt	sfânt	Ansn		100	7	3	amod														
+am'	ам͛	am	am	Vaip1s		100	8	9	aux	perf													
+lъsatь	лъсать	lăsat	lăsa	Vmn		100	9	0	root														
+to_ate	то_ате	toate	tot	Pi--pn		100	10	10	obj					1									
+ši	ши	și	și	C		100	11	15	cc														
+dupǫ+	дꙋпѫ+	după	după	S		100	12	13	case														
+tine,	тине,	tine	tine	Pp2-sa		100	13	15	obl														
+amь	амь	am	am	Vaip1s		100	14	15	aux	perf													
+kǫlъtoritь	кѫлъторить	călătorit	călători	Vmpa		100	15	9	conj														
+îtru+	ꙟтрꙋ+	întru	întru	S		100	16	18	case														
+toatǫ	тоатѫ	toată	tot	Afsn		100	17	18	amod					1									
+vïaca	вїаца	viața	viață	Nfson		100	18	15	obl														
+mę.	мѧ.	mea	mea	Afsn		100	19	18	amod	poss													
+																							
+ši	ши	și	și	C		101	1	3	cc				and now have pity on me, Lord										
+akmu	акмꙋ	acmu	acum	R		101	2	3	advmod														
+îdura+	ꙟдꙋра+	îndura	îndura	Vmm-2s	Vmn	101	3	0	root														
+te	те	te	ti	Pp2-sa		101	4	3	expl														
+doamne.	доамне.	doamne	domn	Nmsvy		101	5	3	vocative					1									
+																							
+źi.	ѕи.	zi	zice	Vmm-2s		102	1	0	root				say to the kind angel to take my soul in peace 										
+aîџerь	аꙟџерь	înger	înger	Nmsny		102	2	1	iobj/vocative??														
+blъndь,	блъндь,	blînd	blînd	Amsn		102	3	2	amod														
+sъ+	съ+	să	să	C		102	4	5	mark	opt?													
+ja"+	ꙗ"+	ja	lua	Vmip3s		102	5	1	ccomp														
+ku+	кꙋ+	cu 	cu 	S		102	6	7	case														
+pače	паче	pace	pace	Nfsnn		102	7	5	obl														
+suflet+	сꙋфлет+	suflet	suflet	Nnsnn		102	8	5	obj					1									
+ulь	ꙋль	ul	ul	Pd-nsn		102	9	8	det	p_nom													
+mïeu.	мїеꙋ.	mieu	meu	Ansn		102	10	8	amod	poss													
+																							
+ši	ши	și 	și 	C		103	1	5	cc				and not to be stopped its climbing by the unclean and cunning devils										
+sъ+	съ+	să	să	C		103	2	5	cc														
+nu+	нꙋ+	nu	nu	Qz		103	3	5	advmod														
+xïe	хїе	hie	fi	Vasp3s		103	4	5	aux	pass													
+wpritǫ	ѡпритѫ	oprită	opri	Vmpa	Afsn	103	5	0	root														
+suirę+	сꙋирѧ+	suirea	suire	Nfsn		103	6	5	nsubj														
+lui	лꙋи	lui	ul	Pd-fsn		103	7	6	nmod	poss													
+de+	де+	de	de 	S		103	8	9	case														
+spurkacï+	спꙋркацї+	spurcaţi	spurcat	Ampn		103	9	14	amod					1									
+i	и	i	ul	Pd-mpn		103	10	9	det	p_adj													
+ši	ши	și	și	C		103	11	12	cc														
+viklěnï+	виклѣнї+	vicleani	viclean	Ampn		103	12	9	conj														
+i	и	i	ul	Pd-mpn		103	13	12	det	p_adj													
+dïjavoli.	дїꙗволи.	diavoli	diavol	Nmpn		103	14	5	obl	agent													
+																							
+če+	че+	ce 	ce 	C		104	1	3	cc				ʺbut make me capable to stand daringly before your awesome throneʺ			nьʺ spodw´bi+ me sь+ drь´znovenïemь prědstá_ti tvojemou strášnomu prěstólou.							
+mъ+	мъ+	mă	mă	Pp1-sa		104	2	3	obj														
+spodoběšte	сподобѣще	spodobeaște	spodobi	Vmm-2s		104	3	0	root														
+ku+	кꙋ+	cu 	cu 	S		104	4	5	case														
+î_drъznire	ꙟ_дръзнире	îdrăznire	îndrăznire	Nfsnn	Vmp	104	5	7	obl					1									
+sъ+	съ+	să	să	C		104	6	7	mark														
+stau	стаꙋ	stau	sta	Vmip1s		104	7	3	advcl														
+înainitę	ꙟнаинитѧ	îinaintea	îinainte	S		104	8	9	case														
+skaun+	скаꙋн+	scaun	scaun	Nmsnn		104	9	7	obl														
+ului	ꙋлꙋи	ului	ul	Pd-msd		104	10	9	det	p_nom													
+tǫu	тѫꙋ	tău	tău	Pp2-s		104	11	9	amod	poss													
+če_lui	че_лꙋи	celui 	celui 	Pd-msd		104	12	13	det					1									
+strašnikь.	страшникь.	strașnic	strașnic	Amsn		104	13	9	acl														
+																							
+kъ+	къ+	că	că	C		105	1	3	mark				because you are blessed forever. Amen										
+ešti	ещи	ești	fi	Vmip2s		105	2	3	cop														
+blgsvitь	блгсвить	blgsvit	blagoslovit	Amsn		105	3	0	root														
+îtru	ꙟтрꙋ	întru	întru	S		105	4	5	case														
+věči	вѣчи	veci	veci	R		105	5	3	advmod					1									
+Aminь.	Аминь.	amin	amin	I		105	6	3	discourse														
+																							
+Ši	Ши	și	și	C		106	1	4	cc				and like that she was giving her enlightened soul to God's hands 										
+ašę+	ашѧ+	așa	așa	R		106	2	4	advmod														
+š'	ш͛	ș	își	Px---d		106	3	4	expl														
+děde	дѣде	deade	da	Vmii3s		106	4	0	root														
+luminatь	лꙋминать	luminat	luminat	Ansn		106	5	6	amod														
+sufle_t+	сꙋфле_т+	suflet	suflet	Nnsnn		106	6	4	obj					1									
+ulь	ꙋль	ul	ul	Pd-nsn		106	7	6	det	p_nom													
+sǫu	сѫꙋ	său	său	Ansn		106	8	6	amod	poss													
+î+	ꙟ+	î	în	S		106	9	10	case														
+mъna	мъна	mînă	mână	Nfsnn		106	10	4	obl														
+lui+	лꙋи+	lui	lui	Pd-msn		106	11	12	det														
+dmźъu.	дмѕъꙋ.	Dumnezeu	Dumnezeu	Nmsny		106	12	10	nmod														
+																							
+ši	ши	și	și	C		107	1	5	cc				and nobody was told where it happened and who she is										
+nemъrui	немърꙋи	nimănui	nimănui	Pz---d		107	2	5	obl	iobj													
+nu	нꙋ	nu 	nu 	Qz		107	3	5	advmod					1									
+sъ+	съ+	să	să	C		107	4	5	mark														
+spuse	спꙋсе	spuse	spune	Vmia3s		107	5	0	conj														
+de	де	de 	de 	S		107	6	7	mark														
+unde	ꙋнде	unde	unde	Rw		107	7	9	advmod														
+au+	аꙋ+	au	avea	Vaip3p		107	8	9	aux														
+fostь	фость	fost	fi	Vmpa		107	9	5	advcl														
+ši	ши	și 	și 	C		107	10	12	cc														
+čine	чине	cine	cine	Pr		107	11	12	mark														
+jaste.	ꙗсте.	jaste	fi	Vmip3s		107	12	9	conj														
+																							
+Jarǫ	Ꙗрѫ	iară	iar	C		108	1	3	cc				and because God wanted to praise his slave who just 	1								8	Discovery of the Relics
+dmźъu	дмѕъꙋ	dmzău	Dumnezeu	Nmsny		108	2	3	nsubj														
+vrъndь	връндь	vrănd	vrea	Vmpp		108	3	0	root														
+sъ+	съ+	să	să	C		108	4	5	mark	fixed													
+proslǫvaskǫ	прослѫваскѫ	proslăvască	proslăvi	Vmsp3s		108	5	3	ccomp														
+šarba+	шарба+	șărba	șărba	Nfsoy		108	6	5	obj														
+sa,	са,	sa	sa	Afsn		108	7	6	amod	poss													
+če+	че+	ce	ce	Pr		108	8	6	mark														
+tokmi.	токми.	tocmi	tocmi	Vmia3s		108	9		advmod					1									
+																							
+tъîplǫse	тъꙟплѫсе	tîmplăse	întîmpla	Vmia3s		109	1	0	root				happened to die and a sailor's unburied body was lying down and bad smelling										
+de+	де+	de 	de 	S		109	2	3	mark														
+muri	мꙋри	muri	muri	Vmia3s		109	3	1	csubj														
+ounь	оунь	un	un	Pd-msn		109	4	5	det	ext													
+kurǫbïjarь,	кꙋрѫбїꙗрь,	curăbier	corăbier	Nmsny		109	5	3	nsubj														
+ši	ши	și 	și 	C		109	6	12	cc														
+trup+	трꙋп+	trup	trup	Nnsnn		109	7	12	nsubj					1									
+ul	ꙋл	ul	ul	Pd-nsn		109	8	7	det	p_nom													
+lui	лꙋи	lui	lui	Pp3msd		109	9	7	det	poss													
+ne+	не+	ne+	ne+	Qz		109	10	11	expl														
+îgropatь	ꙟгропать	îngropat	îngropat	Ansn	Vmpa	109	11	7	amod														
+źǫkъndь,	ѕѫкъндь,	zacănd	zace	Vmpp		109	12	1	acl														
+de+	де+	de	de	S		109	13	14	case														
+putoare	пꙋтоаре	putoare	putoare	Nfsnn		109	14	12	obl														
+nime	ниме	nimeni	nimeni	Pz---n		109	15	19	nsubj				that nobody could pass by it,  not even a hermit that was passing by that very stinky place could live there  	1									
+prě+	прѣ+	pre	pre	S		109	16	17	case														
+kolo	коло	acolo	acolo	R		109	17	19	advmod														
+nu+	нꙋ+	nu	nu	Qz		109	18	19	advmod														
+putě	пꙋтѣ	putea	putea	Vmii3s		109	19	12	advcl														
+sъ+	съ+	să	să	C		109	20	21	mark														
+trěkǫ.	трѣкѫ.	trecă	trece	Vmsp3s		109	21	19	ccomp														
+kъtь	къть	cât	cât	R		109	22	35	mark														
+ši	ши	și	și	C		109	23		cc???														
+ounь	оунь	un	un	Pd-msn		109	24	25	det	p_nom				1									
+sъxastru	съхастрꙋ	săhastru	sihastru	Nmsny		109	25	35	nsubj														
+če+	че+	ce	ce	Pr		109	26	27	mark														
+petrečě	петречѣ	petrecea	petrece	Vmii3s		109	27	25	acl														
+îtračel'	ꙟтрачел͛	întracel	într=acel	S		109	28	29	case														
+ačel'	ачел͛	acel	acel	Pd--sn		109	29	30	amod														
+lokь,	локь,	loc	loc	Nnsnn		109	30	27	obl														
+de+	де+	de	de	S		109	31	33	case														
+mare	маре	mare	mare	Afsn		109	32	33	amod														
+îpu_cičjune	ꙟпꙋ_цичюне	îpuţiciune	împutăciune	Nfsnn		109	33	30	nmod					1									
+nu+	нꙋ+	nu	nu	Qz		109	34	35	advmod														
+putě	пꙋтѣ	putea	putea	Vmii3s		109	35	12	advcl														
+lъkoui.	лъкоуи.	locui	locui	Vmn		109	36	35	ccomp														
+																							
+če+	че+	ce 	ci	C		110	1	2	cc				so he asked some christians to take that stinky body and digging to bury it, 										
+rugǫ	рꙋгѫ	rugă	ruga	Vmia3s		110	2	0	root														
+pre+	пре+	pre	pe	S		110	3	2	case														
+nešte	неще	nește	niște	Pd-mpn		110	4	5	det	p_nom													
+kreši_ni+	креши_ни+	creșini	creștin	Nmpny		110	5	2	obj					1									
+de+	де+	de	de	S		110	6	7	mark														
+luarǫ	лꙋарѫ	luară	lua	Vmia3p		110	7	2	advcl														
+ačelь	ачель	acel	acel	Pd--sn		110	8	9	det	p_nom													
+trupь.	трꙋпь.	trup	trup	Nnsnn		110	9	7	obj														
+îpucitь,	ꙟпꙋцить,	îpuțit	împuțit	Ansn		110	10	9	amod														
+ši	ши	și	și	C		110	11	12	cc														
+sǫpъkdь	сѫпъкдь	săpăcd	săpa	Vmpp		110	12	7	conj					1									
+sъ+	съ	să	să	C		110	13	15	mark														
+l'+	л͛+	l	îl	Pp3-sa		110	14	15	obj														
+îgroape	ꙟгроапе	îgroape	îngropa	Vmsp3p		110	15	12	advcl														
+																							
+aflarǫ	афларѫ	aflară	afla	Vmia3p		111	1	0	root				they found the fresh and good smelling body of  the Holy Parascheva										
+trup+	трꙋп+	trup	trup	Nnsnn		111	2	1	obj														
+ulь	ꙋль	ul	ul	Pd-nsn		111	3	2	det	p_nom													
+Prpdbne+	Прпдбне+	prpdbne	preapodobnă	Afsd		111	4	6	amod														
+i	и	i	ul	Pd-fsd		111	5	4	det	p_adj													
+Paraskive	Параскиве	Paraschive	Paraschiva	Nfsdy		111	6	2	nmod					1									
+ne+	не+	ne	ne	Qz		111	7	8	advmod														
+putredь	пꙋтредь	putred	putred	Ansn		111	8	2	amod														
+ši	ши	și	și	C		111	9	10	cc														
+plinь	плинь	plin	plin	Amsn		111	10	8	conj														
+de+	де+	de	de	S		111	11	12	case														
+mirezmǫ.	мирезмѫ.	mirezmă	mireasmă	Nfsnn		111	12	10	nmod														
+																							
+însǫ+	ꙟнсѫ+	însă	însă	C		112	1		mark				but because they were unskilled people and because they didn't know whose body was, they didn't care about it, they burried that stinky body close to hers										
+ka+	ка+	ca	ca	C		112	2		mark														
+nešte	неще	nește	niște	Pd-mpn		112	3		det					1									
+wameni	ѡамени	oameni	om	Nmpn		112	4		obl														
+ne+	не+	ne	ne	Qz		112	5		expl														
+iskusici,	искꙋсици,	iscusiţi	iscusit	Ampn	Vmpa	112	6		advcl														
+ši	ши	și	și	C		112	7		cc														
+ne+	не+	ne	ne	Qz		112	8		expl														
+štïindь	щїиндь	știind	știind	Vmpp		112	9		conj														
+če+	че+	ce 	ce 	Ansn		112	10		mark														
+troupь	троупь	trup	trup	Nnsnn		112	11		nsubj					1									
+jaste.	ꙗсте.	jaste	fi	Vmip3s		112	12		ccomp														
+lъsarǫ	лъсарѫ	lăsară	lăsa	Vmia3p		112	13		root														
+sъ+	съ+	să	să	C		112	14		mark														
+xïe	хїе	hie	fi	Vmsp3s		112	15		ccomp														
+ounь	оунь	un 	un 	Pd-nsn		112	16		det	p_nom													
+lukru	лꙋкрꙋ	lucru	lucru	Nnsnn		112	17		cop														
+de+	де+	de	de	S		112	18		case														
+nemikǫ,	немикѫ,	nemică	nimic	Pz		112	19		nmod														
+ši	ши	și 	și 	C		112	20		cc					1									
+aproape	апроапе	aproape	aproape	R		112	21		advmod														
+d+	д+	d	de	S		112	22		case														
+insь	инсь	ins	ins	Pp--sn		112	23		det														
+ačelь	ачель	acel	acel	Pd--sn		112	24		det														
+trupь	трꙋпь	trup	trup	Nnsnn		112	25		obl														
+îpucitь	ꙟпꙋцить	îpuțit	împuțit	Ansn		112	26		amod														
+îgroparъ.	ꙟгропаръ.	îgropa	îngropa	Vmii3s	Vmn	112	27		conj					1									
+																							
+Jarǫ	Ꙗрѫ	iară	iar	C		113	1		cc				and one of them, who was called Gheorghe, a good christian man, 									9	Recovery of the Relics
+ounulь	оунꙋль	un 	unul 	Pi-msn		113	2																
+diîtr+	диꙟтр+	dintr-	dintr-	S		113	3		case														
+ъnšïi	ъншїи	înșii	îns	Pp-mpn		113	4																
+če+	че+	ce	ce	Pr		113	5																
+l'	л͛	l	îl	Pp3msn		113	6																
+kema	кема	chema	chema	Vmii3s		113	7																
+Gewrgïe	Геѡргїе	Gheorghie	Gheorghie	Nmsny		113	8																
+wm	ѡм	om 	om 	Nmsny		113	9							1									
+bunь	бꙋнь	bun	bun	Amsn		113	10																
+ši	ши	și	și	C		113	11																
+kreštinь.	крещинь.	creștin	creștin	Amsn		113	12																
+																							
+preste	престе	preste	peste	S		114	1	2	case				on that night he saw an emperor sitting on a illuminated chair with lots of robust men in white clothes around her talking that much that he couldn't look for their beauty and their light										
+noaptě	ноаптѣ	noaptea	noapte	Nfson		114	2	4	obl														
+ačěę,	ачѣѧ,	acea	acea	Pd-fsn		114	3	2	det														
+věde	вѣде	veade	vedea	Vmii3s		114	4	0	root					1									
+w+	ѡ+	o	o	Pd-fsn		114	5	6	det	p_nom													
+îpъrъtěsъ	ꙟпърътѣсъ	îpărăteasă	împărăteasă	Nfsny		114	6	4	obj														
+pre+	пре+	pre	pe	S		114	7	9	case														
+unь	ꙋнь	un	un	Pd-nsn		114	8	9	det	p_nom													
+skaunь	скаꙋнь	scaun	scaun	Nnsnn		114	9	11	obl														
+luminatь	лꙋминать	luminat	luminat	Ansn		114	10	9	amod														
+šeźъndь	шеѕъндь	șezănd	ședea	Vmpp		114	11	6	acl					1									
+ši	ши	și	și	C		114	12	22	cc														
+mulcime	мꙋлциме	mulțime	mulțime	Nfsnn		114	13	22	nsubj														
+de+	де+	de	de	S		114	14	15	case														
+voniči	воничи	voinici	voinic	Nmpny		114	15	13	nmod														
+ku+	кꙋ+	cu	cu	S		114	16	17	case														
+vešmente+	вешменте+	veșmînte	veșmînt	Nfpnn		114	17	15	nmod														
+albe	албе	albe	alb	Afpn		114	18	17	amod														
+îpre_џur+	ꙟпре_џꙋр+	împrejur	împrejur	S		114	19	21	case					1									
+ul	ꙋл	ul	ul			114	20	19	det														
+ei	еи	ei	ea	Pp3fsd		114	21	22	obl	poss													
+dvorbindь.	дворбиндь.	dvorbind	dvorbi	Vmpp		114	22	11	conj														
+atъta	атъта	atîta	atît	R		114	23	22	advmod														
+kъtь	къть	cît	cît	R		114	24	26	mark														
+nu+	нꙋ+	nu	nu	Qz		114	25	26	expl														
+putou	пꙋтоу	putou	putea	Vmia3s		114	26	22	advcl														
+kъ_wta	къ_ѿа	căota	căuta	Vmn		114	27	26	ccomp					2									
+de+	де+	de	de	S		114	28	29	case		52	/img/varlaam/cazania52.jpg											
+frъm'sěcę	фръм͛сѣцѧ	frămăseațe	frumusețe	Nfsnn		114	29	27	obl														
+ši	ши	și	și	C		114	30	32	cc														
+de+	де+	de	de	S		114	31	32	case														
+lumina+	лꙋмина+	lumina	lumină	Nfson		114	32	29	conj														
+lorь,	лорь,	lor	lor	Pp3mpd		114	33	32	det	poss													
+																							
+če+	че+	ce	ci	C		115	1		mark				he fell down to the ground instead 										
+kǫźu	кѫѕꙋ	căzu	cădea	Vmia3s		115	2		root					1									
+џosь	џось	jos	jos	R		115	3		advmod														
+la+	ла+	la	la	S		115	4		case														
+pǫmъntь.	пѫмънть.	pămînt	pămînt	Nnsnn		115	5		obl														
+																							
+jarǫ	ꙗрѫ	iară	iar	C		116	1		cc				and one of those took his hand and raised him up										
+oun+	оун+	un	un	Pi-msn		116	2		nsubj														
+ulь.	ꙋль.	ul	ul			116	3		det														
+diîtračeę,	диꙟтрачеѧ,	dintr-aceia	dintr-acei	S		116	4		case					1									
+ačeę,	ачеѧ,	aceia	acela	Pd-mpn		116	5		det???acl??														
+luǫ+	лꙋѫ+	luă	lua	Vmia3s		116	6		root														
+l'	л͛	l	îl	Pp3msa		116	7		obj														
+de+	де+	de	de	S		116	8		case														
+mъnǫ	мънѫ	mînă	mînă	Nfsnn		116	9		obl														
+de+	де+	de	de	S		116	10		mark														
+l'+	л͛+	l	îl	Pp3msa		116	11		obj														
+rǫdikǫ	рѫдикѫ	rădică	ridica	Vmia3s		116	12		advcl														
+																							
+šïi	шїи	șii	și	C		117	1	3	cc				and told him										
+		i	îi	Pp3-sa		117	2	3	obl	iobj													
+źise.	ѕисе.	zise	zice	Vmia3s		117	3	0	root														
+																							
+Gewgïe,	Геѡгїе,	Gheorghie	Gheorghie	Nmsny		118	1	6	vocative				Gheorghe, why you didn't care about the body of the Holy Parascheva, why did you forget it like that, don't you know that God loved her beauty and wanted to praise her on earth	1									
+pentru+	пентрꙋ+	pentru	pentru	S		118	2		mark														
+če+	че+	ce	ce	Pr		118	3		mark														
+n+	н+	n	nu	Qz		118	4	6	advmod														
+aci	аци	ați	ați	Vaip2p		118	5	6	aux														
+sokotitь	сокотить	socotit	socoti	Vmpa		118	6	0	root														
+trup+	трꙋп+	trup	trup	Nmsnn		118	7	6	obj														
+ulь	ꙋль	ul	ul	Pd-nsn		118	8	7	det	p_nom													
+Svente+	Свенте+	sfînte	sfîntă	Nfsdy		118	9	7	nmod														
+i	и	i	ul	Pd-fsd		118	10	9	det	p_nom													
+Paras_kive.	Парас_киве.	Paraschive	Paraschiva	Nfsny		118	11	9	aposs					1									
+																							
+če+	че+	ce	ce	Pr		119	1		mark														
+laci	лаци	lați	l-ați	Pp3-sa		119	2		expl														
+ci	аци	ați	avea	Vaip2p		119	3		aux														
+ouitatь	оуитать	uitat	uita	Vmpa		119	4		root														
+ašę.	ашѧ.	așa	așa	R		119	5		advmod														
+																							
+nu+	нꙋ+	nu	nu	Qz		120	1		advmod														
+štici	щици	știți	ști	Vmpi2p		120	2		root														
+kъ	къ	că	că	C		120	3		mark														
+dumne_zъu	дꙋмне_зъꙋ	dumnezău	Dumnezeu	Nmsny		120	4		nsubj					1									
+au+	аꙋ+	au	avea	Vaip3p		120	5		aux														
+lujubitь	лꙋюбить	lujubit	iubi	Vmpa		120	6		ccomp														
+frъm'sęcę	фръм͛сѧцѧ	frămsețe	frumusețe	Nfsnn		120	7		obj														
+ei	еи	ei	ea	Pp3fsd		120	8		det	poss													
+ši	ши	și	și	C		120	9		cc														
+au	аꙋ	au	avea	Vaip3p		120	10		aux														
+auvrut'	аꙋврꙋт͛	vrut	vrea	Vmpa		120	11		conj														
+sъ+	съ+	să	să	C		120	12		mark														
+w+	ѡ+	o	o	Pp3fsa		120	13		obj														
+pro_slъvaskǫ	про_слъваскѫ	proslăvască	proslăvi	Vmsp3p		120	14		ccomp					1									
+pre+	пре+	pre	pe	S		120	15		case														
+pǫmъntь,	пѫмънть,	pămînt	pămînt	Nnsnn		120	16		obl														
+																							
+atunče	атꙋнче	atunce	atunci	R		121	1		advmod				then the enlightened emperor told him 										
+źise+	ѕисе+	zise	zice	Vmia3s		121	2		root														
+lui	лꙋи	lui	lui	Pp3msd		121	3		obl	iobj													
+lumi_nata	лꙋми_ната	luminata	luminată	Afsn		121	4		amod					1									
+ačěę	ачѣѧ	acea	acea	Pd-fsn		121	5		det														
+îpǫrǫtěsǫ·	ꙟпѫрѫтѣсѫ·	îpărăteasă	împărăteasă	Nfsny		121	6		nsubj														
+																							
+desъrgь	десъргь	desîrg	desîrg	R		122	1		advmod				take quickly my body and put it in a honor place										
+sъ+	съ+	să	să	C		122	2		mark														
+luaci	лꙋаци	luaţi	lua	Vmip2p		122	3		root														
+tru_p+	трꙋ_п+	trup	trup	Nnsnn		122	4		obj					1									
+ulь	ꙋль	ul	ul	Pd-nsn		122	5		det	p_nom													
+mïeu	мїеꙋ	mieu	meu	Ansn		122	6		amod	poss													
+ši	ши	și	și	C		122	7		cc														
+î+	ꙟ+	î	în	S		122	8		case														
+lokь	локь	loc	loc	Nmsnn		122	9		obl														
+de+	де+	de	de	S		122	10		case														
+činste	чинсте	cinste	cinste	Nfsnn		122	11		nmod														
+sъ+	съ+	să	să	C		122	12		mark														
+l+	л+	l	îl	Pp3msa		122	13		expl														
+puneci.	пꙋнеци.	puneţi	pune	Vmip2p		122	14		conj														
+																							
+kъ	къ	că	că	C		123	1	3	mark				because I can't stand the bad smell of that man	1									
+nou+	ноу+	nu	nu	Qz		123	2	3	advmod														
+počь	почь	poci	putea	Vmip3s		123	3	0	root														
+rǫbda	рѫбда	răbda	răbda	Vmn		123	4	3	ccomp														
+potoarę	потоарѧ	potoare	putoare	Nfsnn		123	5	4	obj														
+ačelui	ачелꙋи	acelui	acel	Pd-msd		123	6	7	det														
+wmь,	ѡмь,	om	om	Nmsny		123	7	5	nmod														
+																							
+kъči	къчи	căci	căci	C		124	1		cc				because I still am human born from a mother uterus										
+kъ	къ	că	că	C		124	2		mark					1									
+ši	ши	și	și	C		124	3		cc														
+eu	еꙋ	eu	eu	Pp1-sn		124	4		nsubj														
+îkǫ	ꙟкѫ	încă	încă	R		124	5		advmod														
+sъmt'	съмт͛	sămt	fi	Vmip1s		124	6		cop														
+wmь,	ѡмь,	om	om	Nmsny		124	7		root														
+di_î+	ди_ꙟ+	di	din	S		124	8		case														
+zgǫu	згѫꙋ	zgău	zgău	Nnsnn		124	9		nmod														
+de+	де+	de	de	S		124	10		case														
+maikǫ	маикѫ	maică	maică	Nfsny		124	11		obl	agent													
+nъ_skutъ.	нъ_скꙋтъ.	năskut	naște	Vmpa	Amod	124	12		acl					1									
+																							
+mošïa	мошїа	moșia	moșie	Nfson		125	1	3	nsubj				my farm is in Epibates , the place you live in now										
+mę	мѧ	mea	mea	Afsn		125	2	1	amod	poss													
+jaste	ꙗсте	jaste	fi	Vmip3s		125	3	0	root														
+epivatь,	епивать,	Epivat	Epivat	Nmsnn		125	4	3	obl														
+ounde	оунде	unde	unde	R		125	5	6	mark														
+lъku_i+ci	лъкꙋ_и+ци	locuiți	locui	Vmip2p		125	6	4	acl					1									
+voi	вои	voi	voi	Pp2-pn		125	7	6	nsubj														
+akmou.	акмоу.	acmu	acum	R		125	8	6	advmof														
+																							
+ačasta	ачаста	aceasta	această	Pd-fsn		126	1	2	det				this vision was also seen by a woman called Eftimie in the same way and in the same night										
+viděnïe	видѣнїе	videnie	vedenie	Nfsnn		126	2	3	obj														
+vǫźou	вѫѕоу	văzu	vedea	Vmia3s		126	3	0	root														
+ši	ши	și	și	C		126	4	6	cc?														
+w	ѡ	o	o	Pd-fsn		126	5	6	det	p_nom													
+mujare	мꙋꙗре	muiare	muiere	Nfsny		126	6	3	nsubj					1									
+če+	че+	ce	ce	Pr		126	7	9	mark														
+w+	ѡ+	o	o	Pp3fsa		126	8	9	expl														
+kema	кема	chema	chema	Vmii3s	Vmn	126	9	6	acl														
+iѳimïę	иѳимїѧ	itimia	Eftimie	Nfsoy		126	10	9	xcomp														
+îtračelaš'	ꙟтрачелаш͛	într-același	într-același	S		126	11	13	case														
+čelaš'	челаш͛	același	același	Pd--sn		126	12	13	det														
+kipь	кипь	chip	chip	Nnsnn		126	13	3	obl														
+ši	ши	și	și	C		126	14	17	cc					1									
+îtračěęš'	ꙟтрачѣѧш͛	într-aceași	într-aceași	S		126	15	17	case														
+		aceași	aceeași	Pd-fsn		126	16	17	det														
+noapte.	ноапте.	noapte	noapte	Nfsnn		126	17	13	conj														
+																							
+ši	ши	și	și	C		127	1	9	cc				and the next day both of them told  everybody the same										
+a+	а+	a	a	Ps-fs		127	2	3	det														
+doa+	доа+	doa	doua	Ml		127	3	4	nummod														
+źi	ѕи	zi	zi	Nfsnn		127	4	9	obl														
+amъidoi	амъидои	amădoi	amîndoi	Ml		127	5	9	nsubj														
+î_trun+	ꙟ_трꙋн+	într-un	într-un	S		127	6	8	case					1									
+un	ꙋн	un	un	Pd-nsn		127	7	8	det	p_nom													
+kipь	кипь	chip	chip	Nnsnn		127	8	9	obl														
+spusǫrъ	спꙋсѫръ	spusăr	spune	Vmia3p		127	9	0	root														
+tuturorь.	тꙋтꙋрорь.	tuturor	tuturor	Pi---d		127	10	9	obl	iobj													
+																							
+Ačěstę	Ачѣстѧ	aceștia	aceștia	Pd-mpn		128	1	3	nsubj				when all of these people heard it, with joy and big perseverance they came to her 										
+děka	дѣка	deaca	dacă	C		128	2	3	mark					1									
+auźirǫ	аꙋѕирѫ	auziră	auzi	Vmia3p		128	3	11	advcl														
+toci	тоци	toți	toți	Pi-mpn		128	4	11	nsubj														
+ku+	кꙋ+	cu	cu	S		128	5	6	case														
+burïe	бꙋрїе	burie	burie	Nfsnn		128	6	11	obl														
+ši	ши	și	și	C		128	7	10	cc														
+ku+	кꙋ+	cu	cu	S		128	8	10	case														
+mare	маре	mare	mare	Afsn		128	9	10	amod														
+wsrъdïe	ѡсръдїе	osîrdie	osîrdie	Nfsnn		128	10	11	conj														
+kour_sǫrǫ.	коур_сѫрѫ.	cursără	curge	Vmia3p		128	11	0	root					1									
+																							
+ku+	кꙋ+	cu	cu	S		129	1	2	case				and with lights and incenses and with much honor they took her 										
+lumini	лꙋмини	lumini	lumină	Nfpnn		129	2	11	obl														
+ši	ши	și	și	C		129	3	5	cc														
+ku+	кꙋ+	cu	cu	S		129	4	5	case														
+tǫmъi,	тѫмъи,	tămîi	tămîie	Nfpnn		129	5	2	conj														
+ši	ши	și 	și 	C		129	6	9	cc														
+ku+	кꙋ+	cu	cu	S		129	7	9	case														
+mare	маре	mare	mare	Afsn		129	8	9	amod					1									
+činste	чинсте	cinste	cinste	Nfsnn		129	9	5	conj														
+w+	ѡ+	o	o	Pp3fsa		129	10	11	obj														
+luarǫ	лꙋарѫ	luară	lua	Vmia3p		129	11	0	root														
+																							
+ši	ши	și	și	C		130	1	8	cc				and they put her in the church of the Holy Apostles 										
+î+	ꙟ+	î	în	S		130	2	3	case														
+besěreka	бесѣрека	beseareca	biserică	Nfson		130	3	8	obl														
+svenci+	свенци+	sfînţi	sfînt	Ampn		130	4	5	amod														
+lorь	лорь	lor	ul	Pd-mpd		130	5	4	det	p_adj													
+apsli	апсли	apsli	apostol	Nmpny		130	6	3	nmod					1									
+w+	ѡ+	o	o	Pd3fsa		130	7	8	obj														
+pusǫrǫ,	пꙋсѫрѫ,	pusără	pune	Vmia3p		130	8	0	root														
+																							
+ši	ши	și	și	C		131	1	7	cc				and there she was making lots and wonderful miracles										
+akolo	аколо	acolo	acolo	R		131	2	7	advmod														
+multe	мꙋлте	multe	mult	Afpn		131	3	6	amod														
+ši	ши	și	și	C		131	4	5	cc														
+minunate	минꙋнате	minunate	minunat	Afpn		131	5	6	conj														
+čjude_se	чюде_се	ciudese	ciudesă	Nfpnn		131	6	7	obj					1									
+fъčę.	фъчѧ.	făce	face	Vmii3s		131	7	0	root														
+(n/a)	(n/a)	(n/a)	(n/a)						mrg													10	Franks in Tsarigrad
+(n/a)	(n/a)	(n/a)	(n/a)						mrg													11	Conquests of John Asen
+(n/a)	(n/a)	(n/a)	(n/a)						mrg													12	Translation to Tarnovo
+(n/a)	(n/a)	(n/a)	(n/a)						mrg													13	Closing Prayers (short editions)
+(n/a)	(n/a)	(n/a)	(n/a)						mrg													14	Relics looted by Turks
+(n/a)	(n/a)	(n/a)	(n/a)						mrg													15	Translation to Moldova
+																							
+îtru+	ꙟтрꙋ+	întru	întru	S		132	1	2	case				for the honor and the glory of the holy Trinity									16	Afterword
+činstę	чинстѧ	cinste	cinste	Nfsnn		132	2	0	root														
+ši	ши	și	și	C		132	3	4	cc														
+slava	слава	slava	slavă	Nfson		132	4	2	conj														
+sven'te+	свен͛те+	sfînte	sfîntă	Afsd		132	5	7	amod														
+i	и	i	ul	Pd-fsd		132	6	5	det	p_adj													
+troce.	троце.	troțe	troiță	Nfsdn		132	7	2	obl	iobj				1									
+																							
+Pentr+	Пентр+	petr	pentru	S		133	1	10	mark				for that, my beloved christians, we should remember the staff of this saint										
+ačę	ачѧ	acea	aceea	Pd-fsn		133	2	10	mark														
+ši	ши	și	și	C		133	3	4	cc														
+noi	нои	noi	noi	Pp1-pn		133	4	10	nsubj														
+jubicï+	юбицї+	iubiţi	iubit	Ampn		133	5	8	amod														
+i	и	i	ul	Pd-mpn		133	6	5	det	p_adj													
+mïei	мїеи	miei	mei	Ampn		133	7	8	det	poss													
+kreštini.	крещини.	creștini	creștin	Nmpny		133	8	10	vocative														
+sъ+	съ+	să	să	S		133	9	10	mark														
+ci_nemь	ци_немь	ținem	ține	Vmip1p		133	10	0	root					1									
+îmente	ꙟменте	îmente	aminte	R		133	11	10	adv														
+lukruri+	лꙋкрꙋри+	lucruri	lucru	Nnpnn		133	12	10	obj														
+le	ле	le	ul	Pd-npn		133	13	12	det	p_nom													
+svente+	свенте+	sfînte	sfîntă	Nfsdy		133	14	12	nmod														
+i	и	i	ul	Pd-fsd		133	15	14	det	p_nom													
+ačeštïę.	ачещїѧ.	aceastia	această	Pd-fpn		133	16	14	det														
+																							
+dě+	дѣ+	dea	de	S		134	1		mark				for that reason we should remember it and ????										
+čïę	чїѧ	cea	aceea	Pd-fdn		134	2		mark					1									
+sъ+	съ+	să	să	S		134	3		mark														
+luǫmь	лꙋѫмь	luăm	lua	Vmip1p		134	4		root														
+amente	аменте	amente	aminte	R		134	5		adv														
+ši	ши	și	și	C		134	6		cc														
+činstę	чинстѧ	cinste	cinste	Nfsnn		134	7		obj														
+č+	ч+	ceau	ce	Pr		134	8		mark														
+au+	аꙋ+	au	avea	Vaip3p		134	9		aux														
+luatь	лꙋать	luat	lua	Vmpa		134	10																
+de	де	de	de	S		134	11		case					1									
+la	ла	la	la	S		134	12		case														
+dmźъu.	дмѕъꙋ.	dmzău	Dumnezeu	Nmsny		134	13		obl														
+au+	аꙋ+	au	au	Vmip1p		134	14																
+doarǫ	доарѫ	doară	doar	R		134	15																
+n+	н+	nau	n-a	Qz		134	16																
+au+	аꙋ+	au	avea	Vaip3p		134	17																
+fostь	фость	fost	fi	Vmpa		134	18																
+ši	ши	și	și	C		134	19																
+ačasta	ачаста	această	această	Pd-fsn		134	20																
+mou_jae.	моу_ꙗе.	muiae	muiere	Nfsny		134	21							1									
+au+	аꙋ+	au	au	Vmip1p		134	22																
+doarǫ	доарѫ	doară	doar	R		134	23																
+n+	н+	nau	n-a	Qz		134	24																
+au	аꙋ	au	avea	Vaip3p		134	25																
+avutь.	авꙋть.	avut	avea	Vmpa		134	26																
+trupь	трꙋпь	trup	trup	Nnsnn		134	27						body like us										
+ka+	ка+	ca	ca	C		134	28																
+ši+	ши+	și	și	C		134	29																
+noi.	нои.	noi	noi	Pd1-pn		134	30																
+																							
+darǫ	дарѫ	dară	dar	C		135	1	4	cc				but because she become a reluse, she did God's will	1									
+kumь	кꙋмь	cum	cum	R		135	2	4	mark														
+au+	аꙋ+	au	au	Vaip3p		135	3	4	aux														
+sъxǫstritь,	съхѫстрить,	săhăstrit	sihăstri	Vmpa		135	4	0	root														
+kumь	кꙋмь	cum	cum	R		135	5	7	mark														
+au+	аꙋ+	au	a	Vaip3p		135	6	7	aux														
+îplutь	ꙟплꙋть	umplut	umple	Vmpa		135	7	4	conj														
+voę	воѧ	voie	voie	Nfsnn		135	8	7	obj														
+lou"	лоу"	lou	lui	Pd-msd		135	9	10	det					1									
+dmźъu.	дмѕъꙋ.	dmzău	Dumnezeu	Nmsny		135	10	8	nmod														
+																							
+kъ+	къ+	că	că	C		136	1		mark				because she didn't eat so much like us, neither did these devilish things we do now, the games, the songs, the drunkeness,  the fornication										
+nau	наꙋ	nau	nu	Qz		136	2		expl														
+au	аꙋ+	au	avea	Vaip3p		136	3		aux														
+mъîkatь	мъꙟкать	mîncat	mînca	Vmpa		136	4		root														
+multь	мꙋлть	mult	mul	R		136	5		advmod														
+ka+	ка+	ca	ca	C		136	6		case														
+noi.	нои.	noi	noi	Pd1-pn		136	7		obl														
+niče	ниче	nice	nici	Qz		136	8		cc					2									
+au+	аꙋ+	au	avea	Vaip3p		136	9		aux		53	/img/varlaam/cazania53.jpg											
+fǫkutь	фѫкꙋть	făcut	face	Vmpa		136	10		conj														
+lukruri+	лꙋкрꙋри+	lucruri	lucru	Nnpnn		136	11		obj														
+le	ле	le	ul	Pd-npn		136	12		det	p_nom													
+čěle	чѣле	ceale	cel	Pd-npn		136	13		det														
+drǫčešti,	дрѫчещи,	drăceşti	drăcesc	Anpn		136	14		amod														
+če+	че+	ce	ce	Pr		136	15		mark														
+le	ле	le	le	Pp3-pa		136	16		expl														
+fačem	фачем	facem	face	Vmip1p		136	17		acl					1									
+noi	нои	noi	noi	Pd1-pn		136	18		nsubj														
+î+	ꙟ+	în	în 	S		136	19		case?														
+vrěmę	врѣмѧ	vreame	vreme	Nfsnn		136	20		obl														
+dě+	дѣ+	de	de	S		136	21		case?														
+kmou.	кмоу.	acmu	acum	R		136	22		advmod														
+џokuri+	џокꙋри+	jocuri	joc	Nnpnn		136	23		aposs														
+le.	ле.	le	ul	Pd-npn		136	24		det	p_nom													
+kъn'teče+	кън͛тече+	cîntece	cîntec	Nfpnn		136	25		conj					1									
+le	ле	le	ul	Pd-fpn		136	26		det	p_nom													
+becïi+	бецїи+	beții	beție	Nfpnn		136	27		conj														
+le,	ле,	le	ul	Pd-fpn		136	28		det	p_nom													
+kurvïi+	кꙋрвїи+	curvii	curvie	Nfpnn		136	29		conj														
+le.	ле.	le	ul	Pd-fpn		136	30		det	p_nom													
+																							
+nau+	наꙋ+	n-a	n-a	Qz		137	1		expl				she didn't love the world like us and neither its goods										
+au+	аꙋ+	au	avea	Vaip3p		137	2		aux														
+jubitь	юбить	iubit	iubi	Vmpa		137	3		root														
+lumě	лꙋмѣ	lumea	lume	Nfson		137	4		obj														
+ka+	ка+	ca	ca	C		137	5		case														
+noi	нои	noi	noi	Pd1-pn		137	6		obl														
+niče	ниче	nice	nici	Qz		137	7		cc					1									
+bine+	бине+	bine	bine	Nnsnn		137	8		conj														
+le	ле	le	ul	Pd-nsn		137	9		det	p_nom													
+ei.	еи.	ei	ei	Pp3fsd		137	10		det	poss													
+																							
+pen'tr+	пен͛тр+	pentr	pentru	S		138	1	2	case/mark				that is why God honored her in heaven and on earth										
+ačě	ачѣ	acea	aceea	Pd-fsn		138	2		obl/mark														
+ši	ши	și	și	C		138	3	4	advmod	emph													
+dm҃źъu	дм҃ѕъꙋ	dmzău	Dumnezeu	Nmsny		138	4	7	nsubj														
+w+	ѡ+	o	o	Pp3fsa		138	5	6	obj														
+au+	аꙋ+	au	au	Vaip3p		138	6	7	aux														
+činstitь	чинстить	cinstit	cinsti	Vmpa		138	7	0	root					1									
+ši	ши	și	și	C		138	8	10	cc														
+î+	ꙟ+	în	în	S		138	9	10	case														
+čerju	черю	cerju	cer	Nnsnn		138	10	7	obl														
+ši	ши	și	și	C		138	11	13	cc														
+pre+	пре+	pe	pe	S		138	12	13	case														
+pъmъntь.	пъмънть.	pămînt	pămînt	Nnsnn		138	13	10	conj														
+																							
+pentr+	пентр+	pentr	pentru	S		139	1						for this reason she achieved the good that no human eye has ever seen, no human ears have ever heard, no human heart could ever get it										
+ačě	ачѣ	acea	aceea	Pd-fsn		139	2																
+au+	аꙋ+	au	a	Vaip3p		139	3		aux														
+dobъn_ditь	добън_дить	dobîndit	dobîndi	Vmpa		139	4		root					1									
+bine+	бине+	bine	bine	Nnsnn		139	5		obj														
+le	ле	le	ul	Pd-nsn		139	6		det	p_nom													
+ačela	ачела	acela	acela	Pd--sn		139	7		det														
+kare+	каре+	care	care	Pr		139	8		mark														
+le	ле	le	ul			139	9		det														
+niče	ниче	nice	nici	Qz		139	10		cc														
+wki	ѡки	ochi	ochi	Nmsnn		139	11		nsubj														
+de+	де+	de	de	S		139	12		case														
+wmь	ѡмь	om	om	Nmsny		139	13		nmod														
+lau	лаꙋ	lau	l-a	Pp3msa		139	14		expl					1									
+au	аꙋ	au	avea	Vaip3p		139	15		aux														
+vǫźutь	вѫѕꙋть	văzut	vedea	Vmpa		139	16		acl														
+niče	ниче	nice	nici	Qz		139	17		cc														
+oureki	оуреки	urechi	ureche	Nfpnn		139	18		nsubj														
+lau	лаꙋ	lau	l-a	Pp3msa		139	19		expl														
+au		au	avea	Vaip3p		139	20		aux														
+auźitь,	аꙋѕить,	auzit	aude	Vmpa		139	21		conj														
+niče	ниче	nice	nici	Qz		139	22		cc														
+la+	ла+	la	la	S		139	23		case					1									
+inima	инима	inima	inimă	Nfson		139	24		obl														
+wm+	ѡм+	om	om	Nmsny		139	25		nmod														
+ului.	ꙋлꙋи.	ului	ului	Pd-msd		139	26		det	p_nom													
+au+	аꙋ+	au	a	Vaip3p		139	27		aux														
+îtraatь.	ꙟтраать.	îtraat	intra	Vmpa		139	28		conj														
+																							
+Pentr+	Пентр+	pentr	pentru	S		140	1	2	case				for that, you too man, if you want to get rid of eternity's labours and achieve that good, leave and hate the world yoo too										
+ačě	ачѣ	acea	aceea	Pd-fsn		140	2																
+ši	ши	și	și	C		140	3	4	advmod	emph													
+tu+	тꙋ+	tu	tu	Pp2-sn		140	4	12	nsubj														
+w+	ѡ+	o	o			140	5	6	det	p_nom													
+wame	ѡаме	oame	om			140	6	4	aposs					1									
+de+	де+	de	de	S		140	7	9	mark														
+cï+	цї+	ți	îți	Pp2-sg		140	8	9	obl	iobj													
+i+	и+	i	este	Vmip3s		140	9	12	advcl														
+voę	воѧ	voie	voie	Nfsnn		140	10	9	nsubj														
+sъ+	съ+	să	să	S		140	11	12	aux														
+skapi	скапи	scăpi	scăpa	Vmip2s		140	12	0	root														
+de+	де+	de	de	S		140	13	14	case														
+munči+	мꙋнчи+	munci	muncă	Nfpnn		140	14	12	obl														
+le	ле	le	ul	Pd-fpn		140	15	14	det	p_nom													
+de+	де+	de	de	S		140	16	17	case														
+devěči,	девѣчи,	veaci	vecie	Nfsnn		140	17	14	nmod														
+ši	ши	și	și	C		140	18	20	cc														
+sъ+	съ+	să	să	C		140	19	20	aux														
+dobъ҃ndešti	добъ҃ндещи	dobîndeşti	dobîndi	Vmip2s		140	20	12	conj					1									
+bine+	бине+	bine	bine	Nnsnn		140	21	20	obj														
+le	ле	le	ul	Pd-nsn		140	22	21	det	p_nom													
+ačela.	ачела.	acela	acela	Pd--sn		140	23	21	det														
+																							
+lěpǫdǫ	лѣпѫдѫ	lepădă	lepăda	Vmm-2s		141	1		root														
+ši	ши	și	și	C		141	2		cc														
+urěšte	ꙋрѣще	ureaşte	urî	Vmm-2s	Vmip3s	141	3		conj														
+ši	ши	și	și	C		141	4		advmod	emph				1									
+tou+	тоу+	tu	tu	Pp2-sn		141	5		nsubj														
+lumě,	лꙋмѣ,	lumea	lume	Nfson		141	6		obj														
+sъ+	съ+	să	[în]să	C		141	7		mark				but not too much because this saint is still its happiness and joy										
+nu+	нꙋ+	nu	nu	Qz		141	8		advmod														
+de+	де+	de	de	S		141	9		case														
+totь	тоть	tot	tot	R		141	10		obl														
+kъ+	къ+	că	ca	C		141	11		mark														
+ačasta	ачаста	această	această	Pd-fsn		141	12		det														
+svъntǫ.	свънтѫ.	sfîntă	sfîntă	Nfsny		141	13		nsubj														
+î_kai	ꙟ_каи	încai	încai	R		141	14		advmod					1									
+		i	este	Vmip3s		141	15		advcl														
+bukurïa	бꙋкꙋрїа	bucuria	bucurie	Nfson		141	16		cop														
+ši	ши	și	și	C		141	17		cc														
+veselïę	веселїѧ	veselie	veselie	Nfsnn		141	18		conj														
+ei.	еи.	ei	ei	Pp3fsd		141	19		det	poss													
+																							
+nu+	нꙋ+	nu	nu	Qz		142	1		advmod				don't enjoy its goods, don't cheer up with its beauties and cravings										
+te+	те+	te	te	Pp2-sa		142	2		expl														
+bukura	бꙋкꙋра	bucura	bucura	Vmn	Vmm-2s	142	3		root														
+de+	де+	de	de	S		142	4		case														
+bine	бине	bine	bine	Nnsnn		142	5		obl					1									
+le	ле	le	ul	Pd-nsn		142	6		det	p_nom													
+ei,	еи,	ei	ei	Pp3fsd		142	7		nmod	poss													
+nu+	нꙋ+	nu	nu	Qz		142	8		advmod														
+te+	те+	te	te	Pp2-sa		142	9		expl														
+veseli	весели	veseli	veseli	Vmn	Vmm-2s	142	10		conj														
+de+	де+	de	de	S		142	11		case														
+frъm'sěce+	фръм͛сѣце+	frămsețe	frumusețe	Nfsnn		142	12		obl														
+le	ле	le	ul	Pd-fpn		142	13		det	p_nom													
+ši	ши	și	și	C		142	14		cc														
+de+	де+	de	de	S		142	15		case														
+poxtele+	похтеле+	pohte	poftă	Nfpnn		142	16		conj					1									
+le	ле	le	ul	Pd-fpn		142	17		det	p_nom													
+ei.	еи.	ei	ei	Pp3fsd		142	18		det	poss													
+																							
+nu+	нꙋ+	nu	nu	Qz		143	1	3	advmod				don't sweeten up yourself with its sins										
+te	те	te	te	Pp2-sa		143	2	3	expl														
+îdulči	ꙟдꙋлчи	îndulci	îndulci	Vmn	Vmm-2s	143	3	0	root														
+de+	де+	de	de	S		143	4	4	case														
+pъkate+	пъкате+	păcate	păcat	Nnpn		143	5	3	obl														
+le	ле	le	ul	Pd-npn		143	6	5	det	p_nom													
+ei.	еи.	ei	ei	Pp3fsd		143	7	5	det	poss													
+																							
+grěle+	грѣле+	greale	greu	Anpn		144	1	4	amod				Jesus Christ's homilies seem to be hard, but is very useful										
+c'+	ц͛+	ț	îți	Pp2-sg		144	2	3	obl	iobj													
+parь+	парь+	par	părea	Vmip3p		144	3	0	root					1									
+îvъcǫturi+	ꙟвъцѫтꙋри+	învățături	învățătură	Nfpnn		144	4	3	nsubj														
+le	ле	le	ul	Pd-npn		144	5	4	det	p_nom													
+lui	лꙋи	lui	lui	Pd-msn		144	6	7	det														
+xs,	хс,	Hs	Hristos	Nmsn		144	7	4	nmod														
+jarǫ	ꙗрѫ	iară	iar	C		144	8	9	cc														
+sъmtь	съмть	sămt	fi	Vmip3p		144	9	3	conj														
+de+	де+	de	de	S		144	10	11	case														
+folosь	фолось	folos	folos	Nnsnn		144	11	9	cop					1									
+mare,	маре,	mare	mare	Ansn		144	12	12	amod														
+																							
+nu+	нꙋ+	nu	nu	Qz		145	1	2	advmod				don't look only after charities,  but look after what prophet David says, the one who shares with rascals										
+kъwta	къѿа	căuta	căuta	Vmn	Vmm-2s	145	2	0	root														
+numai	нꙋмаи	numai	numai	R		145	3	4	advmod														
+keltujala	келтꙋꙗла	cheltuiala	cheltuială	Nfson		145	4	2	obj														
+milostenïe+	милостенїе+	milostenie	milostenie	Nfsnn		145	5	4	nmod														
+i	и	i	ul	Pd-fsd		145	6	5	det	p_nom				1									
+če+	че+	ce	ci	C		145	7	8	cc														
+kawtǫ	каѿѫ	căută	căuta	Vmia3s		145	8	2	conj														
+če+	че+	ce	ce	Pr		145	9	10	mark														
+źiče	ѕиче	zice	zice	Vmn	Vmip3s	145	10	8	ccomp														
+prork+	прорк+	prorc	proroc	Nmsny		145	11	10	nsubj														
+ulь	ꙋль	ul	ul	Pd-msn		145	12	11	det	p_nom													
+dvdь.	двдь.	dvd	David	Nmsny		145	13	11	aposs														
+																							
+čela	чела	cela	cela	Pd-msn		146	1	11	nsubj														
+če+	че+	ce	ce	Pr		146	2	3	mark														
+îparte	ꙟпарте	îpărte	împărți	Vmip3s		146	3	1	acl					1									
+ši	ши	și	și	C		146	4	5	cc														
+dǫ	дѫ	dă	da	Vmip3s		146	5	3	conj														
+mišei+	мишеи+	mișei	mișel	Nmpny		146	6	5	obl	iobj													
+lorь	лорь	lor	ul	Pd-mpd		146	7	6	det	p_nom													
+direptatě	дирептатѣ	direptatea	dreptate	Nfson		146	8	5	obj				his justice will live forever										
+lui	лꙋи	lui	lui	Pp3msd		146	9	8	det	poss													
+va	ва	va	vrea	Vaip3s		146	10	11	aux														
+vatrǫi	ватрѫи	vatrăi	trăi	Vmn		146	11	0	root														
+î_truvěči	ꙟ_трꙋвѣчи	îtruveac	într	S		146	12	13	case					1									
+věči,	вѣчи	veci	veacă	Nfpnn		146	13	11	obl														
+de+	де+	de	de	S		146	14	15	case														
+věči,	вѣчи,	veaci	veacă	Nfpnn		146	15	13	nmod														
+																							
+nu+	нꙋ+	nu	nu	Qz		147	1	2	advmod				don't search only for the aversion and the punishment of the body, but strongly remember the bounty that the celestial good can bring you										
+kъ_ota	къ_ота	căota	căuta	Vmn	Vmm-2s	147	2	0	root														
+numai	нꙋмаи	numai	numai	R		147	3	4	advmod														
+skrъba	скръба	scîrbă	scîrbă	Nfsnn		147	4	2	obj														
+ši	ши	și	și	C		147	5	6	cc														
+pe_děpsa	пе_дѣпса	pedeapsa	pedeapsă	Nfson		147	6	4	conj					1									
+trup+	трꙋп+	trup	trup	Nnsnn		147	7	6	nmod														
+ului,	ꙋлꙋи,	ului	ul	Pd-nsd		147	8	7	det	p_nom													
+če+	че+	ci	ci	C		147	9	12	cc														
+mai	маи	mai	mai	R		147	10	11	advmod														
+vrъtos	врътос	vîrtos	vîrtos	R	Amsn	147	11	12	advmod														
+ja+	ꙗ+	lua	lua	Vmn		147	12	2	conj														
+amente	аменте	amente	aminte	R		147	13	12	advmod														
+dobъnd+	добънд+	dobînd	dobîndă	Nfsnn		147	14	12	obj														
+bine	бине	bine	bine	Nnsnn		147	15	14	nmod					1									
+lui	лꙋи	lui	lui	Pd-nsd		147	16	15	det	p_nom													
+čeresk',	череск͛,	ceresc	ceresc	Ansn		147	17	15	amod														
+																							
+nu+	нꙋ+	nu	nu	Qz		148	1	2	advmod				don't care only about the bad passion of the body										
+sokoti	сокоти	socoti	socoti	Vmn	Vmm-2s	148	2	0	root														
+numai+	нꙋмаи+	numai	numai	R		148	3	4	advmod														
+patima	патима	patima	patimă	Nfson		148	4	2	obj														
+čěr+	чѣр+	cea	cea	Pd-fsn		148	5	6	det														
+rę+	рѧ+	rea	rea	Afsn		148	6	4	amod														
+a+	а+	a	a	Ps-fs		148	7	8	det	poss													
+tru_p+	трꙋ_п+	trup	trup	Nnsnn		148	8	4	nmod					1									
+ului.	ꙋлꙋи.	ului	ul	Pd-nsd		148	9	8	det	p_nom													
+																							
+																							
+če+	че+	ce	ci	Pr		150	1	3	mark				but remember about the eternal rest of the soul										
+c'+	ц͛+	ț	îți	Pp2-sg		150	2	3	expl														
+ad'	ад͛	ad	aduce	Vmm-2s		150	3	0	root														
+amente	аменте	amente	aminte	R		150	4	3	advmod														
+de+	де+	de	de	S		150	5	6	case														
+wdixna	ѡдихна	odihna	odihnă	Nfson		150	6	3	obl														
+čě+	чѣ+	cea	cea	Pd-fsn		150	7	6	det														
+de+	де+	de	de	S		150	8	9	case														
+věči	вѣчи	veaci	veacă	Nfpnn		150	9	6	nmod														
+a+	а+	a	a	Ps-fs		150	10	6	det	poss													
+sufle_t+	сꙋфле_т+	suflet	suflet	Nnsnn		150	11	6	nmod					1									
+ului.	ꙋлꙋи.	ului	ul	Pd-nsd		150	12	11	det	p_nom													
+																							
+de+	де+	de+	de	S		151	1	3	mark				if you will hate the body stuff, you will easily find out the soul's stuff										
+veri	вери	veri	vrea	Vaip2s		151	2	3	aux														
+ourъ	оуръ	ur	urî	Vmn		151	3	0	advcl														
+čěle	чѣле	ceale	cele	Pd-fpn		151	4	5	det														
+trupešti.	трꙋпещи.	trupeşti	trupesc	Afsn		151	5	3	obj														
+pre+	пре+	prea	prea	R		151	6	7	advmod														
+lsene	лсене	lesne	lesne	R		151	7	9	advmod														
+veri	вери	veri	vrea	Vaip2s		151	8	9	aux					1									
+afla	афла	afla	afla	Vmn		151	9	0	root														
+ši+	ши+	și 	și 	C		151	10	12	advmod	emph													
+čěle	чѣле	ceale	cele	Pd-fpn		151	11	12	det														
+sufletešti	сꙋфлетещи	sufleteşti	sufletesc	Afsn		151	12	9	obj														
+																							
+ši+	ши+	și 	și 	C		152	1	4	mark				and if you will leave the world's stuff, you will easily get the heveanly ones in God's kingdom 										
+de+	де+	de	de	S		152	2	4	mark														
+veri	вери	veri	vrea	Vaip2s		152	3	4	aux														
+pǫrъsi	пѫръси	părăsi	părăsi	Vmn		152	4	9	advcl														
+čěle	чѣле	ceale	cele	Pd-fpn		152	5	6	det					1									
+lumešti	лꙋмещи	lumeşti	lumesc	Afpn		152	6	4	obj														
+juštor	ющор	uștor	ușor	R		152	7	9	advmod														
+veri	вери	veri	vrea	Vaip2s		152	8	9	aux														
+dobъndi	добънди	dobîndi	dobîndi	Vmn		152	9	0	root														
+ši	ши	și	și	C		152	10	9	advmod	emph													
+čěle	чѣле	ceale	cele	Pd-fpn		152	11	12	det														
+čerešti	черещи	cerești	ceresc	Afpn		152	12	9	obj														
+îtru	ꙟтрꙋ	îtru	întru	S		152	13	14	case					1									
+îpъrǫcïa	ꙟпърѫцїа	îpъrăcia	împărăție	Nfson		152	14	9	obl														
+lui	лꙋи	lui	lui	Pd-msn		152	15	16	det														
+dmźъu.	дмѕъꙋ.	dmzău	Dumnezeu	Nmsny		152	16	14	nmod														
+																							
+karě+	карѣ+	care	care	Pr		153	1	6	obj				that we will achieve from the true Jesus Christ, our Lord, and for the saint's prayer of today										
+noi	нои	noi	noi	Pp1-pn		153	2	6	nsubj														
+toci	тоци	toți	toți	Pi-mpn		153	3	2	det														
+sъ+	съ+	să	să	C		153	4	6	aux					1									
+w+	ѡ+	o	o	Pp3fsa		153	5	6	expl														
+dobъn_dimь.	добън_димь.	dobăndim	dobîndi	Vmip2p		153	6	0	root														
+de+	де+	de	de	S		153	7	9	case														
+la	ла	la	la	S		153	8	9	case														
+Is	Ис	Is	Iisus	Nmsny		153	9	6	obl														
+xs	хс	Hs	Hristos	Nmsny		153	10	9	flat														
+adevъratь	адевърать	adevărat	adevărat	Amsn		153	11	9	amod														
+dmźъ+	дмѕъ+	dmz	Dumnezeu	Nmsny		153	12	9	aposs														
+ulь	ꙋль	ul	ul	Pd-msn		153	13	12	det	p_nom													
+nostru.	нострꙋ.	nostru	nostru	Amsn		153	14	12	amod	poss				1									
+ši+	ши+	și 	și 	C		153	15	17	cc														
+pentru+	пентрꙋ+	pentru	pentru	S		153	16	17	case														
+ruga	рꙋга	ruga	rugă	Nfson		153	17	6	conj														
+svente+	свенте+	sfănte	sfăntă	Nfsdy	Nfpnp	153	18	17	nmod														
+i	и	i	ul	Pd-fsd		153	19	18	det	p_nom													
+de+	де+	de	de	S		153	20	21	case														
+astъźi	астъѕи	astăzi	astăzi	R		153	21	17	advmod														
+																							
+Aminь.	Аминь.	amin	amin	I		154	1						Amen									17	Closing Prayers

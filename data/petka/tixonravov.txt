@@ -1,0 +1,2764 @@
+text	cyrillic	diplomatic	lemma	PoS_tag	PoS_ext	sent_id	UD_id	UD_ncy	UD_type	UD_ext	page	folio	translation	eol	chapter	ref	desc	lat_header	cyr_header	lat_page_nr	cyr_page_nr	chunk	
+																							
+Mca	Мца	mca	mesec	Nmsgn		1	1	3	nmod		54r	/img/petka/54r.JPG	[Title] 14th (day of) the same month (October)	0	tix Tixon.d. - Petka		<i>Tixonravov damaskin</i> <br/>ОР Ф.299 № 702, Russian National Library, Moscow <br/>Lukovit-Etropol area, ca. 1660 <br/> source: library website, <a href='https://lib-fond.ru/lib-rgb/299/f-299-702'>link</a>					1	Title
+togò	того̀	togo	tъ	Pd-msg		1	2	1	det	p_nom													
+*di*	·ди·	*di*	14	Mc		1	3	0	root														
+																							
+žítïe	жи́тїе	žitie	žitie	Nnsnn		2	1	0	root				[Title] The Life of our Reverend Mother Petka of Tъrnovo										
+prpdbnye	прпдбные	prpbnie	prepodoben	Afsgy		2	2	3	amod					1									
+matere	матере	matere	mati	Nfsdy		2	3	1	nmod														
+nášee	нáшее	našee	naš	Afsgy		2	4	3	amod	poss													
+pet'ky	пет͛кы	petki	Petka	Nfsgy		2	5	3	appos														
+trьnov'skye	трьнов͛скые	trъnovskie	tъrnovski	Afsgy		2	6	5	amod														
+																							
+blsvì	блсвѝ	blsvi	blagoslovja	Vmm-2si		3	1	0	root				Father, bless (us)										
+oč	оч	oč	otec	Nmsvy		3	2	1	vocative					1									
+																							
+Slnce	Слнце	slnce	slъnce	Nnsnn		4	1	3	obj				as the world has Sun to shine									2	Introduction
+kól'koto	ко́л͛кото	kolkoto	kolkoto	Pr		4	2	3	advmod														
+ima	има	ima	imam	Vmip3si		4	3	0	root														
+svě´tь	свѣ́ть	světъ	svět	Nmsnn		4	4	3	nsubj														
+i+	и+	i	i	C		4	5	6	cc														
+svě´ti	свѣ́ти	světi	světja	Vmip3si		4	6	3	conj														
+																							
+tól'_kozi	то́л͛_кози	tolkozi	tolkozi	Pr		5	1	6	advmod				so much (shines) the remembrance of our Reverend Petka, which has enlightened the whole world	1									
+i+	и+	i	i	C		5	2	6	cc														
+na	на	na	na	Sa		5	3	5	case														
+prpodóbnaa	прподо́бнаа	prpodobnaa	prepodoben	Afsny		5	4	5	amod														
+pét'ka	пе́т͛ка	petka	Petka	Nfsny		5	5	6	nmod	poss													
+pámétь	пáме́ть	pametъ	pamet	Nfsnn		5	6	0	root							něstь glagola							
+što+	що+	što	što	Pq		5	7	10	mark														
+ì+	ѝ+	i	tja	Pp3fsd		5	8	10	obl	iobj													
+e	е	e	sъm	Vaip3si		5	9	10	aux	prf				1									
+prosvě´tila	просвѣ́тила	prosvětila	prosvětja	Vmp--se		5	10	6	acl							Demina et al. 728: prosvětja 1. prosvetna, započna da svetja, zasijaja, 2. osvetja, napravja nešto tъmno da stane svetlo, 3. prosvetlee, stane svetlo, 4. prosvetja, dam njakomu jasnota, razbirane, znanija							
+po+	по+	po	po	Sl		5	11	13	case														
+síč'ky	си́ч͛кы	sički	sički	Amsny		5	12	13	amod														
+svě´tь	свѣ́ть	světъ	svět	Nmsnn		5	13	10	obl	loc													
+																							
+néino	не́ино	neino	nein	Ansnn		6	1	2	amod	poss			which tongue could retell all of her miracles and her fasting?										
+čjúdo	чю́до	čjudo	čudo	Nnsnn		6	2	9	obj					1									
+i+	и+	i	i	C		6	3	5	cc														
+neinь,	неинь,	neinъ	nein	Amsnn		6	4	5	amod	poss													
+pos	пос	pos	post	Nmsnn		6	5	2	conj														
+kói	ко́и	koi	koi	Amsny		6	6	7	amod														
+ezýkь	езы́кь	ezikъ	ezik	Nmsnn		6	7	9	nsubj														
+móže	мо́же	može	moga	Vaip3si		6	8	9	aux														
+iskáza,	искáза,	iskaza	izkaža	Vmn---e		6	9	0	root														
+																							
+što+	що+	što	što	Pq		7	1	4	cc				what goodness she did on the Earth										
+è	ѐ	e	sъm	Vaip3si		7	2	4	aux	prf				1									
+tïjà	тїꙗ̀	tija	tja	Pp3fsn		7	3	4	nsubj														
+stórila	сто́рила	storila	storja	Vmp--se		7	4	0	root														
+dobrôdě´telь	добро̂дѣ́тель	dobrodětelъ	dobrodetel	Nmsnn		7	5	4	obj							Demina et al. 200: dobrodětel 1. dobrodetel, položitelni nravstveni kačestva na čovek, 2. dobrina, blagodejanie							
+na+	на+	na	na	Sl		7	6	7	case				in the land of the town of Epibates										
+zemlja	землꙗ	zemlja	zemlja	Nfsnn		7	7	4	obl	loc													
+na+	на+	na	na	Sl		7	8	10	case														
+epí_vát'sko	епи́_вáт͛ско	epivatsko	epivatski	Ansnn		7	9	10	amod					1									
+mě´sto,	мѣ́сто,	město	město	Nnsnn		7	10	7	appos														
+i+	и+	i	i	C		7	11	13	cc				and in the Thracian (land)										
+na+	на+	na	na	Sl		7	12	13	case														
+trákïisko,	трáкїиско,	trakiisko	trakiiski	Ansnn		7	13	10	conj														
+i+	и+	i	i	C		7	14	16	cc				and in Tarnovo										
+na+	на+	na	na	Sl		7	15	16	case														
+trь´novь,	трь́новь,	trъnovъ	Tъrnov	Nnsnn		7	16	13	conj					1									
+i+	и+	i	i	C		7	17	19	cc				and in Moesia										
+na+	на+	na	na	Sl		7	18	19	case														
+mísïa,	ми́сїа,	misia	Mizija	Nfsnn		7	19	16	conj														
+i+	и+	i	i	C		7	20	22	cc				and in Dalmatia										
+na+	на+	na	na	Sl		7	21	22	case														
+dal'máti,	дал͛мáти,	dalmati	Dalmatija	Nfsdn		7	22	19	conj														
+i+	и+	i	i	C		7	23	28	cc				and not merely in those lands										
+nè+	нѐ+	ne	ne	Qz		7	24	25	advmod														
+tь´kmo	ть́кмо	tъkmo	tъkmo	R		7	25	28	advmod														
+po+	по+	po	po	Sl		7	26	28	case														
+tïja	тїꙗ	tija	toja	Pd-npn		7	27	28	det					1									
+mě´sta,	мѣ́ста,	města	město	Nnpnn		7	28	22	conj														
+amì	амѝ	ami	ami	C		7	29	33	cc				but all over the world?										
+i+	и+	i	i	C		7	30	33	fixed														
+po+	по+	po	po	Sl		7	31	33	case														
+síč'ki	си́ч͛ки	sički	sički	Amsny		7	32	33	amod														
+svě´tь.	свѣ́ть.	světъ	svět	Nmsnn		7	33	28	conj														
+																							
+detô	дето̂	deto	deto	Pr		8	1	7	advmod				our mind cannot reach there										
+nášь	нáшь	našъ	naš	Amsnn		8	2	3	amod	poss				1									
+umь	ꙋмь	umъ	um	Nmsnn		8	3	7	nsubj														
+ne+	не+	ne	ne	Qz		8	4	5	advmod														
+móže	мо́же	može	moga	Vaip3si		8	5	7	aux														
+da+	да+	da	da	C		8	6	5	fixed	inf													
+dostígne,	дости́гне,	dostigne	dostigna	Vmip3se		8	7	0	root														
+ilì	илѝ	ili	ili	C		8	8	12	cc				or our language cannot tell of all her miracles and goodness and fasting and tears										
+ezýkь	езы́кь	ezikъ	ezik	Nmsnn		8	9	12	nsubj														
+nášь	нáшь	našъ	naš	Amsnn		8	10	9	amod	poss				1									
+da+	да+	da	da	C		8	11	12	mark														
+iskáže	искáже	iskaže	izkaža	Vmip3se		8	12	7	conj														
+síč'ko+	си́ч͛ко+	sičko	sički	Ansny		8	13	16	amod														
+to	то	to	tъ	Pd-nsn		8	14	13	det	p_adj													
+njéino	нѥ́ино	njeino	nein	Ansnn		8	15	16	amod	poss													
+čjúdo,	чю́до,	čjudo	čudo	Nnsnn		8	16	7	obj														
+i+	и+	i	i	C		8	17	18	cc														
+dobrô,	добро̂,	dobro	dobro	Nnsnn		8	18	16	conj														
+i+	и+	i	i	C		8	19	20	cc														
+pos,	пос,	pos	post	Nmsnn		8	20	18	conj					1									
+i+	и+	i	i	C		8	21	22	cc														
+slь´zy.	сль́зы.	slъzi	sъlza	Nfpnn		8	22	20	conj														
+																							
+amì	амѝ	ami	ami	C		9	1	6	cc				but only as much as our mind could comprehend										
+tь´kmo	ть́кмо	tъkmo	tъkmo	R		9	2	3	advmod														
+kól'koto	ко́л͛кото	kolkoto	kolkoto	Pr		9	3	6	advmod														
+nášь	нáшь	našъ	naš	Amsnn		9	4	5	amod	poss													
+úmь	ꙋ́мь	umъ	um	Nmsnn		9	5	6	nsubj					1									
+postígnь,	пости́гнь,	postignъ	postigna	Vmia3se		9	6	0	root														
+																							
+i+	и+	i	i	C		10	1	2	cc				and so I, Euthymius, Patriarch of Tъrnovo, wrote what I knew										
+napísax	напи́сах	napisax	napiša	Vmia3se		10	2	0	root														
+azь	азь	azъ	az	Pp1-sn		10	3	2	nsubj														
+eѵ'tímïe	еѵ͛ти́мїе	eѵtimie	Evtimii	Nmsny		10	4	3	appos														
+patrïár'xь	патрїáр͛хь	patriarxъ	patriarx	Nmsny		10	5	4	appos					1									
+trь´nov'skyʺ,	трь́нов͛скы̏,	trъnovski	tъrnovski	Amsny		10	6	5	amod														
+štô	що̂	što	što	Pq		10	7	8	mark														
+znajax.	знаꙗх.	znajax	znaja	Vmia1si		10	8	2	acl														
+																							
+amì	амѝ	ami	ami	C		11	1	6	cc				but also you, blessed Christians, do hear										
+i+	и+	i	i	C		11	2	1	fixed														
+vïe	вїе	vie	vie	Pp2-pn		11	3	6	nsubj														
+blsvéni	блсве́ни	blsveni	blagoslovja	Ampnn	Vmpa-pi	11	4	5	amod														
+xrstiá_ne	хрстиá_не	xrstiane	xristianin	Nmpny		11	5	3	vocative					1									
+poslúšaĭte	послꙋ́шайте	poslušaite	poslušam	Vmm-2pe		11	6	0	root														
+																							
+Tázi	Тáзи	tazi	tozi	Pd-fsn		12	1	6	det				that Saint and Reverend Petka was from the land of Epibates									3	Petka's Childhood
+staa	стаа	staa	svęt	Afsny		12	2	5	amod														
+i+	и+	i	i	C		12	3	4	cc														
+prpodóbna	прподо́бна	prpodobna	prepodoben	Afsnn		12	4	2	conj														
+pét'ka	пе́т͛ка	petka	Petka	Nfsny		12	5	6	nsubj					1									
+bě´še	бѣ́ше	běše	sъm	Vmii3si		12	6	0	root														
+wt+	ѿ+	ot	ot	Sg		12	7	8	case														
+mě´sto	мѣ́сто	město	město	Nnsnn		12	8	6	obl	abl													
+epiváti	епивáти	epivati	Epivat	Nmpnn		12	9	8	nmod														
+																							
+wcь	ѡць	ocъ	otec	Nmsny		13	1	7	nsubj				her father and her mother were good and pious										
+njéinь,	нѥ́инь,	njeinъ	nein	Amsnn		13	2	1	amod	poss													
+i+	и+	i	i	C		13	3	4	cc														
+mái_ka+	мáи_ка+	maika	maika	Nfsny		13	4	1	conj					1									
+ì	ѝ	i	tja	Pp3fsd		13	5	4	nmod	poss													
+bě´xa	бѣ́ха	běxa	sъm	Vmii3pi		13	6	7	cop														
+dobrỳ	добры̀	dobrỳ	dobъr	Ampnn		13	7	0	root														
+i+	и+	i	i	C		13	8	9	cc														
+blgočь´stivy,	блгочь́стивы,	blgočъstivi	blagočestiv	Ampnn		13	9	7	conj							Demina et al. 44: blagočestiv 'kojto živee spored normite na xristijanskija moral, nabožen'							
+																							
+i+	и+	i	i	C		14	1	2	cc				and they lived (ʺwalkedʺ) according to Divine Commandment(s)										
+xóděxa	хо́дѣха	xoděxa	xodja	Vmii3si		14	2	0	root														
+po	по	po	po	Sl		14	3	5	case					1									
+bžïi	бжїи	bžii	božii	Ampnn		14	4	5	amod	poss													
+zapovědь	заповѣдь	zapovědъ	zapověd	Nmsnn		14	5	2	obl	loc													
+																							
+mlstínja	млсти́нꙗ	mltinja	milostinja	Nnsnn		15	1	2	obj				(they) performed deeds of mercy			Demina et al. 470: milostinja 1. podajanie, koeto se dava na bedni i nuždaešti se, 2. blagodejanie, dobro delo							
+číněxa,	чи́нѣха,	činěxa	činja	Vmii3si		15	2	0	root														
+																							
+i+	и+	i	i	C		16	1	4	cc				and (also) other good deeds were (done) by them										
+drúgy	дрꙋ́гы	drugi	drug	Afpnn		16	2	3	amod														
+dó_bryni	до́_брыни	dobrini	dobrina	Nfpnn		16	3	4	nsubj					1		Demina et al. 197: dobrina 1. dobrota, dobrosъrdečie, 2. nešto, koeto e izvъršeno v polza na drugite, blagodejanie, 3. dobrodetel, duševna čistota, 4. dobro, xubav život (a tebě ima golěma dobrinia, če si prostil' duš'manina svoego), 5. blago, materialna ili duxovna pridobivka, 6. blagodat, prirodno izobilie (eto dobrina i xubost raiska)							
+bě´xa	бѣ́ха	běxa	sъm	Vmii3pi		16	4	0	root														
+u+	ꙋ+	u	u	Sg		16	5	6	case														
+tě´x	тѣ́х	těx	tě	Pp3-pg		16	6	4	obl	loc													
+																							
+i+	и+	i	i	C		17	1	2	cc				and they gave birth to this pure, Christ's dove and maiden										
+rodíxa	роди́ха	rodixa	rodja	Vmii3pe		17	2	0	root														
+tъ´zi	тъ́зи	tъzi	tozi	Pd-fso		17	3	7	det														
+čísta	чи́ста	čista	čist	Afsnn		17	4	7	amod														
+i+	и+	i	i	C		17	5	6	cc														
+xva	хва	xva	Xristov	Afsnn		17	6	4	conj	poss				1									
+golubica	голꙋбица	golubica	golubica	Nfsny		17	7	2	obj														
+i+	и+	i	i	C		17	8	9	cc														
+dvca.	двца.	dvca	devica	Nfsny		17	9	7	conj														
+																							
+i+	и+	i	i	C		18	1	2	cc				and they gave birth also to another male (child), his name (was) Euthymius										
+rodíxa	роди́ха	rodixa	rodja	Vmii3pe		18	2	0	root														
+i+	и+	i	i	C		18	3	5	cc														
+drúgo	дрꙋ́го	drugo	drug	Ansnn		18	4	5	amod														
+múž'ko,	мꙋ́ж͛ко,	mužko	mъžki	Ansnn		18	5	2	obj														
+í_me+	и́_ме+	ime	ime	Nnsnn		18	6	9	nsubj					1									
+to+	то+	to	tъ	Pd-nsn		18	7	6	det	p_nom													
+mu	мꙋ	mu	toi	Pp3msd		18	8	6	nmod	poss													
+ev'tímïe,	ев͛ти́мїе,	evtimie	Evtimii	Nmsny		18	9	5	acl														
+štò	що̀	što	što	Pq		18	10	11	mark				who finally became the bishop of Madytos										
+bŷ	бы̂	bi	bъda	Vmia3se		18	11	5	acl														
+nápokonь	нáпоконь	napokonъ	napokon	R		18	12	11	advmod														
+na+	на+	na	na	Sa		18	13	14	case							Berl.d.: vldka madítu							
+mádïtь	мáдїть	maditъ	Madit	Nmsnn		18	14	15	nmod	poss				1									
+epskpь.	епскпь.	epskpъ	episkop	Nmsny		18	15	11	obj														
+																							
+I+	И+	i	i	C		19	1	2	cc				and (the parents) tought them to fear God and His law (ʺthe fear of God and the lawʺ) well										
+naúčixa+	наꙋ́чиха+	naučixa	nauča	Vmii3pe		19	2	0	root														
+gy	гы	gi	tě	Pp3-pa		19	3	2	obj														
+na+	на+	na	na	Sa		19	4	5	case														
+strax	страх	strax	strax	Nmsnn		19	5	2	obl	iobj													
+bžïi,	бжїи,	bžii	božii	Amsnn		19	6	5	amod														
+i+	и+	i	i	C		19	7	9	cc														
+na+	на+	na	na	Sa		19	8	9	case														
+zákon'	зáкон͛	zakon	zakon	Nmsnn		19	9	5	conj	iobj				1									
+dobrě`	добрѣ̀	dobrě	dobre	R		19	10	2	advmod														
+																							
+i+	и+	i	i	C		20	1	2	cc				and they died (ʺpresented themselvesʺ, i.e. to God)										
+prěstávixa+	прѣстáвиха+	prěstavixa	prestavja	Vmii3pe		20	2	0	root														
+se.	се.	se	se	Px---a		20	3	2	expl														
+																							
+i+	и+	i	i	C		21	1	2	cc				and St. Petka remained with her brother Euthymius, who became the bishop of Madytos										
+wstà	ѡстà	osta	ostana	Vmia3se		21	2	0	root														
+staa	стаа	staa	svęt	Afsny		21	3	4	amod														
+pet'ka,	пет͛ка,	petka	Petka	Nfsny		21	4	2	nsubj					1									
+sъs'+	със͛+	sъs	s	Si		21	5	6	case														
+bráta+	брáта+	brata	brat	Nmsgy		21	6	2	obl														
+sî	си̂	si	se	Px---d		21	7	6	nmod	poss													
+ev'tímïa	ев͛ти́мїа	evtimia	Evtimii	Nmsgy		21	8	6	appos														
+detô	дето̂	deto	deto	Pr		21	9	10	mark														
+bŷ	бы̂	bi	bъda	Vmia3se		21	10	6	acl														
+epskpь	епскпь	epskpъ	episkop	Nmsny		21	11	10	obj														
+na+	на+	na	na	Sa		21	12	13	case														
+ma_dítь,	ма_ди́ть,	maditъ	Madit	Nmsnn		21	13	11	nmod	poss				2									
+																							
+i+	и+	i	i	C		22	1	5	cc		54v	/img/petka/54v.JPG	and he did many miracles there										
+tói	то́и	toi	toi	Pp3msn		22	2	5	nsubj														
+mnw^go	мнѡ̂го	mnogo	mnogo	R		22	3	4	amod														
+čjúdo	чю́до	čjudo	čudo	Nnsnn		22	4	5	obj														
+pokaza	показа	pokaza	pokaža	Vmia3se		22	5	0	root														
+támo.	тáмо.	tamo	tamo	R		22	6	5	advmod														
+																							
+zaštô	защо̂	zašto	zašto	C		23	1	5	cc				because he had shone with his fasting and many good deeds as well (?)	1									
+bě´še	бѣ́ше	běše	sъm	Vaii3si		23	2	5	aux	pprf													
+i+	и+	i	i	C		23	3	5	cc														
+tóì	то́ѝ	toi	toi	Pp3msn		23	4	5	nsubj														
+prosvě´tilь	просвѣ́тиль	prosvětilъ	prosvětja	Vmp--se		23	5	0	root														
+sъs'	със͛	sъs	s	Si		23	6	7	case														
+póstь	по́сть	postъ	post	Nmsnn		23	7	5	obl														
+i	и	i	i	C		23	8	10	cc														
+mnw^go	мнѡ̂го	mnogo	mnogo	R		23	9	10	amod														
+do_brynì.	до_брынѝ.	dobrini	dobrina	Nfpnn		23	10	7	conj					1									
+																							
+zatovà+	затовà+	zatova	zatova	C		24	1	4	cc				for that reason he was canonized										
+se	се	se	se	Px---a		24	2	4	expl														
+i+	и+	i	i	C		24	3	4	cc														
+post҃ì.	пост҃ѝ.	posti	posvetja	Vmia3se		24	4	0	root														
+																							
+i	и	i	i	C		25	1	9	cc				and his relics cause a lot of miraculous healing until today										
+négovy,	не́говы,	negovi	negov	Afpnn		25	2	3	amod	poss													
+móšti,	мо́щи,	mošti	mošt	Nfpnn		25	3	9	nsubj														
+i	и	i	i	C		25	4	9	cc					1									
+do+	до+	do	do	Sg		25	5	6	case														
+dnéska	дне́ска	dneska	dnes	R		25	6	9	obl														
+čjúdno	чю́дно	čjudno	čuden	Ansnn		25	7	8	amod														
+iscěljénïe	исцѣлѥ́нїе	iscěljenie	izcelenie	Nnsnn		25	8	9	obj														
+čínětь.	чи́нѣть.	činětъ	činja	Vmip3pi		25	9	0	root														
+																							
+I+	И+	i	i	C		26	1	9	cc				and St. Petka, since she buried her parents, she gave them their due well									4	Desert Life
+staa	стаа	staa	svęt	Afsny		26	2	3	amod														
+pé_t'ka,	пе́_т͛ка,	petka	Petka	Nfsny		26	3	9	nsubj					1									
+wt+	ѿ+	ot	ot	Sg		26	4	5	case														
+katô	като̂	kato	kato	C		26	5	6	mark														
+pogrébe	погре́бе	pogrebe	pogreba	Vmia3se		26	6	9	advcl														
+rodítelje	роди́телѥ	roditelje	roditel	Nmpny		26	7	5	obj														
+svoì,	своѝ,	svoi	svoi	Ampnn		26	8	6	amod	poss													
+wt_rědí+	ѿ_рѣди́+	otrědi	otredja	Vmia3se		26	9	0	root					1		Demina et al. 641: otredjavam 'otreždam, otdeljam nešto za njakogo, opredeljam'							
+gy	гы	gi	tě	Pp3-pa		26	10	9	obj														
+dobrě`.	добрѣ̀.	dobrě	dobre	R		26	11	9	advmod														
+																							
+Togázi	Тогáзи	togazi	togazi	Pr		27	1	2	advmod				then she began with fasting, and meditation, and staying awake										
+započè	започѐ	započe	započna	Vmia3se		27	2	0	root														
+pos	пос	pos	post	Nmsnn		27	3	2	obj														
+i+	и+	i	i	C		27	4	5	cc														
+metánïe	метáнїе	metanie	metanie	Nnsnn		27	5	3	conj					1									
+i+	и+	i	i	C		27	6	7	cc														
+bdě´nïe,	бдѣ́нїе,	bděnie	bdenie	Nnsnn		27	7	5	conj														
+																							
+i+	и+	i	i	C		28	1	2	cc				and it came to her mind (ʺit wanted to herʺ) as an apostolic law										
+porévna+	поре́вна+	porevna	porevna	Vmia3se		28	2	0	root														
+ĭ+	й+	i	tja	Pp3fsd		28	3	2	obl	iobj													
+se	се	se	se	Px---a		28	4	2	expl														
+katô	като̂	kato	kato	C		28	5	7	mark														
+apslьskyʺ	апсльскы̏	apslъski	apostolski	Amsny		28	6	7	amod														
+zakon'.	закон͛.	zakon	zakon	Nmsnn		28	7	2	advcl					1									
+																							
+i+	и+	i	i	C		29	1	6	cc				and she laid herself on the ground without a bed										
+na+	на+	na	na	Sl		29	2	3	case														
+zemlja	землꙗ	zemlja	zemlja	Nfsnn		29	3	6	obl	lat													
+bez'+	без͛+	bez	bez	Sg		29	4	5	case														
+postélja	посте́лꙗ	postelja	postelja	Nfsnn		29	5	6	obl							Demina et al. 726: postelja 'mjasto za spane, leglo'							
+légnuvaše.	ле́гнꙋваше.	legnuvaše	legna	Vmii3se		29	6	0	root														
+																							
+I+	И+	i	i	C		30	1	7	cc				and then her heart was filled by a divine thought			Vuković 1536: wt+ soúdou+ že í+ bžstьvnyʺmь ráždeg'ši (se) žélaniemь.							
+wt+	ѿ+	ot	ot	Sg		30	2	3	case														
+túka	тꙋ́ка	tuka	tuka	R		30	3	7	advmod					1									
+pákь+	пáкь+	pakъ	pak	R		30	4	7	advmod														
+i+	и+	i	tja	Pp3fsd		30	5	7	obl	iobj													
+seʺ	се̏	se	se	Px---a		30	6	7	expl														
+isplь´ni	испль́ни	isplъni	izpъlnja	Vmia3se		30	7	0	root														
+srdcé+	срдце́+	srdce	sъrdce	Nnsnn		30	8	7	nsubj														
+to	то	to	tъ	Pd-nsn		30	9	8	det	p_nom													
+na+	на+	na	na	Sa		30	10	11	case														
+míslь	ми́сль	mislъ	misъl	Nfsnn		30	11	7	obl														
+bžstvnaa	бжствнаа	bžstvnaa	božestven	Afsny		30	12	11	amod					1									
+da+	да+	da	da	C		30	13	14	mark				to go into the desert										
+ide	иде	ide	ida	Vmip3si		30	14	11	acl														
+vъ+	въ+	vъ	v	Sa		30	15	16	case														
+pústinja.	пꙋ́стинꙗ.	pustinja	pustinja	Nfsnn		30	16	14	obl	lat													
+																							
+i+	и+	i	i	C		31	1	2	cc				and she ran from there										
+pobě´gna	побѣ́гна	poběgna	poběgna	Vmia3se		31	2	0	root														
+wt+	ѿ+	ot	ot	Sg		31	3	4	case														
+támo,	тáмо,	tamo	tamo	R		31	4	2	advmod														
+																							
+i+	и+	i	i	C		32	1	2	cc				and went to the desert										
+wt_idè	ѿ_идѐ	otide	otida	Vmia3se		32	2	0	root					1									
+na+	на+	na	na	Sa		32	3	4	case														
+pústynja,	пꙋ́стынꙗ,	pustinja	pustinja	Nfsnn		32	4	2	obl	lat													
+																							
+i+	и+	i	i	C		33	1	3	cc				and an angelic host lived there			Vuković 1536: <i>tamo ne+veštestvnoje i agglъskoje prěbivaše žitie</i>. The 'angelic host' is likely based on a misunderstanding of the verb in the following sentence by the editor. 							
+támo	тáмо	tamo	tamo	R		33	2	3	advmod														
+prěbývaše	прѣбы́ваше	prěbivaše	prebivam	Vmii3si		33	3	0	root														
+aggl'_skyi	аггл͛_скыи	agglskii	angelski	Amsny		33	4	5	amod					1									
+čínь.	чи́нь.	činъ	čin	Nmsnn		33	5	3	nsubj														
+																							
+i+	и+	i	i	C		34	1	2	cc				and (it?) followed her example as (if she were) Elijah or (ʺasʺ) John the Baptist			The sentence, involving a participial clause in the original, was likely misunderstood by the editor. Vuković 1536: <i>ničimže mъnjeje bgovidca ilie podražavaje žitelъstvo</i> 'imitating nothing less than the life of Prophet Eliah'.							
+podražà+	подражà+	podraža	podražavam	Vmia3si		34	2	0	root							Demina et al. 689: podražatel 'lice, koeto sledva primera na njakogo'							
+i	и	i	tja	Pp3fsd		34	3	2	obl	iobj													
+katô	като̂	kato	kato	C		34	4	5	mark														
+ilïa,	илїа,	ilia	Ilija	Nmsny		34	5	2	advcl														
+ilì	илѝ	ili	ili	C		34	6	8	cc														
+katô	като̂	kato	kato	C		34	7	8	mark					1									
+ıoánnь	ıоáннь	ioannъ	Ioan	Nmsny		34	8	5	conj														
+krstlja,	крстлꙗ,	krstlja	Krъstitel	Nmsgy		34	9	8	appos														
+pos,	пос,	pos	post	Nmsnn		34	10	2	obl				(with) fasting, staying awake, meditation and tears										
+i+	и+	i	i	C		34	11	12	cc														
+bdě´nïe	бдѣ́нїе	bděnie	bdenie	Nnsnn		34	12	10	conj														
+i+	и+	i	i	C		34	13	14	cc														
+metnïe	метнїе	metnie	metanie	Nnsnn		34	14	12	conj														
+i+	и+	i	i	C		34	15	16	cc														
+slъ´zy.	слъ́зы.	slъzi	sъlza	Nfpnn		34	16	14	conj					1									
+																							
+stúdь	стꙋ́дь	studъ	stud	Nmsnn		35	1	4	appos				cold and heat - she endured everything										
+i+	и+	i	i	C		35	2	3	cc														
+pékь,	пе́кь,	pekъ	pek	Nmsnn		35	3	1	conj														
+síč'ko	си́ч͛ко	sičko	vsičko	Nnsnn		35	4	5	obj														
+trьpě´še.	трьпѣ́ше.	trъpěše	tъrpja	Vmii3si		35	5	0	root														
+																							
+i+	и+	i	i	C		36	1	2	cc				and ate grass instead of food										
+vъkúsjuvaše	въкꙋ́сюваше	vъkusjuvaše	vkusvam	Vmii3si		36	2	0	root					1									
+trěvà	трѣвà	trěva	trěva	Nfsnn		36	3	2	obj														
+mě´sto	мѣ́сто	město	vmesto	Sg		36	4	5	mark														
+jastïe.	ꙗстїе.	jastie	jastie	Nnsnn		36	5	2	acl														
+i+	и+	i	i	C		36	6	7	mark				and (even) that (only) a little in the evening										
+toʺ	то̏	to	to	Qd		36	7	3	acl														
+po+	по+	po	po (2)	Qc		36	8	9	amod														
+mál'ko	мáл͛ко	malko	malko	R		36	9	7	amod														
+ná+	нá+	na	na	Sa		36	10	11	case														
+večerь	вечерь	večerъ	večer	Nfsnn		36	11	7	obl	loc				1									
+																							
+i+	и+	i	i	C		37	1	4	cc				and she prayed (ʺdid prayerʺ) perpetually										
+mlba	млба	mlba	molba	Nfsnn		37	2	4	obj							Demina et al. 490: molba '1. obrъštenie kъm njakogo s njakakvo iskane, prosba, 2. molitva, obrъštenie s iskane nešto kъm Boga i svetcite'							
+neprěstánno	непрѣстáнно	neprěstanno	neprestanno	R		37	3	4	advmod														
+číněše.	чи́нѣше.	činěše	činja	Vmii3si		37	4	0	root														
+																							
+i+	и+	i	i	C		38	1	4	cc				and she wouldn't have a thought about the world (?)										
+nìčtô	нѝчто̂	ničto	ništo	Pz		38	2	4	advmod														
+da+	да+	da	da	C		38	3	2	fixed														
+ima_še	има_ше	imaše	imam	Vmii3si		38	4	0	root					1									
+míslь	ми́сль	mislъ	misъl	Nfsnn		38	5	4	obj														
+za+	за+	za	za	Sa		38	6	7	case														
+mírь,	ми́рь,	mirъ	mir	Nmsnn		38	7	4	obl														
+ilì	илѝ	ili	ili	C		38	8	11	cc				nor about good clothes to wear										
+za+	за+	za	za 	Sa		38	9	11	case														
+dobrà	добрà	dobra	dobъr	Afsnn		38	10	11	amod														
+wdéžda	ѡде́жда	odežda	odežda	Nfsnn		38	11	7	conj														
+da+	да+	da	da	C		38	12	14	mark														
+se	се	se	se	Px---a		38	13	14	expl					1									
+wblěčè.	ѡблѣчѐ.	oblěče	obleka	Vmip3se		38	14	11	acl														
+ilì	илѝ	ili	ili	C		38	15	17	cc				nor about a house and goods and wealth										
+za+	за+	za	za	Sa		38	16	17	case														
+dómь	до́мь	domъ	dom	Nmsnn		38	17	11	conj														
+i+	и+	i	i	C		38	18	19	cc														
+za+	за+	za	za	Sa		38	19	20	case														
+stóka,	сто́ка,	stoka	stoka	Nfsnn		38	20	17	conj														
+i+	и+	i	i	C		38	21	23	cc														
+za+	за+	za	za	Sa		38	22	23	case														
+imánïe.	имáнїе.	imanie	imenie	Nnsnn		38	23	20	conj					1									
+																							
+amì	амѝ	ami	ami	C		39	1	8	cc				but only her eyes were filled by tears and prayers to God										
+tь´k'mo	ть́к͛мо	tъkmo	tъkmo	R		39	2	8	advmod														
+ꙫčí+	ꙫчи́+	oči	oko	Nndnn		39	3	8	nsubj														
+te	те	te	tъ	Pd-ndn		39	4	3	det	p_nom													
+i	и	i	tja	Pp3fsd		39	5	3	nmod	poss													
+bě´xa	бѣ́ха	běxa	sъm	Vaii3pi		39	6	8	aux	pass													
+slь´zy	сль́зы	slъzi	sъlza	Nfpnn		39	7	8	obl														
+naplь´njeni	напль́нѥни	naplъnjeni	napъlnja	Vmpa-pe	Andnn	39	8	0	root					1									
+i+	и+	i	i	C		39	9	12	cc														
+mlba	млба	mlba	molba	Nfsnn		39	10	7	conj														
+na+	на+	na	na	Sa		39	11	12	case														
+ba.	ба.	ba	bog	Nmsgy		39	12	10	nmod	iobj													
+																							
+i+	и+	i	i	C		40	1	7	cc				and all of her thoughts were the hope of the Lord God										
+síč'ka	си́ч͛ка	sička	sički	Afsnn		40	2	3	amod														
+mýslь	мы́сль	mislъ	misъl	Nfsnn		40	3	7	nsubj														
+bě´še	бѣ́ше	běše	sъm	Vmii3si		40	4	7	cop														
+i+	и+	i	tja	Pp3fsd		40	5	3	nmod	iobj													
+ı+	ı+	i	i	C		40	6	7	cc														
+nadéžda	наде́жда	nadežda	nadežda	Nfsnn		40	7	0	root					1									
+na+	на+	na	na	Sa		40	8	9	case														
+ga	га	ga	Gospod	Nmsgy		40	9	7	obl	iobj													
+ba.	ба.	ba	bog	Nmsgy		40	10	9	appos														
+																							
+i+	и+	i	i	C		41	1	2	cc				and she thought about the Second Coming, about the Divine Judgment										
+pomýsljuvaše	помы́слюваше	pomisljuvaše	pomisljuvam	Vmii3si		41	2	0	root														
+za+	за+	za	za	Sa		41	3	5	case														
+vtóro	вто́ро	vtoro	vtori	Ansnn		41	4	5	amod														
+prišь´stvïe	пришь́ствїе	prišъstvie	prišestvie	Nnsnn		41	5	2	obl					1									
+za+	за+	za	za	Sa		41	6	8	case														
+bžïe	бжїе	bžie	božii	Ansnn	Amsoy	41	7	8	amod	poss:p_nom						< <i>boži+jă(t)?</i>							
+súdь.	сꙋ́дь.	sudъ	sъd	Nmsnn		41	8	5	conj														
+i+	и+	i	i	C		41	9	13	cc				and how to decorate her soul, to meet Christ the God with a decorated (prepared) lamp										
+kákь	кáкь	kakъ	kak	Pq		41	10	13	mark														
+da+	да+	da	da	C		41	11	10	fixed														
+si	си	si	se	Px---d		41	12	13	expl														
+ukrasì	ꙋкрасѝ	ukrasi	ukrasja	Vmip3se		41	13	2	advcl														
+dšь´+	дшь́+	dšъ	duša	Nfsoy		41	14	13	obj														
+ta,	та,	ta	tъ	Pd-fsn		41	15	14	det	p_nom													
+da	да	da	da	C		41	16	17	mark					1									
+srě´št'ne	срѣ́щ͛не	srěštne	sreštna	Vmip3se		41	17	13	advcl														
+xa	ха	xa	Xristos	Nmsgy		41	18	17	obj														
+ba	ба	ba	bog	Nmsgy		41	19	18	appos														
+sъ+	съ+	sъ	s	Si		41	20	21	case														
+světíl'nikь	свѣти́л͛никь	světilnikъ	světilnik	Nmsnn		41	21	17	obl														
+ukrasénь.	ꙋкрасе́нь.	ukrasenъ	ukrasja	Amsnn	Vmpa-se	41	22	21	amod														
+i+	и+	i	i	C		41	23	27	cc				and what good deed should she do										
+kak'_vô	как͛_во̂	kakvo	kakvo	Ansnn		41	24	25	amod					1									
+dobrô	добро̂	dobro	dobro	Nnsnn		41	25	27	obj														
+da+	да+	da	da	C		41	26	27	mark														
+stóri,	сто́ри,	stori	storja	Vmip3se		41	27	17	conj														
+da+	да+	da	da	C		41	28	29	mark				to hear that meek voice of the Lord God										
+čjúe	чю́е	čjue	čuja	Vmip3si		41	29	27	advcl														
+togázi	тогáзи	togazi	togazi	Pr		41	30	29	advmod														
+glas	глас	glas	glas	Nmsnn		41	31	29	obj														
+krót'kь	кро́т͛кь	krotkъ	krotъk	Amsnn		41	32	31	amod					1		Demina et al. 423: krotăk 'kojto e s blag, dobrodušen nrav, tix, smiren'							
+wt	ѿ	ot	ot	Sg		41	33	34	case														
+ga	га	ga	Gospod	Nmsgy		41	34	31	nmod														
+ba.	ба.	ba	bog	Nmsgy		41	35	34	appos														
+i+	и+	i	i	C		41	36	40	cc				and how to fill the lamp with oil			Mt 25:1-13							
+kákь	кáкь	kakъ	kak	Pq		41	37	40	mark														
+da+	да+	da	da	C		41	38	37	fixed														
+sì	сѝ	si	se	Px---d		41	39	40	expl														
+isplь´ni	испль́ни	isplъni	izpъlnja	Vmip3se		41	40	27	conj														
+svě´til'nikь	свѣ́тил͛никь	světilnikъ	světilnik	Nmsnn		41	41	40	obj					1									
+sъs'+	със͛+	sъs	s	Si		41	42	43	case														
+máslo	мáсло	maslo	maslo	Nnsnn		41	43	40	obl														
+da+	да+	da	da	C		41	44	45	mark				to enter the Paradise with the wise maidens										
+ulě´ze	ꙋлѣ́зе	ulěze	vlěza	Vmip3se		41	45	40	advcl														
+sъs'+	със͛+	sъs	s	Si		41	46	45	case														
+múdry+	мꙋ́дры+	mudri	mъdъr	Afpnn		41	47	45	amod														
+te	те	te	tъ	Pd-fpn		41	48	47	det	p_adj													
+děvíci	дѣви́ци	děvici	devica	Nfpny		41	49	45	obl														
+vъ+	въ+	vъ	v	Sa		41	50	51	case														
+rái,	рáи,	rai	rai	Nmsnn		41	51	49	nmod	lat				1									
+da+	да+	da	da	C		41	52	54	mark				to satisfy herself with the heavenly glory and (the) beauty and (the) light										
+se	се	se	se	Px---a		41	53	54	expl														
+nasýti	насы́ти	nasiti	nasitja	Vmip3se		41	54	45	advcl														
+krasota	красота	krasota	krasota	Nfsnn		41	55	54	obl														
+ráiskaa,	рáискаа,	raiskaa	raiski	Afsny		41	56	55	amod														
+i+	и+	i	i	C		41	57	58	cc														
+xúbostь	хꙋ́бость	xubostъ	xubost	Nfsnn		41	58	55	conj														
+i	и	i	i	C		41	59	60	cc					1									
+svě´tlo.	свѣ́тло.	světlo	světlo	Nnsnn		41	60	58	conj														
+i+	и+	i	i	C		41	61	62	cc				and (the) angelic songs										
+pě´sni	пѣ́сни	pěsni	pesen	Nfpnn		41	62	60	conj														
+aggl'sky.	аггл͛скы.	agglski	angelski	Afpnn		41	63	62	amod														
+																							
+tь´k'mo	ть́к͛мо	tъkmo	tъkmo	R		42	1	5	advmod				her thoughts were (directed) only for that										
+za+	за+	za	za	Sa		42	2	3	case														
+tovà+	товà+	tova	tova	Pd-nsn		42	3	5	obl														
+iʺ+	и̏+	i	tja	Pp3fsd		42	4	5	obl	iobj				1									
+bě´še	бѣ́ше	běše	sъm	Vmii3si		42	5	0	root														
+mýslь,	мы́сль,	mislъ	misъl	Nfsnn		42	6	5	nsubj														
+																							
+i	и	i	i	C		43	1	3	cc				and she yearned powerfully in her heart how to receive that boon										
+tvrь´dě	тврь́дѣ	tvrъdě	tvъrdo	R		43	2	3	advmod														
+tьgúvaše	тьгꙋ́ваше	tъguvaše	tъguvam	Vmii3si		43	3	0	root														
+sъ+	съ+	sъ	s	Si		43	4	5	case														
+srdce+	срдце+	srdce	sъrdce	Nnsnn		43	5	3	obl														
+to+	то+	to	tъ	Pd-nsn		43	6	5	det	p_nom													
+sî.	си̂.	si	se	Px---d		43	7	5	nmod					1									
+kákь	кáкь	kakъ	kak	Pq		43	8	10	mark														
+da+	да+	da	da	C		43	9	8	fixed														
+polúči	полꙋ́чи	poluči	poluča	Vmip3se		43	10	3	advcl														
+onovà	оновà	onova	onova	Pd-nsn		43	11	12	det														
+dobrô.	добро̂.	dobro	dobro	Nnsnn		43	12	10	obj														
+																							
+I+	И+	i	i	C		44	1	3	cc				and thus she lived her life on that desert for a long time									5	Struggle with the Devil
+takà	такà	taka	taka	Pr		44	2	3	advmod														
+provážda_še	провáжда_ше	provaždaše	provaždam	Vmii3si		44	3	0	root					2		Demina et al. 768: provaždam '1. preživjavam, prekarvam vremeto si po opredelen način, 2. praštam njakogo njakъde s izvestna cel, 3. pridružavam njakogo v negovija pъt							
+svoì	своѝ	svoi	svoi	Amsny		44	4	5	amod	poss	55r	/img/petka/55r.JPG											
+živótь	живо́ть	životъ	život	Nmsnn		44	5	3	obj														
+po+	по+	po	po	Sl		44	6	8	case														
+wnъ´zi	ѡнъ́зи	onъzi	onzi	Pd-fsa		44	7	8	det														
+pústynja	пꙋ́стынꙗ	pustinja	pustinja	Nfsnn		44	8	3	obl	loc													
+za+	за+	za	za	Sa		44	9	11	case														
+mnw^go	мнѡ̂го	mnogo	mnogo	R		44	10	11	amod					1									
+vrě´mê.	врѣ́ме̂.	vrěme	vreme	Nnsnn		44	11	3	obl														
+																							
+a+	а+	a	a	C		45	1	8	cc				but the evil Devil didn't cease to frighten her										
+lukávyi	лꙋкáвыи	lukavii	lukav	Amsny		45	2	3	amod														
+dïávolь	дїáволь	diavolъ	diavol	Nmsny		45	3	8	nsubj														
+ne+	не+	ne	ne	Qz		45	4	5	advmod														
+prěstánuvaše	прѣстáнꙋваше	prěstanuvaše	prestavam	Vmii3si		45	5	8	aux					1									
+da+	да+	da	da	C		45	6	5	fixed	inf													
+jù	ю̀	ju	tja	Pp3fsa		45	7	8	obj														
+pláši.	плáши.	plaši	plaša	Vmip3si		45	8	0	root														
+																							
+i+	и+	i	i	C		46	1	5	cc				and many times (he) changed himself to a terrible beast										
+mnw^go	мнѡ̂го	mnogo	mnogo	R		46	2	3	amod														
+pъ´ti+	пъ́ти+	pъti	pъt	Nmpnn		46	3	5	nmod							Demina et al. 821: pъt II 'v sъčetanie s čislitelno brojno ili narečija za količestvo posočva naličie ili otsъstvie na povtorjaemost na dejstvieto', lemma različaet sę ot pǫt (Demina et al. 820: pъt I, pl. pъtišta)							
+seʺ	се̏	se	se	Px---a		46	4	5	expl														
+prětváraše	прѣтвáраше	prětvaraše	pretvorja	Vmii3se		46	5	0	root					1									
+katô	като̂	kato	kato	C		46	6	7	mark														
+źvěrь	ѕвѣрь	zvěrъ	zvěr	Nmsnn		46	7	5	advcl														
+strášnь,	стрáшнь,	strašnъ	strašen	Amsnn		46	8	7	amod														
+davnô	давно̂	davno	davno	R		46	9	14	mark				to frighten her (and thus force her) to leave the desert										
+bŷ	бы̂	bi	bъda	Vao-3se		46	10	12	aux	con													
+jù	ю̀	ju	tja	Pp3fsa		46	11	12	obj														
+uplaši_lь	ꙋплаши_ль	uplašilъ	uplaša	Vmp--se		46	12	5	advcl					1									
+da+	да+	da	da	C		46	13	14	mark														
+ostávi	остáви	ostavi	ostavja	Vmip3se		46	14	12	advcl														
+pústynja.	пꙋ́стынꙗ.	pustinja	pustinja	Nfsnn		46	15	14	obj														
+																							
+àmi	àми	ami	ami	C		47	1	4	cc				but St. Petka had God (as a) helper										
+staa	стаа	staa	svęt	Afsny		47	2	3	amod														
+pét'ka	пе́т͛ка	petka	Petka	Nfsny		47	3	4	nsubj					1									
+imáše	имáше	imaše	imam	Vmii3si		47	4	0	root														
+ba	ба	ba	bog	Nmsgy		47	5	4	obj														
+pomóštnika.	помо́щника.	pomoštnika	pomoštnik	Nmsgy		47	6	4	obl														
+																							
+i+	и+	i	i	C		48	1	3	cc				and the tears didn't stop (to flow) from her eyes										
+ne+	не+	ne	ne	Qz		48	2	3	advmod														
+prěstánuvaxa+	прѣстáнꙋваха+	prěstanuvaxa	prestavam	Vmii3pi		48	3	0	root														
+ì	ѝ	i	tja	Pp3fsd		48	4	3	obl					1									
+slь´zi	сль́зи	slъzi	sъlza	Nfpnn		48	5	3	nsubj														
+wt+	ѿ+	ot	ot	Sg		48	6	7	case														
+ꙫčí+	ꙫчи́+	oči	oko	Nndnn		48	7	3	obl	abl													
+te.	те.	te	tъ	Pd-ndn		48	8	7	det	p_nom													
+																							
+i+	и+	i	i	C		49	1	5	cc				and all the devilish cunning was vain because of (ʺdisappeared fromʺ)  her prayer										
+síč'ka	си́ч͛ка	sička	sički	Afsnn		49	2	3	amod														
+xýtros	хы́трос	xitros	xitrost	Nfsnn		49	3	5	nsubj														
+dïávol'skaa	дїáвол͛скаа	diavolskaa	diavolski	Afsny		49	4	3	amod					1									
+isčéznuvaše	исче́знꙋваше	isčeznuvaše	izčezna	Vmii3se		49	5	0	root														
+wt+	ѿ+	ot	ot	Sg		49	6	9	case														
+njéina+	нѥ́ина+	njeina	nein	Afsnn		49	7	9	amod	poss													
+ta	та	ta	tъ	Pd-fsn		49	8	7	det	p_adj													
+mlba	млба	mlba	molba	Nfsnn		49	9	5	obl														
+																							
+Tak'vъ´zi	Так͛въ́зи	takvъzi	takъvzi	Pd-fso		50	1	2	amod				such a power she had acquired from God	1									
+síla	си́ла	sila	sila	Nfsnn		50	2	4	obj														
+bě´še	бѣ́ше	běše	sъm	Vaii3si		50	3	4	aux	pprf													
+dobýla	добы́ла	dobila	dobija	Vmp--se		50	4	0	root														
+wt+	ѿ+	ot	ot	Sg		50	5	6	case														
+ba.	ба.	ba	bog	Nmsgy		50	6	4	obl														
+																							
+i+	и+	i	i	C		51	1	5	cc				and thus she had decided to live										
+tь´i+	ть́и+	tъi	tъi	R		51	2	5	advmod														
+se	се	se	se	Px---a		51	3	5	expl														
+bě´še	бѣ́ше	běše	sъm	Vaii3si		51	4	5	aux	pprf													
+pod_kánila,	под_кáнила,	podkanila	podkanja	Vmp--se		51	5	0	root					1		Demina et al. 688: podkanja 'nakaram njakogo da postъpi po opredelen način'							
+																							
+makárь	макáрь	makarъ	makar	Qg		52	1	4	advmod				altough she was a woman										
+da+	да+	da	da	C		52	2	1	aux	opt													
+bě´še	бѣ́ше	běše	sъm	Vmii3si		52	3	4	cop														
+ženâ	женâ	žena	žena	Nfsny		52	4	0	root														
+																							
+àmì	àмѝ	ami	ami	C		53	1	3	cc				but she was filled (by the) Holy Spirit										
+bě´še	бѣ́ше	běše	sъm	Vaii3si		53	2	3	aux	pass				1									
+isplь´njena	испль́нѥна	isplъnjena	izpъlnja	Vmpa-se	Afsnn	53	3	0	root														
+dxa	дха	dxa	dux	Nmsgy		53	4	3	obl														
+stgo.	стго.	stgo	svęt	Amsgy		53	5	4	amod														
+																							
+i+	и+	i	i	C		54	1	2	cc				and the devilish force ran away from her										
+bě´gaše	бѣ́гаше	běgaše	běgam	Vmii3si		54	2	0	root														
+wt+	ѿ+	ot	ot	Sg		54	3	4	case														
+njéa	нѥ́а	njea	tja	Pp3fsg		54	4	2	obl	abl													
+síla	си́ла	sila	sila	Nfsnn		54	5	2	nsubj					1									
+dïavol'ska	дїавол͛ска	diavolska	diavolski	Afsnn		54	6	5	amod														
+																							
+i+	и+	i	i	C		55	1	2	cc				and disappeared as a smoke.										
+isčéznuvaše	исче́знꙋваше	isčeznuvaše	izčeznuvam	Vmii3si		55	2	0	root														
+katô	като̂	kato	kato	C		55	3	4	mark														
+dýmь.	ды́мь.	dimъ	dim	Nmsnn		55	4	2	advcl														
+																							
+dvdь	двдь	dvdъ	David	Nmsny		56	1	6	nsubj				King David prophesized about such women	1									
+crь.	црь.	crъ	car	Nmsny		56	2	1	appos														
+za+	за+	za	za	Sa		56	3	5	case														
+tak'vizi	так͛визи	takvizi	takъvzi	Pd-fpn		56	4	5	amod														
+žény	же́ны	ženi	žena	Nfpnn		56	5	6	obl														
+prrokúvaše,	пррокꙋ́ваше,	prrokuvaše	prorokuvam	Vmii3si		56	6	0	root														
+																							
+i+	и+	i	i	C		57	1	2	cc				and said:										
+káže,	кáже,	kaže	kaža	Vmia3se		57	2	0	root					1									
+																							
+vъždelě´etь	въжделѣ́еть	vъždelěetъ	vъždelěti	Vmip3se		58	1	0	root				ʺLet the king be enthralled by your beautyʺ			Ps 45:11 NIV							
+crь	црь	crъ	car	Nmsny		58	2	1	nsubj							CS: vozželáetъ crь dobróty tvoeę` (Ps 44:11)							
+dóbrotě	до́бротѣ	dobrotě	dobrota	Nfsdn		58	3	1	obj							Vuković 1536: vьždélějetь crь dóbro_tě tvojeì							
+tvoeì.	твоеѝ.	tvoei	tvoi	Afsdy		58	4	3	amod	poss													
+																							
+i+	и+	i	i	C		59	1	8	cc				and thus lived St. Petka for many years in the desert greatly fasting										
+takà	такà	taka	taka	Pr		59	2	8	advmod					1									
+staa	стаа	staa	svęt	Afsny		59	3	4	amod														
+pét'ka	пе́т͛ка	petka	Petka	Nmsny		59	4	8	nsubj														
+sъs'+	със͛+	sъs	s	Si		59	5	7	case														
+golě´mь	голѣ́мь	golěmъ	golěm	Amsnn		59	6	7	amod														
+pos	пос	pos	post	Nmsnn		59	7	8	obl														
+prěbŷ	прѣбы̂	prěbi	prebъda	Vmia3se		59	8	0	root														
+mnw^go	мнѡ̂го	mnogo	mnogo	R		59	9	10	amod					1									
+godíny	годи́ны	godini	godina	Nfpnn		59	10	8	nmod														
+vъ+	въ+	vъ	v	Sl		59	11	12	case														
+pústinja	пꙋ́стинꙗ	pustinja	pustinja	Nfsnn		59	12	8	obl														
+																							
+I+	И+	i	i	C		60	1	21	cc				and (ʺinʺ) one night									6	Petka in Blachernae
+vъ+	въ+	vъ	v	Sl		60	2	4	case														
+ednà	еднà	edna	edin	Afsnn		60	3	4	det														
+nóštь	но́щь	noštъ	nošt	Nfsnn		60	4	21	obl	loc													
+katô+	като̂+	kato	kato	C		60	5	7	mark														
+si	си	si	se	Px---d		60	6	7	expl				as she was doing her prayers and meditation	1									
+číněše	чи́нѣше	činěše	činja	Vmii3si		60	7	21	advcl														
+mól'ba	мо́л͛ба	molba	molba	Nfsnn		60	8	7	obj														
+i+	и+	i	i	C		60	9	10	cc														
+metánïe.	метáнїе.	metanie	metanie	Nnsnn		60	10	8	conj														
+i+	и+	i	i	C		60	11	15	cc				and she raised her hands high and wept										
+rucě+	рꙋцѣ+	rucě	rъka	Nfdnn		60	12	15	obj														
+te+	те+	te	tъ	Pd-fpn		60	13	12	det	p_nom													
+sî	си̂	si	se	Px---d		60	14	12	nmod														
+vdíga_še	вди́га_ше	vdigaše	vdigam	Vmii3si		60	15	7	conj					1									
+nagórě	наго́рѣ	nagorě	nagore	R		60	16	15	advmod														
+i+	и+	i	i	C		60	17	18	cc														
+pláčěše.	плáчѣше.	plačěše	plača	Vmii3si		60	18	15	conj														
+i+	и+	i	i	C		60	19	21	cc				and suddenly she saw a divine apparition										
+náprasno	нáпрасно	naprasno	naprasno	R		60	20	21	advmod							Demina et al. 528: naprasno 'izvednъž, nenadejno, neočakvano'							
+vidě`	видѣ̀	vidě	vidja	Vmia3si		60	21	0	root														
+bžs_t´vno	бжс_т́вно	bžstvno	božestven	Ansnn		60	22	23	amod					1									
+vidě´nïe	видѣ́нїе	viděnie	videnie	Nnsnn		60	23	21	obj														
+																							
+edínь	еди́нь	edinъ	edin	Amsnn		61	1	2	det				an angel appeared to her as a young boy										
+agglь	аггль	agglъ	angel	Nmsny		61	2	5	nsubj														
+i	и	i	tja	Pp3fsd		61	3	5	obl	iobj													
+seʺ	се̏	se	se	Px---a		61	4	5	expl														
+javì	ꙗвѝ	javi	javja	Vmia3se		61	5	0	root														
+katô	като̂	kato	kato	C		61	6	9	mark					1									
+ně´koi	нѣ́кои	někoi	někoi	Amsny		61	7	9	det														
+mládь	млáдь	mladъ	mlad	Amsnn		61	8	9	amod														
+mom'kь.	мом͛кь.	momkъ	momъk	Nmsny		61	9	5	advcl														
+																							
+i+	и+	i	i	C		62	1	2	cc				and (he) shined as a candle										
+svě´ti,	свѣ́ти,	světi	světja	Vmia3si		62	2	0	root														
+katô	като̂	kato	kato	C		62	3	4	mark														
+svěštь.	свѣщь.	svěštъ	svešt	Nfsnn		62	4	2	advcl					1									
+																							
+i+	и+	i	i	C		63	1	2	cc				and he said to her:										
+réče	ре́че	reče	reka	Vmia3se		63	2	0	root														
+éi.	е́и.	ei	tja	Pp3fsd		63	3	2	obl	iobj													
+																							
+da+	да+	da	da	C		64	1	2	aux	opt			ʺ(you should) leave the desertʺ										
+wstávišь	ѡстáвишь	ostavišъ	ostavja	Vmip2se		64	2	0	root														
+pústynja+	пꙋ́стынꙗ+	pustinia	pustinja	Nfsnn		64	3	2	obj														
+ta,	та,	ta	tъ	Pd-fsn		64	4	3	det	p_nom													
+																							
+i+	и+	i	i	C		65	1	2	cc				ʺand go back to your homelandʺ										
+idì+	идѝ+	idi	ida	Vmm-2si		65	2	0	root														
+sî	си̂	si	se	Px---d		65	3	2	expl					1									
+pákь	пáкь	pakъ	pak	R		65	4	2	advmod														
+nazádь	назáдь	nazadъ	nazad	R		65	5	2	advmod														
+na+	на+	na	na	Sa		65	6	8	case														
+tvoè	твоѐ	tvoe	tvoi	Ansny		65	7	8	amod	poss													
+wtčьstvo.	ѿчьство.	otčъstvo	otečestvo	Nnsnn		65	8	2	obl	lat						Ljub.d.: báštnina							
+																							
+zaštô	защо̂	zašto	zašto	C		66	1	4	cc				ʺbecause it is good for you to leave your body thereʺ										
+támo	тáмо	tamo	tamo	R		66	2	4	advmod					1									
+tyʺ	ты̏	ti	ti	Pp2-sn		66	3	4	obl	iobj													
+podobáe	подобáе	podobae	podobati	Vaip3si		66	4	0	root														
+(da)+	(да)+	da	da	C		66	5	7	mark							iztrito i doplьneno							
+sî	си̂	si	se	Px---d		66	6	7	expl														
+wstávišь	ѡстáвишь	ostavišъ	ostavja	Vmip2se		66	7	4	advcl														
+těló+	тѣло́+	tělo	tělo	Nnsnn		66	8	7	obj														
+to.	то.	to	tъ	Pd-nsn		66	9	8	det	p_nom													
+																							
+a+	а+	a	a	C		67	1	7	cc				ʺand your soul shall be in the beautiful and immaterial Paradiseʺ										
+dšá	дшá	dša	duša	Nfsny		67	2	7	nsubj					1									
+ta+	та+	ta	tъ	Pd-fsn		67	3	2	det	p_nom													
+ti	ти	ti	ti	Pp2-sd		67	4	2	nmod	poss													
+šteʺ	ще̏	šte	šta	Vaip3si		67	5	7	aux	fut													
+(da)+	(да)+	da	da	C		67	6	5	fixed	inf						iztrito, no ličitь sę čęstь bukvy <д>							
+búde	бꙋ́де	bude	bъda	Vmip3se		67	7	0	root														
+na+	на+	na	na	Sl		67	8	13	case							Ljub.d.: na+ xúbavyʺ i+ na+ slád'kyʺ rái.							
+krásnyi	крáсныи	krasnii	krasen	Amsny		67	9	13	amod														
+i+	и+	i	i	C		67	10	12	cc														
+ne+	не+	ne	ne	Qz		67	11	12	amod							Demina et al. 545: neveštestestven 'kojto ne e izgraden ot veštestvo, nematerialen'							
+veštestь´vnyi	вещесть́вныи	veštestъvnii	veštestven	Amsny		67	12	9	conj					1									
+rái.	рáи.	rai	rai	Nmsnn		67	13	7	obl	loc													
+																							
+Katô	Като̂	kato	kato	C		68	1	2	mark				as St. Petka saw this apparition and heard those words										
+(ví)dě	(ви́)дѣ	vidě	vidja	Vmia3si		68	2	11	advcl														
+staa	стаа	staa	svęt	Afsny		68	3	4	amod														
+pétka	пе́тка	petka	Petka	Nfsny		68	4	2	nsubj														
+tovà	товà	tova	tova	Pd-nsn		68	5	6	det														
+vidě´nie,	видѣ́ние,	viděnie	videnie	Nnsnn		68	6	2	obj					1									
+i+	и+	i	i	C		68	7	8	cc														
+čju	чю	čju	čuja	Vmia3si		68	8	2	conj														
+tïjá	тїꙗ́	tija	tozi	Pd-fpn		68	9	10	det														
+d(umì).	д(ꙋмѝ).	dumi	duma	Nfpnn		68	10	8	obj														
+razumě`	разꙋмѣ̀	razumě	razumeja	Vmia3se		68	11	0	root				she understood, that this apparition was from God										
+če+	че+	če	če	C		68	12	13	mark														
+è	ѐ	e	sъm	Vmip3si		68	13	11	advcl														
+wt+	ѿ+	ot	ot	Sg		68	14	15	case														
+ba	ба	ba	bog	Nmsgy		68	15	13	obl	abl													
+tovà	товà	tova	tova	Pd-nsn		68	16	17	det														
+vidě´_nïe	видѣ́_нїе	viděnie	videnie	Nnsnn		68	17	13	nsubj					1									
+																							
+i+	и+	i	i	C		69	1	2	cc				and she found out that she will die soon										
+poznà	познà	pozna	poznaja	Vmia3se		69	2	0	root														
+(čï)	(чї)	či	če	C		69	3	7	mark														
+štè	щѐ	šte	šta	Vaip3si		69	4	7	aux	fut													
+da+	да+	da	da	C		69	5	4	fixed	inf													
+se	се	se	se	Px---a		69	6	7	expl														
+prěstávi	прѣстáви	prěstavi	prestavja	Vmip3se		69	7	2	advcl														
+skóro,	ско́ро,	skoro	skoro	R		69	8	7	advmod														
+																							
+i+	и+	i	i	C		70	1	2	cc				and she was glad										
+za_raduva+	за_радꙋва+	zaraduva	zaradvam	Vmia3se		70	2	0	root					1									
+se	се	se	se	Px---a		70	3	2	expl														
+																							
+i+	и+	i	i	C		71	1	2	cc				and she worried:										
+grï(ž)ěše+	грї(ж)ѣше+	grižěše	grižja	Vmii3si		71	2	0	root														
+se	се	se	se	Px---a		71	3	2	expl														
+																							
+kak'+	как͛+	kak	kak	Pq		72	1	3	advmod				ʺhow can I leave the desert?ʺ										
+sî	си̂	si	se	Px---d		72	2	3	expl														
+ostávě	остáвѣ	ostavě	ostavja	Vmip1se		72	3	0	root														
+pústy_nja+	пꙋ́сты_нꙗ+	pustinja	pustinja	Nfsnn		72	4	3	obj					1									
+ta.	та.	ta	tъ	Pd-fsn		72	5	4	det	p_nom													
+																							
+zašt(o)	защ(о)	zašto	zašto	C		73	1	7	cc				because nothing else can purify the human soul as a desert			<o> iztrito							
+ne+	не+	ne	ne	Qz		73	2	3	advmod														
+móže	мо́же	može	moga	Vaip3si		73	3	7	aux														
+níšto	ни́що	ništo	ništo	Pz		73	4	7	nsubj														
+drúgo	дрꙋ́го	drugo	drug	Ansnn		73	5	4	amod														
+da+	да+	da	da	C		73	6	3	fixed	inf													
+wčísti	ѡчи́сти	očisti	očistja	Vmip3se		73	7	0	root					1									
+člku	члкꙋ	člku	človek	Nmsdy		73	8	7	obl	iobj													
+dš(a)+	дш(а)+	dša	duša	Nfsny		73	9	7	obj														
+(ta),	(та),	ta	tъ	Pd-fsn		73	10	9	det	p_nom													
+katô	като̂	kato	kato	C		73	11	12	mark														
+pustynja.	пꙋстынꙗ.	pustinja	pustinja	Nfsnn		73	12	7	advcl														
+																							
+I+	И+	i	i	C		74	1	17	cc				and then, as St. Petka heard that voice										
+togazì	тогазѝ	togazi	togazi	Pr		74	2	17	advmod					2									
+staa	стаа	staa	svęt	Afsny		74	3	4	amod		55v	/img/petka/55v.JPG											
+pet'ka	пет͛ка	petka	Petka	Nfsny		74	4	17	nsubj														
+katô	като̂	kato	kato	C		74	5	6	mark														
+čjû	чю̂	čju	čuja	Vmia3si		74	6	17	advcl														
+w´n'zi	ѡ́н͛зи	onzi	onzi	Pd-msn		74	7	8	det	ext													
+glàs,	глàс,	glas	glas	Nmsnn		74	8	6	obj														
+i+	и+	i	i	C		74	9	14	mark				even though she didn't want										
+da+	да+	da	da	C		74	10	14	aux	opt													
+i+	и+	i	tja	Pp3fsd		74	11	14	obl	iobj													
+sè	сѐ	se	se	Px---a		74	12	14	expl														
+ne	не	ne	ne	Qz		74	13	14	advmod					1									
+ště´še.	щѣ́ше.	štěše	šta	Vmii3si		74	14	17	advcl														
+à+	à+	a	a	C		74	15	17	cc				she left that desert										
+tïja	тїꙗ	tija	tja	Pp3fsn		74	16	4	expl														
+w´stávi	ѡ́стáви	ostavi	ostavja	Vmia3se		74	17	0	root														
+wnь´zi	ѡнь́зи	onъzi	onzi	Pd-fsa		74	18	19	det	ext													
+pústynja.	пꙋ́стынꙗ.	pustinja	pustinja	Nfsnn		74	19	17	obj					1									
+																							
+I+	И+	i	i	C		75	1	2	cc				and first she went to Tsarigrad										
+poidè	поидѐ	poide	poida	Vmia3se		75	2	0	root														
+prь´věnь	прь́вѣнь	prъvěnъ	pъrvěn	R		75	3	2	advmod														
+na+	на+	na	na	Sa		75	4	5	case														
+cári_grádь,	цáри_грáдь,	carigradъ	Carigrad	Nmsnn		75	5	2	obl	lat													
+																							
+i+	и+	i	i	C		76	1	2	cc				and entered the church of Christ										
+ulě´ze	ꙋлѣ́зе	ulěze	vlěza	Vmia3se		76	2	0	root														
+u	ꙋ	u	u	Sg		76	3	4	case					1									
+crkva	црква	crkva	cъrkva	Nfsnn		76	4	2	obl	lat													
+xva.	хва.	xva	Xristov	Afsnn		76	5	4	amod	poss													
+																							
+i+	и+	i	i	C		77	1	4	cc				and she prayed (ʺdid prayerʺ) perpetually										
+mlba	млба	mlba	molba	Nfsnn		77	2	4	obj														
+neprěstánno	непрѣстáнно	neprěstanno	neprestanno	R		77	3	4	advmod														
+číněše.	чи́нѣше.	činěše	činja	Vmii3si		77	4	0	root														
+																							
+kak'+	как͛+	kak	kak	Pq		78	1	3	advmod				how could one describe so many kneelings and meditation and tears	1									
+da	да	da	da	C		78	2	1	fixed														
+iskáže	искáже	iskaže	izkaža	Vmip3se		78	3	0	root														
+člkь	члкь	člkъ	človek	Nmsny		78	4	3	nsubj														
+tól'kozi	то́л͛кози	tolkozi	tolkozi	Pr		78	5	6	amod														
+metánïa	метáнїа	metania	metanie	Nnpnn		78	6	3	obj														
+i+	и+	i	i	C		78	7	8	cc														
+póklony	по́клоны	pokloni	poklon	Nmpnn		78	8	6	conj					1									
+i+	и+	i	i	C		78	9	10	cc														
+slь´zy	сль́зы	slъzi	sъlza	Nfpnn		78	10	8	conj														
+																							
+i+	и+	i	i	C		79	1	8	cc				and she was awake for all the days and nights										
+síč'ki	си́ч͛ки	sički	sički	Amsnn		79	2	3	amod														
+dnì	днѝ	dni	den	Nmpnn		79	3	8	nmod														
+i+	и+	i	i	C		79	4	5	cc														
+nóšti	но́щи	nošti	nošt	Nfpnn		79	5	3	conj														
+na+	на+	na	na	Sl		79	6	7	case														
+bdě´nïe,	бдѣ́нїе,	bděnie	bdenie	Nnsnn		79	7	8	obl	loc													
+bě´še.	бѣ́ше.	běše	sъm	Vmii3si		79	8	0	root					1									
+																							
+i+	и+	i	i	C		80	1	2	cc				and she wept and craved for the desert										
+pláčaše	плáчаше	plačaše	plača	Vmii3si		80	2	0	root														
+i+	и+	i	i	C		80	3	4	cc														
+tьgùvaše	тьгꙋ̀ваше	tъguvaše	tъguvam	Vmii3si		80	4	2	conj														
+za+	за+	za	za	Sa		80	5	6	case														
+pústynja+	пꙋ́стынꙗ+	pustinja	pustinja	Nfsnn		80	6	2	obl														
+ta.	та.	ta	tъ	Pd-fsn		80	7	6	det	p_nom													
+																							
+i+	и+	i	i	C		81	1	2	cc				and she visited all the churches as a diligent bee										
+wby_dè	ѡбы_дѐ	obide	obida	Vmia3se		81	2	0	root					1									
+sič'ky	сич͛кы	sički	sički	Afpnn		81	3	4	amod														
+crkvi,	цркви,	crkvi	cъrkva	Nfpnn		81	4	2	obj														
+katô	като̂	kato	kato	C		81	5	7	mark														
+ednà	еднà	edna	edin	Afsnn		81	6	7	det														
+pčelà	пчелà	pčela	pčela	Nfsnn		81	7	2	advcl														
+rabótnaa	рабо́тнаа	rabotna	raboten	Afsny		81	8	7	amod					1									
+štô	що̂	što	što	Pq		81	9	10	mark				which visits all the vernal flowers										
+w´b'xodi	ѡ́б͛ходи	obxodi	obxodja	Vmip3se		81	10	7	acl														
+síč'ki	си́ч͛ки	sički	sički	Ampnn		81	11	12	amod														
+cvě´toově	цвѣ́тоовѣ	cvětoově	cvět	Nmpnn		81	12	10	obj					1									
+prolě´tny.	пролѣ́тны.	prolětni	proleten	Ampnn		81	13	12	amod														
+																							
+i+	и+	i	i	C		82	1	2	cc				and (then) she went to (the) church of most-holy Mother of God which is called Blachernae										
+poide	поиде	poide	poida	Vmia3se		82	2	0	root														
+u+	ꙋ+	u	u	Sg		82	3	4	case														
+crkva	црква	crkva	cъrkva	Nfsnn		82	4	2	obl	lat													
+prstě´i	прстѣ́и	prstěi	presvęt	Afsdy		82	5	6	amod														
+bci,	бци,	bci	Bogorodica	Nfsdy		82	6	4	nmod	poss													
+čtô+	что̂+	čto	čьto	Pq		82	7	9	mark							Demina et al. 1119: čto 'što', Ljub.d.: što							
+sè	сѐ	se	se	Px---a		82	8	9	expl														
+zovè	зовѐ	zove	zova	Vmip3se		82	9	4	acl														
+vla_xérna.	вла_хе́рна.	vlaxerna	Vlaxerna	Nfsnn		82	10	9	obl	pred				1									
+																							
+i+	и+	i	i	C		83	1	3	cc				and there she came (ʺfellʺ?) to the icon of most-holy Mother of God										
+támo	тáмо	tamo	tamo	R		83	2	3	advmod														
+pripáde	припáде	pripade	pripasti	Vmia3se		83	3	0	root														
+na+	на+	na	na	Sa		83	4	5	case														
+ikóna	ико́на	ikona	ikona	Nfsnn		83	5	3	obl	lat													
+prstěi	прстѣи	prstěi	presvęt	Afsdy		83	6	7	amod														
+bci	бци	bci	Bogorodica	Nfsdy		83	7	5	nmod	poss				1									
+																							
+i+	и+	i	i	C		84	1	8	cc				and she poured a lot of tears from her eyes										
+slь´zi	сль́зи	slъzi	sъlza	Nfpnn		84	2	8	obj														
+wt+	ѿ+	ot	ot	Sg		84	3	4	case														
+ꙫči+	ꙫчи+	oči	oko	Nndnn		84	4	8	obl														
+te+	те+	te	tъ	Pd-ndn		84	5	4	det	p_nom													
+sî	си̂	si	se	Px---d		84	6	4	nmod	poss													
+mnw^go	мнѡ̂го	mnogo	mnogo	R		84	7	2	amod														
+izlïă.	излїӑ.	izlia	izleja	Vmia3se		84	8	0	root														
+																							
+i+	и+	i	i	C		85	1	2	cc				and she said and prayed to the Mother of God:										
+dúmaše	дꙋ́маше	dumaše	dumam	Vmii3si		85	2	0	root					1									
+i+	и+	i	i	C		85	3	4	cc														
+mljaše+	млꙗше+	mljaše	molja	Vmii3si		85	4	2	conj														
+se	се	se	se	Px---a		85	5	4	expl														
+bci.	бци.	bci	Bogorodica	Nfsdy		85	6	2	obl	iobj													
+																							
+Tébě`	Те́бѣ̀	tebě	ti	Pp2-sg	Pp2-sd	86	1	18	obl	iobj			ʺUpon yourself, o Lady (ʺwhich isʺ) of the whole worldʺ			Vuković 1536: Tébě (ʺ-) gljúšti (-ʺ) vldčce mí_rou vь´sь` moì vьzlóžix žívotь. ná+ tè vьsoù mojù vьzlágajù+ nadéždu+ dvíce, newtríni oúbógojù méne.							
+vldčce	влдчце	vldčce	vladičica	Nfsvy		86	2	1	vocative														
+što+	що+	što	što	Pq		86	3	4	mark														
+sî	си̂	si	sъm	Vmip2si		86	4	2	acl														
+na+	на+	na	na	Sa		86	5	7	case														
+síč'ki	си́ч͛ки	sički	sički	Amsny		86	6	7	amod					1									
+svě´tь,	свѣ́ть,	světъ	svět	Nmsnn		86	7	4	obl	iobj													
+i+	и+	i	i	C		86	8	9	cc				ʺand who gave birth to Lord Godʺ										
+porodíla	породи́ла	porodila	porodja	Vmp--se		86	9	4	conj							Ljub.d.: poro_díla+ si							
+esì	есѝ	esi	sъm	Vaip2si		86	10	9	aux	prf													
+ga	га	ga	Gospod	Nmsgy		86	11	9	obj														
+ba.	ба.	ba	bog	Nmsgy		86	12	11	appos														
+azь	азь	azъ	az	Pp1-sn		86	13	18	nsubj				ʺto yourself I dedicated (ʺleftʺ) my lifeʺ										
+móì	мо́ѝ	moi	moi	Amsny		86	14	15	amod	poss													
+živótь	живо́ть	životъ	život	Nmsnn		86	15	18	obj					1									
+ú+	ꙋ́+	u	u	Sg		86	16	17	case														
+tébe	те́бе	tebe	ti	Pp2-sg		86	17	1	expl														
+w´stávix.	ѡ́стáвих.	ostavix	ostavja	Vmia1se		86	18	0	root														
+																							
+i+	и+	i	i	C		87	1	5	cc				ʺand in yourself I hope that you have mercy upon meʺ										
+na+	на+	na	na	Sl		87	2	3	case														
+tebě`+	тебѣ̀+	tebě	ti	Pp2-sg	Pp2-sd	87	3	5	obl	iobj													
+se	се	se	se	Px---a		87	4	5	expl														
+nadě´ja	надѣ́ꙗ	naděja	nadeja	Vmip1se		87	5	0	root														
+da+	да+	da	da	C		87	6	8	mark														
+mê	ме̂	me	az	Pp1-sa		87	7	8	obj					1									
+pomíluvašь.	поми́лꙋвашь.	pomiluvašъ	pomilvam	Vmip2se		87	8	5	advcl														
+																							
+i+	и+	i	i	C		88	1	5	cc				ʺdon't turn away in disgust from me, your servantʺ										
+ne+	не+	ne	ne	Qz		88	2	3	advmod														
+dě´ĭ+	дѣ́й+	děi	dějati	Vmm-2se		88	3	5	aux	opt													
+se	се	se	se	Px---a		88	4	5	expl														
+gnusì	гнꙋсѝ	gnusi	gnusja	Vmn---i		88	5	0	root														
+wt+	ѿ+	ot	ot	Sg		88	6	7	case														
+méne	ме́не	mene	az	Pp1-sg		88	7	5	obl														
+štô+	що̂+	što	što	Pq		88	8	11	mark														
+sъm	съм	sъm	sъm	Vmip1si		88	9	11	cop					1									
+tvoà	твоà	tvoa	tvoi	Afsny		88	10	11	amod	poss													
+robýnja.	робы́нꙗ.	robinja	robinja	Nfsny		88	11	7	acl														
+																							
+zaštô	защо̂	zašto	zašto	C		89	1	8	cc				ʺbecause I followed your son and prayed since my youthʺ										
+í+	и́+	i	i	C		89	2	8	cc														
+ázь	áзь	azъ	az	Pp1-sn		89	3	8	nsubj														
+wt+	ѿ+	ot	ot	Sg		89	4	5	case														
+mládostь,	млáдость,	mladostъ	mladost	Nfsnn		89	5	8	obl					1									
+tvoému	твое́мꙋ	tvoemu	tvoi	Amsdy		89	6	7	amod	poss													
+snu	снꙋ	snu	sin	Nmsdy		89	7	8	obl	iobj													
+poslědovax	послѣдовах	poslědovax	posledvam	Vmia3se		89	8	0	root														
+																							
+i+	и+	i	i	C		90	1	2	cc				ʺand I pray (you)ʺ										
+mlju+	млю+	mlju	molja	Vmip1si		90	2	0	root														
+se.	се.	se	se	Px---a		90	3	2	expl														
+																							
+i+	и+	i	i	C		91	1	3	cc				ʺand you know, o Virgin, my womanly nature and my weaknessʺ										
+tyʺ	ты̏	ti	ti	Pp2-sn		91	2	3	nsubj														
+zná_ešь	знá_ешь	znaešъ	znaja	Vmip2si		91	3	0	root					1									
+dvce	двце	dvce	devica	Nfsvy		91	4	2	vocative														
+móe+	мо́е+	moe	moi	Ansny		91	5	8	amod	poss													
+to	то	to	tъ	Pd-nsn		91	6	5	det	p_adj													
+žén'sko	же́н͛ско	žensko	ženski	Ansnn		91	7	8	amod														
+jesstvo	ѥсство	jesstvo	estestvo	Nnsnn		91	8	3	obj							Demina et al. 263: estestvo 'sъvkupnost ot otličitelnite vъnšni i vъtrešni kačestva i svoistva', Ljub.d.: rábo_ta							
+i+	и+	i	i	C		91	9	11	cc														
+móa	мо́а	moa	moi	Afsny		91	10	11	amod	poss													
+slá_bostь.	слá_бость.	slabostъ	slabost	Nfsnn		91	11	8	conj					1									
+što+	що+	što	što	Pq		91	12	18	mark				ʺwhich worries my soulʺ (ʺwhich is my soul's worryʺ)										
+è	ѐ	e	sъm	Vmip3si		91	13	18	cop														
+na+	на+	na	na	Sa		91	14	17	case														
+móa+	мо́а+	moa	moi	Afsny		91	15	17	amod	poss													
+ta	та	ta	tъ	Pd-fsn		91	16	15	det	p_adj													
+dša	дша	dša	duša	Nfsny		91	17	18	nmod	poss													
+oznóba.	озно́ба.	oznoba	oznoba	Nfsnn		91	18	11	obl	pred						Demina et al. 597: oznoba 'griža, duševno bezpokoistvo, trevoga'							
+																							
+àmì	àмѝ	ami	ami	C		92	1	8	cc				ʺbut you, o St Mother of Godʺ	1									
+i+	и+	i	i	C		92	2	8	cc														
+tyʺ	ты̏	ti	ti	Pp2-sn		92	3	8	nsubj														
+staa	стаа	staa	svęt	Afsny		92	4	5	amod														
+bce,	бце,	bce	Bogorodica	Nfsvy		92	5	3	vocative														
+tyʺ+	ты̏+	ti	ti	Pp2-sn		92	6	3	expl				ʺyou be my helperʺ										
+mi	ми	mi	az	Pp1-sd		92	7	8	obl	iobj													
+budì	бꙋдѝ	budi	bъda	Vmm-2se		92	8	0	root														
+pomóštnica.	помо́щница.	pomoštnica	pomoštnica	Nfsny		92	9	8	obl	pred				1									
+																							
+zaštô	защо̂	zašto	zašto	C		93	1	9	cc				ʺbecause I have no hope at another place than by yourselfʺ			Vuković 1536: ne ímámь ínyʺje nadéžde							
+ósvě´nь	о́свѣ́нь	osvěnъ	osven	Sg		93	2	3	case							Ljub.d.: zaštô osvě´nь tébe na+ drúgo mě´sto né+mam da+ sè nadě´a.							
+tébe	те́бе	tebe	ti	Pp2-sg		93	3	9	obl														
+na+	на+	na	na	Sl		93	4	6	case														
+drúgo	дрꙋ́го	drugo	drug	Ansnn		93	5	6	amod														
+mě´sto	мѣ́сто	město	město	Nnsnn		93	6	9	obl	loc													
+nade_žda	наде_жда	nadežda	nadežda	Nfsnn		93	7	9	obj					1									
+ne+	не+	ne	ne	Qz		93	8	9	advmod														
+ĭmam.	ймам.	imam	imam	Vmip1si		93	9	0	root														
+																							
+amì	амѝ	ami	ami	C		94	1	4	cc				ʺbut you be my teacherʺ										
+tyʺ+	ты̏+	ti	ti	Pp2-sn		94	2	4	nsubj														
+mi	ми	mi	az	Pp1-sd		94	3	4	obl	iobj													
+budì	бꙋдѝ	budi	bъda	Vmm-2se		94	4	0	root														
+nastávnica	настáвница	nastavnica	nastavnica	Nfsny		94	5	4	obl	pred				1		Demina et al. 534: nastavnica 'žena, kojato napъtstva, poučava xorata'							
+da+	да+	da	da	C		94	6	8	mark				ʺso that you leads me to the goodness and remorseʺ										
+mê	ме̂	me	az	Pp1-sa		94	7	8	obj														
+nastávišь	настáвишь	nastavišъ	nastavja	Vmip2se		94	8	4	advcl														
+na+	на+	na	na	Sa		94	9	10	case														
+dobrô	добро̂	dobro	dobro	Nnsnn		94	10	8	obl														
+i+	и+	i	i	C		94	11	13	cc														
+na+	на+	na	na	Sa		94	12	13	case														
+pokaánïe	покаáнїе	pokaanie	pokajanie	Nnsnn		94	13	10	conj					1									
+																							
+tyʺ	ты̏	ti	ti	Pp2-sn		95	1	4	nsubj				ʺ(so that) you shall protect me from all evilʺ										
+da+	да+	da	da	C		95	2	4	aux	opt													
+mê	ме̂	me	az	Pp1-sa		95	3	4	obj														
+oúpázišь	оꙋ́пáзишь	oupazišъ	upazja	Vmip2se		95	4	0	root														
+wt+	ѿ+	ot	ot	Sg		95	5	7	case														
+síč'ko	си́ч͛ко	sičko	sički	Ansnn		95	6	7	amod														
+zloʺ.	зло̏.	zlo	zlo	Nnsnn		95	7	4	obl	abl													
+																							
+zaštô	защо̂	zašto	zašto	C		96	1	7	cc				ʺbecause I had yourself as my helper as I was in (the) desertʺ	1									
+kogà	когà	koga	koga	Pq		96	2	3	mark														
+bě´x	бѣ́х	běx	sъm	Vmii1si		96	3	7	advcl														
+vъ+	въ+	vъ	v	Sl		96	4	5	case														
+pústynja,	пꙋ́стынꙗ,	pustinja	pustinja	Nfsnn		96	5	3	obl	loc													
+tébe	те́бе	tebe	ti	Pp2-sg		96	6	7	obj														
+ímax	и́мах	imax	imam	Vmia1si		96	7	0	root														
+pomoštni_ca.	помощни_ца.	pomoštnica	pomoštnica	Nfsny		96	8	7	obl	pred				1									
+																							
+à+	à+	a	a	C		97	1	4	cc				ʺbut now I have returned into (the) worldʺ										
+segà+	сегà+	sega	sega	R		97	2	4	advmod														
+sè	сѐ	se	se	Px---a		97	3	4	expl														
+vrь´nax	врь́нах	vrъnax	vъrna	Vmia1se		97	4	0	root														
+vъ+	въ+	vъ	v	Sa		97	5	6	case														
+mírь.	ми́рь.	mirъ	mir	Nmsnn		97	6	4	obl	lat													
+																							
+àmì	àмѝ	ami	ami	C		98	1	6	cc				ʺbut now, hear and protect me againʺ										
+pà´kь	пà́кь	pakъ	pak	R		98	2	6	advmod														
+i	и	i	i	C		98	3	6	cc					1									
+segà+	сегà+	sega	sega	R		98	4	6	advmod														
+mê	ме̂	me	az	Pp1-sa		98	5	6	obj														
+učjúvai	ꙋчю́ваи	učjuvai	učjuvam	Vmm-2se		98	6	0	root														
+i+	и+	i	i	C		98	7	8	cc														
+upazì,	ꙋпазѝ,	upazi	upazja	Vmm-2se		98	8	6	conj														
+																							
+i+	и+	i	i	C		99	1	4	cc				ʺand be my helperʺ										
+pomóštnica+	помо́щница+	pomoštnica	pomoštnica	Nfsny		99	2	4	obl	pred													
+mi	ми	mi	az	Pp1-sd		99	3	4	obl	iobj				1									
+budì,	бꙋдѝ,	budi	bъda	Vmm-2se		99	4	0	root														
+																							
+i+	и+	i	i	C		100	1	2	cc				ʺand cover me from all evilʺ										
+pokrŷi+	покры̂и+	pokrii	pokrija	Vmm-2se		100	2	0	root														
+mê	ме̂	me	az	Pp1-sa		100	3	2	obj														
+wt+	ѿ+	ot	ot	Sg		100	4	6	case														
+sič'ko	сич͛ко	sičko	sički	Ansnn		100	5	6	amod														
+zloʺ.	зло̏.	zlo	zlo	Nnsnn		100	6	2	obl														
+																							
+I+	И+	i	i	C		101	1	4	cc				and thus she prayed									7	Death of Petka
+tovà+	товà+	tova	tova	Pd-nsn		101	2	4	obj														
+se	се	se	se	Px---a		101	3	4	expl					1									
+pomóli,	помо́ли,	pomoli	pomolja	Vmia3se		101	4	0	root														
+																							
+i+	и+	i	i	C		102	1	2	cc				and wept from all heart										
+plakà	плакà	plaka	plača	Vmia3si		102	2	0	root														
+wt+	ѿ+	ot	ot	Sg		102	3	5	case														
+síč'ko	си́ч͛ко	sičko	sički	Ansnn		102	4	5	amod														
+srdce.	срдце.	srdce	sъrdce	Nnsnn		102	5	2	obl														
+																							
+I+	И+	i	i	C		103	1	2	cc				and she left										
+izlě´ze,	излѣ́зе,	izlěze	izlěza	Vmia3se		103	2	0	root					2									
+																							
+i+	и+	i	i	C		104	1	4	cc		56r	/img/petka/56r.JPG	and went (ʺto goʺ) to her (ʺownʺ) homeland										
+trь`gna	трь̀гна	trъgna	trъgna	Vaia3se		104	2	4	aux														
+da+	да+	da	da	C		104	3	2	fixed														
+íde	и́де	ide	ida	Vmip3si		104	4	0	root														
+na+	на+	na	na	Sa		104	5	9	case														
+svóe+	сво́е+	svoe	svoi	Ansny		104	6	9	amod	poss													
+to+	то+	to	tъ	Pd-nsn		104	7	6	det	p_adj													
+sî	си̂	si	se	Px---d		104	8	6	nmod														
+wtčьstvo.	ѿчьство.	otčъstvo	otečestvo	Nnsnn		104	9	4	obl	lat													
+																							
+i+	и+	i	i	C		105	1	2	cc				and came to Epibates, which was her homeland										
+do_ĭdè,	до_йдѐ,	doide	doida	Vmia3se		105	2	0	root					1									
+do+	до+	do	do	Sg		105	3	4	case														
+epiváti	епивáти	epivati	Epivat	Nmpnn		105	4	2	obl	lat													
+čtô	что̂	čto	čьto	Pq		105	5	8	mark														
+bě´še	бѣ́ше	běše	sъm	Vmii3si		105	6	8	cop														
+néino	не́ино	neino	nein	Ansnn		105	7	8	amod	poss													
+wtčьstvo.	ѿчьство.	otčъstvo	otečestvo	Nnsnn		105	8	4	acl					1									
+																							
+i+	и+	i	i	C		106	1	2	cc				and stayed there for quite some time										
+prěbŷ	прѣбы̂	prěbi	prebъda	Vmia3se		106	2	0	root														
+tamô	тамо̂	tamo	tamo	R		106	3	2	advmod														
+vrě´me	врѣ́ме	vrěme	vreme	Nnsnn		106	4	2	obj														
+ne+	не+	ne	ne	Qz		106	5	6	amod														
+málo,	мáло,	malo	malo	R		106	6	4	amod														
+																							
+i+	и+	i	i	C		107	1	4	cc				and nobody recognized her										
+níkoi	ни́кои	nikoi	nikoi	Pz---n		107	2	4	nsubj														
+ne+	не+	ne	ne	Qz		107	3	4	advmod														
+pozná_vaše	познá_ваше	poznavaše	poznavam	Vmii3si		107	4	0	root					1									
+jù.	ю̀.	ju	tja	Pp3fsa		107	5	4	obj														
+																							
+i+	и+	i	i	C		108	1	8	cc				and there (she did much) fasting, meditation (and) staying awake										
+támo	тáмо	tamo	tamo	R		108	2	8	advmod														
+pos	пос	pos	post	Nmsnn		108	3	8	obj														
+metnïe	метнїе	metnie	metanie	Nnsnn		108	4	3	conj														
+bdě´nïe,	бдѣ́нїе,	bděnie	bdenie	Nnsnn		108	5	4	conj														
+kói	ко́и	koi	koi	Pq---n		108	6	8	nsubj				who could tell (how much?)										
+móže	мо́же	može	moga	Vaip3si		108	7	8	aux					1									
+iskáza.	искáза.	iskaza	izkaža	Vmn---e		108	8	0	root														
+																							
+Vrě´me	Врѣ́ме	vrěme	vreme	Nnsnn		109	1	3	nsubj				some time passed										
+ně´koe	нѣ́кое	někoe	někoi	Ansny		109	2	1	amod														
+promína+	проми́на+	promina	premina	Vmia3se		109	3	0	root														
+se,	се,	se	se	Px---a		109	4	3	expl														
+																							
+i+	и+	i	i	C		110	1	2	cc				and she understood that she will die (soon)										
+poznà	познà	pozna	poznaja	Vmia3se		110	2	0	root					1									
+čê+	че̂+	če	če	C		110	3	7	mark														
+štè	щѐ	šte	šta	Vaip3si		110	4	7	aux	fut													
+da+	да+	da	da	C		110	5	4	fixed	inf													
+se	се	se	se	Px---a		110	6	7	expl														
+prěstávi.	прѣстáви.	prěstavi	prestavja	Vmip3se		110	7	2	advcl														
+																							
+i+	и+	i	i	C		111	1	2	cc				and she gave (ʺdid herʺ) a prayer to God										
+stóri+	сто́ри+	stori	storja	Vmia3se		111	2	0	root														
+sî	си̂	si	se	Px---d		111	3	2	expl														
+mlba	млба	mlba	molba	Nfsnn		111	4	2	obj														
+na+	на+	na	na	Sa		111	5	6	case														
+ba,	ба,	ba	bog	Nmsgy		111	6	2	obl	iobj				1									
+																							
+i+	и+	i	i	C		112	1	2	cc				and said with tears:										
+rče	рче	rče	reka	Vmia3se		112	2	0	root														
+sъ+	съ+	sъ	s	Si		112	3	4	case														
+slъzy.	слъзы.	slъzi	sъlza	Nfpnn		112	4	2	obl														
+																							
+Člko_ljúb'če	Члко_лю́б͛че	člkoljubče	človekoljubec	Nmsvy		113	1	5	vocative				ʺo Lord, Lover of humansʺ										
+vldko,	влдко,	vldko	vladika	Nmsvy		113	2	1	appos														
+da+	да+	da	da	C		113	3	5	aux	opt			ʺdo not leave me, (who am) your servantʺ										
+nè	нѐ	ne	ne	Qz		113	4	5	advmod														
+ostá_višь	остá_вишь	ostavišъ	ostavja	Vmip2se		113	5	0	root					1									
+méne	ме́не	mene	az	Pp1-sg		113	6	5	obj														
+štô+	що̂+	što	što	Pq		113	7	8	mark														
+sъ´mь	съ́мь	sъmъ	sъm	Vmip1si		113	8	6	acl														
+rába	рáба	raba	robinja	Nfsny		113	9	8	amod														
+tvoà,	твоà,	tvoa	tvoi	Afsny		113	10	9	amod	poss													
+detô+	дето̂+	deto	deto	Pr		113	11	16	mark				ʺwho has left everything for your nameʺ										
+sъ´mь	съ́мь	sъmъ	sъm	Vaip1si		113	12	16	aux	prf				1									
+radì	радѝ	radi	radi	Sg		113	13	14	case														
+íme	и́ме	ime	ime	Nnsnn		113	14	16	obl														
+tvoè	твоѐ	tvoe	tvoi	Ansny		113	15	14	amod	poss													
+wstávila	ѡстáвила	ostavila	ostavja	Vmp--se		113	16	5	acl														
+síč'ko.	си́ч͛ко.	sičko	vsičko	Nnsnn		113	17	16	obj														
+																							
+i+	и+	i	i	C		114	1	4	cc				ʺand to yourself I ranʺ										
+k+	к+	k	k	Sd		114	2	3	case														
+tebě`	тебѣ̀	tebě	ti	Pp1-sg		114	3	4	obl	lat				1									
+pribě´gnax.	прибѣ́гнах.	priběgnax	priběgna	Vmia3se		114	4	0	root														
+																							
+àmì	àмѝ	ami	ami	C		115	1	5	cc				ʺbut, my Lord God, give a calm command to an angelʺ										
+gi	ги	gi	Gospod	Nmsvy		115	2	5	vocative														
+be	бе	be	bog	Nmsvy		115	3	2	appos														
+móĭ,	мо́й,	moi	moi	Amsny		115	4	3	amod	poss													
+povelì	повелѝ	poveli	povelja	Vmm-2se		115	5	0	root														
+ágglu,	áгглꙋ,	agglu	angel	Nmsdy		115	6	5	obl	iobj				1									
+mír'no	ми́р͛но	mirno	mirno	R		115	7	5	advmod														
+da+	да+	da	da	C		115	8	10	mark				ʺto receive my soulʺ										
+mî	ми̂	mi	az	Pp1-sd		115	9	10	obl	iobj													
+prïémlje	прїе́млѥ	priemlje	priema	Vmip3se		115	10	5	advcl														
+dšъ´+	дшъ́+	dšъ	duša	Nfsoy		115	11	10	obj														
+ta.	та.	ta	tъ	Pd-fsn		115	12	11	det	p_nom													
+																							
+i+	и+	i	i	C		116	1	6	cc				ʺand that I wouldn't be barred from entering your kingdom by unpure and tainted demonsʺ										
+da+	да+	da	da	C		116	2	5	aux	opt													
+mî	ми̂	mi	az	Pp1-sd		116	3	6	obl	iobj													
+ne+	не+	ne	ne	Qz		116	4	5	advmod														
+bú_de	бꙋ́_де	bude	bъda	Vaip3se		116	5	6	aux	pass				1									
+zabránjeno	забрáнѥно	zabranjeno	zabranja	Vmpa-se	Ansnn	116	6	0	root														
+da+	да+	da	da	C		116	7	8	mark														
+ulě´za	ꙋлѣ́за	ulěza	vlězna	Vmip1se		116	8	6	advcl														
+na+	на+	na	na	Sa		116	9	11	case														
+tvoè	твоѐ	tvoe	tvoi	Ansny		116	10	11	amod	poss													
+crstvo,	црство,	crstvo	carstvo	Nnsnn		116	11	8	obl	lat													
+wt	ѿ	ot	ot	Sg		116	12	17	case					1									
+ne+	не+	ne	ne	Qz		116	13	14	amod														
+čísty	чи́сты	čisti	čist	Ampnn		116	14	17	amod														
+i+	и+	i	i	C		116	15	16	cc														
+skvrь`ny	скврь̀ны	skvrъni	skvrъnьnъ	Ampnn		116	16	14	conj														
+běswve,	бѣсѡве,	běsove	běs	Nmpny		116	17	8	obl														
+																							
+ami+	ами+	ami	ami	C		117	1	3	cc				ʺbut make me worthy to stand without fear before your awesome throneʺ										
+mê	ме̂	me	az	Pp1-sd		117	2	3	obj														
+spodobì	сподобѝ	spodobi	spodobja	Vmm-2se		117	3	0	root														
+bez'	без͛	bez	bez	Sg		117	4	5	case					1									
+strax	страх	strax	strax	Nmsnn		117	5	7	obl														
+da+	да+	da	da	C		117	6	7	mark														
+stánъ^	стáнъ̂	stanъ	stana	Vmip1se		117	7	3	advcl														
+prěd+	прѣд+	prěd	pred	Sa		117	8	11	case														
+tvói	тво́и	tvoi	tvoi	Amsny		117	9	11	amod	poss													
+strášnyi	стрáшныи	strašnii	strašen	Amsny		117	10	11	amod														
+prěstólь.	прѣсто́ль.	prěstolъ	prestol	Nmsnn		117	11	7	obl	lat				1									
+																							
+oti+	оти+	oti	oti	C		118	1	3	cc				ʺbecause you are blessed, o Lord, in eternityʺ										
+sî	си̂	si	sъm	Vmip2si		118	2	3	aux	pass													
+blsvénь	блсве́нь	blsvenъ	blagoslovja	Amsnn	Vmpa-si	118	3	0	root														
+gi	ги	gi	Gospod	Nmsvy		118	4	3	vocative														
+vь+	вь+	vъ	v	Sl		118	5	6	case														
+vě´ky	вѣ́кы	věki	vek	Nmpnn		118	6	3	obl	loc													
+																							
+amínь.	ами́нь.	aminъ	amin	I		119	1	0	root				ʺamenʺ										
+																							
+I+	И+	i	i	C		120	1	4	cc				and thus she prayed										
+tová+	товá+	tova	tova	Pd-nsn		120	2	4	obj														
+se	се	se	se	Px---a		120	3	4	expl					1									
+pomóli,	помо́ли,	pomoli	pomolja	Vmia3se		120	4	0	root														
+																							
+i+	и+	i	i	C		121	1	4	cc				and in that moment she turned her soul over to God										
+tója	то́ꙗ	toja	toja	Pd-msn		121	2	3	det	ext													
+čas	час	čas	čas	Nmsnn		121	3	4	nmod														
+prědáde+	прѣдáде+	prědade	predam	Vmia3se		121	4	0	root														
+si	си	si	se	Px---d		121	5	4	expl														
+dšь+	дшь+	dšъ	duša	Nfsoy		121	6	4	obj														
+ta	та	ta	tъ	Pd-fsn		121	7	6	det	p_nom													
+bu.	бꙋ.	bu	bog	Nmsdy		121	8	4	obl	iobj													
+																							
+i	и	i	i	C		122	1	5	cc				and some Christians buried her body	1									
+těló+	тѣло́+	tělo	tělo	Nnsnn		122	2	5	obj														
+to	то	to	tъ	Pd-nsn		122	3	2	det	p_nom													
+iʺ	и̏	i	tja	Pp3fsd		122	4	2	nmod	poss													
+pogréboxa	погре́боха	pogreboxa	pogreba	Vmii3pe		122	5	0	root														
+ně´koi	нѣ́кои	někoi	někoi	Ampnn		122	6	7	det														
+xrtïáne,	хртїáне,	xrtiane	xristianin	Nmpny		122	7	5	nsubj														
+																							
+i+	и+	i	i	C		123	1	3	cc				and no one knew her, as they buried her			Vuković 1536: ne+ bò w´bьjavì sébe kó_mu ktoʺ i+ wt+ koúdu běʺ. nь` běʺ ne+ pozná_vaemà do+ dne ísxóda jeè jé+ že kъ+ gou							
+ne	не	ne	ne	Qz		123	2	3	advmod					1									
+pozná+	познá+	pozna	poznaja	Vmia3se		123	3	0	root														
+jà	ꙗ̀	ja	tja	Pp3fsa		123	4	3	obj														
+nìkoi,	нѝкои,	nikoi	nikoi	Pz---n		123	5	3	nsubj														
+dogdè	догдѐ	dogde	dogde	Pr		123	6	8	mark														
+i+	и+	i	i	C		123	7	8	advmod														
+pogréboxa+	погре́боха+	pogreboxa	pogreba	Vmii3pe		123	8	3	advcl														
+jù.	ю̀.	ju	tja	Pp3fsa		123	9	8	obj							Ljub.d.: (j)ʺa							
+																							
+nì	нѝ	ni	ni	C		124	1	2	cc				nor they knew where she had come from 										
+znájaxa+	знáꙗха+	znajaxa	znaja	Vmii3pi		124	2	0	root														
+jù.	ю̀.	ju	tja	Pp3fsa		124	3	2	obj					1									
+wt+	ѿ+	ot	ot	Sg		124	4	5	case														
+kydě`	кыдѣ̀	kidě	kǫdu	Pq		124	5	7	mark														
+běʺ	бѣ̏	bě	sъm	Vaii3si		124	6	7	aux	pprf													
+došlà.	дошлà.	došla	doida	Vmp--se		124	7	3	acl														
+																							
+I	И	i	i	C		125	1	3	cc				and thus she passed her days here on the Earth									8	Discovery of the Relics
+takà	такà	taka	taka	Pr		125	2	3	advmod														
+provódi	прово́ди	provodi	provodja	Vmia3se		125	3	0	root														
+dnì+	днѝ+	dnite	den	Nmpny		125	4	3	obj														
+te	те	te	tъ	Pd-mpn		125	5	4	det	p_nom				1									
+svoì	своѝ	svoi	svoi	Ampnn		125	6	4	amod	poss													
+túka	тꙋ́ка	tuka	tuka	R		125	7	3	advmod														
+ná	нá	na	na	Sl		125	8	9	case														
+zemlja.	землꙗ.	zemlja	zemja	Nfsnn		125	9	3	obl	loc													
+																							
+à+	à+	a	a	C		126	1	3	cc				and there she found peace										
+támo	тáмо	tamo	tamo	R		126	2	3	advmod														
+naidè	наидѐ	naide	naida	Vmia3se		126	3	0	root														
+golě´mь	голѣ́мь	golěmъ	golěm	Amsnn		126	4	5	amod					1									
+pokói.	поко́и.	pokoi	pokoi	Nmsnn		126	5	3	obj														
+																							
+A`mì	А̀мѝ	ami	ami	C		127	1	7	cc				but even here, Lord God wouldn't leave her hidden in the Earth for long										
+i+	и+	i	i	C		127	2	7	advmod														
+túka	тꙋ́ка	tuka	tuka	R		127	3	7	advmod														
+gь	гь	gъ	Gospod	Nmsny		127	4	7	nsubj														
+bь	бь	bъ	bog	Nmsny		127	5	4	appos														
+ne+	не+	ne	ne	Qz		127	6	7	advmod														
+ostávi	остáви	ostavi	ostavja	Vmia3se		127	7	0	root														
+ę`,	ѧ̀,	ę	tja	Pp3fsa		127	8	7	obj														
+da+	да+	da	da	C		127	9	14	mark														
+eè	еѐ	e	sъm	Vmip3si		127	10	14	aux	pass				1									
+za	за	za	za	Sa		127	11	13	case														
+mnw^go	мнѡ̂го	mnogo	mnogo	R		127	12	13	amod														
+dnì	днѝ	dni	den	Nmpnn		127	13	14	obl														
+sъkrŷena	съкры̂ена	sъkriena	skrija	Vmpa-se	Afsnn	127	14	7	advcl														
+ná+	нá+	na	na	Sl		127	15	16	case														
+zemlja,	землꙗ,	zemlja	zemja	Nfsnn		127	16	14	obl	loc													
+i+	и+	i	i	C		127	17	19	cc				to leave her pure and holy body to remain without rememberance										
+da+	да+	da	da	C		127	18	19	mark														
+è	ѐ	e	sъm	Vmip3si		127	19	14	conj														
+bez'	без͛	bez	bez	Sg		127	20	21	case					1									
+pámetь	пáметь	pametъ	pamet	Nfsnn		127	21	19	obl														
+njéino+	нѥ́ино+	njeino	nein	Ansnn		127	22	27	amod	poss													
+to	то	to	tъ	Pd-nsn		127	23	22	det	p_adj													
+čístoe	чи́стое	čistoe	čist	Ansny		127	24	27	amod														
+i+	и+	i	i	C		127	25	26	cc														
+stoè	стоѐ	stoe	svęt	Ansny		127	26	24	conj														
+tě´lo.	тѣ́ло.	tělo	tělo	Nnsnn		127	27	19	nsubj														
+																							
+àmì	àмѝ	ami	ami	C		128	1	2	cc				but he showed a miracle on her holy relics	1									
+pokáza	покáза	pokaza	pokaža	Vmia3se		128	2	0	root														
+čjúdo	чю́до	čjudo	čudo	Nnsnn		128	3	2	obj														
+dívno	ди́вно	divno	diven	Ansnn		128	4	3	amod														
+zaradì	зарадѝ	zaradi	zaradi	Sg		128	5	9	case														
+njéiny+	нѥ́ины+	njeini	nein	Afpnn		128	6	9	amod	poss													
+te	те	te	tъ	Pd-fsn		128	7	6	det	p_adj													
+stýe	сты́е	stie	svęt	Afpny		128	8	9	amod														
+mó_šti.	мо́_щи.	mošti	mošti	Nfpnn		128	9	2	obl					1									
+																							
+Ně´koi	Нѣ́кои	někoi	někoi	Amsny		129	1	2	det				there was a hermit										
+póstnikь	по́стникь	postnikъ	postnik	Nmsny		129	2	3	nsubj														
+imáše	имáше	imaše	imam	Vmii3si		129	3	0	root														
+támo	тáмо	tamo	tamo	R		129	4	3	advmod														
+																							
+na+	на+	na	na	Sl		130	1	2	case				he lived on a pillar										
+stlъ´_pь	стлъ́_пь	stlъpъ	stъlp	Nmsnn		130	2	3	obl	loc				1									
+prěbývaše,	прѣбы́ваше,	prěbivaše	prebivam	Vmii3si		130	3	0	root														
+																							
+i	и	i	i	C		131	1	2	cc				and he fasted near the site of the St. Petka's grave										
+pósteše+	по́стеше+	posteše	postja	Vmii3si		131	2	0	root														
+se	се	se	se	Px---a		131	3	2	expl														
+blízu	бли́зꙋ	blizu	blizo	R		131	4	7	amod														
+pri+	при+	pri	pri	Sl		131	5	7	case														
+w´novà	ѡ́новà	onova	onova	Pd-nsn		131	6	7	det	ext				1									
+mě´sto	мѣ́сто	město	město	Nnsnn		131	7	2	obl	loc													
+gdeʺto+	где̏то+	gdeto	gdeto	Pr		131	8	10	mark														
+e	е	e	sъm	Vaip3si		131	9	10	aux	prf													
+býlь	бы́ль	bilъ	sъm	Vmp--si		131	10	7	acl														
+grôbь	гро̂бь	grobъ	grob	Nmsnn		131	11	10	nsubj														
+stě´i	стѣ́и	stěi	svęt	Afsdy		131	12	13	amod														
+pétki.	пе́тки.	petki	Petka	Nfsgy		131	13	11	nmod	poss				1									
+																							
+I+	И+	i	i	C		132	1	2	cc				and it came to pass, a sailor died										
+slučí+	слꙋчи́+	sluči	sluča	Vmia3se		132	2	0	root														
+se	се	se	se	Px---a		132	3	2	expl														
+tà	тà	ta	ta	C		132	4	5	mark														
+umrě`	ꙋмрѣ̀	umrě	umra	Vmia3se		132	5	2	advcl														
+ně´koi	нѣ́кои	někoi	někoi	Amsny		132	6	7	det														
+korábnikь,	корáбникь,	korabnikъ	korabnik	Nmsny		132	7	5	nsubj														
+																							
+i	и	i	i	C		133	1	2	cc				and they threw him there, close to that pillar	1									
+frьlíxa+	фрьли́ха+	frъlixa	fъrlja	Vmii3pe		133	2	0	root														
+go	го	go	toi	Pp3msa		133	3	2	obj														
+támo	тáмо	tamo	tamo	R		133	4	2	advmod														
+blízu	бли́зꙋ	blizu	blizo	R		133	5	8	amod														
+pri+	при+	pri	pri	Sa		133	6	8	case														
+w´n'zi	ѡ́н͛зи	onzi	onzi	Pd-msn		133	7	8	det	ext													
+stlъ´pь.	стлъ́пь.	stlъpъ	stъlp	Nmsnn		133	8	2	obl	lat				1									
+																							
+i+	и+	i	i	C		134	1	4	cc				and a terrible stench started to come out from him										
+počè	почѐ	poče	počna	Vaia3se		134	2	4	aux														
+da+	да+	da	da	C		134	3	2	fixed	inf													
+isxódi	исхо́ди	isxodi	izxodja	Vmip3se		134	4	0	root														
+smràdь	смрàдь	smradъ	smrad	Nmsnn		134	5	4	nsubj														
+wt+	ѿ+	ot	ot	Sg		134	6	7	case														
+njégo	нѥ́го	njego	toi	Pp3msg		134	7	4	obl	abl													
+zlьʺ,	зль̏,	zlъ	zъl	Amsnn		134	8	5	amod														
+kól'koto	ко́л͛кото	kolkoto	kolkoto	Pr		134	9	15	mark				so much that one couldn't pass by because of the stench	2									
+vekjè	векѥ̀	vekje	veče	R		134	10	15	advmod		56v	/img/petka/56v.JPG											
+ne+	не+	ne	ne	Qz		134	11	12	advmod														
+móžaše	мо́жаше	možaše	moga	Vaii3si		134	12	15	aux														
+támo	тáмо	tamo	tamo	R		134	13	15	advmod														
+da+	да+	da	da	C		134	14	12	fixed	inf													
+pomíne	поми́не	pomine	pomina	Vmip3se		134	15	8	acl														
+člkь	члкь	člkъ	človek	Nmsny		134	16	15	nsubj														
+wt+	ѿ+	ot	ot	Sg		134	17	19	case														
+zlaʺ	зла̏	zla	zъl	Afsnn		134	18	19	amod					1									
+miriz'mà.	мириз͛мà.	mirizma	mirizma	Nfsnn		134	19	15	obl														
+																							
+záednô	зáедно̂	zaedno	zaedno	R		135	1	9	advmod				neither the stylite could suffer that stench										
+i+	и+	i	i	C		135	2	4	amod														
+w´n'zi	ѡ́н͛зи	onzi	onzi	Pd-msn		135	3	4	det	ext													
+stlь´pnikь	стль́пникь	stlъpnikъ	stъlpnik	Nmsny		135	4	9	nsubj														
+vekjè	векѥ̀	vekje	veče	R		135	5	9	advmod					1									
+ne+	не+	ne	ne	Qz		135	6	7	advmod														
+možè	можѐ	može	moga	Vaia3si		135	7	9	aux														
+da+	да+	da	da	C		135	8	7	fixed	inf													
+trь´pì	трь́пѝ	trъpi	tъrpja	Vmip3si		135	9	0	root														
+w´n'zi	ѡ́н͛зи	onzi	onzi	Pd-msn		135	10	11	det	ext													
+smràdь.	смрàдь.	smradъ	smrad	Nmsnn		135	11	9	obj														
+																							
+amì	амѝ	ami	ami	C		136	1	2	cc				so he climbed down from the pillar										
+slě´ze	слѣ́зе	slěze	slěza	Vmia3se		136	2	0	root					1									
+wt+	ѿ+	ot	ot	Sg		136	3	5	case														
+wn'zi	ѡн͛зи	onzi	onzi	Pd-msn		136	4	5	det	ext													
+stlъ´pь,	стлъ́пь,	stlъpъ	stъlp	Nmsnn		136	5	2	obl	abl													
+																							
+i	и	i	i	C		137	1	2	cc				and he found some men										
+naidé	наиде́	naide	naida	Vmia3se		137	2	0	root														
+člci	члци	člci	človek	Nmpny		137	3	2	obj														
+																							
+i	и	i	i	C		138	1	2	cc				and he commanded them to dig a big hole										
+povelě`	повелѣ̀	povelě	povelja	Vmia3se		138	2	0	root														
+ímь	и́мь	imъ	tě	Pp3-pd		138	3	2	obl	iobj				1									
+da+	да+	da	da	C		138	4	5	mark														
+iskopájutь	ископáють	iskopajutъ	izkopaja	Vmip3pe		138	5	2	advcl														
+trápь	трáпь	trapъ	trap	Nmsnn		138	6	5	obj														
+golě´m,	голѣ́м,	golěm	golěm	Amsnn		138	7	6	amod														
+da	да	da	da	C		138	8	9	mark				to throw that stinking body (down there)										
+túretь	тꙋ́реть	turetъ	turja	Vmip3pe		138	9	6	acl														
+onovà	оновà	onova	onova	Pd-nsn		138	10	11	det	ext				1									
+tělô.	тѣло̂.	tělo	tělo	Nnsnn		138	11	9	obj														
+čtô	что̂	čto	čьto	Pq		138	12	13	mark														
+smrьdě`še.	смрьдѣ̀ше.	smrъděše	smъrdja	Vmii3si		138	13	11	acl														
+																							
+I+	И+	i	i	C		139	1	4	cc				and those people obeyed the hermit										
+wnïa	ѡнїа	onia	onja	Pd-mpn		139	2	3	det	ext													
+člci	члци	člci	človek	Nmpny		139	3	4	nsubj														
+poslúša_xa	послꙋ́ша_ха	poslušaxa	poslušam	Vmii3pe		139	4	0	root					1									
+w´nogózi	ѡ́ного́зи	onogozi	onzi	Pd-msg		139	5	6	det	ext													
+póstnika.	по́стника.	postnika	postnik	Nmsgy		139	6	4	obj														
+																							
+i	и	i	i	C		140	1	2	cc				and they went there										
+poidóxa	поидо́ха	poidoxa	poida	Vmii3pe		140	2	0	root														
+támo	тáмо	tamo	tamo	R		140	3	2	advmod					1									
+																							
+i+	и+	i	i	C		141	1	4	cc				and started to dig										
+zéxa	зе́ха	zexa	zema	Vaii3pe		141	2	4	aux														
+da+	да+	da	da	C		141	3	2	fixed	inf													
+kopájutь	копáють	kopajutъ	kopaja	Vmip3pi		141	4	0	root														
+																							
+i+	и+	i	i	C		142	1	2	cc				and they found the body of St. Petka, healthy and beautiful										
+naidóxa	наидо́ха	naidoxa	naida	Vmia3se		142	2	0	root														
+těló+	тѣло́+	tělo	tělo	Nnsnn		142	3	2	obj														
+to	то	to	tъ	Pd-nsn		142	4	3	det	p_nom													
+stěi	стѣи	stěi	svęt	Afsdy		142	5	6	amod					1									
+pétky	пе́ткы	petki	Petka	Nfsgy		142	6	3	nmod	poss													
+cě´lo	цѣ́ло	cělo	cěl	Ansnn		142	7	3	amod	pred													
+i+	и+	i	i	C		142	8	9	cc														
+xùbavo	хꙋ̀баво	xubavo	xubav	Ansnn		142	9	7	conj														
+																							
+i+	и+	i	i	C		143	1	2	cc				and how (her) beautiful scent covered the odor of that stench!										
+mirizmà	миризмà	mirizma	mirizma	Nfsnn		143	2	5	nsubj														
+xúbava	хꙋ́бава	xubava	xubav	Afsnn		143	3	2	amod					1									
+kól'koto	ко́л͛кото	kolkoto	kolkoto	Pr		143	4	5	discourse														
+navívaše,	нави́ваше,	navivaše	navivam	Vmii3si		143	5	0	root														
+tázi	тáзи	tazi	tozi	Pd-fsn		143	6	7	det														
+miriz'mà	мириз͛мà	mirizma	mirizma	Nfsnn		143	7	5	obj														
+na+	на+	na	na	Sa		143	8	10	case														
+w´n'zi	ѡ́н͛зи	onzi	onzi	Pd-msn		143	9	10	det					1									
+smràdь	смрàдь	smradъ	smrad	Nmsnn		143	10	7	nmod	poss													
+																							
+I+	И+	i	i	C		144	1	5	cc				and those people were dumb and irrational										
+wnïa	ѡнїа	onia	onja	Pd-mpn		144	2	3	det	ext													
+člci	члци	člci	človek	Nmpny		144	3	5	nsubj														
+bě´xa	бѣ́ха	běxa	sъm	Vmii3pi		144	4	5	cop														
+glúpavy	глꙋ́павы	glupavi	glupav	Ampnn		144	5	0	root														
+i+	и+	i	i	C		144	6	8	cc														
+ne+	не+	ne	ne	Qz		144	7	8	amod														
+ra_zúmny,	ра_зꙋ́мны,	razumni	razumen	Ampnn		144	8	5	conj					1									
+																							
+i+	и+	i	i	C		145	1	6	cc				and they couldn't understand that (it was a) holy body										
+ne+	не+	ne	ne	Qz		145	2	3	advmod														
+mogóxa	мого́ха	mogoxa	moga	Vaii3pi		145	3	6	aux														
+da+	да+	da	da	C		145	4	3	fixed	inf													
+sê	се̂	se	se	Px---a		145	5	6	expl														
+usě´tetь	ꙋсѣ́теть	usětetъ	usetja	Vmip3pe		145	6	0	root														
+za+	за+	za	za	Sa		145	7	10	case														
+onovà	оновà	onova	onova	Pd-nsn		145	8	10	det	ext				1									
+stoè	стоѐ	stoe	svęt	Ansny		145	9	10	amod														
+tě´lo.	тѣ́ло.	tělo	tělo	Nnsnn		145	10	6	obl														
+																							
+zaštô	защо̂	zašto	zašto	C		146	1	5	cc				because nobody knew that St. Petka was buried there										
+i+	и+	i	i	C		146	2	5	advmod														
+nìkoi	нѝкои	nikoi	nikoi	Pz---n		146	3	5	nsubj														
+ne+	не+	ne	ne	Qz		146	4	5	advmod														
+znáaše	знáаше	znaaše	znaja	Vmii3si		146	5	0	root														
+če+	че+	če	če	C		146	6	9	mark														
+è+	ѐ+	e	sъm	Vmip3si		146	7	9	aux	pass				1									
+támo	тáмо	tamo	tamo	R		146	8	9	advmod														
+pogrébena	погре́бена	pogrebena	pogreba	Vmpa-se	Afsnn	146	9	5	advcl														
+staa	стаа	staa	svęt	Afsny		146	10	11	amod														
+pét'ka,	пе́т͛ка,	petka	Petka	Nfsny		146	11	9	nsubj														
+																							
+óti	о́ти	oti	oti	C		147	1	6	cc				because she was buried since long										
+bě´še	бѣ́ше	běše	sъm	Vaii3si		147	2	6	aux	pprf				1									
+o+	о+	o	ot	Sg		147	3	4	case														
+dávna	дáвна	davna	davno	Nnsgy		147	4	6	obl														
+bỳla	бы̀ла	bila	sъm	Vap--si		147	5	6	aux	pass													
+pogrébena.	погре́бена.	pogrebena	pogreba	Vmpa-se	Afsnn	147	6	0	root														
+																							
+àmi+	àми+	ami	ami	C		148	1	4	cc				and they wondered a lot what should they do										
+se	се	se	se	Px---a		148	2	4	expl														
+mnw^go	мнѡ̂го	mnogo	mnogo	R		148	3	4	advmod														
+čju_díxa,	чю_ди́ха,	čjudixa	čudja	Vmii3pi		148	4	0	root					1									
+kákь	кáкь	kakъ	kak	Pq		148	5	4	advmod														
+da+	да+	da	da	C		148	6	4	mark														
+stóretь.	сто́реть.	storetъ	storja	Vmip3pe		148	7	4	advcl														
+																							
+i+	и+	i	i	C		149	1	2	cc				and they said to each other:										
+rékoxa+	ре́коха+	rekoxa	reka	Vmii3pe		149	2	0	root														
+sî	си̂	si	se	Px---d		149	3	2	expl														
+méždu	ме́ждꙋ	meždu	meždu	Si		149	4	5	case					1									
+sebě`	себѣ̀	sebě	se	Px---g		149	5	2	obl														
+																							
+kói	ко́и	koi	koi	Pq---n		150	1	4	nsubj				ʺwho would dig elsewhereʺ										
+pákь	пáкь	pakъ	pak	R		150	2	4	advmod														
+da+	да+	da	da	C		150	3	4	aux	opt													
+kopáe	копáе	kopae	kopaja	Vmip3si		150	4	0	root														
+na+	на+	na	na	Sl		150	5	7	case														
+drúgo	дрꙋ́го	drugo	drug	Ansnn		150	6	7	amod														
+mě´sto,	мѣ́сто,	město	město	Nnsnn		150	7	4	obl	loc				1									
+																							
+àmi+	àми+	ami	ami	C		151	1	2	cc				ʺthis grave here is wide and deep enoughʺ										
+è	ѐ	e	sъm	Vmip3si		151	2	0	root														
+tuka	тꙋка	tuka	tuka	R		151	3	2	advmod														
+tóizi	то́изи	toizi	tozi	Pd-msn		151	4	5	det	ext													
+grôbь	гро̂бь	grobъ	grob	Nmsnn		151	5	2	nsubj														
+dósta	до́ста	dosta	dosta	R		151	6	7	amod														
+širókь	широ́кь	širokъ	širok	Amsnn		151	7	5	amod					1									
+i+	и+	i	i	C		151	8	9	cc														
+glьbókь,	гльбо́кь,	glъbokъ	dъlbok	Amsnn		151	9	7	conj														
+																							
+da+	да+	da	da	C		152	1	2	aux	opt			ʺlet's throw that corpse (here) as well, so that it doesn't stinkʺ										
+túrimê,	тꙋ́риме̂,	turime	turja	Vmip1pe		152	2	0	root														
+i+	и+	i	i	C		152	3	5	cc														
+onázi	онáзи	onazi	onzi	Pd-fsn		152	4	5	det	ext													
+mrь`ša	мрь̀ша	mrъša	mъrša	Nfsnn		152	5	2	obj														
+da+	да+	da	da	C		152	6	8	mark														
+nè+	нѐ+	ne	ne	Qz		152	7	8	advmod					1									
+smrьdì,	смрьдѝ,	smrъdi	smъrdja	Vmip3si		152	8	2	advcl														
+																							
+à+	à+	a	a	C		153	1	10	cc				ʺand if it would be a holy body, God will take it outʺ										
+tô	то̂	to	to	Qd		153	2	1	fixed														
+ako	ако	ako	ako	C		153	3	4	mark														
+búdje	бꙋ́дѥ	budje	bъda	Vmip3se		153	4	11	acl														
+tovà	товà	tova	tova	Pd-nsn		153	5	4	nsubj	ext													
+sto	сто	sto	svęt	Ansnn		153	6	7	amod														
+tělô.	тѣло̂.	tělo	tělo	Nnsnn		153	7	4	obl	pred				1									
+bь	бь	bъ	bog	Nmsny		153	8	11	nsubj														
+šté+	ще́+	šte	šta	Vaip3si		153	9	11	aux	fut													
+go	го	go	toi	Pp3msa		153	10	9	obj														
+izvádi.	извáди.	izvadi	izvadja	Vmip3se		153	11	0	root														
+																							
+i+	и+	i	i	C		154	1	2	cc				and they buried that corpse there next to that holy body										
+zarinaxa	заринаха	zarinaxa	zarina	Vmii3pe		154	2	0	root														
+wnъ´zi	ѡнъ́зи	onъzi	onzi	Pd-fsa		154	3	4	det	ext													
+mrь`ša	мрь̀ша	mrъša	mъrša	Nfsnn		154	4	2	obj					1									
+támô	тáмо̂	tamo	tamo	R		154	5	2	advmod														
+pri+	при+	pri	pri	Sa		154	6	9	case														
+stôe	сто̂е	stoe	svęt	Ansny		154	7	9	amod														
+onovà	оновà	onova	onova	Pd-nsn		154	8	9	det	ext													
+tělô.	тѣло̂.	tělo	tělo	Nnsnn		154	9	2	obl	loc													
+																							
+i+	и+	i	i	C		155	1	2	cc				and they all went home										
+razydóxa+	разыдо́ха+	razidoxa	razida	Vmii3pe		155	2	0	root														
+se	се	se	se	Px---a		155	3	2	expl					1									
+po+	по+	po	po	Sl		155	4	5	case														
+domá+	домá+	doma	dom	Nmsgn		155	5	2	obl	lat													
+si.	си.	si	se	Px---d		155	6	5	nmod	poss													
+																							
+I+	И+	i	i	C		156	1	5	cc				one of them (was) a certain Georgi, a good Christian									9	Recovery of the Relics
+wt+	ѿ+	ot	ot	Sg		156	2	3	case														
+tě´x	тѣ́х	těx	tě	Pp3-pa		156	3	5	obl														
+ně´koi	нѣ́кои	někoi	někoi	Amsny		156	4	5	det														
+člkь	члкь	člkъ	človek	Nmsny		156	5	0	root														
+gew´r'gïe,	геѡ́р͛гїе,	georgie	Georgi	Nmsvy		156	6	5	acl					1									
+ime+	име+	ime	ime	Nnsnn		156	7	6	nsubj														
+to+	то+	to	tъ	Pd-nsn		156	8	7	det	p_nom													
+mu	мꙋ	mu	toi	Pp3msd		156	9	7	nmod	poss													
+xrtïáninь	хртїáнинь	xrtianinъ	xristianin	Nmsny		156	10	5	appos														
+dóbrь,	до́брь,	dobrъ	dobъr	Amsnn		156	11	10	amod														
+																							
+i+	и+	i	i	C		157	1	12	cc				and as he also went home and dined, he stood up to pray to God										
+tói	то́и	toi	toi	Pp3msn		157	2	12	nsubj														
+katô+	като̂+	kato	kato	C		157	3	5	mark														
+si	си	si	se	Px---d		157	4	5	expl					1									
+poidè	поидѐ	poide	poida	Vmia3se		157	5	12	advcl														
+domâ+	домâ+	doma	dom	Nmsgn		157	6	5	obl	lat													
+si.	си.	si	se	Px---d		157	7	6	nmod	poss													
+i+	и+	i	i	C		157	8	10	cc														
+po+	по+	po	po	Sl		157	9	10	case														
+večrě	вечрѣ	večrě	večer	Nfsdn		157	10	12	obl	loc													
+nápokónь,	нáпоко́нь,	napokonъ	napokon	R		157	11	12	advmod														
+stъnъ^	стънъ̂	stъnъ	stana	Vmia3se		157	12	0	root					1									
+da+	да+	da	da	C		157	13	15	mark														
+se	се	se	se	Px---d		157	14	15	expl														
+pomlì	помлѝ	pomli	pomolja	Vmip3se		157	15	12	advcl														
+bu	бꙋ	bu	bog	Nmsdy		157	16	15	obl	iobj													
+kato+	като+	kato	kato	C		157	17	19	mark				as he always did, doing a lot of prayer										
+sî	си̂	si	se	Px---d		157	18	19	expl														
+číněše	чи́нѣше	činěše	činja	Vmii3si		157	19	15	advcl														
+sě´kogy	сѣ́когы	sěkogi	sěkogi	Pi		157	20	19	advmod					1									
+mlba	млба	mlba	molba	Nfsnn		157	21	19	obj														
+mnw^go.	мнѡ̂го.	mnogo	mnogo	R		157	22	19	advmod														
+																							
+I+	И+	i	i	C		158	1	4	cc				and at the twilight he fell down asleep										
+na+	на+	na	na 	Sl		158	2	3	case														
+sъ´(m)nuvane	съ́(м)нꙋване	sъmnuvane	sъmnuvane	Nnsnn		158	3	4	obl	loc													
+zaspà.	заспà.	zaspa	zaspja	Vmia3se		158	4	0	root														
+																							
+i+	и+	i	i	C		159	1	2	cc				and he saw a woman (looking) like a queen										
+vidě`	видѣ̀	vidě	vidja	Vmia3si		159	2	0	root					1									
+ednâ	еднâ	edna	edin	Afsnn		159	3	4	det														
+ženâ	женâ	žena	žena	Nfsny		159	4	2	obj														
+katô	като̂	kato	kato	C		159	5	7	mark														
+ednâ	еднâ	edna	edin	Afsnn		159	6	7	det														
+cárica,	цáрица,	carica	carica	Nfsny		159	7	4	acl														
+																							
+i+	и+	i	i	C		160	1	2	cc				and she sat on a shiny golden throne										
+sědì	сѣдѝ	sědi	sedja	Vmip3si		160	2	0	root														
+na+	на+	na	na	Sl		160	3	4	case														
+stól'	сто́л͛	stol	stol	Nmsnn		160	4	2	obl	loc				1									
+zlátь	злáть	zlatъ	zlat	Amsnn		160	5	4	amod														
+svě´tlíkavь.	свѣ́тли́кавь.	světlikavъ	světlikav	Amsnn		160	6	4	amod														
+																							
+i+	и+	i	i	C		161	1	4	cc				and many beautiful, shiny warriors stood around her			Ljub.d.: i+ okolo njéa mw´m'ci xúbavy svě_tlíkavy.							
+okolò	около̀	okolo	okolo	Sg		161	2	3	case														
+njéa	нѥ́а	njea	tja	Pp3fsg		161	3	4	obl	loc													
+stoę´tь	стоѧ́ть	stoętъ	stoja	Vmip3pi		161	4	0	root					1									
+mnw^go	мнѡ̂го	mnogo	mnogo	R		161	5	6	amod														
+voíne	вои́не	voine	voin	Nmpny		161	6	4	nsubj														
+xúbavi	хꙋ́бави	xubavi	xubav	Ampnn		161	7	6	amod														
+svě´tlikavy.	свѣ́тликавы.	světlikavi	světlikav	Ampnn		161	8	7	conj														
+																							
+i+	и+	i	i	C		162	1	4	cc				and he was scared										
+tói+	то́и+	toi	toi	Pp3msn		162	2	4	nsubj														
+se	се	se	se	Px---a		162	3	4	expl					2									
+upláši	ꙋплáши	uplaši	uplaša	Vmia3se		162	4	0	root		57r	/img/petka/57r.JPG											
+																							
+i+	и+	i	i	C		163	1	2	cc				and he fell to the ground										
+páde	пáде	pade	pasti	Vmia3se		163	2	0	root														
+ná+	нá+	na	na	Sa		163	3	4	case														
+zemlja	землꙗ	zemlja	zemja	Nfsnn		163	4	2	obl	lat													
+																							
+i+	и+	i	i	C		164	1	2	cc				and he trembled from their beauty										
+rastrépera+	растре́пера+	rastrepera	raztreperja	Vmia3se		164	2	0	root														
+se	се	se	se	Px---a		164	3	2	expl														
+wt+	ѿ+	ot	ot	Sg		165	4	5	case														
+xúbo_stь	хꙋ́бо_сть	xubostъ	xubost	Nfsnn		165	5	2	obl					1									
+																							
+ne+	не+	ne	ne	Qz		165	1	2	advmod				he couldn't watch that light										
+móžaše	мо́жаше	možaše	moga	Vaii3si		165	2	4	aux														
+da+	да+	da	da	C		165	3	2	fixed	inf													
+gléda	гле́да	gleda	gledam	Vmip3si		165	4	0	root														
+tója	то́ꙗ	toja	toja	Pd-msn		165	5	6	det	ext													
+světь.	свѣть.	světъ	svět	Nmsnn		165	6	4	obj														
+																							
+i+	и+	i	i	C		166	1	9	cc				and one of those beautiful shiny young men stepped to him										
+édínь	е́ди́нь	edinъ	edin	Amsnn		166	2	9	nsubj					1									
+wt+	ѿ+	ot	ot	Sg		166	3	8	case														
+onïa	онїа	onia	onja	Pd-mpn		166	4	8	det	ext													
+xúbavy	хꙋ́бавы	xubavi	xubav	Ampnn		166	5	8	amod														
+i+	и+	i	i	C		166	6	7	cc														
+světlýkavy	свѣтлы́кавы	světlikavi	světlikav	Ampnn		166	7	5	conj														
+mw´m'ci,	мѡ́м͛ци,	momci	momъk	Nmpny		166	8	2	nmod														
+pri_stъ´pi	при_стъ́пи	pristъpi	pristъpja	Vmia3se		166	9	0	root					1									
+																							
+i+	и+	i	i	C		167	1	2	cc				and he seized his arm										
+uzé+	ꙋзе́+	uze	vzema	Vmia3se		167	2	0	root														
+go	го	go	toi	Pp3msa		167	3	2	obj														
+zá+	зá+	za	za	Sa		167	4	5	case														
+ruka,	рꙋка,	ruka	rъka	Nfsnn		167	5	2	obl														
+																							
+i+	и+	i	i	C		168	1	2	cc				and he said to him:										
+rče+	рче+	re	reka	Vmia3se		168	2	0	root														
+mu.	мꙋ.	mu	toi	Pp3msd		168	3	2	obl	iobj													
+																							
+stanì	станѝ	stani	stana	Vmm-2se		169	1	0	root				ʺstand up, Georgi!ʺ										
+gew´r'gïe	геѡ́р͛гїе	georgie	Georgi	Nmsvy		169	2	1	vocative					1									
+																							
+i+	и+	i	i	C		170	1	5	cc				ʺand as you did soʺ			Vuković 1536: Gewrgïe glje, vьskujù táko prězrě´ste tě´lo prěpodw´bnyjè pétky.							
+óti+	о́ти+	oti	oti	C		170	2	5	cc														
+ste	сте	ste	sъm	Vaip3si		170	3	5	aux	prf													
+takà	такà	taka	taka	Pr		170	4	5	advmod														
+stórile,	сто́риле,	storile	storja	Vmp--pe		170	5	0	root														
+																							
+ta+	та+	ta	ta	C		171	1	3	cc				ʺas you left that stinking body next to the body of St. Petkaʺ										
+stè	стѐ	ste	sъm	Vaip3si		171	2	3	aux	prf													
+ostávile	остáвиле	ostavile	ostavja	Vmp--pe		171	3	0	root														
+o_novà	о_новà	onova	onova	Pd-nsn		171	4	5	det	ext				1									
+tělô	тѣло̂	tělo	tělo	Nnsnn		171	5	3	obj														
+vonéšto.	воне́що.	vonešto	vonja	Ansnn	Vmpp-sia	171	6	5	amod														
+pri+	при+	pri	pri	Sl		171	7	8	case														
+těló+	тѣло́+	tělo	tělo	Nnsnn		171	8	3	obl	loc													
+to	то	to	tъ	Pd-nsn		171	9	8	det	p_nom													
+stě´i	стѣ́и	stěi	svęt	Afsdy		171	10	11	amod														
+pét'ky.	пе́т͛кы.	petki	Petka	Nfsgy		171	11	8	nmod	poss				1									
+																							
+àmì	àмѝ	ami	ami	C		172	1	4	cc				ʺyou shall go quicklyʺ										
+skóro	ско́ро	skoro	skoro	R		172	2	4	advmod														
+da+	да+	da	da	C		172	3	4	aux	opt													
+póĭdešь	по́йдешь	poidešъ	poida	Vmip2se		172	4	0	root														
+																							
+i+	и+	i	i	C		173	1	3	cc				ʺand you shall retrieve the relics of St. Petkaʺ										
+da+	да+	da	da	C		173	2	3	aux	opt													
+izvádišь	извáдишь	izvadišъ	izvadja	Vmip2se		173	3	0	root														
+móšti+	мо́щи+	mošti	mošti	Nfpnn		173	4	3	obj														
+te	те	te	tъ	Pd-fpn		173	5	4	det	p_nom				1									
+stě´i	стѣ́и	stěi	svęt	Afsdy		173	6	7	amod														
+pet'ki.	пет͛ки.	petki	Petka	Nfsgy		173	7	4	nmod	poss													
+																							
+i+	и+	i	i	C		174	1	4	cc				ʺand you shall put them to a golden coffinʺ										
+da+	да+	da	da	C		174	2	4	aux	opt													
+gŷ	гы̂	gi	tělo	Pp3-pa		174	3	4	obj														
+wstávišь	ѡстáвишь	ostavišъ	ostavja	Vmip2se		174	4	0	root														
+ou	оу	ou	u	Sg		174	5	6	case														
+kov'čégь	ков͛че́гь	kovčegъ	kovčeg	Nmsnn		174	6	4	obl	loc				1									
+zláty.	злáты.	zlati	zlat	Amsny		174	7	6	amod														
+																							
+zaštô	защо̂	zašto	zašto	C		175	1	3	cc				ʺfor the King craves for her virtueʺ										
+crь	црь	crъ	car	Nmsny		175	2	3	nsubj														
+požáli	пожáли	požali	požalja	Vmia3se		175	3	0	root														
+njéina	нѥ́ина	njeina	nein	Afsnn		175	4	5	amod	poss													
+dobrynà.	добрынà.	dobrina	dobrina	Nfsnn		175	5	3	obj														
+																							
+i+	и+	i	i	C		176	1	7	cc				ʺand now Lord will spread her fame in the whole worldʺ										
+štè	щѐ	šte	šta	Vaip3si		176	2	7	aux	fut				1									
+gь	гь	gъ	Gospod	Nmsny		176	3	7	nsubj														
+segà.	сегà.	sega	sega	R		176	4	7	advmod														
+da+	да+	da	da	C		176	5	2	fixed	inf													
+jù	ю̀	ju	tja	Pp3fsa		176	6	7	obj														
+proslávi	прослáви	proslavi	proslavja	Vmip3se		176	7	0	root														
+po+	по+	po	po	Sl		176	8	10	case														
+síč'ki	си́ч͛ки	sički	sički	Amsny		176	9	10	amod														
+svě´tь.	свѣ́ть.	světъ	svět	Nmsnn		176	10	7	obl	loc													
+																							
+Togá_zi	Тогá_зи	togazi	togazi	Pr		177	1	6	advmod				then she spoke to him herself:	1									
+i+	и+	i	i	C		177	2	3	amod														
+tïá+	тїá+	tia	tja	Pp3fsn		177	3	6	nsubj														
+mu	мꙋ	mu	toi	Pp3msd		177	4	6	obl	iobj													
+samâ	самâ	sama	sam	Afsnn		177	5	3	amod														
+podúma.	подꙋ́ма.	poduma	podumam	Vmia3se		177	6	0	root														
+																							
+skóro	ско́ро	skoro	skoro	R		178	1	2	advmod				ʺretrieve my relics quicklyʺ										
+izvadě´te	извадѣ́те	izvaděte	izvadja	Vmm-2pe		178	2	0	root					1									
+mói+	мо́и+	moi	moi	Afpnn		178	3	5	amod	poss													
+te	те	te	tъ	Pd-fpn		178	4	3	det	p_adj													
+móšti.	мо́щи.	mošti	mošti	Nfpnn		178	5	2	obj														
+																							
+i+	и+	i	i	C		179	1	2	cc				ʺand put (them) on a nice placeʺ										
+položě´te	положѣ́те	položěte	položa	Vmm-2pe		179	2	0	root														
+na+	на+	na	na	Sa		179	3	5	case														
+xúbavo	хꙋ́баво	xubavo	xubav	Ansnn		179	4	5	amod														
+mě´sto.	мѣ́сто.	město	město	Nnsnn		179	5	2	obl	lat				1									
+																							
+zaštô	защо̂	zašto	zašto	C		180	1	5	cc				ʺbecause I can't suffer that stench anymoreʺ										
+ne+	не+	ne	ne	Qz		180	2	3	advmod														
+mógu	мо́гꙋ	mogu	moga	Vaip1si		180	3	5	aux														
+da+	да+	da	da	C		180	4	3	fixed	inf													
+trьpim	трьпим	trъpim	tъrpja	Vmip1si	Vmip1pi	180	5	0	root														
+áz'ь	áз͛ь	azъ	az	Pp1-sn		180	6	5	nsubj														
+za+	за+	za	za	Sa		180	7	8	case														
+mnw^go	мнѡ̂го	mnogo	mnogo	R		180	8	5	advmod														
+tóizi	то́изи	toizi	tozi	Pd-msn		180	9	10	det	ext				1									
+smràdь.	смрàдь.	smradъ	smrad	Nmsnn		180	10	5	obj														
+																							
+ne+	не+	ne	ne	Qz		181	1	2	advmod				ʺdon't you fear God that he'd cast fire to burn you?ʺ			This Petka's threat is not in the Vuković's version of the Life: it was likely taken from the Prologue edition (e.g. in NBKM 665, BAR 287, and also in PPS).							
+boíš'+	бои́ш͛+	boiš	boja	Vmip2si		181	2	0	root														
+li+	ли+	li	li	Qq		181	3	2	advmod														
+se	се	se	se	Px---a		181	4	2	expl														
+ba,	ба,	ba	bog	Nmsgy		181	5	2	obl	iobj													
+da+	да+	da	da	C		181	6	9	mark														
+nè+	нѐ+	ne	ne	Qz		181	7	9	advmod														
+bŷ	бы̂	bi	bъda	Vao-3se		181	8	9	aux	con													
+pustílь	пꙋсти́ль	pustilъ	pustja	Vmp--se		181	9	2	advcl														
+bь	бь	bъ	bog	Nmsny		181	10	9	nsubj					1									
+w´g'nь	ѡ́г͛нь	ognъ	ogъn	Nmsnn		181	11	9	obj														
+da+	да+	da	da	C		181	12	14	mark														
+vŷ.	вы̂.	vi	vie	Pp2-pa		181	13	14	obj														
+popáli.	попáли.	popali	popalja	Vmip3se		181	14	11	acl														
+																							
+I+	И+	i	i	C		182	1	4	cc				ʺand I am a human (too), born from a mother and a fatherʺ										
+áz+	áз+	az	az	Pp1-sn		182	2	4	nsubj														
+esъmь	есъмь	esъmъ	sъm	Vmip1si		182	3	4	cop														
+člkь	члкь	člkъ	človek	Nmsny		182	4	0	root														
+wt+	ѿ+	ot	ot	Sg		182	5	6	case														
+máika	мáика	maika	maika	Nfsny		182	6	4	obl					1									
+i	и	i	i	C		182	7	9	cc														
+wt+	ѿ+	ot	ot	Sg		182	8	9	case														
+baštâ	бащâ	bašta	bašta	Nfsny		182	9	6	conj														
+rodéna.	роде́на.	rodena	rodja	Vmpa-se	Afsnn	182	10	4	conj														
+																							
+i+	и+	i	i	C		183	1	4	cc				ʺand my fatherland (is) Epibates, as you call it and where do you live nowʺ										
+moè	моѐ	moe	moi	Ansny		183	2	3	amod	poss													
+wtčьstvo	ѿчьство	otčъstvo	otečestvo	Nnsnn		183	3	4	nsubj														
+epiváti	епивáти	epivati	Epivat	Nmsnn		183	4	0	root					1									
+što+	що+	što	što	Pq		183	5	7	mark														
+gô	го̂	go	toi	Pp3nsa		183	6	7	obj														
+zově´te.	зовѣ́те.	zověte	zova	Vmip2pi		183	7	4	acl														
+i+	и+	i	i	C		183	8	10	cc														
+déto+	де́то+	deto	deto	Pr		183	9	10	mark														
+ste	сте	ste	sъm	Vmip2pi		183	10	7	conj														
+vŷe	вы̂е	vie	vie	Pp2-pn		183	11	10	nsubj														
+segâ	сегâ	sega	sega	R		183	12	10	advmod														
+na	на	na	na	Sl		183	13	14	case														
+njégo.	нѥ́го.	njego	toi	Pp3nsg		183	14	10	obl	loc				1									
+																							
+I+	И+	i	i	C		184	1	17	cc				and in that night another woman, a good Christian, her name was Euphemia, saw such (a vision)										
+prěz'+	прѣз͛+	prěz	prez	Sa		184	2	4	case														
+tьzi	тьзи	tъzi	tozi	Pd-fso		184	3	4	det	ext													
+nóštь	но́щь	noštъ	nošt	Nfsnn		184	4	17	obl	loc													
+i+	и+	i	i	C		184	5	7	amod														
+drúga	дрꙋ́га	druga	drug	Afsnn		184	6	7	amod														
+žénâ	же́нâ	žena	žena	Nfsnn		184	7	17	nsubj														
+dobrâ	добрâ	dobra	dobъr	Afsnn		184	8	9	amod														
+xrstïá_n'ka	хрстїá_н͛ка	xrstianka	xristianka	Nfsny		184	9	7	appos					1									
+ime+	име+	ime	ime	Nnsnn		184	10	13	nsubj														
+to+	то+	to	tъ	Pd-nsn		184	11	10	det	p_nom													
+éi	е́и	ei	tja	Pp3fsd		184	12	10	nmod	poss													
+Efímïa.	Єфи́мїа.	efimia	Evfimija	Nfsny		184	13	7	acl														
+i+	и+	i	i	C		184	14	15	amod														
+tïà	тїà	tia	tja	Pp3fsn		184	15	7	expl														
+takvózi	такво́зи	takvozi	takъvzi	Pr-nsn		184	16	17	obj														
+vidě´_la,	видѣ́_ла,	viděla	vidja	Vmp--si		184	17	0	root					1									
+																							
+i+	и+	i	i	C		185	1	6	cc				and they said such words to her										
+takvízy	такви́зы	takvizi	takъvzi	Pd-fpn		185	2	3	amod														
+dúmy	дꙋ́мы	dumi	duma	Nfpnn		185	3	6	obj														
+i+	и+	i	i	C		185	4	5	advmod														
+njéi	нѥ́и	njei	tja	Pp3fsd		185	5	6	obl	iobj													
+rékle,	ре́кле,	rekle	reka	Vmp--pe		185	6	0	root														
+																							
+i+	и+	i	i	C		186	1	2	cc				and commanded:										
+zarъ´čale	заръ́чале	zarъčale	zarъčam	Vmp--pe		186	2	0	root					1									
+																							
+skóro	ско́ро	skoro	skoro	R		187	1	5	advmod				ʺyou shall tell that early in the morning, so that you won't be burned down by the fire of Godʺ										
+útrě	ꙋ́трѣ	utrě	utre	R		187	2	5	advmod														
+ráno	рáно	rano	rano	R		187	3	2	advmod														
+da+	да+	da	da	C		187	4	5	aux	opt													
+kážešь	кáжешь	kažešъ	kaža	Vmip2se		187	5	0	root														
+tovâ,	товâ,	tova	tova	Pd-nsn		187	6	5	obj														
+da+	да+	da	da	C		187	7	13	mark														
+vŷ	вы̂	vi	vie	Pp2-pa		187	8	13	obj														
+wt+	ѿ+	ot	ot	Sg		187	9	10	case														
+ba	ба	ba	bog	Nmsgy		187	10	13	obl					1									
+w´g'nь	ѡ́г͛нь	ognъ	ogъn	Nmsnn		187	11	13	nsubj														
+ne+	не+	ne	ne	Qz		187	12	13	advmod														
+iz'gorì.	из͛горѝ.	izgori	izgorja	Vmip3se		187	13	5	advcl														
+																							
+I+	И+	i	i	C		188	1	4	cc				and the both went out in the morning										
+na+	на+	na	na	Sl		188	2	3	case														
+utrě	ꙋтрѣ	utrě	utre	R		188	3	4	advmod														
+izlě´zoxa	излѣ́зоха	izlězoxa	izlěza	Vmii3pe		188	4	0	root														
+i+	и+	i	i	C		188	5	6	amod														
+dvaʺ+	два̏+	dva	dva	Ml		188	6	4	nsubj														
+ta,	та,	ta	tъ	Pd-npn		188	7	6	det	p_nom				1									
+																							
+i+	и+	i	i	C		189	1	2	cc				and told to all who where there to the end										
+kazáxu	казáхꙋ	kazaxu	kaža	Vmii3pe	Vmia3pe	189	2	0	root														
+na	на	na	na	Sa		189	3	4	case														
+síč'ki	си́ч͛ки	sički	sički	Ampny		189	4	2	obl	iobj													
+támo	тáмо	tamo	tamo	R		189	5	2	advmod														
+po+	по+	po	po	Sl		189	6	7	case														
+konécь.	коне́ць.	konecъ	konec	Nmsnn		189	7	2	obl														
+																							
+I+	И+	i	i	C		190	1	9	cc				and as the people of Epibates heard it, they all hurried (to the grave)										
+katô	като̂	kato	kato	C		190	2	3	mark														
+čjú_xa	чю́_ха	čjuxa	čuja	Vmii3pi		190	3	9	advcl					1									
+tovà	товà	tova	tova	Pd-nsn		190	4	3	obj	ext													
+Epivátscïi	Єпивáтсцїи	epivatscii	epivatski	Ampny		190	5	6	amod														
+ljúdïe.	лю́дїе.	ljudie	ljudie	Nmpny		190	6	9	nsubj														
+skóro	ско́ро	skoro	skoro	R		190	7	9	advmod														
+síč'ki	си́ч͛ки	sički	sički	Ampny		190	8	6	expl					1									
+tékoxa,	те́коха,	tekoxa	teka	Vmii3pi		190	9	0	root														
+																							
+i+	и+	i	i	C		191	1	5	cc				and they retrieved her relics with great joy, as a very precious treasure										
+sъs'	със͛	sъs	s	Si		191	2	4	case														
+golě´ma	голѣ́ма	golěma	golěm	Afsnn		191	3	4	amod														
+rádostь	рáдость	radostъ	radost	Nfsnn		191	4	5	obl														
+izvádixa,	извáдиха,	izvadixa	izvadja	Vmii3pe		191	5	0	root														
+mó_šti+	мо́_щи+	mošti	mošti	Nfpnn		191	6	5	obj					1									
+te	те	te	tъ	Pd-fpn		191	7	6	det	p_nom													
+jéi	ѥ́и	jei	tja	Pp3fsd		191	8	6	nmod	poss						Ljub.d.: ì							
+katô	като̂	kato	kato	C		191	9	12	mark														
+ně´koe	нѣ́кое	někoe	někoi	Ansny		191	10	12	det														
+mnw^go_cě´nno	мнѡ̂го_цѣ́нно	mnogocěnno	mnogocenen	Ansnn		191	11	12	amod														
+skróvište	скро́вище	skrovište	sъkrovište	Nnsnn		191	12	6	acl					1									
+																							
+i+	и+	i	i	C		192	1	4	cc				and they wondered a lot about her holy body										
+mnw^go+	мнѡ̂го+	mnogo	mnogo	R		192	2	4	advmod														
+se	се	se	se	Px---a		192	3	4	expl														
+čjudíxa	чюди́ха	čjudixa	čudja	Vmii3pi		192	4	0	root														
+na+	на+	na	na	Sa		192	5	9	case														
+njéino+	нѥ́ино+	njeino	nein	Ansnn		192	6	9	amod	poss													
+to	то	to	tъ	Pd-nsn		192	7	6	det	p_adj													
+stóe	сто́е	stoe	svęt	Ansny		192	8	9	amod														
+tě´lo.	тѣ́ло.	tělo	tělo	Nnsnn		192	9	4	obl	iobj													
+																							
+wt	ѿ	ot	ot	Sg		193	1	3	case				how could it stay so healthy after so much time	1									
+tól'kozi	то́л͛кози	tolkozi	tolkozi	Pr		193	2	3	amod														
+vrě´me	врѣ́ме	vrěme	vreme	Nnsnn		193	3	5	obl	abl													
+kákь	кáкь	kakъ	kak	Pq		193	4	5	advmod														
+stoì	стоѝ	stoi	stoja	Vmip3si		193	5	0	root														
+cě´lo	цѣ́ло	cělo	cěl	Ansnn		193	6	5	obl	pred													
+i+	и+	i	i	C		193	7	8	cc														
+krásno,	крáсно,	krasno	krasen	Ansnn		193	8	6	conj					1									
+i+	и+	i	i	C		193	9	10	cc				and (how could it) smell of beautiful scent, so that one cannot stop smell it										
+blgo_uxáe,	блго_ꙋхáе,	blgouxae	blagouxaja	Vmip3si		193	10	5	conj														
+i+	и+	i	i	C		193	11	14	amod														
+wt+	ѿ+	ot	ot	Sg		193	12	14	case														
+xúbava	хꙋ́бава	xubava	xubav	Afsnn		193	13	14	amod														
+miriz'mà	мириз͛мà	mirizma	mirizma	Nfsnn		193	14	10	obl														
+da+	да+	da	da	C		193	15	19	mark														
+sè	сѐ	se	se	Px---a		193	16	19	expl														
+člkь	члкь	člkъ	človek	Nmsny		193	17	19	nsubj					1									
+ne+	не+	ne	ne	Qz		193	18	19	advmod														
+nasýti.	насы́ти.	nasiti	nasitja	Vmip3se		193	19	10	advcl														
+																							
+I+	И+	i	i	C		194	1	2	cc				and they took that body with candles and censers and thyme and myrrh and other beautiful incenses										
+uzéxa	ꙋзе́ха	uzexa	vzema	Vmii3pe		194	2	0	root														
+onovà	оновà	onova	onova	Pd-nsn		194	3	4	det	ext													
+tělo	тѣло	tělo	tělo	Nnsnn		194	4	2	obj														
+sъ+	съ+	sъ	s	Si		194	5	6	case														
+svě´šti,	свѣ́щи,	svěšti	svešt	Nfpnn		194	6	2	obl														
+i	и	i	i	C		194	7	9	cc					2									
+sъs'+	със͛+	sъs	s	Si		194	8	9	case		57v	/img/petka/57v.JPG											
+kadíl'nici,	кади́л͛ници,	kadilnici	kadilnik	Nmpnn		194	9	6	conj														
+i+	и+	i	i	C		194	10	12	cc														
+sъ+	съ+	sъ	s	Si		194	11	12	case														
+ѳïmïánь	ѳїмїáнь	ѳimianъ	tamjan	Nmsnn		194	12	9	conj														
+i+	и+	i	i	C		194	13	14	cc														
+íz'mϋ´r'no,	и́з͛мѷ́р͛но,	izmѵrno	izmirno	Nnsnn		194	14	12	conj														
+i+	и+	i	i	C		194	15	18	cc														
+drúgy	дрꙋ́гы	drugi	drug	Ampnn		194	16	18	amod					1									
+xúbavy	хꙋ́бавы	xubavi	xubav	Ampnn		194	17	18	amod														
+aromáѳi.	аромáѳи.	aromaѳi	aromat	Nmpnn		194	18	14	conj														
+																							
+i+	и+	i	i	C		195	1	2	cc				and carried her away with great joy										
+wtnésoxa+	ѿне́соха+	otnesoxa	otnesa	Vmii3pe		195	2	0	root														
+jù	ю̀	ju	tja	Pp3fsa		195	3	2	obj														
+sъs+	със+	sъs	s	Si		195	4	6	case														
+golě´ma	голѣ́ма	golěma	golěm	Afsnn		195	5	6	amod														
+rádos,	рáдос,	rados	radost	Nfsnn		195	6	2	obl					1									
+																							
+i+	и+	i	i	C		196	1	2	cc				and they laid her in the Church of the Holy Apostles										
+polóžixa+	поло́жиха+	položixa	položa	Vmii3pe		196	2	0	root														
+ę`	ѧ̀	ę	tja	Pp3fsa		196	3	2	obj														
+vъ+	въ+	vъ	v	Sa		196	4	5	case														
+crkva	црква	crkva	cъrkva	Nfsnn		196	5	2	obl	lat													
+styx	стых	stix	svęt	Ampgy		196	6	7	amod														
+ápslь.	áпсль.	apslъ	apostol	Nmpgy	Nmsny	196	7	5	nmod	poss													
+																							
+I+	И+	i	i	C		197	1	5	cc				and St. Petka then performed many miracles there										
+támo	тáмо	tamo	tamo	R		197	2	5	advmod					1									
+mnw^go	мнѡ̂го	mnogo	mnogo	R		197	3	4	amod														
+čjúdo	чю́до	čjudo	čudo	Nnsnn		197	4	5	obj														
+stóri	сто́ри	stori	storja	Vmia3se		197	5	0	root														
+togázi	тогáзи	togazi	togazi	Pr		197	6	5	advmod														
+staa	стаа	staa	svęt	Afsny		197	7	8	amod														
+pét'ka.	пе́т͛ка.	petka	Petka	Nfsny		197	8	5	nsubj														
+																							
+bě´_snïi	бѣ́_снїи	běsnii	běsen	Ampnn		198	1	2	nsubj				the mad were cured, and the ill, the deaf and the wounded as well	1									
+iscělě´xa,	исцѣлѣ́ха,	iscělěxa	izcelja	Vmii3pe		198	2	0	root														
+i+	и+	i	i	C		198	3	4	cc														
+ból'nïi,	бо́л͛нїи,	bolnii	bolen	Ampnn		198	4	1	conj														
+i+	и+	i	i	C		198	5	6	cc														
+glúxy,	глꙋ́хы,	gluxi	glux	Ampnn		198	6	4	conj														
+i+	и+	i	i	C		198	7	8	cc														
+eźàvy.	еѕàвы.	ezavi	ezav	Ampnn		198	8	6	conj					1		Demina et al. 257: ezav 'bolen čovek', Cejtlin et al. 806: jęźa 'nemoc, neduh', BAN I 481 edzav 'pokrit s rani'							
+																							
+i+	и+	i	i	C		199	1	21	cc				and those, who came, and had pure faith and love for St. Petka from the whole heart, were cured from any illness instantly										
+wt+	ѿ+	ot	ot	Sg		199	2	4	case														
+sě´kak'vi	сѣ́как͛ви	sěkakvi	sěkakъv	Afpnn		199	3	4	amod														
+bólestь,	бо́лесть,	bolestъ	bolest	Nfsnn		199	4	21	obl														
+koì	коѝ	koi	koi	Pq---n		199	5	6	nsubj														
+doxóždaxa,	дохо́ждаха,	doxoždaxa	doxoždam	Vmii3pi		199	6	21	advcl														
+i+	и+	i	i	C		199	7	9	cc														
+vě´ra	вѣ́ра	věra	věra	Nfsnn		199	8	9	obj					1									
+ímaxa	и́маха	imaxa	imam	Vmii3pi		199	9	6	conj														
+čísta,	чи́ста,	čista	čist	Afsnn		199	10	8	amod														
+i+	и+	i	i	C		199	11	12	cc														
+ljubóvь	любо́вь	ljubovъ	ljubov	Nfsnn		199	12	8	conj														
+wt+	ѿ+	ot	ot	Sg		199	13	15	case														
+síč'ko	си́ч͛ко	sičko	sički	Ansnn		199	14	15	amod														
+srdce	срдце	srdce	sъrdce	Nnsnn		199	15	12	obl														
+na+	на+	na	na	Sa		199	16	18	case														
+staa	стаа	staa	svęt	Afsny		199	17	18	amod					1									
+pet'ka,	пет͛ка,	petka	Petka	Nfsny		199	18	12	obl	iobj													
+tója	то́ꙗ	toja	toja	Pd-msn		199	19	20	det	ext													
+čas	час	čas	čas	Nmsnn		199	20	21	obl														
+iscělě´vaxa.	исцѣлѣ́ваха.	iscělěvaxa	izcelja	Vmii3pe		199	21	0	root														
+																							
+I+	И+	i	i	C		200	1	2	cc				and she became famous throughout the whole land of Epibates										
+pročjú+	прочю́+	pročju	pročuja	Vmia3se		200	2	0	root														
+se	се	se	se	Px---a		200	3	2	expl														
+po+	по+	po	po	Sl		200	4	6	case														
+síč'_ka	си́ч͛_ка	sička	sički	Afsnn		200	5	6	amod					1									
+zemljà	землꙗ̀	zemlja	zemja	Nfsnn		200	6	2	obl	loc													
+Epivát'ska.	Єпивáт͛ска.	epivatska	epivatski	Afsnn		200	7	6	amod														
+																							
+i+	и+	i	i	C		201	1	6	cc				and she became famous not only there			Ljub.d.: i+ nè támo+ se pročjù, àmì i+ po+ cri_grád, i+ po+ síčka zemljâ.							
+ne+	не+	ne	ne	Qz		201	2	3	advmod														
+tь´k'mo	ть́к͛мо	tъkmo	tъkmo	R		201	3	4	advmod														
+támo+	тáмо+	tamo	tamo	R		201	4	6	advmod														
+se	се	se	se	Px---a		201	5	6	expl					1									
+pročjù.	прочю̀.	pročju	pročuja	Vmia3se		201	6	0	root														
+àmì	àмѝ	ami	ami	C		201	7	10	cc				but even in Tsarigrad										
+i+	и+	i	i	C		201	8	7	fixed														
+do+	до+	do	do	Sg		201	9	10	case														
+cári_grád,	цáри_грáд,	carigrad	Carigrad	Nmsnn		201	10	4	conj	lat													
+i+	и+	i	i	C		201	11	14	cc				and on the whole Earth										
+po+	по+	po	po	Sl		201	12	14	case														
+síč'ka	си́ч͛ка	sička	sički	Afsnn		201	13	14	amod														
+zemljà●	землꙗ̀●	zemlja	zemja	Nfsnn		201	14	10	conj	loc				1									
+																							
+I+	И+	i	i	C		202	1	3	cc				and some time passed									10	Franks in Tsarigrad
+vrě´mê	врѣ́ме̂	vrěme	vreme	Nnsnn		202	2	3	nsubj														
+bŷs	бы̂с	bis	bъda	Vmia3se		202	3	0	root														
+ně´koe.	нѣ́кое.	někoe	někoi	Ansny		202	4	2	amod														
+																							
+oslábnъ	ослáбнъ	oslabnъ	otslabna	Vmia3se		203	1	0	root				the Greek kingdom became weak										
+grь´čьsko	грь́чьско	grъčъsko	grъcki	Ansnn		203	2	3	amod														
+cár'_stvo.	цáр͛_ство.	carstvo	carstvo	Nnsnn		203	3	1	nsubj					1									
+																							
+i+	и+	i	i	C		204	1	5	cc				and the Romans came by the divine command										
+sъs'+	със͛+	sъs	s	Si		204	2	4	case														
+bžïe	бжїе	bžie	božii	Ansnn		204	3	4	amod	poss													
+povelě´nïe,	повелѣ́нїе,	povelěnie	povelenie	Nnsnn		204	4	5	obl														
+doĭdóxa	дойдо́ха	doidoxa	doida	Vmii3pe		204	5	0	root														
+rimljáne	римлꙗ́не	rimljane	rimljanin	Nmpny		204	6	5	nsubj					1									
+																							
+i+	и+	i	i	C		205	1	2	cc				and they took Tsarigrad										
+prěexa,	прѣеха,	prěexa	prěęti	Vmii3pe		205	2	0	root														
+cári_grádь.	цáри_грáдь.	carigradъ	Carigrad	Nmsnn		205	3	2	obj														
+																							
+katô	като̂	kato	kato	C		206	1	2	cc				as the King David says										
+káže	кáже	kaže	kaža	Vmip3se		206	2	0	root														
+dvdь	двдь	dvdъ	David	Nmsnn		206	3	2	nsubj														
+crь.	црь.	crъ	car	Nmsnn		206	4	3	appos					1									
+																							
+sъs'+	със͛+	sъs	s	Si		207	1	2	case				they ruled ʺwith a rod of ironʺ			Ps 2:9							
+pálica	пáлица	palica	palica	Nfsnn		207	2	4	obl														
+želě´zna	желѣ́зна	želězna	želězen	Afsnn		207	3	2	amod														
+udrьžáxa.	ꙋдрьжáха.	udrъžaxa	udъrža	Vmii3pe		207	4	0	root														
+																							
+I+	И+	i	i	C		208	1	5	cc				and the Franks looted everything in the Tsarigrad										
+síč'ko	си́ч͛ко	sičko	sički	Nnsnn		208	2	5	obj														
+oú+	оꙋ́+	ou	udъrža	Sg		208	3	4	case														
+cá_ri_grád	цá_ри_грáд	carigradъ	Carigrad	Nmsnn		208	4	5	obl	loc				1									
+plěníxa	плѣни́ха	plěnixa	plenja	Vmii3pe		208	5	0	root														
+frén'ci.	фре́н͛ци.	frenci	frenci	Nmpnn		208	6	5	nsubj														
+																							
+i+	и+	i	i	C		209	1	2	cc				and they stole gold and silver and ecclesial robes										
+wbráxa,	ѡбрáха,	obraxa	obera	Vmii3pe		209	2	0	root														
+i+	и+	i	i	C		209	3	4	cc														
+zláto	злáто	zlato	zlato	Nnsnn		209	4	2	obj					1									
+i+	и+	i	i	C		209	5	6	cc														
+srébro.	сре́бро.	srebro	srebro	Nnsnn		209	6	4	conj														
+i+	и+	i	i	C		209	7	9	cc														
+crkóvny	црко́вны	crkovni	cъrkoven	Afpnn		209	8	9	amod														
+wdeždy,	ѡдежды,	odeždi	odežda	Nfpnn		209	9	6	conj														
+i+	и+	i	i	C		209	10	11	cc				and ceremonial instruments, which were very precious										
+sъsúdy,	съсꙋ́ды,	sъsudi	sъsud	Nmpnn		209	11	9	conj														
+štô	що̂	što	što	Pq		209	12	14	mark					1									
+bě´xa	бѣ́ха	běxa	sъm	Vmii3pi		209	13	14	cop														
+mnw^go_cě´nnïi,	мнѡ̂го_цѣ́ннїи,	mnogocěnnii	mnogocenen	Ampnn		209	14	11	acl														
+záednô	зáедно̂	zaedno	zaedno	C		209	15	18	cc				together with holy relics										
+i+	и+	i	i	C		209	16	18	amod														
+stỳ	сты̀	sti	svęt	Afpnn		209	17	18	amod														
+móšti.	мо́щи.	mošti	mošti	Nfpnn		209	18	11	conj														
+																							
+i	и	i	i	C		210	1	3	cc				and they carried everything away to Rome	1									
+síč'ko	си́ч͛ко	sičko	vsičko	Ansnn		210	2	3	obj														
+wtnésoxa	ѿне́соха	otnesoxa	otnesa	Vmii3pe		210	3	0	root														
+vъ+	въ+	vъ	v	Sa		210	4	5	case														
+rímь.	ри́мь.	rimъ	Rim	Nmsnn		210	5	3	obl	lat													
+																							
+Tovà	Товà	tova	tova	Pd-nsn		211	1	3	obj				as the Tsarigradians saw and suffered that, the Holy Synod sighed heavily										
+katô	като̂	kato	kato	C		211	2	3	mark														
+vidě´xa	видѣ́ха	viděxa	vidja	Vmii3pe		211	3	10	advcl					1									
+i+	и+	i	i	C		211	4	5	cc														
+dočákaxa	дочáкаха	dočakaxa	dočakam	Vmii3pe		211	5	3	conj														
+cárográždane,	цáрогрáждане,	carograždane	carograždanin	Nmpny		211	6	3	nsubj														
+i+	и+	i	i	C		211	7	10	cc														
+blgočь´stivy	блгочь́стивы	blgočъstivi	blagočestiv	Amsny		211	8	9	amod														
+sъbór'.	събо́р͛.	sъbor	sъbor	Nmsnn		211	9	10	nsubj					1									
+vъz'dъ´xnu	въз͛дъ́хнꙋ	vъzdъxnu	vъzdъxna	Vmia3se		211	10	0	root							Ljub.d.: vьzdь´xna							
+tvrь´dě,	тврь́дѣ,	tvrъdě	tvъrdo	R		211	11	10	advmod														
+																							
+i+	и+	i	i	C		212	1	7	cc				and they were overcome with great sadness and sorrow										
+golě´m	голѣ́м	golěm	golěm	Amsnn		212	2	3	amod														
+skrь`bь,	скрь̀бь,	skrъbъ	skrъb	Nmsnn		212	3	7	obj														
+i+	и+	i	i	C		212	4	6	cc					1									
+golě´ma	голѣ́ма	golěma	golěm	Afsnn		212	5	6	amod														
+tъgà	тъгà	tъga	tъga	Nfsnn		212	6	3	conj														
+ímaxa	и́маха	imaxa	imam	Vmii3pi		212	7	0	root														
+togázi.	тогáзи.	togazi	togazi	Pr		212	8	7	advmod														
+																							
+i+	и+	i	i	C		213	1	2	cc				and they walked as dead										
+xóděxa	хо́дѣха	xoděxa	xodja	Vmii3pi		213	2	0	root														
+katô	като̂	kato	kato	C		213	3	4	mark														
+mrь`tvy	мрь̀твы	mrъtvi	mъrtъv	Ampnn		213	4	2	advcl					1									
+																							
+í+	и́+	i	i	C		214	1	2	cc				and they prayed to God										
+mljaxa	млꙗха	mljaxa	molja	Vmii3pi		214	2	0	root														
+se	се	se	se	Px---a		214	3	2	expl														
+bu	бꙋ	bu	bog	Nmsdy		214	4	2	obl	iobj													
+																							
+í+	и́+	i	i	C		215	1	2	cc				and they were saying:										
+dúmaxa.	дꙋ́маха.	dumaxa	dumam	Vmii3pi		215	2	0	root														
+																							
+vъskrsnì	въскрснѝ	vъskrsni	vъzkresja	Vmm-2se		216	1	0	root				ʺwake upʺ										
+																							
+vъskúju	въскꙋ́ю	vъskuju	vъskǫjǫ	C		217	1	2	cc				ʺwhy do you sleep, o Lord?ʺ			Ps 44:23							
+spíšь	спи́шь	spišъ	spja	Vmip2si		217	2	0	root					1									
+gi.	ги.	gi	Gospod	Nmsvy		217	3	2	vocative														
+																							
+zaštô	защо̂	zašto	zašto	C		218	1	2	cc				ʺwhy do you forget our misery and worries?ʺ			Ps 44:24							
+zaborávy	заборáвы	zaboravi	zabravja	Vmia2se		218	2	0	root														
+nášu	нáшꙋ	našu	naš	Afsan		218	3	4	amod	poss													
+níštetu,	ни́щетꙋ,	ništetu	ništeta	Nfsan		218	4	2	obj							Ljub.d.: syromašï^a							
+i+	и+	i	i	C		218	5	6	cc														
+gríža	гри́жа	griža	griža	Nfsnn		218	6	4	conj					1									
+náša.	нáша.	naša	naš	Afsnn		218	7	6	amod	poss						sic							
+																							
+i+	и+	i	i	C		219	1	6	cc				and they prayed and said many other things										
+drúgy	дрꙋ́гы	drugi	drug	Afpnn		219	2	3	amod														
+rě´čy,	рѣ́чы,	rěči	reč	Nfpnn		219	3	6	obj														
+mnw^go+	мнѡ̂го+	mnogo	mnogo	R		219	4	6	advmod														
+se	се	se	se	Px---a		219	5	6	expl														
+mljaxa	млꙗха	mljaxa	molja	Vmii3pi		219	6	0	root														
+i+	и+	i	i	C		219	7	8	cc														
+dúmaxa.	дꙋ́маха.	dumaxa	dumam	Vmii3pi		219	8	6	conj					1									
+																							
+I+	И+	i	i	C		220	1	16	cc				and in that time John Asen, the honorable King of Tarnovo, son of the old Bulgarian King Asen, held his kingdom fast									11	Conquests of John Asen
+vъ+	въ+	vъ	v	Sl		220	2	4	case														
+tovà	товà	tova	tova	Pd-nsn		220	3	4	det														
+vrě´me,	врѣ́ме,	vrěme	vreme	Nnsnn		220	4	16	obl	loc													
+blgočь´stivyʺ	блгочь́стивы̏	blgočъstivi	blagočestiv	Amsny		220	5	6	amod														
+cárь	цáрь	carъ	car	Nmsny		220	6	16	nsubj														
+trь´nov'_skyʺ	трь́нов͛_скы̏	trъnovski	tъrnovski	Amsny		220	7	6	amod					1									
+ıwánnь	ıѡáннь	ioannъ	Ioan	Nmsny		220	8	6	appos														
+asě´nju.	асѣ́ню.	asěnju	Asěn	Nmsdy		220	9	8	appos							okončanie -u estь izъ datělnogo samostojęštego ostaveno, cf. Vuković 1536: Vъ tože vrěme blgočьstie světlě i javljeně krěpcě udrьžavšu blgočьstivomu cru blьgarskomu Ioannu Asěnju, snu starago cra Asěnja, i nikakože těxь lajanii užasьšu se, nьi pače vrěme blgopolučno obrětь na nečьstivyxъ odrьžanie.							
+snь	снь	snъ	sin	Nmsny		220	10	8	appos														
+stárimu	стáримꙋ	starimu	star	Amsdy		220	11	13	amod														
+blь´gar'skymu	бль́гар͛скымꙋ	blъgarskimu	bъlgarski	Amsdy		220	12	13	amod					1									
+cáru	цáрꙋ	caru	car	Nmsdy		220	13	10	nmod	poss													
+asě´nju.	асѣ́ню.	asěnju	Asěn	Nmsdy		220	14	13	appos														
+krě´p'ko	крѣ́п͛ко	krěpko	krepko	R		220	15	16	advmod														
+drьžáše	дрьжáше	drъžaše	dъrža	Vmii3si		220	16	0	root														
+togázi	тогáзи	togazi	togazi	Pr		220	17	16	advmod														
+cárstvo.	цáрство.	carstvo	carstvo	Nnsnn		220	18	16	obj					1									
+																							
+i+	и+	i	i	C		221	1	4	cc				and he was in no way scared by those Franks as they conquered Tsarigrad										
+nìkakь	нѝкакь	nikakъ	nikak	Pz		221	2	4	advmod														
+ne+	не+	ne	ne	Qz		221	3	4	advmod														
+uboá+	ꙋбоá+	uboa	uboja	Vmia3se		221	4	0	root														
+se	се	se	se	Px---a		221	5	4	expl														
+wt+	ѿ+	ot	ot	Sg		221	6	8	case														
+w´nïá	ѡ́нїá	onia	onja	Pd-mpn		221	7	8	det	ext													
+frén'ci	фре́н͛ци	frenci	frenci	Nmpny		221	8	4	obl														
+katô	като̂	kato	kato	C		221	9	10	mark														
+prě´_exa	прѣ́_еха	prěxa	prěęti	Vmii3pe		221	10	4	advcl					1									
+cári_grádь.	цáри_грáдь.	carigradъ	Carigrad	Nmsnn		221	11	10	obj														
+																							
+àmì	àмѝ	ami	ami	C		222	1	4	cc				but he managed to raise an army to subdue the dishonorable (Franks)										
+édnak'ь+	е́днак͛ь+	ednakъ	ednak	R		222	2	4	advmod														
+mu	мꙋ	mu	toi	Pp3msd		222	3	4	obl	iobj													
+prilégna	приле́гна	prilegna	prilegna	Vmia3se		222	4	0	root					1									
+vrě´me	врѣ́ме	vrěme	vreme	Nnsnn		222	5	4	nsubj														
+voĭskà	войскà	voiska	voiska	Nnpnn		222	6	8	obj														
+da+	да+	da	da	C		222	7	8	mark														
+vdígne,	вди́гне,	vdigne	vdigna	Vmip3se		222	8	5	acl														
+da+	да+	da	da	C		222	9	10	mark														
+plěnúva	плѣнꙋ́ва	plěnuva	plenjavam	Vmip3si		222	10	8	advcl														
+ne+	не+	ne	ne	Qz		222	11	12	amod														
+čь´sti_vy.	чь́сти_вы.	čъstivi	čestiv	Ampnn		222	12	10	obj					2									
+ı+	ı+	i	i	C		222	13	15	cc		58r	/img/petka/58r.JPG	and to conquer a lot of land										
+da+	да+	da	da	C		222	14	15	mark														
+prěéma	прѣе́ма	prěema	prěęti	Vmip3se		222	15	10	conj														
+zemljà	землꙗ̀	zemlia	zemja	Nfsnn		222	16	15	obj														
+mnw^go.	мнѡ̂го.	mnogo	mnogo	R		222	17	16	amod														
+																							
+I+	И+	i	i	C		223	1	2	cc				and he jumped heroically with the divine command										
+skóči	ско́чи	skoči	skoča	Vmia3se		223	2	0	root														
+junáš'kyi	юнáш͛кыи	junaškii	junaški	R		223	3	2	advmod					1		ili: i+ skóči junašky+ i+ sъsъ+ bžie povelěnie ?							
+sъs'ъ+	със͛ъ+	sъsъ	s	Si		223	4	6	case														
+bžïe	бжїе	bžie	božii	Ansny		223	5	6	amod	poss													
+povelě´nïe.	повелѣ́нїе.	povelěnie	povělenie	Nnsnn		223	6	2	obl														
+																							
+i+	и+	i	i	C		224	1	2	cc				and conquered the land of Macedon and Serres										
+prěeʺ	прѣе̏	prěe	prěęti	Vmia3se		224	2	0	root														
+makedón'ska	македо́н͛ска	makedonska	makedonski	Afsnn		224	3	4	amod														
+zemljà.	землꙗ̀.	zemlja	zemja	Nfsnn		224	4	2	obj					1									
+i+	и+	i	i	C		224	5	6	cc														
+sě´rь	сѣ́рь	sěrъ	Sěr	Nmsnn		224	6	4	conj														
+i+	и+	i	i	C		224	7	9	cc				and the Mount Athos, that is, the Holy Mountain										
+aѳon'skaa	аѳон͛скаа	aѳonskaa	atonski	Afsny		224	8	9	amod														
+gorâ,	горâ,	gora	gora	Nfsnn		224	9	6	conj														
+siʺ_rě´č,	си̏_рѣ́ч,	sirě	sireč	Qg		224	10	12	mark														
+staa.	стаа.	staa	svęt	Afsny		224	11	12	amod														
+gorâ.	горâ.	gora	gora	Nfsnn		224	12	9	acl														
+i+	и+	i	i	C		224	13	16	cc				and the cities around Salonica										
+w´_kolò,	ѡ́_коло̀,	okolo	okolo	Sg		224	14	16	case					1									
+što+	що+	što	što	Pq		224	15	16	mark														
+sъ+	съ+	sъ	sъm	Vmip3pi		224	16	9	conj														
+grádwve	грáдѡве	gradove	grad	Nmpnn		224	17	16	nsubj														
+solúnь,	солꙋ́нь,	solunъ	Solun	Nmsnn		224	18	16	conj														
+i+	и+	i	i	C		224	19	21	cc				and all the land of Thessaly										
+síč'ka	си́ч͛ка	sička	sički	Afsnn		224	20	21	amod														
+zemljà	землꙗ̀	zemlia	zemja	Nfsnn		224	21	18	conj					1									
+ѳetalïískaa.	ѳеталїи́скаа.	ѳetaliiskaa	tetaliiski	Afsny		224	22	21	amod														
+																							
+i+	и+	i	i	C		225	1	3	cc				and he took both Triballia (Serbia) and Dalmatia, which is a country of Albanians										
+triválïa	тривáлїа	trivalia	Trivalija	Nfsnn		225	2	3	obj														
+uzè.	ꙋзѐ.	uze	vzema	Vmia3se		225	3	0	root														
+takà	такà	taka	taka	Pr		225	4	6	advmod														
+i+	и+	i	i	C		225	5	6	cc														
+dal'ma_tïa.	дал͛ма_тїа.	dalmatia	Dalmatija	Nfsnn		225	6	2	conj					1									
+što+	що+	što	što	Pq		225	7	10	mark														
+è	ѐ	e	sъm	Vmip3si		225	8	10	cop														
+arbanáš'ka	арбанáш͛ка	arbanaška	arbanaški	Afsnn		225	9	10	amod														
+drьžáva.	дрьжáва.	drъžava	dъržava	Nfsnn		225	10	6	acl														
+																							
+i+	и+	i	i	C		226	1	2	cc				and he conquered (it) up to Dyrrhacium										
+prěeʺ,	прѣе̏,	prěe	prěęti	Vmia3se		226	2	0	root														
+i+	и+	i	i	C		226	3	5	amod														
+do+	до+	do	do	Sg		226	4	5	case					1									
+dráča,	дрáча,	drača	Drač	Nmsgn		226	5	2	obl														
+																							
+i+	и+	i	i	C		227	1	7	cc				and he placed bright and honorable metropolites and bishops to all the lands he conquered										
+po+	по+	po	po	Sl		227	2	4	case														
+síč'ki	си́ч͛ки	sički	sički	Afpnn		227	3	4	amod														
+zemlì	землѝ	zemli	zemja	Nfpnn		227	4	7	obl	loc													
+gdeʺ	где̏	gde	gde	Pq		227	5	6	mark														
+prěé.	прѣе́.	prěe	prěęti	Vmia3se		227	6	4	acl														
+postá_vi	постá_ви	postavi	postavja	Vmia3se		227	7	0	root					1									
+mitropolíte	митрополи́те	mitropolite	mitropolit	Nmpny		227	8	7	obj														
+i	и	i	i	C		227	9	10	cc														
+epskpy,	епскпы,	epkpi	episkop	Nmpny		227	10	8	conj														
+svě´tlïi	свѣ́тлїи	světlii	světъl	Ampnn		227	11	8	amod														
+i+	и+	i	i	C		227	12	13	cc														
+blgo_čь´stivïi	блго_чь́стивїи	blgočъstivii	blagočestiv	Ampnn		227	13	11	conj					1									
+sъs'+	със͛+	sъs	s	Si		227	14	17	case				by his golden bulls, which are now stored in the famous lavra on the Holy Mountain										
+njégovy	нѥ́говы	njegovi	negov	Ampnn		227	15	17	amod	poss													
+styì	стыѝ	stii	svęt	Ampnn		227	16	17	amod														
+xrisóvuli.	хрисо́вꙋли.	xrisovuli	xrisovul	Nmpnn		227	17	7	obl														
+što+	що+	što	što	Pq		227	18	19	mark														
+sъ^	съ̂	sъ	sъm	Vmip3pi		227	19	17	acl					1									
+segà	сегà	sega	sega	R		227	20	19	advmod														
+u+	ꙋ+	u	u	Sg		227	21	23	case														
+slávna	слáвна	slavna	slaven	Afsnn		227	22	23	amod														
+lávra	лáвра	lavra	lavra	Nfsnn		227	23	17	obl	loc													
+u+	ꙋ+	u	u	Sg		227	24	26	case														
+stěì	стѣѝ	stěi	svęt	Afsdy		227	25	26	amod														
+górě.	го́рѣ.	gorě	gora	Nfsdn		227	26	23	nmod	loc													
+																							
+i+	и+	i	i	C		228	1	10	cc				and he wasn't satisfied by the lands he conquered										
+nè+	нѐ+	ne	ne	Qz		228	2	3	advmod														
+tь´kmo	ть́кмо	tъkmo	tъkmo	R		228	3	7	advmod					1									
+tïa	тїа	tia	toja	Pd-fpn		228	4	5	det	ext													
+zemlì.	землѝ.	zemli	zemja	Nfpnn		228	5	7	obj														
+katô	като̂	kato	kato	C		228	6	7	mark														
+prěé.	прѣе́.	prě	prěęti	Vmia3se		228	7	10	advcl														
+dá+	дá+	da	da	C		228	8	7	aux	opt													
+se	се	se	se	Px---a		228	9	10	expl														
+ostávi,	остáви,	ostavi	ostavja	Vmip3se		228	10	0	root														
+i+	и+	i	i	C		228	11	15	cc														
+da	да	da	da	C		228	12	15	mark					1									
+mû+	мꙋ̂+	mu	toi	Pp3msd		228	13	15	obl	iobj													
+se	се	se	se	Px---a		228	14	15	expl														
+dosadì.	досадѝ.	dosadi	dosadja	Vmip3se		228	15	10	conj														
+																							
+àmì	àмѝ	ami	ami	C		229	1	2	cc				but he marched to Tsarigrad as well										
+poidè	поидѐ	poide	poida	Vmia3se		229	2	0	root														
+i+	и+	i	i	C		229	3	5	amod														
+na+	на+	na	na	Sa		229	4	5	case														
+cri_grádь	цри_грáдь	crigradъ	Carigrad	Nmsnn		229	5	2	obl	lat													
+																							
+i+	и+	i	i	C		230	1	3	cc				and he took it										
+njégo	нѥ́го	njego	toi	Pp3msg		230	2	3	obj					1									
+prěé.	прѣе́.	prěe	prěęti	Vmia3se		230	3	0	root														
+																							
+i+	и+	i	i	C		231	1	6	cc				and the Franks there bowed to him										
+štô	що̂	što	što	Pq		231	2	3	mark														
+bě´xa	бѣ́ха	běxa	sъm	Vmii3pi		231	3	5	acl														
+támo	тáмо	tamo	tamo	R		231	4	3	advmod														
+frén'ci,	фре́н͛ци,	frenci	frenci	Nmpny		231	5	6	nsubj							Vuković 1536: frugy							
+pokloníxa+	поклони́ха+	poklonixa	poklonja	Vmii3pe		231	6	0	root														
+mu+	мꙋ+	mu	toi	Pp3msd		231	7	6	obl	iobj													
+se,	се,	se	se	Px---a		231	8	6	expl					1									
+																							
+i+	и+	i	i	C		232	1	2	cc				and they surrenderred to him to be his subjects			Ljub.d.: pokloníxa+ mu+ se da+ sь njégova rajà, i+ xaznà da+ mú dávatь							
+prědádoxa+	прѣдáдоха+	prědadoxa	predam	Vmii3pe		232	2	0	root							Vuković 1536: í+ i+že támo drьžeštejè frugy pwd+ dánïjù oústroì..							
+se,	се,	se	se	Px---a		232	3	2	expl														
+da+	да+	da	da	C		232	4	5	mark														
+sъ^	съ̂	sъ	sъm	Vmip3si		232	5	2	advcl														
+njégova	нѥ́гова	njegova	negov	Afsnn		232	6	7	amod	poss													
+rajà.	раꙗ̀.	raja	raja	Nfsny		232	7	5	obl	pred													
+i+	и+	i	i	C		232	8	12	cc				and to pay him tax										
+dánь	дáнь	danъ	dan	Nmsnn		232	9	12	obj														
+da+	да+	da	da	C		232	10	12	mark														
+mû	мꙋ̂	mu	toi	Pp3msd		232	11	12	obl	iobj				1									
+dávatь.	дáвать.	davatъ	davam	Vmip3pi		232	12	5	conj														
+																							
+I+	И+	i	i	C		233	1	7	cc				and as he conquered there everything			Vuković 1536: Síce oúbw tómou vьsà w´drь´žeštou í pokárajuštou. príspě` í+do+njégo sláva prěpodw´bnyjè pétky. júže vь slástь źě´lò prījemь, ráždeže+se srdcé_mь. i+jákóže élénь pálimь na ístó_čniky vódnyjè. síce ně´káko bě´še tw´mou žélatel'no ježe nasláditi+se sštén'nyʺxь móšteì prěpodw´bnyjè.						12	Translation to Tarnovo
+takà	такà	taka	taka	Pr		233	2	7	advmod														
+síč'ko	си́ч͛ко	sičko	sički	Ansnn		233	3	6	obj														
+tamô	тамо̂	tamo	tamo	R		233	4	6	advmod														
+katô	като̂	kato	kato	C		233	5	6	mark														
+prěé	прѣе́	prěe	prěęti	Vmia3se		233	6	7	advcl					1									
+raz'brà+	раз͛брà+	razbra	razbera	Vmia3se		233	7	0	root				he heard about the glory of St. Petka too										
+se	се	se	se	Px---a		233	8	7	expl														
+i+	и+	i	i	C		233	9	11	amod														
+do+	до+	do	do	Sg		233	10	11	case														
+njégo	нѥ́го	njego	toi	Pp3msg		233	11	7	obl	lat													
+stě´i	стѣ́и	stěi	svęt	Amsdy		233	12	13	amod														
+pet'ki,	пет͛ки,	petki	Petka	Nfsgy		233	13	14	nmod	poss													
+sláva+	слáва+	slava	slava	Nfsnn		233	14	7	nsubj														
+ta.	та.	ta	tъ	Pd-fsn		233	15	14	det	p_nom				1									
+kákь	кáкь	kakъ	kak	Pq		233	16	18	mark				how she was holy and performed healings and miracles										
+eʺ	е̏	e	sъm	Vmip3si		233	17	18	cop														
+staa,	стаа,	staa	svęt	Afsny		233	18	14	acl														
+i+	и+	i	i	C		233	19	20	cc														
+číni	чи́ни	čini	činja	Vmip3si		233	20	18	conj														
+iscěljénïe	исцѣлѥ́нїе	iscěljenie	izcelenie	Nnsnn		233	21	20	obj														
+i+	и+	i	i	C		233	22	23	cc														
+čjudesà.	чюдесà.	čjudesa	čudo	Nnpnn		233	23	21	conj					1									
+																							
+tvrь´dě+	тврь́дѣ+	tvrъdě	tvъrdo	R		234	1	5	advmod				he thought much (lit. ʺlaid to his mindʺ) about St. Petka										
+sî	си̂	si	se	Px---d		234	2	5	expl														
+na+	на+	na	na	Sa		234	3	4	case														
+umь	ꙋмь	umъ	um	Nmsnn		234	4	5	obl	lat													
+polóži	поло́жи	položi	položa	Vmia3se		234	5	0	root														
+za+	за+	za	za	Sa		234	6	8	case														
+staa	стаа	staa	svęt	Afsny		234	7	8	amod														
+pét'ka.	пе́т͛ка.	petka	Petka	Nfsny		234	8	5	obl														
+																							
+i	и	i	i	C		235	1	2	cc				and his heart burned (with desire)	1									
+raspáli+	распáли+	raspali	razpalja	Vmia3se		235	2	0	root														
+mu+	мꙋ+	mu	toi	Pp3msd		235	3	2	obl	iobj													
+se	се	se	se	Px---a		235	4	2	expl														
+srdce+	срдце+	srdce	sъrdce	Nnsnn		235	5	2	nsubj														
+to,	то,	to	tъ	Pd-nsn		235	6	5	det	p_nom													
+																							
+katô	като̂	kato	kato	C		236	1	2	mark				ʺas the deer pants for streams of waterʺ			Ps 42:1							
+elénь	еле́нь	elenъ	elen	Nmsny		236	2	12	advcl														
+kogà	когà	koga	koga	Pq		236	3	4	mark														
+wžъ_dně´e	ѡжъ_днѣ́е	ožъdněe	ožadneja	Vmip3se		236	4	2	acl					1									
+zza+	зза+	za	za	Sa		236	5	6	case														
+vodâ.	водâ.	voda	voda	Nfsnn		236	6	4	obl														
+takà	такà	taka	taka	Pr		236	7	12	advmod				so did the King John Asen crave to gain those holy relics										
+i+	и+	i	i	C		236	8	9	amod														
+cárь	цáрь	carъ	car	Nmsny		236	9	12	nsubj														
+ıw´+	ıѡ́+	io	Ioan	Nmsny		236	10	9	appos														
+asě´nь.	асѣ́нь.	asěnъ	Asěn	Nmsny		236	11	10	appos														
+pože_là	поже_лà	požela	poželaja	Vmia3se		236	12	0	root					1									
+kákь	кáкь	kakъ	kak	Pq		236	13	16	mark														
+da+	да+	da	da	C		236	14	13	fixed														
+se	се	se	se	Px---a		236	15	16	expl														
+dobŷe	добы̂е	dobie	dobija	Vmip3se		236	16	12	advcl														
+do+	до+	do	do	Sg		236	17	20	case														
+w´nïa	ѡ́нїа	onia	onja	Pd-fpn		236	18	20	det	ext													
+stýe	сты́е	stie	svęt	Afpny		236	19	20	amod														
+móšti.	мо́щи.	mošti	mošti	Nfpnn		236	20	16	obl														
+																							
+za_štô	за_що̂	zašto	zašto	C		237	1	7	cc				for her grace and miracles were spread around the whole world	1									
+bě´še+	бѣ́ше+	běše	sъm	Vaii3si		237	2	7	aux	pprf													
+sъ^	съ̂	sъ	se	Px---a		237	3	7	expl														
+po+	по+	po	po	Sl		237	4	6	case														
+síč'ki	си́ч͛ки	sički	sički	Amsny		237	5	6	amod														
+svě´tь	свѣ́ть	světъ	svět	Nmsnn		237	6	7	obl	loc													
+rasprostrě´la,	распрострѣ́ла,	rasprostrěla	razprostra	Vmp--se		237	7	0	root					1									
+njéina	нѥ́ина	njeina	nein	Afsnn		237	8	9	amod	poss													
+blg´dtь,	блѓдть,	blgdtъ	blagodat	Nfsnn		237	9	7	nsubj														
+i+	и+	i	i	C		237	10	12	cc														
+njéino	нѥ́ино	njeino	nein	Ansnn		237	11	12	amod	poss													
+čjúdo.	чю́до.	čjudo	čudo	Nnsnn		237	12	9	conj														
+																							
+I+	И+	i	i	C		238	1	2	cc				and the king went to Tarnovo										
+poidè+	поидѐ+	poide	poida	Vmia3se		238	2	0	root														
+si	си	si	se	Px---d		238	3	2	expl														
+crь	црь	crъ	car	Nmsny		238	4	2	nsubj					1									
+na+	на+	na	na	Sa		238	5	6	case														
+trь´novь,	трь́новь,	trъnovъ	Tъrnov	Nmsnn		238	6	2	obl	lat													
+																							
+i+	и+	i	i	C		239	1	2	cc				and conceived good terms (of peace with Franks), pleasing to God			Ljub.d.: i+ umíslì edínь zgóvorь i bgu ugó_denь							
+oúmýsli	оꙋ́мы́сли	oumisli	umislja	Vmia3se		239	2	0	root														
+edínь	еди́нь	edinъ	edin	Amsnn		239	3	4	det														
+z'góvorь	з͛го́ворь	zgovorъ	sgovor	Nmsnn		239	4	2	obj														
+dóbrь	до́брь	dobrъ	dobъr	Amsnn		239	5	4	amod					1									
+i+	и+	i	i	C		239	6	8	cc														
+bu	бꙋ	bu	bog	Nmsdy		239	7	8	nmod	iobj													
+oúgódenь.	оꙋ́го́день.	ougodenъ	ugoden	Amsnn		239	8	5	conj														
+																							
+I+	И+	i	i	C		240	1	3	cc				and then he sent a command to the Franks in Tsarigrad										
+togázi	тогáзи	togazi	togazi	Pr		240	2	3	advmod														
+pustì	пꙋстѝ	pusti	pustja	Vmia3se		240	3	0	root														
+povelě´nïe	повелѣ́нїе	povelěnie	povelenie	Nnsnn		240	4	3	obj					1									
+na+	на+	na	na	Sa		240	5	6	case														
+cri_grad',	цри_град͛,	crigrad	Carigrad	Nmsnn		240	6	3	obl	lat													
+štô	що̂	što	što	Pq		240	7	8	mark														
+bě´xa	бѣ́ха	běxa	sъm	Vmii3pi		240	8	6	acl														
+támo	тáмо	tamo	tamo	R		240	9	8	advmod														
+frén'ci,	фре́н͛ци,	frenci	frenci	Nmpny		240	10	8	acl														
+																							
+i+	и+	i	i	C		241	1	2	cc				and he said to them:										
+rče	рче	re	reka	Vmia3se		241	2	0	root														
+ĭmь.	ймь.	imъ	tě	Pp3-pd		241	3	2	obl	iobj				1									
+																							
+ne+	не+	ne	ne	Qz		242	1	2	advmod				ʺI don't want your silver, nor gold, nor pearls, nor precious stonesʺ			Vuković 1536 niže biserь, ni kamenii čьsnyx, nь vьsexvalnuju prepodbnyje raku.							
+íštu	и́щꙋ	ištu	iskam	Vmip1si		242	2	0	root														
+vámь	вáмь	vamъ	vie	Pp2-pd		242	3	2	obl	iobj													
+nì	нѝ	ni	ni	C		242	4	5	cc														
+srebrô,	сребро̂,	srebro	srebro	Nnsnn		242	5	2	obj														
+nì	нѝ	ni	ni	C		242	6	7	cc														
+zláto,	злáто,	zlato	zlato	Nnsnn		242	7	5	conj														
+nì	нѝ	ni	ni	C		242	8	9	cc														
+bisérь,	бисе́рь,	biserъ	biser	Nmsnn		242	9	7	conj					1									
+nì	нѝ	ni	ni	C		242	10	11	cc														
+kámenïe	кáменїе	kamenie	kamenie	Nnsnn		242	11	9	conj														
+mnw^go_cě´nno.	мнѡ̂го_цѣ́нно.	mnogocěnno	mnogocenen	Ansnn		242	12	11	amod														
+																							
+àmì	àмѝ	ami	ami	C		243	1	3	cc				ʺbut I want from you (something), which is in your Frankish land the town of Epibatesʺ										
+vŷ	вы̂	vi	vie	Pp2-pa		243	2	3	obl	iobj													
+íštemь,	и́щемь,	ištemъ	iskam	Vmip1si	Vmip1pi	243	3	0	root					1									
+što+	що+	što	što	Pq		243	4	5	mark														
+è	ѐ	e	sъm	Vmip3si		243	5	3	advcl														
+na+	на+	na	na	Sl		243	6	9	case														
+váša	вáша	vaša	vaš	Afsnn		243	7	9	amod	poss													
+frén'ska	фре́н͛ска	frenska	frenski	Afsnn		243	8	9	amod														
+drьžáva	дрьжáва	drъžava	dъržava	Nfsnn		243	9	5	obl	loc													
+grádь	грáдь	gradъ	grad	Nmsnn		243	10	5	nsubj														
+epivá_ti,	епивá_ти,	epivati	Epivat	Nmpnn		243	11	10	appos					1									
+detô	дето̂	deto	deto	Pr		243	12	13	mark				ʺwhere the relics of the St. Petka are placedʺ										
+íma	и́ма	ima	imam	Vmip3si		243	13	10	acl														
+támo	тáмо	tamo	tamo	R		243	14	13	advmod														
+móšti	мо́щи	mošti	mošti	Nfpnn		243	15	13	obj														
+stě´i	стѣ́и	stěi	svęt	Afsdy		243	16	17	amod														
+pét'ki.	пе́т͛ки.	petki	Petka	Nfsgy		243	17	15	nmod	poss				2									
+tovà	товà	tova	tova	Pd-nsn		243	18	20	det	ext	58v	/img/petka/58v.JPG	ʺto give me this holy body with its coffinʺ										
+stoe	стое	stoe	svęt	Ansny		243	19	20	amod														
+tě´lo	тѣ́ло	tělo	tělo	Nnsnn		243	20	23	obj														
+da+	да+	da	da	C		243	21	23	mark														
+mî	ми̂	mi	az	Pp1-sd		243	22	23	obl	iobj													
+dadéte	даде́те	dadete	dam	Vmip2pe		243	23	3	advcl														
+sъs'+	със͛+	sъs	s	Si		243	24	25	case														
+kov'čeg'+	ков͛чег͛+	kovčeg	kovčeg	Nmsnn		243	25	23	obl														
+t'+	т͛+	tъ	tъ	Pd-msn		243	26	25	det	p_nom													
+sî.	си̂.	si	se	Px---d		243	27	25	nmod	poss				1									
+																							
+tol'ko_zi	тол͛ко_зи	tolkozi	tolkozi	Pr		244	1	4	advmod				ʺso much and this is what I want from youʺ										
+i+	и+	i	i	C		244	2	3	cc														
+tovà	товà	tova	tova	Pd-nsn		244	3	4	obj	ext													
+íštem	и́щем	ištem	iskam	Vmip1si	Vmip1pi	244	4	0	root														
+wt+	ѿ+	ot	ot	Sg		244	5	6	case														
+vas.	вас.	vas	vie	Pp2-pg		244	6	4	obl														
+																							
+Tovà	Товà	tova	tova	Pd-nsn		245	1	10	obj	ext			as the Franks in Tsarigrad heard it, they were ready (to accept)										
+katô	като̂	kato	kato	C		245	2	3	mark														
+raz'_bráxa	раз͛_брáха	razbraxa	razbera	Vmii3pe		245	3	10	advcl					1									
+frén'ci	фре́н͛ци	frenci	frenci	Nmpny		245	4	10	nsubj														
+što	що	što	što	Pq		245	5	6	mark														
+bě´xa	бѣ́ха	běxa	sъm	Vmii3pi		245	6	4	acl														
+u+	ꙋ+	u	u	Sg		245	7	8	case														
+cari_grádь.	цари_грáдь.	carigradъ	Carigrad	Nmsnn		245	8	6	obl	loc													
+gotó_vy	гото́_вы	gotovi	gotov	Ampnn		245	9	10	obl	pred				1									
+stanъ´xa,	станъ́ха,	stanъxa	stana	Vmii3pe		245	10	0	root														
+																							
+i+	и+	i	i	C		246	1	2	cc				and they obeyed the king with all their heart										
+poslúšaxa	послꙋ́шаха	poslušaxa	poslušam	Vmii3pe		246	2	0	root														
+cra	цра	cra	car	Nmsgy		246	3	2	obj														
+sъ+	съ+	sъ	s	Si		246	4	6	case														
+síč'ko	си́ч͛ко	sičko	sički	Ansnn		246	5	6	amod														
+srce.	срце.	srce	sъrdce	Nnsnn		246	6	2	obl					1									
+																							
+i+	и+	i	i	C		247	1	2	cc				and they bowed to his command										
+poklonixa+	поклониха+	poklonixa	poklonja	Vmii3pe		247	2	0	root														
+se	се	se	se	Px---a		247	3	2	expl														
+na+	на+	na	na	Sa		247	4	7	case														
+njégovo+	нѥ́гово+	njegovo	negov	Ansnn		247	5	7	amod	poss													
+to	то	to	tъ	Pd-nsn		247	6	5	det	p_adj													
+povelě´nïe.	повелѣ́нїе.	povelěnie	povelenie	Nnsnn		247	7	2	obl	iobj													
+																							
+i+	и+	i	i	C		248	1	2	cc				and they sent a letter of respect to the king										
+pustí_xa	пꙋсти́_ха	pustixa	pustja	Vmii3pe		248	2	0	root					1									
+pisán'ïe	писáн͛їе	pisanie	pisanie	Nnsnn		248	3	2	obj														
+i+	и+	i	i	C		248	4	5	cc														
+póklonь	по́клонь	poklonъ	poklon	Nmsnn		248	5	3	conj														
+do+	до+	do	do	Sg		248	6	7	case														
+cra	цра	cra	car	Nmsgy		248	7	2	obl	lat													
+																							
+i+	и+	i	i	C		249	1	2	cc				and they said:										
+rékoxa.	ре́коха.	rekoxa	reka	Vmii3pe		249	2	0	root														
+																							
+Da+	Да+	da	da	C		250	1	2	aux	opt			ʺyour will be done, o king for many yearsʺ										
+bú_de	бꙋ́_де	bude	bъda	Vmip3se		250	2	0	root					1									
+volja	волꙗ	volja	volja	Nfsnn		250	3	2	nsubj														
+tvoà	твоà	tvoa	tvoi	Afsny		250	4	3	amod	poss													
+mnw^go_lě´tnyi	мнѡ̂го_лѣ́тныи	mnogolětnii	mnogoleten	Amsny		250	5	6	amod														
+cru,	црꙋ,	cru	car	Nmsvy		250	6	2	vocative														
+																							
+štô	що̂	što	što	Pq		251	1	2	mark				ʺtake what you wishʺ										
+í_štešь	и́_щешь	ištešъ	iskam	Vmip2si		251	2	3	advcl					1									
+úzmì.	ꙋ́змѝ.	uzmi	vzema	Vmm-2se		251	3	0	root														
+																							
+àko	àко	ako	ako	C		252	1	6	mark				ʺeven if you want our souls, we kneel before youʺ (ʺthe soul from usʺ)			Vuković 1536: w´běštávajušte+ se í+ izvě´_stvoujušte, í+ svojè dše wtdáti ášte mw´_štno+ bì..							
+i+	и+	i	i	C		252	2	3	amod							Ljub.d.: ako štéšь i+ dšь´+ta nŷ zè,							
+dšь´+	дшь́+	dšъ	duša	Nfsoy		252	3	6	obj														
+ta+	та+	ta	tъ	Pd-fsn		252	4	3	det	p_nom													
+nŷ	ны̂	ni	nie	Pp1-pa		252	5	6	obl	iobj													
+íštešь,	и́щешь,	ištešъ	iskam	Vmip2si		252	6	10	advcl														
+nýe+	ны́е+	nie	nie	Pp1-pn		252	7	10	nsubj														
+se	се	se	se	Px---a		252	8	10	expl					1									
+tébe	те́бе	tebe	ti	Pp2-sg		252	9	10	obl	iobj													
+poklánjamê	поклáнꙗме̂	poklanjame	poklanjam	Vmip1pi		252	10	0	root														
+i+	и+	i	i	C		252	11	12	cc				ʺand we will give you (that) and you will have (it) at onceʺ (?)										
+dá+	дá+	da	dam	Vmn---e		252	12	10	conj														
+ti+	ти+	ti	ti	Pp2-sd		252	13	12	obl	iobj													
+štem,	щем,	šte	šta	Vaip1si		252	14	12	aux	fut													
+i+	и+	i	i	C		252	15	17	cc														
+da+	да+	da	da	C		252	16	17	mark														
+b'de	б͛де	bъde	bъda	Vmip3se		252	17	12	conj							<ꙋ> prěpisano v <д>							
+ú+	ꙋ́+	u	u	Sg		252	18	20	case														
+dóbrь	до́брь	dobrъ	dobъr	Amsnn		252	19	20	amod					1									
+čásь.	чáсь.	časъ	čas	Nmsnn		252	20	17	obl														
+																							
+Tovà	Товà	tova	tova	Pd-nsn		253	1	3	obj	ext			as the king heard it, he was overcome with joy										
+katô	като̂	kato	kato	C		253	2	3	mark														
+čjù	чю̀	čju	čuja	Vmia3si		253	3	5	advcl														
+crь	црь	crъ	car	Nmsny		253	4	5	nsubj														
+obrádova+	обрáдова+	obradova	obraduvam	Vmia3se		253	5	0	root														
+se,	се,	se	se	Px---a		253	6	5	expl														
+																							
+i+	и+	i	i	C		254	1	2	cc				and he felt as he was flying in the skies										
+mně´_še+	мнѣ́_ше+	mněše	mьněti	Vmii3si		254	2	0	root					1									
+mu+	мꙋ+	mu	toi	Pp3msd		254	3	2	obl	iobj													
+se,	се,	se	se	Px---a		254	4	2	expl														
+kól'ko	ко́л͛ко	kolko	kolko	Pq		254	5	7	advmod														
+da+	да+	da	da	C		254	6	7	mark														
+letỳ	леты̀	leti	letja	Vmip3si		254	7	2	advcl														
+i+	и+	i	i	C		254	8	10	cc														
+da+	да+	da	da	C		254	9	10	mark														
+frь´ka	фрь́ка	frъka	fъrkam	Vmip3si		254	10	7	conj														
+pod'+	под͛+	po	po	Sl		254	11	12	case														
+nbe+	нбе+	nbe	nebe	Nnsnn		254	12	10	obl														
+to.	то.	to	tъ	Pd-nsn		254	13	12	det	p_nom				1									
+																							
+i+	и+	i	i	C		255	1	6	cc				and he didn't know what to do because of the great joy										
+wt+	ѿ+	ot	ot	Sg		255	2	4	case														
+golě´ma	голѣ́ма	golěma	golěm	Afsnn		255	3	4	amod														
+rádos	рáдос	rados	radost	Nfsnn		255	4	6	obl														
+né+	не́+	ne	ne	Qz		255	5	6	advmod														
+maše	маше	maše	imam	Vmii3si		255	6	0	root														
+kámo	кáмо	kamo	kamo	R		255	7	10	advmod														
+štoʺ	що̏	što	što	Pq		255	8	10	mark														
+da+	да+	da	da	C		255	9	8	fixed														
+stóri.	сто́ри.	stori	storja	Vmip3se		255	10	6	advcl					1									
+																							
+zaštô	защо̂	zašto	zašto	C		256	1	2	cc				for he thought:										
+mýslěše,	мы́слѣше,	mislěše	mislja	Vmii3si		256	2	0	root														
+																							
+àko+	àко+	ako	ako	C		257	1	3	mark				ʺif I give away all my gold and silverʺ			Vuković 1536: jáko ášte i+ do+ pólou moego potrě´boujutь crstvia, vьsà gótovь jesь´mъ wtdáti. Ašte ímě´nia, ášte zláto, ášte srébro, ášte biséry, ášte kaménie čь´stno. Vьsà oúsrь´d'stvoujù dáti.							
+sî	си̂	si	se	Px---d		257	2	3	expl														
+izdámь	издáмь	izdamъ	izdam	Vmip3se		257	3	15	advcl														
+síč'ko	си́ч͛ко	sičko	sički	Ansnn		257	4	5	amod														
+zláto	злáто	zlato	zlato	Nnsnn		257	5	3	obj					1									
+i+	и+	i	i	C		257	6	7	cc														
+srébro,	сре́бро,	srebro	srebro	Nnsnn		257	7	5	conj														
+záednô	зáедно̂	zaedno	zaedno	R		257	8	15	cc				ʺI would give the half of my kingdom together with itʺ										
+i+	и+	i	i	C		257	9	15	cc														
+polovína	полови́на	polovina	polovina	Nfsnn		257	10	15	obj														
+wt+	ѿ+	ot	ot	Sg		257	11	12	case														
+crtsvo+	цртсво+	crstvo	carstvo	Nnsnn		257	12	10	nmod														
+to+	то+	to	tъ	Pd-nsn		257	13	12	det	p_nom													
+sî.	си̂.	si	se	Px---d		257	14	12	nmod	poss				1									
+dá+	дá+	da	dam	Vmn---e		257	15	0	root				ʺonly to bring St. Petka to my kingdomʺ			da+štemь (< *dati xoštem) ~ ousrьdьstvouju dati							
+štemь.	щемь.	štemъ	šta	Vaip1si		257	16	15	aux	fut						ili: da štemь tъkmo staa Petka da prěnesem na moe carstvo ~ za da prenesa sveta Petka na carstvoto si ?							
+tь´k'mo	ть́к͛мо	tъkmo	tъkmo	R		257	17	21	advmod														
+staa	стаа	staa	svęt	Afsny		257	18	19	amod														
+pét'ka	пе́т͛ка	petka	Petka	Nfsny		257	19	21	obj														
+da+	да+	da	da	C		257	20	21	mark														
+prěnesémь	прѣнесе́мь	prěnesemъ	prenesa	Vmip1se	Vmip1pi	257	21	15	advcl					1									
+na+	на+	na	na	Sa		257	22	24	case														
+móè	мо́ѐ	moe	moi	Ansny		257	23	24	amod	poss													
+car'stvo.	цар͛ство.	carstvo	carstvo	Nnsnn		257	24	21	obl	lat													
+																							
+I+	И+	i	i	C		258	1	3	cc				and then he sent the holy man Marko, Metropolite of Great Preslav with great honors										
+togázi	тогáзи	togazi	togazi	Pr		258	2	3	advmod														
+pustì	пꙋстѝ	pusti	pustja	Vmia3se		258	3	0	root														
+prěosšté_nnago	прѣосще́_ннаго	prěosštennago	preosvešten	Amsgy		258	4	5	amod					1									
+mar'ka	мар͛ка	marka	Marko	Nmsgy		258	5	3	obj														
+mitropolíta,	митрополи́та,	mitropolita	mitropolit	Nmsgy		258	6	5	appos														
+velíkago	вели́каго	velikago	velik	Amsgy		258	7	8	amod														
+prě´sla_vu.	прѣ́сла_вꙋ.	prěslavu	Preslav	Nmsdn		258	8	6	nmod	poss				1									
+sъs'+	със͛+	sъs	s	Si		258	9	11	case														
+golě´ma	голѣ́ма	golěma	golěm	Afsnn		258	10	11	amod														
+póčьstь,	по́чьсть,	počъstъ	počest	Nfsnn		258	11	13	obl														
+da+	да+	da	da	C		258	12	13	mark				to go to the town of Epibates to bring the body of the Reverend Petka to the famous city of Tarnovo										
+póide	по́иде	poide	poida	Vmip3se		258	13	3	advcl														
+na+	на+	na	na	Sa		258	14	15	case														
+epivátь	епивáть	epivatъ	Epivat	Nmsnn		258	15	13	obl	lat				1									
+grádь,	грáдь,	gradъ	grad	Nmsnn		258	16	15	appos														
+da+	да+	da	da	C		258	17	18	mark														
+prěnesè	прѣнесѐ	prěnese	prenesa	Vmia3se		258	18	13	advcl														
+těló+	тѣло́+	tělo	tělo	Nnsnn		258	19	18	obj														
+to	то	to	tъ	Pd-nsn		258	20	19	det	p_nom													
+prpodóbněi	прподо́бнѣи	prpoobněi	prepodoben	Afsdy		258	21	22	amod														
+pet'_ki.	пет͛_ки.	petki	Petka	Nfsgy		258	22	19	nmod	poss				1									
+na+	на+	na	na	Sa		258	23	25	case														
+slavnyʺ	славны̏	slavni	slaven	Amsny		258	24	25	amod														
+grad'	град͛	grad	grad	Nmsnn		258	25	18	obl	lat													
+trь´novь.	трь́новь.	trъnovъ	Tъrnov	Nmsnn		258	26	25	appos														
+																							
+I+	И+	i	i	C		259	1	2	cc				and the bishop went there										
+poidè	поидѐ	poide	poida	Vmia3se		259	2	0	root														
+w´n'zi	ѡ́н͛зи	onzi	onzi	Pd-msn		259	3	4	det	ext				1									
+vldka	влдка	vlka	vladika	Nmsnn		259	4	2	nsubj														
+támo,	тáмо,	tamo	tamo	Pr		259	5	2	advmod														
+																							
+i+	и+	i	i	C		260	1	2	cc				and he duly did all what was required										
+stóri	сто́ри	stori	storja	Vmia3se		260	2	0	root														
+sič'ko	сич͛ко	sičko	vsičko	Nnsnn		260	3	2	obj														
+póčestno	по́честно	počestno	počestno	R		260	4	2	advmod														
+čtô	что̂	čto	čьto	Pq		260	5	6	mark					1									
+trě´buvaše,	трѣ́бꙋваше,	trěbuvaše	trěbva	Vmii3si		260	6	3	acl														
+																							
+i+	и+	i	i	C		261	1	2	cc				and he took those relics										
+uzè	ꙋзѐ	uze	vzema	Vmia3se		261	2	0	root														
+w´nïa	ѡ́нїа	onia	onja	Pd-npn		261	3	4	det	ext													
+móšti,	мо́щи,	mošti	mošti	Nfsnn		261	4	2	obj														
+																							
+i+	и+	i	i	C		262	1	2	cc				and he went										
+íděše,	и́дѣше,	iděše	ida	Vmii3si		262	2	0	root														
+																							
+í+	и́+	i	i	C		263	1	2	cc				and he praised God and Reverend Petka	1									
+xválěše	хвáлѣше	xvalěše	xvalja	Vmii3si		263	2	0	root														
+ba,	ба,	ba	bog	Nmsgy		263	3	2	obj														
+i+	и+	i	i	C		263	4	6	cc														
+prpdb´naa	прпдб́наа	prpbnaa	prepodoben	Afsny		263	5	6	amod														
+pet'ka.	пет͛ка.	petka	Petka	Nfsny		263	6	3	conj														
+																							
+I+	И+	i	i	C		264	1	18	cc				and when he crossed the Frankish border										
+katô	като̂	kato	kato	C		264	2	3	mark					1									
+prěmína	прѣми́на	prěmina	premina	Vmia3se		264	3	18	advcl														
+sýnorь	сы́норь	sinorъ	sinor	Nmsnn		264	4	3	obj														
+frén'skyi,	фре́н͛скыи,	frenskii	frenski	Amsny		264	5	4	amod														
+i+	и+	i	i	C		264	6	7	cc				and entered this Bulgarian land										
+vlě´ze	влѣ́зе	vlěze	vlěza	Vmia3se		264	7	3	conj														
+na+	на+	na	na	Sa		264	8	10	case														
+t'ъzi	т͛ъзи	tъzi	tozi	Pd-fso		264	9	10	det	ext				1									
+stranъ^	странъ̂	stranъ	strana	Nfson		264	10	7	obl	lat													
+blьgar'skaa.	бльгар͛скаа.	blъgarskaa	bъlgarski	Afsny		264	11	10	amod														
+síč'ky	си́ч͛кы	sički	sički	Nnpnn		264	12	18	nsubj				all (the people) from the near towns and villages went to meet them with candles										
+iz'+	из͛+	iz	iz	Sg		264	13	15	case														
+okolu	околꙋ	okolu	okolo	Sg		264	14	15	case														
+grádove	грáдове	gradove	grad	Nmpnn		264	15	18	obl	abl				1									
+i+	и+	i	i	C		264	16	17	cc														
+selâ	селâ	sela	selo	Nnpnn		264	17	15	conj														
+izlě´zuvaxa	излѣ́зꙋваха	izlězuvaxa	izlězuvam	Vmii3pi		264	18	0	root														
+na+	на+	na	na	Sa		264	19	20	case														
+sréšta,	сре́ща,	srešta	srešta	Nfsnn		264	20	18	obl	lat													
+sъ+	съ+	sъ	s	Si		264	21	22	case														
+svě´šti,	свѣ́щи,	svěšti	svešt	Nnpnn		264	22	18	obl														
+i+	и+	i	i	C		264	23	24	cc				and clerics clothed in ceremonial robes										
+sšténni_ci	сще́нни_ци	sštennici	svęštenik	Nmpny		264	24	12	conj					1									
+wblě´čeni	ѡблѣ́чени	oblěčeni	obleka	Vmpa-se	Ampnn	264	25	24	acl														
+sъ+	съ+	sъ	s	Si		264	26	28	case														
+sštén'sky	сще́н͛скы	sštenski	svęštenski	Afpnn		264	27	28	amod														
+wdéždy.	ѡде́жды.	odeždi	odežda	Nfpnn		264	28	25	obl														
+																							
+i+	и+	i	i	C		265	1	2	cc				and they followed St. Petka with censers and thyme and myrrh and other beautiful incenses										
+prová_ždaxa	провá_ждаха	provaždaxa	provaždam	Vmii3pi		265	2	0	root					1									
+stuju	стꙋю	stuju	svęt	Afsay		265	3	4	amod														
+pét'ku,	пе́т͛кꙋ,	petku	Petka	Nfsay		265	4	2	obj														
+sъs'+	със͛+	sъs	s	Si		265	5	6	case														
+kadíl'nici	кади́л͛ници	kadilnici	kadilnik	Nmpnn		265	6	2	obl														
+i+	и+	i	i	C		265	7	8	cc														
+ѳamïá_nwmь	ѳамїá_нѡмь	ѳamianomъ	tamjan	Nmsin		265	8	6	conj					1									
+i+	и+	i	i	C		265	9	10	cc														
+iz'mϋr'no.	из͛мѷр͛но.	izmѵrno	izmirno	Nnsnn		265	10	8	conj														
+i+	и+	i	i	C		265	11	16	cc														
+sъs'+	със͛+	sъs	s	Si		265	12	16	case														
+drúgy	дрꙋ́гы	drugi	drug	Ampnn		265	13	16	amod														
+xúbavy	хꙋ́бавы	xubavi	xubav	Ampnn		265	14	16	amod														
+miri_zlívy	мири_зли́вы	mirizlivi	mirizliv	Ampnn		265	15	16	amod					1									
+aromáti.	аромáти.	aromati	aromat	Nmpnn		265	16	10	conj														
+																							
+I+	И+	i	i	C		266	1	14	cc				and as the honorable King John Asen found out that they bring the relics of St. Petka			Vuković 1536: I+ jákóže se oúvě´dě blgo_čь´stivii crь jw´án'nь ásě´nь. ízýde íz'+ gráda sь+ mtrijù svoejù crcejù élenojù, í+ sь+ svoejù crcejù án'nojù. í+ sь+ v'sě´mi vé_l'moúži svoími. Sъ+ ními+ že í+ vьsè čь´_stny patriár'xь kϋrь vásilie sь+ v'sě´mь pričь´twmь crkóvnyímь. sъ+ ními+ že í+ mnóžьstvo mnógò besčíslьnàgo narw´_da.							
+katô	като̂	kato	kato	C		266	2	3	mark														
+raz'brà	раз͛брà	razbra	razbera	Vmia3se		266	3	14	advcl														
+blgočь´sti_vyi	блгочь́сти_выи	blgočъstivii	blagočestiv	Amsny		266	4	5	amod					2									
+crь	црь	crъ	car	Nmsny		266	5	14	nsubj		59r	/img/petka/59r.JPG											
+ıwánnь	ıѡáннь	ioannъ	Ioan	Nmsny		266	6	5	appos														
+asě´nь.	асѣ́нь.	asěnъ	Asěn	Nmsny		266	7	6	appos														
+čê	че̂	če	če	C		266	8	9	mark														
+nósetь	но́сеть	nosetъ	nosja	Vmip3pe		266	9	3	advcl														
+móšti	мо́щи	mošti	mošti	Nfpnn		266	10	9	obj					1									
+te	те	te	tъ	Pd-fpn		266	11	10	det	p_nom													
+stě´i	стѣ́и	stěi	svęt	Afsdy		266	12	13	amod														
+pét'ky.	пе́т͛кы.	petki	Petka	Nfsgy		266	13	9	nmod	poss													
+izlě´ze	излѣ́зе	izlěze	izlěza	Vmia3se		266	14	0	root				he went out of the city on foot										
+iz'+	из͛+	iz	iz	Sg		266	15	16	case														
+grádь	грáдь	gradъ	grad	Nmsnn		266	16	14	obl	abl													
+pě´š'.	пѣ́ш͛.	pěš	peši	R		266	17	14	advmod					1									
+i+	и+	i	i	C		266	18	19	cc				(with) Queen Elena, his mother										
+maíka+	маи́ка+	maika	maika	Nfsny		266	19	5	conj														
+mu	мꙋ	mu	toi	Pp3msd		266	20	19	nmod	poss													
+crca	црца	crca	carica	Nfsny		266	21	19	appos														
+eléna.	еле́на.	elena	Elena	Nfsny		266	22	21	appos														
+i+	и+	i	i	C		266	23	25	cc				and Anna, his queen with all their boyars										
+njégova	нѥ́гова	njegova	negov	Afsnn		266	24	25	amod	poss													
+crca	црца	crca	carica	Nfsny		266	25	19	conj					1									
+anna.	анна.	anna	Anna	Nfsny		266	26	25	appos														
+sъ+	съ+	sъ	s	Si		266	27	30	case														
+síčki	си́чки	sički	sički	Ampnn		266	28	30	amod														
+svóĭ	сво́й	svoi	svoi	Ampnn		266	29	30	amod	poss													
+bolě´re.	болѣ́ре.	bolěre	boljarin	Nmpny		266	30	14	obl														
+I+	И+	i	i	C		266	31	32	cc				and the Patriarch lord Vasilii with all the clerics and deacons										
+patrïár'xь	патрїáр͛хь	patriarxъ	patriarx	Nmsny		266	32	25	conj					1									
+kѵ´rь	кѵ́рь	kѵrъ	kir	Nmsny		266	33	32	appos														
+vasílïe.	васи́лїе.	vasilie	Vasilii	Nmsvy		266	34	33	appos														
+sъ+	съ+	sъ	s	Si		266	35	37	case														
+síč'ki	си́ч͛ки	sički	sički	Ampnn		266	36	37	amod														
+sštén'nici	сще́н͛ници	sštennici	svęštenik	Nmpny		266	37	32	nmod														
+i	и	i	i	C		266	38	39	cc														
+dïá_kone.	дїá_коне.	diakone	djakon	Nmpny		266	39	37	conj					1									
+I+	И+	i	i	C		266	40	42	cc				and all the townspeople										
+síč'ki	си́ч͛ки	sički	sički	Ampnn		266	41	42	amod														
+ljúdïe	лю́дїе	ljudie	ljudie	Nmpny		266	42	32	conj														
+wt+	ѿ+	ot	ot	Sg		266	43	44	case														
+grádь.	грáдь.	gradъ	grad	Nmsnn		266	44	42	nmod	abl													
+																							
+i+	и+	i	i	C		267	1	2	cc				and all went out of the city on foot for four shots										
+idóxa	идо́ха	idoxa	ida	Vmii3si		267	2	0	root					1									
+síč'ky	си́ч͛кы	sički	sički	Ampnn		267	3	2	nsubj														
+pě´ši	пѣ́ши	pěši	peši	R		267	4	2	advmod														
+wt+	ѿ+	ot	ot	Sg		267	5	6	case														
+grádь	грáдь	gradъ	grad	Nmsnn		267	6	2	obl	abl													
+na+	на+	na	na	Sa		267	7	9	case														
+četýri	четы́ри	četiri	četiri	Ml		267	8	9	nummod														
+pъ´prìšta.	пъ́прѝща.	pъprišta	pъprište	Nnpnn		267	9	2	obl	lat				1									
+																							
+i+	и+	i	i	C		268	1	2	cc				and met her with great honors										
+srě´štnьxa+	срѣ́щньха+	srěštnъxa	sreštna	Vmia3se		268	2	0	root														
+juʺ	ю̏	ju	tja	Pp3fsa		268	3	2	obj														
+sъ´s'	съ́с͛	sъs	s	Si		268	4	6	case														
+mnw^go	мнѡ̂го	mnogo	mnogo	R		268	5	6	amod														
+póčestь.	по́честь.	počestъ	počest	Nfsnn		268	6	2	obl														
+																							
+i+	и+	i	i	C		269	1	2	cc				and the king bowed to the ground										
+p(o)_klóni+	п(о)_кло́ни+	pokloni	poklonja	Vmia3se		269	2	0	root					1									
+se	се	se	se	Px---a		269	3	2	expl														
+cárь	цáрь	carъ	car	Nmsny		269	4	2	nsubj														
+dó+	до́+	do	do	Sg		269	5	6	case														
+zemlje,	землѥ,	zemlje	zemja	Nfsgn		269	6	2	obl	lat													
+																							
+i+	и+	i	i	C		270	1	2	cc				and he kissed her hands and body honorably										
+cělovà	цѣловà	cělova	celuvam	Vmia3si		270	2	0	root														
+jéi	ѥ́и	jei	tja	Pp3fsd		270	3	2	obl	iobj				1									
+rúcě	рꙋ́цѣ	rucě	rъka	Nfdnn		270	4	2	obj														
+i+	и+	i	i	C		270	5	6	cc														
+tě´lo	тѣ́ло	tělo	tělo	Nnsnn		270	6	4	conj														
+čь´sně^.	чь́снѣ̂.	čъsně	čestno	R		270	7	2	advmod														
+																							
+i+	и+	i	i	C		271	1	4	cc				and everyone honorably bowed to her and kissed her										
+síč'ky	си́ч͛кы	sički	sički	Nnpnn		271	2	4	nsubj														
+póčьstnom'	по́чьстном͛	počъstnom	počestno	Amsin		271	3	4	advmod					1									
+pokloníxa+	поклони́ха+	poklonixa	poklonja	Vmii3pe		271	4	0	root														
+se	се	se	se	Px---a		271	5	4	expl														
+i+	и+	i	i	C		271	6	7	cc														
+cělováxa+	цѣловáха+	cělovaxa	celuvam	Vmii3pi		271	7	4	conj														
+juʺ.	ю̏.	ju	tja	Pp3fsa		271	8	7	obj														
+																							
+i+	и+	i	i	C		272	1	2	cc				and they brought her to the city into the royal church										
+vъnésoxa+	въне́соха+	vъnesoxa	vnesa	Vmii3pe		272	2	0	root														
+juʺ.	ю̏.	ju	tja	Pp3fsa		272	3	2	obj					1									
+vъ+	въ+	vъ	v	Sa		272	4	5	case														
+grádь	грáдь	gradъ	grad	Nmsnn		272	5	2	obl	lat													
+vъ+	въ+	vъ	v	Sa		272	6	7	case														
+crkóvь	црко́вь	crkovъ	cъrkva	Nfsnn		272	7	2	obl	lat													
+cá_revu,	цá_ревꙋ,	carevu	carev	Afsan		272	8	7	amod	poss													
+																							
+i+	и+	i	i	C		273	1	2	cc				and they placed (her) there in the year from the Birth of Christ 1202										
+položíše+	положи́ше+	položiše	položa	Vmia3pe		273	2	0	root														
+juʺ	ю̏	ju	tja	Pp3fsa		273	3	2	obj					1									
+vъ+	въ+	vъ	v	Sa		273	4	5	case														
+lě´to	лѣ́то	lěto	lěto	Nnsnn		273	5	2	obl	loc													
+wt+	ѿ+	ot	ot	Sg		273	6	7	case														
+róždьstva	ро́ждьства	roždъstva	roždestvo	Nnsgn		273	7	5	nmod	abl													
+xva	хва	xva	Xristov	Ansgn		273	8	7	amod	poss													
+*#asv*	·҂асв·	*#asv*	1202	Mc		273	9	5	nummod					1									
+																							
+razlíčno	разли́чно	različno	različen	Ansnn		274	1	3	amod				and she does miraculous healings until today										
+čjúdo	чю́до	čjudo	čudo	Nnsnn		274	2	4	obj														
+iscěljénïe	исцѣлѥ́нїе	iscěljenie	izcelenie	Nnsnn		274	3	2	conj														
+číni	чи́ни	čini	činja	Vmip3si		274	4	0	root														
+i	и	i	i	C		274	5	7	amod					1									
+do+	до+	do	do	Sg		274	6	7	case														
+dnésь.	дне́сь.	dnesъ	dnes	R		274	7	4	obl														
+																							
+kóĭ	ко́й	koi	koi	Pq---n		275	1	5	nsubj				(to everyone) who comes with pure faith to her coffin										
+sъ´s'+	съ́с͛+	sъs	s	Si		275	2	4	case														
+čísta	чи́ста	čista	čist	Afsnn		275	3	4	amod														
+vě´ra	вѣ́ра	věra	věra	Nfsnn		275	4	5	obl					1									
+prixóžda	прихо́жда	prixožda	prixoždam	Vmip3si		275	5	0	root														
+na+	на+	na	na	Sa		275	6	8	case														
+néĭnь	не́йнь	neinъ	nein	Amsnn		275	7	8	amod	poss													
+kov'_čégь.	ков͛_че́гь.	kovčegъ	kovčeg	Nmsnn		275	8	5	obl	lat				1									
+																							
+Blagodě´tïju	Благодѣ́тїю	Blagodětiju	blagodat	Nfsin		276	1	0	root				by the grace and the love for humans of our Lord Jesus Christ									13	Closing Prayers
+i	и	i	i	C		276	2	3	cc					1									
+člko_ljúbïemь	члко_лю́бїемь	člkoljubiemъ	člověkoljubie	Nmsin		276	3	1	conj														
+ga	га	ga	Gospod	Nmsgy		276	4	1	nmod	poss													
+ná_šego	нá_шего	našego	naš	Amsgy		276	5	4	amod	poss				1									
+ısѵ	ıсѵ	isѵ	Isus	N		276	6	4	appos														
+xa.	ха.	xa	Xristos	Nmsgy		276	7	6	appos														
+																							
+emú	емꙋ́	emu	toi	Pp3msd		277	1	3	obl	iobj			who is to be praised (lit. ʺpraise be to himʺ) in the eternity	1		Ljub.d.: dêto njému prilíče sě´kogy da+ gò slávime							
+že	же	že	že	Qd		277	2	3	cc														
+sláva	слáва	slava	slava	Nfsnn		277	3	0	root														
+vъ	въ	vъ	v	Sl		277	4	5	case					1									
+věky,	вѣкы,	věki	vek	Nmpnn		277	5	3	obl	loc													
+																							
+a_mínь:♣	а_ми́нь:♣	aminъ:	amin	I		278	1	0	root				amen	2									
