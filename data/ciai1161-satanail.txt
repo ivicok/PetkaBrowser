@@ -1,0 +1,3080 @@
+text	cyrillic	diplomatic	lemma	PoS_tag	PoS_ext	sent_id	UD_id	UD_ncy	UD_type	UD_ext	page	folio	translation	eol	chapter	ref	desc	lat_header	cyr_header	lat_page_nr	cyr_page_nr	chunk	chunk_desc	pic_desc
+																								
+Slovo+	Слово+	slovo	slovo	Nnsnn		1	1	0	root		40r	/img/satan/40r.JPG	[Title] Homily of John Chrysostomus	0	sat CIAI 1161 - How Michael Defeated Satanael		<b><i>Homily of John Chrysostom on How Michael Defeated Satanael</i></b><br/>CIAI 1161<br/> Serbia, 16th c.<br/>40r-55v<br/><br/>The story of Satanael-Antichrist, his rebellion against God, and his fight with Archangel Michael. The story spread as a part of apocryphal miscellanies, which served as a source for Punčo's translation (<a target=_blank href=/chapter_view.php?chapter=013&cyr=1>link</a>). <br/> The manuscript CIAI 1161 from the 16th century shows strong Serbian, but also Macedonian dialectal influence. Unlike the <i>Tale of Alexander the Elder</i> in the same source (<a target=_blank href=/chapter_view.php?corpus=sva&chapter=116&cyr=1>link</a>), it also shows postposed articles. The source also shows uncommon diacritics. Combined uks (as here - о̿у) and most iotas show two short horizontal lines (something like ı̿, given as <i>ï</i>), while initial ots/omegas carry two or three dots above (ѡ֒). Long horizontal lines seem to be used for both accents and titlos. As their position differs (gravis tends to be written more on the left from the letter), we interpret them with conventional markers.<br/>Facsimile provided by Dr. Miltenova and the Church Historical and Archive Institute in Sofia.<br/>The CIAI 1161 and Punčo's versions can be opened together in a <a target=_blank href=/collated_view.php?chapter=sat&cyr=1>collated view</a>.					1	Title	
+zlato.ustago	злато.ꙋстаго	zlatoustago	Zlatoust	Amsgy		1	2	3	amod															
+iwna.	иѡна.	iona	Ioan	Nmsgy		1	3	1	nmod	poss				1										
+																								
+Kako+	Како+	kako	kako	Pq		2	1	2	advmod				[Title] How Michael defeated Satanail											
+pověde+	повѣде+	pověde	pobedja	Vmia3se		2	2	0	root															
+mixailь.	михаиль.	mixailъ	Mixail	Nmsny		2	3	2	nsubj					1										
+santaila,	сантаила,	santaila	Satanail	Nmsgy		2	4	2	obj															
+																								
+gdě+	гдѣ+	gdě	Gospod	Nmsly		3	1	2	vocative				[Title] O Lord, bless (the reader)!			Formally, an o-stem sg.loc.								
+blgoslovi	блгослови	blgoslovi	blagoslovja	Vmm-2si		3	2	0	root					1										
+																								
+gь+	гь+	gъ	Gospod	Nmsny		4	1	17	nsubj				The Lord, our God, Jesus Christ, Creator of the heavens and the earth, and all the creation,									2	Rebellion of Satanael	
+bь+	бь+	bъ	bog	Nmsny		4	2	1	appos															
+nšь+	ншь+	nšъ	naš	Amsnn		4	3	2	amod	poss														
+ıs+	ıс+	is	Isus	Nmsny		4	4	2	appos															
+xsь.	хсь.	xsъ	Xristos	Nmsny		4	5	4	appos															
+tvorcь	творць	tvorcъ	tvorec	Nmsny		4	6	4	appos					1										
+nbu	нбꙋ	nbu	nebe	Nnsdn		4	7	6	nmod	iobj														
+i+	и+	i	i	C		4	8	9	cc															
+zemli	земли	zemli	zemlja	Nfsdn		4	9	7	conj															
+i+	и+	i	i	C		4	10	12	cc															
+vsakomu.	всакомꙋ.	vsakomu	vsěki	Amsdy		4	11	12	conj															
+sa_zdanïju+	са_зданїю+	sazdaniju	sъzdanie	Nnsdn		4	12	9	conj					1										
+iže+	иже+	iže	iže	Pr-msn		4	13	14	mark				who (created) everything by a single word,											
+vsa	вса	vsa	vse	Anpnn		4	14	1	acl	orphan														
+edinemь.	единемь.	edinemъ	edin	Ansin		4	15	16	amod	det														
+sló_vomь.	сло́_вомь.	slovomъ	slovo	Nnsin		4	16	14	obl					1										
+sьtvori+	сьтвори+	sъtvori	sъtvorja	Vmia3se		4	17	0	root				created many angels and archangels and many weapons in the High Jerusalem.			The verb could be also the head of the clause <i>iže vsa edinemь slovomь ...</i>.								
+množstvo+	множство+	množstvo	množestvo	Nnsnn		4	18	17	obj															
+agglь	аггль	agglъ	angel	Nmpgy		4	19	18	nmod					1										
+i+	и+	i	i	C		4	20	21	cc															
+arxanglь.	архангль.	arxanglъ	arxangel	Nmpgy		4	21	19	conj															
+i+	и+	i	i	C		4	22	23	cc															
+wružïja+	ѡрꙋжїꙗ+	oružija	orъžie	Nnpnn		4	23	18	conj															
+mnoga	многа	mnoga	mnog	Anpnn		4	24	23	amod					1										
+vь+	вь+	vъ	v	Sl		4	25	27	case															
+višnemь+	вишнемь+	višnemъ	višen	Ansin		4	26	27	amod															
+erslьïmě.	ерсльїмѣ.	erslъimě	Ierusalim	Nmsln		4	27	17	obl	loc														
+																								
+sь_nidetь+	сь_нидеть+	sъnidetъ	sъniti	Vmip3se		5	1	0	root				Lord God descended into the world (?) to defend the mankind.	1										
+iže+	иже+	iže	iže	Pr-msn		5	2	4	mark															
+vь+	вь+	vъ	v	Sl		5	3	4	case															
+míré+	ми́ре́+	mire	mir	Nmsln		5	4	5	acl	obl:loc														
+bь	бь	bъ	bog	Nmsny		5	5	1	nsubj															
+gь	гь	gъ	Gospod	Nmsny		5	6	5	appos															
+i	и	i	i	C		5	7	9	discourse					1										
+wt+	ѿ+	ot	ot	Sg		5	8	9	case															
+lukavago.	лꙋкаваго.	lukavago	lukav	Amsgy		5	9	10	obl															
+branitь	бранить	branitъ	branja	Vmn---i		5	10	1	advcl							Could be a supine after <i>sьnidetь</i>! Although such forms appear in contexts expecting ti-infinitive in <i>Legend of Troy</i> abundantly.								
+rod	род	rod	rod	Nmsnn		5	11	10	obj					1										
+člvčьskí.	члвчьски́.	člvčъski	človečeski	Amsny		5	12	11	amod															
+																								
+gь+	гь+	gъ	Gospod	Nmsny		6	1	2	nsubj				The Lord founded the earth.											
+wsnova+	ѡснова+	osnova	osnova (2)	Vmia3se		6	2	0	root															
+zemljú	землю́	zemlju	zemlja	Nfsan		6	3	2	obj					1										
+																								
+i+	и+	i	i	C		7	1	2	cc				And He planted the Paradise.											
+nasadi+	насади+	nasadi	nasadja	Vmia3se		7	2	0	root															
+rȁi.	ра̏и.	rai	rai	Nmsnn		7	3	2	obj															
+																								
+i+	и+	i	i	C		8	1	3	cc				And He craeted the human by His image,											
+člvka+	члвка+	člvka	človek	Nmsgy		8	2	3	obj															
+sьtvo_ri	сьтво_ри	sъtvori	sъtvorja	Vmia3se		8	3	0	root					1										
+po+	по+	po	po	Sd		8	4	5	case															
+ẅbrazoȕ+	ѡ̈бразоу̏+	obrazou	obraz	Nmsdn		8	5	3	obl															
+svoemu.	своемꙋ.	svoemu	svoi	Amsdy		8	6	5	amod	poss														
+prь_sti+	прь_сти+	prъsti	prъst (2)	Nfsgn		8	7	8	obj				having taken soil from the earth.	1										
+vьzmь+	вьзмь+	vъzmъ	vzema	Vmpa-sea	Amsnn	8	8	3	advcl															
+wt+	ѿ+	ot	ot	Sg		8	9	10	case															
+zemlè.	землѐ.	zemle	zemlja	Nfsgn		8	10	8	obl	abl														
+																								
+i+	и+	i	i	C		9	1	2	cc				And He commanded him to rule in the Paradise,											
+pove_le	пове_ле	povele	povelja	Vmia3se		9	2	0	root					1										
+jemoù+	ѥмоу̀+	jemou	toi	Pp3msd		9	3	2	obl	iobj														
+vladati,	владати,	vladati	vladěti	Vmn---i		9	4	2	advcl															
+vь+	вь+	vъ	v	Sl		9	5	6	case															
+rajȕ	раю̏	raju	rai	Nmsgn	Nmsdn	9	6	4	obl	loc				1										
+i+	и+	i	i	C		9	7	8	cc				and to rule over every breathing (thing) on the earth.											
+crьstvovati.	црьствовати.	crъstvovati	carstvuvam	Vmn---i		9	8	4	conj															
+ndь+	ндь+	ndъ	nad	Si		9	9	11	case															
+vsakimь	всакимь	vsakimъ	vsěki	Ansiy		9	10	11	amod	det				1										
+dixánïemь+	дихáнїемь+	dixaniemъ	dixanie	Nnsin		9	11	8	obl															
+na+	на+	na	na	Sl		9	12	13	case															
+zemlì,	землѝ,	zemli	zemlja	Nfsdn		9	13	11	nmod	loc														
+																								
+tgw+	тгѡ+	tgo	tъ	Pd-msg		10	1	3	det				The evil Satanael saw that man.											
+že	же	že	že	Qd		10	2	4	cc					2										
+člkaь	члкаь	člkaъ	človek	Nmsgy	Nmsny	10	3	4	obj		40v	/img/satan/40v.JPG				The <i>a</i> is written above the line, so the ending is ambiguous.								
+vdě+	вдѣ+	vdě	vidja	Vmia3se		10	4	0	root															
+lukavi.	лꙋкави.	lukavi	lukav	Amsny		10	5	6	amod															
+satanai_lь.	сатанаи_ль.	satanailъ	Satanail	Nmsny		10	6	4	nsubj					1										
+																								
+i+	и+	i	i	C		11	1	2	cc				And he fell to the ground, thinking evil thoughts.											
+pade+	паде+	pade	pasti	Vmia3se		11	2	0	root															
+nica+	ница+	nica	nicь	R	Nmsgn	11	3	5	amod															
+na+	на+	na	na	Sa		11	4	5	case															
+zemljù	землю̀	zemlju	zemlja	Nfsan		11	5	2	obl	lat				1										
+zlóju	зло́ю	zloju	zъl	Afsin		11	6	7	amod															
+mísáliju	ми́сáлию	misaliju	misъl	Nfsin		11	7	8	obl															
+misle.	мисле.	misle	mislja	Vmpp-sia		11	8	2	advcl															
+																								
+i+	и+	i	i	C		12	1	2	cc				And he said:											
+rče	рче	rče	reka	Vmia3se		12	2	0	root					1										
+																								
+sьtvori+	сьтвори+	sъtvori	sъtvorja	Vmia3se		13	1	0	root				ʺThe Lord has created a man of soil from the earth.ʺ											
+gь,	гь,	gъ	Gospod	Nmsny		13	2	1	nsubj															
+wt+	ѿ+	ot	ot	Sg		13	3	4	case															
+zemlè+	землѐ+	zemle	zemlja	Nfsgn		13	4	1	obl															
+prь_stna	прь_стна	prъstna	prъsten (2)	Amsgn		13	5	6	amod					1										
+člvka.	члвка.	člvka	človek	Nmsgy		13	6	1	obj															
+																								
+i+	и+	i	i	C		14	1	4	cc				ʺAnd He made him greater than heavens.ʺ											
+prěviše+	прѣвише+	prěviše	prěvyše	R		14	2	3	amod															
+nbsь	нбсь	nbsъ	nebe	Nnpgn		14	3	4	obl					1										
+sьtvori+	сьтвори+	sъtvori	sъtvorja	Vmia3se		14	4	0	root															
+ego.	его.	ego	toi	Pp3msg		14	5	4	obj															
+																								
+i+	и+	i	i	C		15	1	2	cc				ʺAnd He gave him glory.ʺ											
+proslávi+	прослáви+	proslavi	proslavja	Vmia3se		15	2	0	root															
+e_go+	е_го+	ego	toi	Pp3msg		15	3	2	obj					1										
+																								
+ẅcri+	ѡ̈цри+	ẅcri	ocariti	Vmia3se		16	1	0	root				ʺHe became a king of all.ʺ											
+vse.	все.	vse	vse	Ansnn		16	2	1	obj															
+																								
+i+	и+	i	i	C		17	1	4	cc				ʺAnd angelic forces bow to him.ʺ											
+agglьskïe+	аггльскїе+	agglъskie	angelski	Afpny		17	2	3	amod															
+si_le+	си_ле+	sile	sila	Nfpnn	Nfsdn	17	3	4	nsubj					1		OCS <i>sily</i>, likely a Serbian pl.nom form.								
+poklanaju+	покланаю+	poklanaju	poklanjam	Vmip3pi		17	4	0	root															
+se+	се+	se	se	Px---a		17	5	4	expl															
+jemoȕ.	ѥмоу̏.	jemoȕ	toi	Pp3msd		17	6	4	obl	iobj														
+																								
+azь	азь	azъ	az	Pp1-sn		18	1	3	nsubj				ʺAnd, I cannot (endure) seeing him, nor bow to him!ʺ	1										
+že+	же+	že	že	Qg		18	2	3	cc															
+zreti+	зрети+	zreti	zra	Vmn---i		18	3	0	root															
+ego+	его+	ego	toi	Pp3msg		18	4	3	obj															
+ne+	не+	ne	ne	Qz		18	5	6	advmod															
+mogu.	могꙋ.	mogu	moga	Vaip1si		18	6	3	aux															
+ni	ни	ni	ni	C		18	7	8	cc					1										
+pokloniti	поклонити	pokloniti	poklonja	Vmn---e		18	8	3	conj															
+se	се	se	se	Px---a		18	9	8	expl															
+jemou.	ѥмоу.	jemou	toi	Pp3msd		18	10	8	obl	iobj														
+																								
+nju+	ню+	nju	no	C		19	1	2	cc				ʺBut I will assemble my forces and my glory, and all the angelic ranks, 40 thousand (angels).ʺ											
+sь_beru+	сь_берꙋ+	sъberu	sъbera	Vmip1se		19	2	0	root					1										
+sili+	сили+	sili	sila	Nfpnn		19	3	2	obj															
+svoe,	свое,	svoe	svoi	Afpny		19	4	3	amod	poss														
+i+	и+	i	i	C		19	5	6	cc															
+slvu	слвꙋ	slvu	slava	Nfsan		19	6	3	conj															
+svoju	свою	svoju	svoi	Afsay		19	7	6	amod	poss				1										
+i+	и+	i	i	C		19	8	10	cc															
+vse+	все+	vse	vse	Ampan		19	9	10	amod	det														
+čini+	чини+	čini	čin	Nmpnn		19	10	6	obj															
+agglьskïe+	аггльскїе+	agglъskie	angelski	Ampay		19	11	10	amod															
+xila_jadь	хила_ꙗдь	xilajadъ	xiljada	Nfpgn		19	12	10	nummod					1										
+*m*	·м·	*m*	40	Mc		19	13	12	nummod															
+																								
+i+	и+	i	i	C		20	1	2	cc				ʺAnd I will take the divine-weaved clothes and most honorable divine-weaved wreath of command over archangelic ranks.ʺ											
+vьzmu+	вьзмꙋ+	vъzmu	vzema	Vmip1se		20	2	0	root															
+bgotkanu_ju,	бготканꙋ_ю,	bgotkanuju	bogotъkan	Afsay		20	3	4	amod					1										
+ẅdeždou+	ѡ̈деждоу+	ẅdeždou	odežda	Nfsan		20	4	2	obj															
+i+	и+	i	i	C		20	5	8	cc															
+vsьčьstnì+	всьчьстнѝ+	vsъčъstni	vsečesten	Amsny		20	6	8	amod															
+bgo_pleteteni.	бго_плететени.	bgopleteteni	bogopleten	Amsny		20	7	8	amod					1										
+věncь+	вѣнць+	věncъ	venec	Nmsnn		20	8	4	conj															
+skipe_tra+	скипе_тра+	skipetra	skiptъr	Nmsgn		20	9	8	nmod					1										
+arxanglьskix.	архангльских.	arxanglъskix	arxangelski	Ampgy		20	10	11	amod															
+činovь	чиновь	činovъ	čin	Nmpgn		20	11	9	nmod					1										
+																								
+istína	исти́на	istina	istina	Nfsnn		21	1	3	advmod				ʺIndeed, I will take everything.ʺ											
+vsa+	вса+	vsa	vse	Anpnn		21	2	3	obj															
+vьzmù.	вьзмꙋ̀.	vъzmu	vzema	Vmip1se		21	3	0	root															
+																								
+izidù	изидꙋ̀	izidu	izida	Vmip1se		22	1	0	root				ʺI will descend from heavens.ʺ	1										
+wt+	ѿ+	ot	ot	Sg		22	2	3	case															
+nbsь+	нбсь+	nbsъ	nebe	Nnpgn		22	3	1	obl	abl														
+																								
+i+	и+	i	i	C		23	1	2	cc				ʺAnd I will place my throne on the heavenly clouds.ʺ											
+postàvlù.	постàвлꙋ̀.	postavlu	postavja	Vmip1se		23	2	0	root															
+prěsto_lь	прѣсто_ль	prěstolъ	prestol	Nmsnn		23	3	2	obj					2										
+svoi	свои	svoi	svoi	Amsny		23	4	3	amod	poss	41r	/img/satan/41r.JPG												
+na+	на+	na	na	Sl		23	5	6	case															
+ẅblacex+	ѡ̈блацех+	ẅblacex	oblak	Nmpln		23	6	2	obl	loc														
+nbsnix	нбсних	nbsnix	nebesen	Ampgy		23	7	6	amod															
+																								
+i	и	i	i	C		24	1	3	cc				ʺAnd I will be like the Highest.ʺ	1										
+budù.	бꙋдꙋ̀.	budu	bъda	Vmip1se		24	2	3	cop															
+podbnь+	подбнь+	podbnъ	podoben	Amsnn		24	3	0	root															
+višnemù.	вишнемꙋ̀.	višnemu	višen	Amsdy		24	4	3	obl	iobj														
+																								
+i+	и+	i	i	C		25	1	4	cc				And thus thought the most evil Satanael.											
+ta	та	ta	to	Pp3npn		25	2	3	det					1										
+vsa+	вса+	vsa	vse	Anpnn		25	3	4	obj															
+pomísli.	поми́сли.	pomisli	pomislja	Vmia3se		25	4	0	root															
+prělúkavi+	прѣлꙋ́кави+	prělukavi	prelukav	Amsny		25	5	6	amod															
+sa_tanailo.	са_танаило.	satanailo	Satanail	Nmsoy		25	6	4	nsubj					1		The final -o possibly reflects Serbian phonetic shift -il > -io (see below e.g. <i>gavrio</i>).								
+																								
+i+	и+	i	i	C		26	1	2	cc				And he deceived many angels.											
+prebláznì	преблáзнѝ	preblazni	prěblazniti	Vmia3se		26	2	0	root															
+mno_žьstvo.	мно_жьство.	množъstvo	množestvo	Nnsnn		26	3	2	obj					1										
+agglь+	аггль+	agglъ	angel	Nmpgy		26	4	3	nmod															
+																								
+izide+	изиде+	izide	izida	Vmia3se		27	1		root				He went out of the hardened 6 heavens.											
+wt+	ѿ+	ot	ot	Sg		27	2		case															
+utvrь_ždenix+	ꙋтврь_ждених+	utvrъždenix	utvъrdja	Anpgy	Vmpa-pe	27	3		amod					1										
+*z*	·з·	*z*	6	Mc		27	4		nummod															
+nbsь+	нбсь+	nbsъ	nebe	Nnpgn		27	5		obl	abl														
+																								
+i+	и+	i	i	C		28	1	4	cc				And he (entered) the fogs,											
+ta	та	ta	ta	C		28	2	1	fixed															
+vь+	вь+	vъ	v	Sa		28	3	4	case															
+mьglú_venïe.	мьглꙋ́_венїе.	mъgluvenie	mъglovenie	Nnsnn		28	4	0	root	lat				1										
+																								
+wt+	ѿ+	ot	ot	Sg		29	1	2	case				whence he came out,											
+kede+	кеде+	kede	kъde	Pq		29	2	3	obl	abl						< *<i>kędě</i> < *<i>kǫdě</i> ?								
+izide	изиде	izide	izida	Vmia3se		29	3	0	root															
+																								
+i+	и+	i	i	C		30	1	2	cc				and unbound the treasures (in) heavens of wind and rain.											
+wttvrь_ze.	ѿтврь_зе.	ottvrъze	otvъrža	Vmia3se		30	2	0	root					1										
+nbsa+	нбса+	nbsa	nebe	Nnpnn		30	3	4	nmod															
+skrovišta.	скровища.	skrovišta	sъkrovište	Nnpnn		30	4	2	obj															
+vitrù+	витрꙋ̀+	vitru	větъr	Nmsdn		30	5	4	nmod															
+i	и	i	i	C		30	6	7	cc															
+dь_ždou.	дь_ждоу.	dъždou	dъžd	Nmsdn		30	7	5	conj					1										
+																								
+i+	и+	i	i	C		31	1	2	cc				And he was pouring the water on the earth.											
+prolijaše+	пролиꙗше+	prolijaše	prolivam	Vmii3si		31	2	0	root															
+vdu+	вдꙋ+	vdu	voda	Nfsan		31	3	2	obj															
+na+	на+	na	na	Sa		31	4	5	case															
+zemljù.	землю̀.	zemlju	zemlja	Nfsan		31	5	2	obl	lat				1										
+																								
+i+	и+	i	i	C		32	1	2	cc				And he created heavens alike to him.											
+sьtvori+	сьтвори+	sъtvori	sъtvorja	Vmia3se		32	2	0	root															
+nbsa+	нбса+	nbsa	nebe	Nnpnn		32	3	2	obj															
+podbna+	подбна+	podbna	podoben	Anpnn		32	4	3	amod															
+sebě`	себѣ̀	sebě	se	Px---d		32	5	4	nmod					1										
+																								
+i+	и+	i	i	C		33	1	2	cc				And he create(d) a dark sun and a dark moon.											
+sьtvorit	сьтворит	sъtvorit	sъtvorja	Vmip3se		33	2	0	root							The final -t of 3sg.prs form seems to be used less regularily.								
+slnce.	слнце.	slnce	slъnce	Nnsnn		33	3	2	obj															
+tьmno	тьмно	tъmno	tъmen	Ansnn		33	4	3	amod					1										
+i+	и+	i	i	C		33	5	6	cc															
+lunù+	лꙋнꙋ̀+	lunu	luna	Nfsan		33	6	3	conj															
+tьmnù.	тьмнꙋ̀.	tъmnu	tъmen	Afsan		33	7	6	amod															
+																								
+izzvede	иззведе	izzvede	izveda	Vmia3se		34	1	0	root															
+bezra_čne	безра_чне	bezračne	bezračьn	A-pnn		34	2	1	obj					1		Or <i>bezračie</i> ?								
+																								
+i+	и+	i	i	C		35	1	2	cc				And I (?) placed my throne on the heavenly clouds.											
+postavix.	поставих.	postavix	postavja	Vmia1se		35	2	0	root															
+prěstolь	прѣстоль	prěstolъ	prestol	Nmsnn		35	3	2	obj					1										
+svoi+	свои+	svoi	svoi	Amsny		35	4	3	amod	poss														
+na+	на+	na	na	Sl		35	5	6	case															
+ẅblacex.	ѡ̈блацех.	ẅblacex	oblak	Nmpln		35	6	2	obl	loc														
+nbsnixь	нбснихь	nbsnixъ	nebesen	Ampgy		35	7	6	amod					1										
+																								
+i+	и+	i	i	C		36	1	2	cc				And he sat on his throne around a host of impure demons,											
+sdě+	сдѣ+	sdě	sedja	Vmia3se		36	2	0	root															
+na+	на+	na	na	Sl		36	3	4	case															
+prěstole+	прѣстоле+	prěstole	prestol	Nmsln		36	4	2	obl	loc														
+svoemь	своемь	svoemъ	svoi	Amsln		36	5	4	amod	poss				1										
+ẅkrstь+	ѡ̈крсть+	ẅkrstъ	okrъst	Sg		36	6	7	case															
+množьstvo+	множьство+	množъstvo	množestvo	Nnsnn		36	7	2	obl															
+neči_stix+	нечи_стих+	nečistix	nečist	Ampgy		36	8	9	amod					1										
+besovь.	бесовь.	besovъ	běs	Nmpgy		36	9	7	nmod															
+své	све́	sve	sve	Ansnn		36	10	13	amod	det			all the not-high forces (of) 40 thousand.											
+ne+	не+	ne	ne	Qz		36	11	12	amod															
+gornix	горних	gornix	goren	Afpgy		36	12	13	amod					1										
+sílь.	си́ль.	silъ	sila	Nfpgn		36	13	9	appos															
+xilïjadь	хилїꙗдь	xilijadъ	xiljada	Nfpgn		36	14	9	nummod															
+*m*	·м·	*m*	40	Mc		36	15	14	nummod															
+																								
+vь+	вь+	vъ	v	Sl		37	1	2	case				The Father in the Heights summoned his 4 archangels, the first servants of His throne:									3	Council of Archangels	
+višni	вишни	višni	višen	A-pnn		37	2	4	acl	loc				2										
+iže+	иже+	iže	iže	Pr-msn		37	3	2	mark		41v	/img/satan/41v.JPG												
+ẅcь	ѡ̈ць	ẅcъ	otec	Nmsny		37	4	5	nsubj															
+prizvà.	призвà.	prizva	prizova	Vmia3se		37	5	0	root															
+arxagle	архагле	arxagle	arxangel	Nmpay		37	6	5	obj					1										
+svoè	своѐ	svoe	svoi	Ampay		37	7	6	amod	poss														
+*d*	·д·	*d*	4	Mc		37	8	6	nummod															
+prьvie	прьвие	prъvie	pъrvi	Afpny	Ampay	37	9	10	amod															
+slugi+	слꙋги+	slugi	sluga	Nfpny		37	10	6	appos															
+svo	сво	svo	svoi	A		37	11	13	discourse					1										
+prestola	престола	prestola	prestol	Nmsgn		37	12	10	nmod															
+svoego,	своего,	svoego	svoi	Amsgy		37	13	12	amod	poss														
+strašna_go+	страшна_го+	strašnago	strašen	Amsgy		37	14	15	amod				the terrible Michael, and Gabriel, and Uriel, and Raphael.	1										
+mixaila.	михаила.	mixaila	Mixail	Nmsgy		37	15	10	appos															
+i+	и+	i	i	C		37	16	17	cc															
+gavrila	гаврила	gavrila	Gavriil	Nmsgy		37	17	15	conj															
+i+	и+	i	i	C		37	18	19	cc															
+ú_rila	ꙋ́_рила	urila	Uriil	Nmsgy		37	19	17	conj					1										
+i+	и+	i	i	C		37	20	21	cc															
+raxavila.	рахавила.	raxavila	Rafail	Nmsgy		37	21	19	conj															
+																								
+i+	и+	i	i	C		38	1	2	cc				And the Lord said to them:											
+rče+	рче+	rče	reka	Vmia3se		38	2	0	root															
+gь	гь	gъ	Gospod	Nmsny		38	3	2	nsubj															
+kь	кь	kъ	k	Sd		38	4	5	case					1										
+nimi	ними	nimi	tě	Pp3-pi		38	5	2	obl	iobj						sic								
+																								
+da+	да+	da	da	C		39	1	2	aux	opt			ʺHave you seen, o my angels,ʺ											
+vděste+	вдѣсте+	vděste	vidja	Vmia2pi		39	2	0	root															
+li	ли	li	li	Qq		39	3	2	advmod															
+vi+	ви+	vi	vy	Pp2-pn		39	4	2	nsubj															
+moi	мои	moi	moi	Ampnn		39	5	6	amod	poss				1										
+aggli,	аггли,	aggli	angel	Nmpny		39	6	4	vocative															
+kako+	како+	kako	kako	Pq		39	7	8	mark				ʺhow the most evil Satanael ran away,ʺ											
+izbèže+	избѐже+	izbeže	izběgna	Vmia3se		39	8	2	advcl															
+prě_lukavi	прѣ_лꙋкави	prělukavi	prelukav	Amsny		39	9	10	amod					1										
+sátanïo.	сáтанїо.	satanio	Satanail	Nmsoy		39	10	8	nsubj															
+i+	и+	i	i	C		39	11	14	cc				ʺand how he deceived a number of archangels,ʺ											
+kako	како	kako	kako	Pq		39	12	14	mark					1										
+si+	си+	si	se	Px---d		39	13	14	expl															
+prělьsti	прѣльсти	prělъsti	prelъstja	Vmia3se		39	14	8	conj															
+množьstvo	множьство	množъstvo	množestvo	Nnsnn		39	15	14	obj					1										
+arxaglь.	архагль.	arxaglъ	arxangel	Nmpgy		39	16	15	nmod															
+ixьže+	ихьже+	ixъže	iže	Pr-mpg		39	17	19	mark				ʺwhich I created by the Holy Spirit?ʺ											
+azь+	азь+	azъ	az	Pp1-sn		39	18	19	nsubj															
+stvo_rix	ство_рих	stvorix	sъtvorja	Vmia1se		39	19	16	acl					1										
+svtimь+	свтимь+	svtimъ	svęt	Amsiy		39	20	21	amod															
+dxomь.	дхомь.	dxomъ	dux	Nmsiy		39	21	19	obl															
+																								
+imě_xь.	имѣ_хь.	iměxъ	imam	Vmia1si		40	1	0	root				ʺI had them (as) my heavenly forces.ʺ	1										
+ixь+	ихь+	ixъ	tě	Pp3-pa		40	2	1	obj															
+nbsnix	нбсних	nbsnix	nebesen	Ampgy		40	3	4	amod							Case discord with <i>sili svoe</i>								
+silì+	силѝ+	sili	sila	Nfpnn		40	4	1	obl	pred														
+svoe	свое	svoe	svoi	Afpnn		40	5	4	amod					1										
+																								
+wnь+	ѡнь+	onъ	on	Pp3msn		41	1	3	nsubj				ʺAnd he deceived them.ʺ											
+že	же	že	že	Qd		41	2	3	cc															
+prěblazni+	прѣблазни+	prěblazni	prěblazniti	Vmia3se		41	3	0	root															
+ix.	их.	ix	tě	Pp3-pa		41	4	3	obj															
+																								
+izve_de+	изве_де+	izvede	izveda	Vmia3se		42	1	0	root				ʺHe led them into outer darkness.ʺ	1										
+ix+	их+	ix	tě	Pp3-pa		42	2	1	obj															
+vь+	вь+	vъ	v	Sa		42	3	4	case															
+tmù	тмꙋ̀	tmu	tъma	Nfsan		42	4	1	obl	lat														
+kromešnù.	кромешнꙋ̀.	kromešnu	kromešen	Afsan		42	5	4	amod															
+																								
+azь	азь	azъ	az	Pp1-sn		43	1	4	nsubj				ʺAnd, again, I created the humans.ʺ	1										
+že+	же+	že	že	Qd		43	2	4	cc															
+paki+	паки+	paki	paki	R		43	3	4	advmod															
+sьtvoriix,	сьтвориих,	sъtvoriix	sъtvorja	Vmia1se		43	4	0	root															
+člvky̏	члвкы̏	člvkȉ	človek	Nmpay		43	5	4	obj					1										
+																								
+i+	и+	i	i	C		44	1	3	cc				ʺAnd they will be chosen to do my will - apostles, and prophets, and martyrs.ʺ											
+budù	бꙋдꙋ̀	budu	bъda	Vaip1se	Vaip3pe	44	2	3	aux	pass						Formally, a CS 1sg.prs, but in SC could be a 3pl too (or a very archaic 3pl.imp/injunctive, of course).								
+izьbrani	изьбрани	izъbrani	izbera	Vmpa-pe	A-pnn	44	3	0	root															
+da	да	da	da	C		44	4	5	mark															
+tvo_retь,	тво_реть,	tvoretъ	tvorja	Vmip3pi		44	5	3	advcl					1										
+volù	волꙋ̀	volu	volja	Nfsan		44	6	5	obj															
+moju.	мою.	moju	moi	Afsay		44	7	6	amod	poss														
+apsly̏	апслы̏	apslȉ	apostol	Nmpay		44	8	3	nsubj					1										
+i+	и+	i	i	C		44	9	10	cc															
+proki.	проки.	proki	prorok	Nmpay		44	10	8	conj															
+i+	и+	i	i	C		44	11	12	cc															
+mčnky̏.	мчнкы̏.	mčnkȉ	mъčenik	Nmpay		44	12	10	conj															
+																								
+i+	и+	i	i	C		45	1	2	cc				ʺAnd they will be for me like angels.ʺ											
+búdu_t+	бꙋ́дꙋ_т+	budut	bъda	Vmip3pe		45	2	0	root					2										
+mì+	мѝ+	mi	az	Pp1-sd		45	3	2	obl	iobj	42r	/img/satan/42r.JPG												
+jako	ꙗко	jako	jako (2)	C		45	4	5	mark															
+aggli.	аггли.	aggli	angel	Nmpny		45	5	2	advcl															
+																								
+i+	и+	i	i	C		46	1	2	cc				ʺAnd I will increase the number of angels hundred times (more than the count) of angels having fell away from the heavens.ʺ											
+umnožu	ꙋмножꙋ	umnožu	umnoža	Vmip1se		46	2	0	root					1										
+angle	англе	angle	angel	Nmpay		46	3	2	obj															
+svoè.	своѐ.	svoe	svoi	Ampay		46	4	3	amod	poss														
+stokraticeju	стократицею	stokraticeju	stokraticejǫ	R		46	5	2	advmod					1										
+wt+	ѿ+	ot	ot	Sg		46	6	7	case															
+agglь	аггль	agglъ	angel	Nmpgy		46	7	3	obl															
+wtpadьšix	ѿпадьших	otpadъšix	otpadna	Vmpa-pea	Ampgy	46	8	7	acl															
+sь+	сь+	sъ	iz	Sg		46	9	8	case															
+nbsь.	нбсь.	nbsъ	nebe	Nnpgn		46	10	8	obl	abl				1										
+																								
+arxistratizi.	архистратизи.	arxistratizi	arxistratig	Nmpny		47	1	2	nsubj				The archstrateges said:											
+rekoše	рекоше	rekoše	reka	Vmia3pe		47	2	0	root															
+																								
+gi	ги	gi	Gospod	Nmsvy	Nmsgy	48	1	5	vocative				ʺO Lord, until when will the Evil one deceive and torment the mankind?ʺ	1										
+dokole+	доколе+	dokole	dokole	Pq		48	2	5	advmod															
+ištetь+	ищеть+	ištetъ	iskam	Vmip3si		48	3	5	aux	fut														
+litavi.	литави.	litavi	litav	Amsny		48	4	5	nsubj															
+bla_zni	бла_зни	blazni	blaznja	Vmia3si		48	5	0	root					1		A shortened infinitive?								
+i+	и+	i	i	C		48	6	7	cc															
+mučiti+	мꙋчити+	mučiti	mъča	Vmn---i		48	7	5	conj															
+rod+	род+	rod	rod	Nmsnn		48	8	5	obj															
+člčaski	члчаски	člčaski	človečeski	Amsny		48	9	8	amod					1										
+																								
+gь	гь	gъ	Gospod	Nmsny		49	1	2	nsubj				The Lord said:											
+rče	рче	rče	reka	Vmia3se		49	2	0	root															
+																								
+vьzmù	вьзмꙋ̀	vъzmu	vzema	Vmip1se		50	1	0	root				ʺI will take 6 honors (parts?) from the world, from the 6 ages of the world.ʺ											
+*z*	·з·	*z*	6	Mc		50	2	3	nummod															
+čestь+	честь+	čestъ	čest	Nfpgn		50	3	1	obj							The sentence is not meant to make sense anyway, so both CS <i>čьstь</i> 'honor' and <i>čęstь</i> 'part' could appear in the context.								
+wt	ѿ	ot	ot	Sg		50	4	5	case															
+mì_ra+	мѝ_ра+	mira	mir	Nmsgn		50	5	1	obl	abl				1										
+wt	ѿ	ot	ot	Sg		50	6	8	case															
+*z*	·з·	*z*	6	Mc		50	7	8	nummod															
+mîrь`	ми̂рь̀	mirъ	mir	Nmpgn	Nmsnn	50	8	5	appos															
+vékovь,	ве́ковь,	vekovъ	vek	Nmpgn		50	9	8	nmod															
+																								
+arxa_ngli+	арха_нгли+	arxangli	arxangel	Nmpny		51	1	3	nsubj				Archangels did not understand the word, which the Lord said.	1										
+ne+	не+	ne	ne	Qz		51	2	3	advmod															
+razúmeše.	разꙋ́меше.	razumeše	razumeja	Vmia3pi	Vmii3si	51	3	0	root															
+slóvù	сло́вꙋ̀	slovu	slovo	Nnsdn		51	4	3	obl	iobj				1										
+eže+	еже+	eže	iže	Pr-nsn		51	5	6	mark															
+rče+	рче+	rče	reka	Vmia3se		51	6	4	acl															
+gь.	гь.	gъ	Gospod	Nmsny		51	7	6	nsubj															
+																								
+i+	и+	i	i	C		52	1	2	cc				And they said:											
+rékoše	ре́коше	rekoše	reka	Vmia3pe		52	2	0	root															
+																								
+prója_vi+	про́ꙗ_ви+	projavi	projavja	Vmm-2se		53	1	0	root				ʺExplain us, what you told us!ʺ	1										
+ni+	ни+	ni	nie	Pp1-pa		53	2	1	obl	iobj														
+eže+	еже+	eže	iže	Pr-nsn		53	3	4	mark															
+rče+	рче+	rče	reka	Vmia3se		53	4	1	advcl	obj														
+ni,	ни,	ni	nie	Pp1-pa		53	5	4	obl	iobj														
+																								
+gь+	гь+	gъ	Gospod	Nmsny		54	1	2	nsubj				The Lord said:											
+rče	рче	rče	reka	Vmia3se		54	2	0	root															
+																								
+ima_mь	има_мь	imamъ	imam	Vaip1si		55	1	3	aux	fut			ʺI shall explain the word to you on a table,ʺ	1										
+vamь`.	вамь̀.	vamъ	vie	Pp2-pd		55	2	3	obl	iobj														
+projaviti	проꙗвити	projaviti	projavja	Vmn---e		55	3	0	root															
+sló_vo+	сло́_во+	slovo	slovo	Nnsnn		55	4	3	obj					1										
+na+	на+	na	na	Sl		55	5	6	case															
+dь´ske,	дь́ске,	dъske	dъska	Nfsdn		55	6	3	obl	loc														
+vamь+	вамь+	vamъ	vie	Pp2-pd		55	7	2	appos				ʺto you, who understand my truth (?)ʺ											
+razumei+	разꙋмеи+	razumei	razumeja	Vmpp-sia	Amsny	55	8	7	acl					1										
+istini+	истини+	istini	istina	Nfsgn		55	9	8	obj															
+wt+	ѿ+	ot	ot	Sg		55	10	11	case															
+mene+	мене+	mene	az	Pp1-pg		55	11	9	nmod															
+																								
+amínь.	ами́нь.	aminъ	amin	I		56	1	2	discourse				ʺAmen, I say to you:ʺ											
+glu	глꙋ	glu	glagolati	Vmip1si		56	2	0	root					1										
+vamь+	вамь+	vamъ	vie	Pp2-pd		56	3	2	obl	iobj														
+																								
+egda	егда	egda	egda	Pr		57	1	3	mark				ʺWhen Satanael became deceived, he ran away,ʺ											
+satanailь.	сатанаиль.	satanailъ	Satanail	Nmsny		57	2	3	nsubj															
+sьbla_zni	сьбла_зни	sъblazni	sъblaznja	Vmia3se		57	3	5	advcl					1										
+se.	се.	se	se	Px---a		57	4	3	expl															
+wtběže	ѿбѣже	otběže	otběgna	Vmia3se		57	5	0	root															
+																								
+i+	и+	i	i	C		58	1	7	cc				ʺand he put illnesses into the soil of man, whom I created by my hands.ʺ											
+bolezni	болезни	bolezni	bolěznь	Nfpnn		58	2	7	obj					1										
+vь+	вь+	vъ	v	Sa		58	3	4	case															
+prьst+	прьст+	prъst	prъst (2)	Nfsnn		58	4	7	obl															
+nà.	нà.	na	na	Sa		58	5	6	case															
+člka+	члка+	člka	človek	Nmsgy		58	6	4	nmod															
+položi.	положи.	položi	položa	Vmia3se		58	7	0	root					1										
+egože+	егоже+	egože	iže	Pr-msg		58	8	10	mark															
+azь+	азь+	azъ	az	Pp1-sn		58	9	10	nsubj															
+sьtvorix	сьтворих	sъtvorix	sъtvorja	Vmia3se		58	10	6	acl															
+svoima	своима	svoima	svoi	Afddy		58	11	12	amod	poss				2										
+rukami,	рꙋками,	rukami	rъka	Nfpin		58	12	10	obl		42v	/img/satan/42v.JPG				Number discord following <i>svoima</i>.								
+																								
+nь+	нь+	nъ	no	C		59	1	5	cc				ʺBut he, too, will be participating in my Second Coming.ʺ											
+i+	и+	i	i	C		59	2	3	amod															
+tь+	ть+	tъ	tъ	Pd-msn		59	3	5	nsubj															
+xoštetь	хощеть	xoštetъ	xotěti	Vaip3si		59	4	6	aux	fut				1										
+častnь`+	частнь̀+	častnъ	čęstьn	Amsnn		59	5	0	root															
+biti,	бити,	biti	sъm	Vmn---i		59	6	5	cop															
+vь+	вь+	vъ	v	Sl		59	7	10	case															
+vtóróe	вто́ро́е	vtoroe	vtori	Ansny		59	8	10	amod	det				1										
+moe	мое	moe	moi	Ansny		59	9	10	amod	poss														
+prišastïe.	пришастїе.	prišastie	prišestvie	Nnsnn		59	10	5	obl	loc														
+																								
+togda	тогда	togda	togda	Pr		60	1	2	advmod				ʺThen, death will rule over every living creature on the earth, on men and cattle (alike).ʺ											
+crь_stvovati,	црь_ствовати,	crъstvovati	carstvuvam	Vmn---i		60	2	0	root					1										
+xoštetь+	хощеть+	xoštetъ	xotěti	Vaip3si		60	3	2	aux	fut														
+sьmrь_tь	сьмрь_ть	sъmrъtъ	smъrt	Nfsnn		60	4	2	nsubj					1										
+na	на	na	na	Sl		60	5	7	case															
+vsakomь,	всакомь,	vsakomъ	vsěki	Amsin		60	6	7	amod	det														
+dixanïemь`	диханїемь̀	dixaniemъ	dixanie	Nnsin		60	7	2	obl	loc				1										
+po+	по+	po	po	Sd		60	8	9	case															
+zemlì,	землѝ,	zemli	zemlja	Nfsdn		60	9	7	nmod	loc														
+na+	на+	na	na	Sl		60	10	11	case															
+člvicex+	члвицех+	člvicex	človek	Nmply		60	11	7	appos															
+i+	и+	i	i	C		60	12	13	cc															
+sko_texь,	ско_техь,	skotexъ	skot	Nmpln		60	13	11	conj					1										
+																								
+jako+	ꙗко+	jako	jako (2)	C		61	1	5	cc				ʺFor that is what Satanael sowed by his transgression (into?) the soil, (as?) a deadly sting.ʺ											
+to+	то+	to	to	Qd		61	2	5	obj															
+i+	и+	i	i	C		61	3	4	cc															
+vse+	все+	vse	vse	Ansnn		61	4	2	conj															
+vьseja+	вьсеꙗ+	vъseja	vseja	Vmia3se		61	5	0	root															
+sa_tanailь.	са_танаиль.	satanailъ	Satanail	Nmsny		61	6	5	nsubj					1										
+svoimь+	своимь+	svoimъ	svoi	Amsiy		61	7	8	amod	poss														
+prěstu_plenïemь+	прѣстꙋ_пленїемь+	prěstupleniemъ	prestъplenie	Nnsin		61	8	5	obl					1										
+prьstь.	прьсть.	prъstъ	prъst (2)	Nfsnn		61	9	5	obl															
+želo	жело	želo	žęlo	Nmsnn		61	10	2	acl					1										
+sьmrьtnoe,	сьмрьтное,	sъmrъtnoe	smъrten	Ansny		61	11	10	amod															
+																								
+i+	и+	i	i	C		62	1	2	cc				ʺAnd the power of Satanael (will fall?) into the outer darkness.ʺ											
+vlastь	власть	vlastъ	vlast	Nfsnn		62	2	0	root															
+sa_tanailova.	са_танаилова.	satanailova	Satanailov	Afsnn		62	3	2	amod	poss				1										
+vь+	вь+	vъ	v	Sa		62	4	5	case															
+tmù+	тмꙋ̀+	tmu	tъma	Nfsan		62	5	2	obl															
+kro_mešnuju,	кро_мешнꙋю,	kromešnuju	kromešen	Afsay		62	6	5	amod					1										
+																								
+i+	и+	i	i	C		63	1	4	cc				ʺAnd then He will create another world without bottom,ʺ											
+po	по	po	po	Sl		63	2	3	case															
+tomь`	томь̀	tomъ	tъ	Pd-msl		63	3	4	obl															
+sьtvo_ri	сьтво_ри	sъtvori	sъtvorja	Vmia3se		63	4	0	root					1										
+drug+	дрꙋг+	drug	drug	Amsnn		63	5	6	amod	det														
+svètь+	свѐть+	svetъ	svět	Nmsnn		63	6	4	obj															
+bezdani.	бездани.	bezdani	bezdъnen	Amsny		63	7	6	amod															
+iže	иже	iže	iže	Pr-msn		63	8	10	mark				ʺwhich (is) also without death and without end.ʺ	1										
+i	и	i	i	C		63	9	10	amod															
+besmrьtni,	бесмрьтни,	besmrъtni	bezsmъrten	Amsny		63	10	7	acl															
+i	и	i	i	C		63	11	12	cc															
+bezьsko_čani.	безьско_чани.	bezъskočani	beskonьčьn	Amsny		63	12	10	conj					1										
+																								
+i+	и+	i	i	C		64	1	3	cc				ʺAnd there will be joy and life.ʺ											
+tui	тꙋи	tui	tu	Pr		64	2	3	advmod															
+bdětь+	бдѣть+	bdětъ	bъda	Vmip3se		64	3	0	root															
+radostь	радость	radostъ	radost	Nfsnn		64	4	3	nsubj					1										
+i+	и+	i	i	C		64	5	6	cc															
+životь+	животь+	životъ	život	Nmsnn		64	6	4	conj															
+																								
+bdětь.	бдѣть.	bdětъ	bъda	Vmip3se		65	1	0	root				ʺThe righteous will be with me in the Kingdom of Heaven.ʺ			The form does not agree with the plural subject.								
+pravedni_ci+	праведни_ци+	pravednici	pravednik	Nmpny		65	2	1	nsubj					1										
+sь+	сь+	sъ	s	Si		65	3	4	case															
+mnoju	мною	mnoju	az	Pp1-si		65	4	1	obl															
+vь	вь	vъ	v	Sl		65	5	6	case															
+crьstvoù	црьствоу̀	crъstvou	carstvo	Nnsdn		65	6	1	obl	loc				1										
+nbsenoùmь.	нбсеноу̀мь.	nbsenoumъ	nebesen	Nnsin	Nnsdn	65	7	6	amod							The corrupted ending can reflect both sg.dat and loc/inst.								
+																								
+a+	а+	a	a	C		66	1	3	cc				ʺBut the law-breakers will fall away.ʺ											
+zakono_prě_stupnici	законо_прѣ_стꙋпници	zakonoprěstupnici	zakonoprěstǫpьnik	Nmpny		66	2	3	nsubj					2										
+ispadutь.	испадꙋть.	ispadutъ	izpadna	Vmip3pe		66	3	0	root		43r	/img/satan/43r.JPG												
+																								
+i+	и+	i	i	C		67	1	2	case				And they (?) set up a voice, saying:											
+usa_diše+	ꙋса_дише+	usadiše	usaditi	Vmia3pe		67	2	0	root					1										
+glsь+	глсь+	glsъ	glas	Nmsnn		67	3	2	obj															
+gljušte.	глюще.	gljušte	glagolati	Vmpp-pia	Ampnn	67	4	2	advcl															
+																								
+ne+	не+	ne	ne	Qz		68	1	2	amod				ʺThe dishonorable will not see the glory of God.ʺ											
+čisti_vi+	чисти_ви+	čistivi	čestiv	Amsny		68	2	4	nsubj					1										
+ne+	не+	ne	ne	Qz		68	3	4	advmod															
+uzretь	ꙋзреть	uzretъ	uzrěti	Vmip1se		68	4	0	root															
+sláve	слáве	slave	slava	Nfsdn		68	5	4	obj							< *<i>slavę</i> < *<i>slavǫ</i> because of nasal mixing ? Or a Serbism?								
+bžïe	бжїе	bžie	božii	Afsgy		68	6	5	amod	poss				1										
+																								
+i+	и+	i	i	C		69	1	2	cc				And the archistrateges said:											
+rekoše+	рекоше+	rekoše	reka	Vmia3pe		69	2	0	root															
+arxistratizi.	архистратизи.	arxistratizi	arxistratig	Nmpny		69	3	2	nsubj															
+																								
+eli_ko+	ели_ко+	eliko	eliko	Pr		70	1	2	mark				ʺYou can, as much as you will.ʺ	1										
+xoštešь´	хощешь́	xoštešъ	xotěti	Vmip2si		70	2	3	advcl							Shortened 2sg.prs forms.								
+možěšь.	можѣшь.	možěšъ	moga	Vmip2si		70	3	0	root															
+																								
+i+	и+	i	i	C		71	1	3	cc				And again, the Lord said:									4	Sending of Michael	
+paki	паки	paki	paki	R		71	2	3	advmod					1										
+rče+	рче+	rče	reka	Vmia3se		71	3	0	root															
+gь	гь	gъ	Gospod	Nmsny		71	4	3	nsubj															
+																								
+arxistratiže	архистратиже	arxistratiže	arxistratig	Nmsvy		72	1	4	vocative				ʺO archstratege Gabriel, I say to you:ʺ											
+gavri_le.	гаври_ле.	gavrile	Gavriil	Nmsvy		72	2	1	appos					1										
+tebě+	тебѣ+	tebě	ty	Pp2-sd		72	3	4	obl	iobj														
+glju+	глю+	glju	glagolati	Vmip1si		72	4	0	root															
+																								
+sьnidi.	сьниди.	sъnidi	sъniti	Vmm-2se		73	1	0	root				ʺGo down to the low tormentor to take the divine-weaved clothes,ʺ											
+kь	кь	kъ	k	Sd		73	2	4	case					1										
+donemú	донемꙋ́	donemu	dolen	Amsdy		73	3	4	amod															
+mčtelù.	мчтелꙋ̀.	mčtelu	mъčitel	Nmsdy		73	4	1	obl															
+da+	да+	da	da	C		73	5	6	mark															
+vьzme_ši+	вьзме_ши+	vъzmeši	vzema	Vmip2se		73	6	1	advcl					1										
+wt+	ѿ+	ot	ot	Sg		73	7	8	case															
+nego.	него.	nego	toi	Pp3msg		73	8	6	obl															
+bgotkanu+	бготканꙋ+	bgotkanu	bogotъkan	Afsan		73	9	10	amod															
+ẅde_ždou	ѡ̈де_ждоу	ẅdeždou	odežda	Nfsan		73	10	6	obj					1										
+i+	и+	i	i	C		73	11	13	cc				ʺand the shiny wreath of command over archangelic ranks,ʺ											
+svě`tli.	свѣ̀тли.	světli	světъl	Amsny		73	12	13	amod															
+věncь+	вѣнць+	věncъ	venec	Nmsnn		73	13	10	conj															
+ski_petra	ски_петра	skipetra	skiptъr	Nmsgn		73	14	13	nmod					1										
+arxinglьski.	архингльски.	arxinglъski	arxangelski	Ampnn		73	15	16	amod															
+čino_vь+	чино_вь+	činovъ	čin	Nmpgn		73	16	14	nmod					1										
+i+	и+	i	i	C		73	17	19	cc				ʺand all the glory, which he took from me.ʺ											
+vsú	всꙋ́	vsu	vse	Afsan		73	18	19	amod	det														
+slávú.	слáвꙋ́.	slavu	slava	Nfsan		73	19	13	conj															
+juže+	юже+	juže	iže	Pr-fsn		73	20	21	mark															
+vьze_tь+	вьзе_ть+	vъzetъ	vzema	Vmia3se		73	21	19	acl					1										
+wt+	ѿ+	ot	ot	Sg		73	22	23	case															
+mene.	мене.	mene	az	Pp1-sg		73	23	21	obl															
+																								
+gavriẅ+	гавриѡ̈+	gavriẅ	Gavriil	Nmsoy		74	1	2	nsubj				Gabriel said:											
+rče+	рче+	rče	reka	Vmia3se		74	2	0	root															
+																								
+ve_likaı+	ве_ликаı+	velikai	velik	Amsny		75	1	2	amod				ʺSatanael is great in cunning of cunnings (?)ʺ	1										
+satanailь´.	сатанаиль́.	satanailъ	Satanail	Nmsny		75	2	0	root															
+po+	по+	po	po	Sd		75	3	4	case															
+xitro_stiu+	хитро_стиꙋ+	xitrostiu	xitrost	Nfsin		75	4	2	obl					1										
+xitrosti	хитрости	xitrosti	xitrost	Nfsgn		75	5	4	nmod															
+svoei.	своеи.	svoei	svoi	Afsdy		75	6	5	amod	poss														
+																								
+pre_blazni+	пре_блазни+	preblazni	prěblazniti	Vmia3se		76	1	0	root				ʺHe deceived a number of your angels.ʺ	1										
+množьstvo.	множьство.	množъstvo	množestvo	Nnsnn		76	2	1	obj															
+anglь	англь	anglъ	angel	Nmpgy		76	3	2	nmod					1										
+tvoix	твоих	tvoix	tvoi	Ampgy		76	4	3	amod	poss														
+																								
+tgo	тго	tgo	toi	Pd-msg		77	1	3	obl				ʺBecause of that, I fear to go to him.ʺ											
+rad	рад	rad	radi	Sg		77	2	1	case															
+boju+	бою+	boju	boja	Vmip1si		77	3	0	root															
+se+	се+	se	se	Px---a		77	4	3	expl															
+iti	ити	iti	ida	Vmn---i		77	5	3	advcl															
+kь+	кь+	kъ	k	Sd		77	6	7	case															
+ne_mu.	не_мꙋ.	nemu	toi	Pp3msd		77	7	5	obl	lat				1										
+																								
+vldko	влдко	vldko	vladika	Nfsvy		78	1	2	nsubj				The Ruler said:											
+rče+	рче+	rče	reka	Vmia3se		78	2	0	root															
+																								
+poslúšai.	послꙋ́шаи.	poslušai	poslušam	Vmm-2se		79	1	0	root				ʺObey the command of God!ʺ											
+po_velenïe	по_веленїе	povelenie	povelenie	Nnsnn		79	2	1	obj					2										
+bžïe.	бжїе.	bžie	božii	Ansny		79	3	2	amod	poss	43v	/img/satan/43v.JPG												
+																								
+gavriẅ+	гавриѡ̈+	gavriẅ	Gavriil	Nmsoy		80	1	2	nsubj				Gabriel said:											
+rče	рче	rče	reka	Vmia3se		80	2	0	root					1										
+																								
+vldko+	влдко+	vldko	vladika	Nfsvy		81	1	7	vocative				ʺO lord, as from the ages, the secret of the secrets (?) is unknown to the angels.ʺ											
+jako+	ꙗко+	jako	jako (2)	C		81	2	4	mark															
+wt+	ѿ+	ot	ot	Sg		81	3	4	case															
+věka.	вѣка.	věka	vek	Nmsgn		81	4	7	advcl															
+aglomь	агломь	aglomъ	angel	Nmpdy		81	5	7	obl	iobj														
+ne+	не+	ne	ne	Qz		81	6	7	advmod															
+vědo_ma,	вѣдо_ма,	vědoma	věděti	Vmpp-si	Afsnn	81	7	0	root					1										
+taina+	таина+	taina	taina	Nfsnn		81	8	7	nsubj															
+u+	ꙋ+	u	u	Sg		81	9	10	case															
+tanьstvě+	таньствѣ+	tanъstvě	tainstvo	Nnsln		81	10	7	obl															
+																								
+i+	и+	i	i	C		82	1	2	cc				ʺAnd you hold (them?) in the immortal hand of your godhood.ʺ											
+drь`_žiši	дрь̀_жиши	drъžiši	dъrža	Vmip2si		82	2	0	root					1										
+vь+	вь+	vъ	v	Sl		82	3	5	case															
+besmrьtnoi+	бесмрьтнои+	besmrъtnoi	bezsmъrten	Afsdy		82	4	5	amod															
+rucè	рꙋцѐ	ruce	rъka	Nfsdn		82	5	2	obl	loc				1										
+bžstva+	бжства+	bžstva	božestvo	Nnsgn		82	6	5	nmod															
+svoego.	своего.	svoego	svoi	Amsgy		82	7	6	amod	poss														
+																								
+i+	и+	i	i	C		83	1	6	cc				ʺAnd the impure spirit was defeating us with his cunning.ʺ											
+nečisti	нечисти	nečisti	nečist	Amsny		83	2	3	amod					1										
+dxь+	дхь+	dxъ	dux	Nmsny		83	3	6	nsubj															
+svoimь	своимь	svoimъ	svoi	Amsiy		83	4	5	case															
+lukastvomь.	лꙋкаствомь.	lukastvomъ	lukavstvo	Nnsin		83	5	6	obl					1										
+prědelivaše	прѣделиваше	prědelivaše	prědelěvati	Vmii3si		83	6	0	root															
+kь+	кь+	kъ	k	Sd		83	7	8	case															
+namь.	намь.	namъ	nie	Pp1-pd		83	8	6	obl															
+																								
+i+	и+	i	i	C		84	1	3	cc				ʺAnd now, see the dishonorable forces!ʺ											
+nna	нна	nna	nyně	R		84	2	3	advmod					1										
+vьsprimi+	вьсприми+	vъsprimi	vъzpriema	Vmm-2se		84	3	0	root							Or a corrupted aorist form?								
+ne+	не+	ne	ne	Qz		84	4	5	amod															
+čьstivïe+	чьстивїе+	čъstivie	čestiv	Afpny		84	5	6	amod															
+sili	сили	sili	sila	Nfpnn		84	6	3	obj					1										
+																								
+i+	и+	i	i	C		85	1	2	cc				ʺAnd he rose (in revolt).ʺ											
+vьzdviže+	вьздвиже+	vъzdviže	vъzdvigna	Vmia3se		85	2	0	root															
+se.	се.	se	se	Px---a		85	3	2	expl															
+																								
+na+	на+	na	na	Sa		86	1	3	case				ʺHe was of (?) a strange divinity, o Lord.ʺ											
+divno	дивно	divno	diven	Ansnn		86	2	3	amod															
+bo_žьstvo	бо_жьство	božъstvo	božestvo	Nnsnn		86	3	4	obl					1										
+beše+	беше+	beše	sъm	Vmii3si		86	4	0	root															
+bo.	бо.	bo	bo	C		86	5	4	cc															
+vldko+	влдко+	vldko	vladika	Nfsvy		86	6	4	vocative															
+																								
+dlь_žno+	дль_жно+	dlъžno	dlъžno	Nnsnn		87	1	3	nsubj				ʺHis length (?) is 100 cubits.ʺ	1										
+ego	его	ego	toi	Pp3msg		87	2	1	nmod	poss														
+jes	ѥс	jes	sъm	Vmip3si		87	3	0	root															
+*r*	·р·	*r*	100	Mc		87	4	5	nummod															
+lakatь+	лакать+	lakatъ	lakъt	Nmpgn		87	5	3	obl	pred														
+																								
+i+	и+	i	i	C		88	1	4	cc				ʺAnd his width is 50 cubits.ʺ											
+širi_na+	шири_на+	širina	širina	Nfsnn		88	2	4	nsubj					1										
+ego	его	ego	toi	Pp3msg		88	3	2	nmod	poss														
+jes	ѥс	jes	sъm	Vmip3si		88	4	0	root															
+*n*	·н·	*n*	50	Mc		88	5	6	nummod															
+lakьtь	лакьть	lakъtъ	lakъt	Nmpgn		88	6	4	obl	pred														
+																								
+i+	и+	i	i	C		89	1	4	cc				ʺAnd his scruff is 12 cubits (long).ʺ											
+šija+	шиꙗ+	šija	šija	Nfsnn		89	2	4	nsubj															
+ego	его	ego	toi	Pp3msg		89	3	2	nmod	poss				1										
+jes	ѥс	jes	sъm	Vmip3si		89	4	0	root															
+*vı*	·вı·	*vi*	12	Mc		89	5	6	nummod															
+lakátь	лакáть	lakatъ	lakъt	Nmpgn		89	6	4	obl	pred														
+																								
+ústà+	ꙋ́стà+	usta	usta	Nnpnn		90	1	0	root				ʺHis mouth (is) like a great table.ʺ											
+ego+	его+	ego	toi	Pp3msg		90	2	1	nmod	poss														
+jako	ꙗко	jako	jako (2)	C		90	3	4	mark					1										
+trьpeza,	трьпеза,	trъpeza	trapeza	Nfsnn		90	4	1	acl															
+velika+	велика+	velika	velik	Afsnn		90	5	4	amod															
+																								
+pogledь	погледь	pogledъ	pogled	Nmsnn		91	1	0	root				ʺHis glance (is) like (that of a) viper snake.ʺ	1										
+jako+	ꙗко+	jako	jako (2)	C		91	2	3	mark															
+zmija	змиꙗ	zmija	zmija	Nfsnn		91	3	1	acl															
+aspida.	аспида.	aspida	aspida	Nfsnn		91	4	3	appos															
+																								
+i+	и+	i	i	C		92	1	3	cc				ʺAnd (he has) three heads.ʺ											
+*g*	·г·	*g*	3	Mc		92	2	3	nummod															
+gla_ve.	гла_ве.	glave	glava	Nfpnn	Nfsdn	92	3	0	root					1		The ā-stem plural form is a Serbism, formally a sg.dat in CS.								
+																								
+sěditь+	сѣдить+	sěditъ	sedja	Vmip3si		93	1	0	root				ʺSatan and Death sit on him.ʺ											
+na+	на+	na	na	Sl		93	2	3	case															
+nemь+	немь+	nemъ	toi	Pp3msl		93	3	1	obl	loc														
+soto_na.	сото_на.	sotona	Sotona	Nfsny		93	4	1	nsubj					1										
+i+	и+	i	i	C		93	5	6	cc															
+smrьtь	смрьть	smrъtъ	smъrt	Nfsnn		93	6	4	conj															
+																								
+i+	и+	i	i	C		94	1	3	cc				ʺAnd he would (?) gnaw horses with his teeth.ʺ											
+koni+	кони+	koni	kon	Nmpny		94	2	3	obj							A m.pl.acc form would be expected in CS.								
+naskrь`_ži+	наскрь̀_жи+	naskrъži	naskrъžiti	Vmn---e	Vmia3se	94	3	0	root					1		Formally a 2/3sg.aor in CS, but likely representing a future indefinite form with a somewhat hypothetical meaning. In dialectal context, it could be analyzed as a 3sg.prs as well (like <i>da prosti</i> below).								
+štetь.	щеть.	štetъ	šta	Vaip3si		94	4	3	aux	fut														
+zubi	зꙋби	zubi	zъb	Nmpnn		94	5	3	obl															
+svoimi,	своими,	svoimi	svoi	Ampin		94	6	5	amod	poss				2										
+																								
+i+	и+	i	i	C		95	1	5	cc		44r	/img/satan/44r.JPG	ʺAnd because of that, o Lord, he would make me fear.ʺ											
+tgw+	тгѡ+	tgo	toi	Pd-msg		95	2	5	obl															
+rad+	рад+	rad	radi	Sg		95	3	2	case															
+vldko	влдко	vldko	vladika	Nfsvy		95	4	5	vocative															
+ustrašiti+	ꙋстрашити+	ustrašiti	ustrašiti	Vmn---e		95	5	0	root															
+me	ме	me	az	Pp1-sa		95	6	5	obj					1										
+xoštetь,	хощеть,	xoštetъ	xotěti	Vaip3si		95	7	5	aux	fut														
+																								
+i+	и+	i	i	C		96	1	4	cc				ʺAnd because of that, I (have to?) disobey your command,ʺ											
+tgo+	тго+	tgo	toi	Pd-msg		96	2	4	obl															
+rad+	рад+	rad	rad	Sg		96	3	4	case															
+prěposlušaju	прѣпослꙋшаю	prěposlušaju	prěposlušati	Vmip1se		96	4	0	root					1										
+tvoju+	твою+	tvoju	tvoi	Afsay		96	5	6	amod	poss														
+silu	силꙋ	silu	sila	Nfsan		96	6	4	obj															
+da+	да+	da	da	C		96	7	8	mark															
+prosti+	прости+	prosti	prostja	Vmip3se	Vmia3se	96	8	4	advcl															
+me	ме	me	az	Pp1-sa		96	9	8	obj					1										
+svoego	своего	svoego	svoi	Amsgy		96	10	11	amod	poss														
+rabà,	рабà,	raba	rab	Nmsgy		96	11	8	obj															
+vldko+	влдко+	vldko	vladika	Nfsvy		96	12	4	vocative															
+																								
+rče	рче	rče	reka	Vmia3se		97	1	0	root				The Lord said to him:											
+jemoȕ	ѥмоу̏	jemoȕ	toi	Pp3msd		97	2	1	obl	iobj				1										
+gь	гь	gъ	Gospod	Nmsny		97	3	1	nsubj															
+																								
+dobri.	добри.	dobri	dobъr	Amsny		98	1	2	advmod				ʺYou spoke well (?), Gabriel.ʺ			< *<i>dobrě</i> ?								
+rče+	рче+	rče	reka	Vmia3se		98	2	0	root															
+gavrile.	гавриле.	gavrile	Gavriil	Nmsvy		98	3	2	vocative															
+																								
+i+	и+	i	i	C		99	1	2	cc				And the Lord forgave His agent Gabriel.											
+pro_sti+	про_сти+	prosti	prostja	Vmia3se		99	2	0	root					1										
+že	же	že	že	Qd		99	3	2	cc															
+vldko.	влдко.	vldko	vladika	Nfsvy		99	4	2	vocative															
+prědstatelu	прѣдстателꙋ	prědstatelu	predstojatel	Nmsdy		99	5	2	obl	iobj				1										
+svoemú+	своемꙋ́+	svoemu	svoi	Amsdy		99	6	5	amod															
+gavrilú.	гаврилꙋ́.	gavrilu	Gavriil	Nmsdy		99	7	5	appos															
+																								
+i+	и+	i	i	C		100	1	3	cc				And again, the Lord said to archstratege Michael:											
+paki+	паки+	paki	paki	R		100	2	3	advmod															
+rče	рче	rče	reka	Vmia3se		100	3	0	root					1										
+gь+	гь+	gъ	Gospod	Nmsny		100	4	3	nsubj															
+kь+	кь+	kъ	k	Sd		100	5	6	case															
+arxistratigu+	архистратигꙋ+	arxistratigu	arxistratig	Nmsdy		100	6	3	obl	iobj														
+mixailú.	михаилꙋ́.	mixailu	Mixail	Nmsdy		100	7	6	appos					1										
+																								
+mirь`	мирь̀	mirъ	mir	Nmsnn		101	1	0	root				ʺWorld until the world (?)ʺ											
+do	до	do	do	Sg		101	2	3	case															
+mirà	мирà	mira	mir	Nmsgn		101	3	1	nmod															
+																								
+adámь	адáмь	adamъ	Adam	Nmsny		102	1	2	nsubj				ʺAdam was the first (creation?) of my single-born Son.ʺ	1										
+prьvì+	прьвѝ+	prъvi	pъrvi	Amsny		102	2	0	root															
+bistь	бисть	bistъ	sъm	Vmia3se		102	3	2	cop															
+sinà+	синà+	sina	sin	Nmsgy		102	4	2	nmod							As originally a u-stem, the ending would formally be a sg.acc form.								
+moego	моего	moego	moi	Amsgy		102	5	4	amod	poss														
+edi_norodnago+	еди_нороднаго+	edinorodnago	edinoroden	Amsgy		102	6	4	amod					1										
+																								
+ego+	его+	ego	toi	Pp3msg		103	1	2	nmod	poss			ʺI make his kingdom to be like you (?)ʺ											
+crьstvà.	црьствà.	crъstva	carstvo	Nnsgn		103	2	3	obj															
+oȕpo_doblu.	оу̏по_доблꙋ.	oȕpodoblu	upodobja	Vmip1se		103	3	0	root					1										
+tebě`+	тебѣ̀+	tebě	ty	Pp2-sd		103	4	3	obl	iobj														
+																								
+glu	глꙋ	glu	glagolati	Vmip1si		104	1	0	root				ʺ(Thus) I speak today.ʺ											
+dnsь	днсь	dnsъ	dnes	R		104	2	1	advmod															
+																								
+sьni_di+	сьни_ди+	sъnidi	sъniti	Vmm-2se		105	1	0	root				ʺGo down to the low tormentor!ʺ											
+kь+	кь+	kъ	k	Sd		105	2	4	case					1										
+donemù.	донемꙋ̀.	donemu	dolen	Amsdy		105	3	4	amod															
+mčtlù+	мчтлꙋ̀+	mčtlu	mъčitel	Nmsdy		105	4	1	obl															
+																								
+i+	и+	i	i	C		106	1	2	cc				ʺAnd take for Me from him the divine-weaved clothes,ʺ											
+vь_zmi+	вь_зми+	vъzmi	vzema	Vmm-2se		106	2	0	root					1										
+mi+	ми+	mi	az	Pp1-sd		106	3	2	obl	iobj														
+wt+	ѿ+	ot	ot	Sg		106	4	5	case															
+nego+	него+	nego	toi	Pp3msg		106	5	2	obl	abl														
+bgo_tkanú	бго_тканꙋ́	bgotkanu	bogotъkan	Afsan		106	6	7	amod					1										
+ẅděždu	ѡ̈дѣждꙋ	ẅděždu	odežda	Nfsan		106	7	2	obj															
+i+	и+	i	i	C		106	8	11	cc				ʺand the un-withering wreath of command over archangelic ranks,ʺ											
+ne+	не+	ne	ne	Qz		106	9	10	amod															
+uvedimi+	ꙋведими+	uvedimi	uvędati	Amsny	Vmpp-si	106	10	11	amod															
+vě_ncь.	вѣ_нць.	věncъ	venec	Nmsnn		106	11	7	conj					1										
+skipetra	скипетра	skipetra	skiptъr	Nmsgn		106	12	11	nmod															
+arxigglь_ski+	архиггль_ски+	arxigglъski	arxangelski	Ampnn		106	13	14	amod					1										
+činovь.	чиновь.	činovъ	čin	Nmpgn		106	14	12	nmod															
+iže+	иже+	iže	iže	Pr-msn		106	15	16	mark				ʺwhich he took from Me!ʺ											
+vьzetь	вьзеть	vъzetъ	vzema	Vmia3se		106	16	7	acl					1										
+wt+	ѿ+	ot	ot	Sg		106	17	18	case															
+méne.	ме́не.	mene	az	Pp1-sg		106	18	16	obl	abl														
+																								
+i+	и+	i	i	C		107	1	2	cc				ʺAnd make him infamous and unseeming, as it is appropriate (for him)!ʺ											
+sьtvori+	сьтвори+	sъtvori	sъtvorja	Vmm-2se		107	2	0	root															
+ego	его	ego	toi	Pp3msg		107	3	2	obj					2										
+ne+	не+	ne	ne	Qz		107	4	5	amod		44v	/img/satan/44v.JPG												
+slavna	славна	slavna	slaven	Amsgn		107	5	2	obl	pred														
+i+	и+	i	i	C		107	6	8	cc															
+ne+	не+	ne	ne	Qz		107	7	8	amod															
+lepna.	лепна.	lepna	lěp	Amsgn		107	8	5	conj															
+jako_že+	ꙗко_же+	jakože	jakože	C		107	9	10	mark					1										
+podobae.	подобае.	podobae	podobati	Vmip3si		107	10	2	advcl															
+																								
+i+	и+	i	i	C		108	1	3	cc				ʺAnd may his servants know, that they are blessed (?) !ʺ											
+da+	да+	da	da	C		108	2	3	aux	opt														
+poznaju_tь+	познаю_ть+	poznajutъ	poznaja	Vmip1se		108	3	0	root					1										
+slugi	слꙋги	slugi	sluga	Nfpny		108	4	3	nsubj															
+ego,	его,	ego	toi	Pp3msg		108	5	4	nmod	poss														
+jako+	ꙗко+	jako	jako (2)	C		108	6	7	mark															
+prěblaže_ni+	прѣблаже_ни+	prěblaženi	preblažen	Ampnn		108	7	3	advcl					1		Likely a misreading of *<i>prěblazneni</i> 'deceived'.								
+sútь,	сꙋ́ть,	sutъ	sъm	Vmip3pi		108	8	7	aux	pass														
+																								
+rče	рче	rče	reka	Vmia3se		109	1	0	root				Archangel Michael said:											
+arxanglь	архангль	arxanglъ	arxangel	Nmsny		109	2	1	nsubj															
+mixà_ilь.	михà_иль.	mixailъ	Mixail	Nmsny		109	3	2	appos					1										
+																								
+vldko+	влдко+	vldko	vladika	Nfsvy		110	1	4	vocative				ʺO most powerful Lord, you know the evil-thinking one himself (?), that he will put me to shame.ʺ											
+vsesile+	всесиле+	vsesile	vsesilen	Amsvn		110	2	1	amod															
+ti	ти	ti	ty	Pp2-sd		110	3	4	nsubj															
+věšь	вѣшь	věšъ	věděti	Vmip2si		110	4	0	root					1		A Serbism (OCS <i>věsi</i>).								
+bo+	бо+	bo	bo	C		110	5	4	discourse															
+zlò_úmnago+	зло̀_ꙋ́мнаго+	zloumnago	zloumen	Amsgy		110	6	7	amod															
+samogo,	самого,	samogo	sam	Amsgy		110	7	4	obj															
+jako	ꙗко	jako	jako (2)	C		110	8	9	mark					1										
+posramiti+	посрамити+	posramiti	posramja	Vmn---e		110	9	4	advcl															
+me,	ме,	me	az	Pp1-sa		110	10	9	obj															
+xoštetь	хощеть	xoštetъ	xotěti	Vaip3si		110	11	9	aux	fut				1										
+																								
+na+	на+	na	na	Sa		111	1	2	case				ʺI cannot disobey your commands and blessings.ʺ											
+povelenïja	повеленїꙗ	povelenija	povelenie	Nnpnn		111	2	6	obl															
+i+	и+	i	i	C		111	3	4	cc															
+blgosti+	блгости+	blgosti	blagost	Nfpnn		111	4	2	conj															
+tv_oe.	тв_ое.	tvoe	tvoi	Ansny	Afpan	111	5	6	amod	poss				1		Number discord following <i>povelenija</i>, but if it reflects a nasal, it may agree with <i>blagosti</i>.								
+preposlúšati+	препослꙋ́шати+	preposlušati	prěposlušati	Vmn---e		111	6	0	root															
+ne+	не+	ne	ne	Qz		111	7	8	advmod															
+mogu	могꙋ	mogu	moga	Vaip1si		111	8	6	aux					1										
+																								
+poiti+	поити+	poiti	poida	Vmn---e		112	1	0	root				ʺI shall go to the low tormentor.ʺ											
+xoštu+	хощꙋ+	xoštu	xotěti	Vaip1si		112	2	1	aux	fut														
+kь+	кь+	kъ	k	Sd		112	3	5	case															
+donemú.	донемꙋ́.	donemu	dolen	Amsdy		112	4	5	amod					1										
+mčtlu,	мчтлꙋ,	mčtlu	mъčitel	Nmsdy		112	5	1	obl															
+																								
+pospeši+	поспеши+	pospeši	pospěšiti	Vmm-2se		113	1	0	root				ʺHelp me, o Lord!ʺ											
+me+	ме+	me	az	Pp1-sa		113	2	1	obj															
+vldko+	влдко+	vldko	vladika	Nfsvy		113	3	1	vocative															
+																								
+i+	и+	i	i	C		114	1	4	cc				ʺAnd place your most holy right (hand) on my face (to) help me!ʺ											
+prě_svě`túju+	прѣ_свѣ̀тꙋ́ю+	prěsvětuju	presvęt	Afsay		114	2	3	amod					1										
+desnìcù,	деснѝцꙋ̀,	desnicu	desnica	Nfsan		114	3	4	obj															
+posta_vi+	поста_ви+	postavi	postavja	Vmm-2se		114	4	0	root					1										
+na+	на+	na	na	Sa		114	5	6	case							The scribe seems indecisive about the case: sg.nom/acc of <i>lice</i> would be more appropriate after <i>postavi</i> than loc/inst of the adjective.								
+lice+	лице+	lice	lice	Nnsnn		114	6	4	obl															
+moemь.	моемь.	moemъ	moi	Ansln		114	7	6	amod	poss														
+pomo_štь+	помо_щь+	pomoštъ	pomošt	Nfsnn		114	8	4	obl					1										
+mně.	мнѣ.	mně	az	Pp1-sd		114	9	8	nmod	iobj														
+																								
+i+	и+	i	i	C		115	1	2	cc				ʺAnd I pray you, o Lord:ʺ											
+mlu+	млꙋ+	mlu	molja	Vmip1si		115	2	0	root															
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	115	3	2	obl	iobj														
+se+	се+	se	se	Px---a		115	4	2	expl															
+vldko	влдко	vldko	vladika	Nfsvy		115	5	2	vocative					1										
+																								
+glsь.	глсь.	glsъ	glas	Nmsnn		116	1	7	obj				ʺMay you will not be angry with me (for) the words, which I shall say.ʺ											
+iže+	иже+	iže	iže	Pr-msn		116	2	4	mark															
+imamь+	имамь+	imamъ	imam	Vaip1si		116	3	4	aux	fut														
+glati	глати	glati	glagolati	Vmn---i		116	4	1	acl															
+da	да	da	da	C		116	5	7	aux	opt				1										
+ne+	не+	ne	ne	Qz		116	6	7	advmod															
+prognevaeši+	прогневаеши+	prognevaeši	progněvati	Vmip2se		116	7	0	root															
+se+	се+	se	se	Px---a		116	8	7	expl															
+na+	на+	na	na	Sa		116	9	10	case															
+me	ме	me	az	Pp1-sa		116	10	7	obl					1										
+																								
+gь+	гь+	gъ	Gospod	Nmsny		117	1	2	nsubj				ʺBecause the Lord sees all the cunning (of) Satanael, or him (?),ʺ			The syntax seems broken. Punčo: <i>če nali znaešь g-di zašto e toja santailь xitarь i lukavь i silenь i voevodi aggelski treperatь ot nego ot zьlь negovь razumь</i>								
+vidi+	види+	vidi	vidja	Vmip3si	Vmia3si	117	2	0	root															
+bo+	бо+	bo	bo	C		117	3	2	cc															
+vsakie.	всакие.	vsakie	vsěki	Afpny		117	4	5	amod	det														
+xitro_sti.	хитро_сти.	xitrosti	xitrost	Nfpnn		117	5	6	obj					1										
+satánaìlь+	сатáнаѝль+	satanailъ	Satanail	Nmsny		117	6	5	nmod	poss														
+ili+	или+	ili	ili	C		117	7	8	cc															
+ego	его	ego	toi	Pp3msg		117	8	5	conj					2										
+jako	ꙗко	jako	jako (2)	C		117	9	13	mark		45r	/img/satan/45r.JPG	ʺas all his angels, (who) tremble (?) to outwit (?) his mind.ʺ											
+vsi	вси	vsi	vse	Ampnn		117	10	11	amod	det														
+angli+	англи+	angli	angel	Nmpny		117	11	13	nsubj															
+ego+	его+	ego	toi	Pp3msg		117	12	11	nmod	poss														
+trepeštu	трепещꙋ	trepeštu	trepati	Vmip1si	Vmip3pi	117	13	2	advcl					1		Punčo's translation hints that <i>angli ego</i> should be the subject.								
+da+	да+	da	da	C		117	14	15	mark															
+prělьštù+	прѣльщꙋ̀+	prělъštu	prelъštam	Vmip1si	Vmip3pi	117	15	13	advcl															
+ego+	его+	ego	toi	Pp3msg		117	16	17	nmod	poss														
+razúmь.	разꙋ́мь.	razumъ	razum	Nmsnn		117	17	15	obj															
+																								
+da	да	da	da	C		118	1	4	mark				ʺIf I would not lie to him, how would I deceive him?ʺ	1										
+ašte+	аще+	ašte	ašte	C		118	2	1	fixed															
+ne+	не+	ne	ne	Qz		118	3	4	advmod															
+sьlьžu+	сьльжꙋ+	sъlъžu	slъža	Vmip1se		118	4	9	advcl															
+emȕ.	емꙋ̏.	emu	toi	Pp3msd		118	5	4	obj															
+to+	то+	to	to	Qd		118	6	9	cc															
+i+	и+	i	i	C		118	7	6	fixed															
+ka_ko	ка_ко	kako	kako	Pq		118	8	9	advmod					1										
+prělaštu+	прѣлащꙋ+	prělaštu	prelъštam	Vmip1se		118	9	0	root															
+ego.	его.	ego	toi	Pp3msg		118	10	9	obj															
+																								
+gь+	гь+	gъ	Gospod	Nmsny		119	1	2	nsubj				The Lord said to him:											
+rče+	рче+	rče	reka	Vmia3se		119	2	0	root															
+emú	емꙋ́	emu	toi	Pp3msd		119	3	2	obl	iobj				1										
+																								
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	120	1	4	nsubj				ʺYou, my Michael, go to the low tormentor!ʺ											
+moi+	мои+	moi	moi	Amsny		120	2	3	amod															
+mixàile+	михàиле+	mixaile	Mixail	Nmsny		120	3	1	vocative															
+poidi	поиди	poidi	poida	Vmm-2se		120	4	0	root															
+kь	кь	kъ	k	Sd		120	5	7	case					1										
+donemu	донемꙋ	donemu	dolen	Amsdy		120	6	7	amod															
+mčtlu.	мчтлꙋ.	mčtlu	mъčitel	Nmsdy		120	7	4	obl															
+																								
+da	да	da	da	C		121	1	3	mark				ʺIf you tell him a lie, may it be in good will for you.ʺ											
+ako	ако	ako	ako	C		121	2	1	fixed															
+rčešь	рчешь	rčešъ	reka	Vmip2se		121	3	7	advcl					1										
+emoȕ+	емоу̏+	emoȕ	toi	Pp3msd		121	4	3	obl															
+lьžu.	льжꙋ.	lъžu	lъža	Nfsan		121	5	3	obj															
+da+	да+	da	da	C		121	6	7	aux	opt														
+bude+	бꙋде+	bude	bъda	Vmip3se		121	7	0	root															
+ti	ти	ti	ty	Pp2-sd	Pp2-sn	121	8	7	obl	iobj														
+vь	вь	vъ	v	Sa		121	9	10	case					1										
+blgovolenïe+	блговоленїе+	blgovolenie	blagovolenie	Nnsnn		121	10	7	obl															
+																								
+i+	и+	i	i	C		122	1	3	cc				ʺAnd thus rob him!ʺ											
+tako+	тако+	tako	taka	Pr		122	2	3	advmod															
+ẅple_ni+	ѡ̈пле_ни+	ẅpleni	oplenja	Vmm-2se		122	3	0	root					1										
+ego.	его.	ego	toi	Pp3msg		122	4	3	obj															
+																								
+i+	и+	i	i	C		123	1	5	cc				ʺAnd I will send you a sun to work for you.ʺ											
+ja+	ꙗ+	ja	ja	Pp1-sn		123	2	5	nsubj															
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	123	3	5	obl	iobj														
+xoštu+	хощꙋ+	xoštu	xotěti	Vaip1si		123	4	5	aux	fut														
+pusti_ti	пꙋсти_ти	pustiti	pustja	Vmn---e		123	5	0	root					1										
+slьnce+	сльнце+	slъnce	slъnce	Nnsnn		123	6	5	obj															
+da+	да+	da	da	C		123	7	9	mark															
+ti	ти	ti	ti	Pp2-sd	Pp2-sn	123	8	9	obl	iobj														
+rabotae_tь.	работае_ть.	rabotaetъ	rabotati	Vmip3si		123	9	5	advcl					1										
+																								
+i+	и+	i	i	C		124	1	2	cc				ʺAnd I will ignite it six times more than the shining sun, which will be above.ʺ											
+ražegu+	ражегꙋ+	ražegu	razžegna	Vmip1se		124	2	0	root															
+ego	его	ego	toi	Pp3msg		124	3	2	obj															
+*z*	·з·	*z*	6	Mc		124	4	5	nummod															
+česti	чести	česti	čast	Nfpnn		124	5	2	obl					1										
+pače	паче	pače	pače	R		124	6	7	case															
+slnca	слнца	slnca	slъnce	Nnsgn		124	7	5	nmod															
+sïjajuštago	сїꙗющаго	sijajuštago	sijaja	Ansgy	Vmpp-sia	124	8	7	amod															
+iže	иже	iže	iže	Pr-msn		124	9	10	mark					1										
+budetь+	бꙋдеть+	budetъ	bъda	Vmip3se		124	10	7	acl															
+gorь`	горь̀	gorъ	gore	R		124	11	10	advmod															
+																								
+i+	и+	i	i	C		125	1	3	cc				ʺAnd the hills will burn, and the earth to 50 cubits (of depth).ʺ											
+xlьmi+	хльми+	xlъmi	xъlm	Nmpnn		125	2	3	nsubj															
+izgo_retь+	изго_реть+	izgoretъ	izgorja	Vmip3pe		125	3	0	root					1										
+i+	и+	i	i	C		125	4	5	cc															
+zemlà	землà	zemla	zemlja	Nfsnn		125	5	2	conj															
+*n*	·н·	*n*	50	Mc		125	6	7	nummod															
+lakьtь.	лакьть.	lakъtъ	lakъt	Nmpgn		125	7	3	obl					1										
+																								
+isuštu	исꙋщꙋ	isuštu	izsuša	Vmip1se		126	1	0	root				ʺI will make the sea dry twice.ʺ											
+morà.	морà.	mora	more	Nnpnn		126	2	1	obj															
+dvè	двѐ	dve	dva	Afdnn		126	3	4	nummod															
+česti	чести	česti	čast	Nfdnn	Nfpnn	126	4	1	obl					1										
+																								
+i+	и+	i	i	C		127	1	2	cc				ʺAnd I will pour my anger on the sons of the Enemy and law-breakers.ʺ											
+proliju	пролию	proliju	proleja	Vmip1se		127	2	0	root															
+gnevь`+	гневь̀+	gnevъ	gněv	Nmsnn		127	3	2	obj															
+moi.	мои.	moi	moi	Amsny		127	4	3	amod	poss														
+na	на	na	na	Sa		127	5	6	case					1										
+sni	сни	sni	sin	Nmpay		127	6	2	obl															
+protivnïe.	противнїе.	protivnie	protiven	Ampay		127	7	6	amod															
+i	и	i	i	C		127	8	9	cc															
+zakono_prěstupnici.	законо_прѣстꙋпници.	zakonoprěstupnici	zakonoprěstǫpьnik	Nmpny		127	9	6	conj					1		A pl.nom form conjuncted to acc.								
+																								
+mixàilò	михàило̀	mixailo	Mixail	Nmsoy		128	1	2	nsubj				Michael said:	2										
+rče	рче	rče	reka	Vmia3se		128	2	0	root		45v	/img/satan/45v.JPG												
+																								
+vldko+	влдко+	vldko	vladika	Nfsvy		129	1	8	vocative				ʺO Lord, how can I endure both the heat and the anger of your majesty?ʺ											
+da+	да+	da	da	C		129	2	4	aux															
+kako+	како+	kako	kako	Pq		129	3	8	advmod															
+mogu.	могꙋ.	mogu	moga	Vmip1si		129	4	8	aux															
+ja+	ꙗ+	ja	ja	Pp1-sn		129	5	8	nsubj															
+i+	и+	i	i	C		129	6	7	cc															
+go_reštinu	го_рещинꙋ	goreštinu	goreština	Nfsan		129	7	8	obj					1										
+trьpeti.	трьпети.	trъpeti	tъrpja	Vmn---i		129	8	0	root															
+i+	и+	i	i	C		129	9	10	cc															
+gnevь	гневь	gnevъ	gněv	Nmsnn		129	10	7	conj					1										
+blgostine	блгостине	blgostine	blagostina	Nfsdn		129	11	10	nmod															
+tvoe.	твое.	tvoe	tvoi	Ansny	Afsdn	129	12	11	amod															
+																								
+gь+	гь+	gъ	Gospod	Nmsny		130	1	2	nsubj				The Lord said to him:											
+rče+	рче+	rče	reka	Vmia3se		130	2	0	root															
+emu	емꙋ	emu	toi	Pp3msd		130	3	2	obl	iobj				1										
+																								
+mixaìle+	михаѝле+	mixaile	Mixail	Nmsvy		131	1	3	vocative				ʺYou have no fear, Michael!ʺ											
+ne	не	ne	ne	Qz		131	2	3	advmod															
+boi+	бои+	boi	boja	Vmm-2si		131	3	0	root															
+se+	се+	se	se	Px---a		131	4	3	expl															
+ti.	ти.	ti	ty	Pp2-sd	Pp2-sn	131	5	3	nsubj															
+																								
+ja+	ꙗ+	ja	ja	Pp1-sn		132	1	3	nsubj				ʺI will send a cold cloud over you.ʺ			Lit. ʺover your topʺ								
+ti	ти	ti	ty	Pp2-sd	Pp2-sn	132	2	3	obl	iobj				1										
+puštú+	пꙋщꙋ́+	puštu	pustja	Vmip1se		132	3	0	root															
+nad+	над+	nad	nad	Sa		132	4	5	case															
+vrь`x+	врь̀х+	vrъx	vrъx	Nmsnn		132	5	3	obl															
+tvoi.	твои.	tvoi	tvoi	Amsny		132	6	5	amod	poss														
+ẅbla_kь	ѡ̈бла_кь	ẅblakъ	oblak	Nmsnn		132	7	3	obj					1										
+studenь.	стꙋдень.	studenъ	studen	Amsnn		132	8	7	amod															
+																								
+togda	тогда	togda	togda	Pr		133	1	3	advmod				Then Michael fell to the feet of the Lord.											
+mixài_lo+	михàи_ло+	mixailo	Mixail	Nmsoy		133	2	3	nsubj					1										
+pade+	паде+	pade	padna	Vmia3se		133	3	0	root															
+na+	на+	na	na	Sa		133	4	5	case															
+nozi.	нози.	nozi	noga	Nmpnn	Nfdnn	133	5	3	obl							Formally, the ending looks like a m.pl.nom - the expected f.pl would be <i>nogy</i>, dual <i>noźě</i>.								
+vladične	владичне	vladične	vladičen	Afdnn		133	6	5	amod	poss				1										
+																								
+i+	и+	i	i	C		134	1	2	cc				And He stretched His most holy hand.											
+prostrè+	прострѐ+	prostre	prostra	Vmia3se		134	2	0	root															
+ruku+	рꙋкꙋ+	ruku	rъka	Nfsan		134	3	2	obj															
+svoju.	свою.	svoju	svoi	Afsay		134	4	3	amod	poss														
+prě_svètù+	прѣ_свѐтꙋ̀+	prěsvetu	presvęt	Afsan		134	5	3	amod					1										
+																								
+i+	и+	i	i	C		135	1	2	cc				And He placed (the hand) on the head of Michael,											
+postavi+	постави+	postavi	postavja	Vmia3se		135	2	0	root															
+na+	на+	na	na	Sa		135	3	4	case															
+gla_vu.	гла_вꙋ.	glavu	glava	Nfsan		135	4	2	obl					1										
+mixàilovù+	михàиловꙋ̀+	mixailovu	Mixailov	Afsan		135	5	4	amod	poss														
+jako	ꙗко	jako	jako (2)	C		135	6	8	mark				so that he would burn the head of the Antichrist,											
+da	да	da	da	C		135	7	6	fixed															
+sь_žetь+	сь_жеть+	sъžetъ	sъžešti	Vmip3se		135	8	2	advcl					1										
+glàvú.	глàвꙋ́.	glavu	glava	Afsan		135	9	8	obj															
+antixrьso_vu	антихрьсо_вꙋ	antixrъsovu	Antixristov	Afsan		135	10	9	amod	poss				1										
+i+	и+	i	i	C		135	11	13	cc				and all his power.											
+vsú	всꙋ́	vsu	vse	Afsan		135	12	13	amod	det														
+silu+	силꙋ+	silu	sila	Nfsan		135	13	9	conj															
+ego.	его.	ego	toi	Pp3msg		135	14	13	nmod	poss														
+																								
+togda	тогда	togda	togda	Pr		136	1	3	advmod				Then, Michael was blessed by the Lord, the King.									5	Descent of Michael	
+mi_xailo	ми_хаило	mixailo	Mixail	Nmsoy		136	2	3	nsubj					1										
+blgoslovi+	блгослови+	blgoslovi	blagoslovja	Vmia3se		136	3	0	root															
+se	се	se	se	Px---a		136	4	3	expl															
+u+	ꙋ+	u	u	Sg		136	5	6	case															
+vldke	влдке	vldke	vladika	Nfsdn		136	6	3	obl					1										
+cra..	цра..	cra	car	Nmsgy		136	7	6	appos															
+																								
+i+	и+	i	i	C		137	1	2	cc				And he descended to the 2nd heaven.											
+sьnide+	сьниде+	sъnide	sъniti	Vmia3se		137	2	0	root															
+na	на	na	na	Sa		137	3	5	case															
+*v*ro+	·в·ро+	*v*ro	vtori	Ansnn	Mc	137	4	5	amod															
+nbo	нбо	nbo	nebe	Nnsnn		137	5	2	obl					1										
+																								
+i+	и+	i	i	C		138	1	2	cc				And he took his deadly sword.											
+ze	зе	ze	zema	Vmia3se		138	2	0	root															
+sьmrь`tosni	сьмрь̀тосни	sъmrъtosni	smъrtonosen	Amsny		138	3	4	amod															
+mačь`+	мачь̀+	mačъ	meč	Nmsnn		138	4	2	obj															
+sv_oi.	св_ои.	svoi	svoi	Amsny		138	5	4	amod	poss				1										
+																								
+i+	и+	i	i	C		139	1	2	cc				And he sharpened it.											
+naẅstri+	наѡ̈стри+	naẅstri	naostrja	Vmia3se		139	2	0	root															
+ego.	его.	ego	toi	Pp3msg		139	3	2	obj															
+																								
+i+	и+	i	i	C		140	1	2	cc				And he spread his wings (to) 40 cubits in width.											
+pro_stri+	про_стри+	prostri	prostra	Vmip3se	Vmm-2se	140	2	0	root					1		Formally reflects the imperative form, or a shortened 3sg.prs: the expected aorist would be <i>prostrě</i>, as seen above (with a Serbian reflex of the jat).								
+krili+	крили+	krili	krilo	Nnpnn		140	3	2	obj							A dl.nom/acc <i>krilu</i> or pl. <i>krila</i> would be expected.								
+svoi	свои	svoi	svoi	Andnn		140	4	3	amod	poss														
+*m*	·м·	*m*	40	Mc		140	5	6	nummod															
+laka_tь+	лака_ть+	lakatъ	lakъt	Nmsnn		140	6	2	obl					1										
+vь+	вь+	vъ	v	Sa		140	7	8	case															
+širinu.	ширинꙋ.	širinu	širina	Nfsnn		140	8	6	nmod															
+																								
+i+	и+	i	i	C		141	1	2	cc				And he blew his trumpet.											
+potrubi.	потрꙋби.	potrubi	potrǫbiti	Vmia3se		141	2	0	root					2										
+truboju	трꙋбою	truboju	trъba	Nfsin		141	3	2	obl		46r	/img/satan/46r.JPG												
+svoeju.	своею.	svoeju	svoi	Afsiy		141	4	3	amod	poss														
+																								
+i	и	i	i	C		142	1	2	cc				And he flapped his wing(s).											
+trepe_tnu.	трепе_тнꙋ.	trepetnu	trepna	Vmia3se		142	2	0	root					1										
+kriwm+	криѡм+	kriom	krilo	Nnsin		142	3	2	obl															
+svoima	своима	svoima	svoi	Anddn		142	4	3	amod	poss														
+																								
+i+	и+	i	i	C		143	1	2	cc				And he descended from the heights of the heavens.											
+pode	поде	pode	poida	Vmia3se		143	2	0	root					1										
+sь+	сь+	sъ	iz	Sg		143	3	5	case															
+nbsьnix	нбсьних	nbsъnix	nebesen	Afpgy		143	4	5	amod															
+visotь.	висоть.	visotъ	visota	Nfpgn		143	5	2	obl	abl														
+																								
+i+	и+	i	i	C		144	1	10	cc				And from his descent and the voice (sound?) of his wings, the heavens stepped away.											
+wt+	ѿ+	ot	ot	Sg		144	2	3	case															
+sьxo_ždenïja	сьхо_жденїꙗ	sъxoždenija	sъxoždenie	Nnsgn		144	3	10	obl					1										
+ego.	его.	ego	toi	Pp3msg		144	4	3	nmod	poss														
+i+	и+	i	i	C		144	5	7	cc															
+wt+	ѿ+	ot	ot	Sg		144	6	7	case															
+glas+	глас+	glas	glas	Nmsnn		144	7	3	conj															
+krilú+	крилꙋ́+	krilu	krilo	Nndgn		144	8	7	nmod	poss														
+ego	его	ego	toi	Pp3msg		144	9	8	nmod	poss				1										
+rastúpaxu+	растꙋ́пахꙋ+	rastupaxu	razstъpvam	Vmii3pi		144	10	0	root															
+se.	се.	se	se	Px---a		144	11	10	expl															
+nbsa+	нбса+	nbsa	nebe	Nnpnn		144	12	10	nsubj															
+																								
+i+	и+	i	i	C		145	1	2	cc				And the Earth became afraid.											
+úboja+	ꙋ́боꙗ+	uboja	uboja	Vmia3se		145	2	0	root															
+se	се	se	se	Px---a		145	3	2	expl					1										
+zemlà+	землà+	zemla	zemlja	Nfsnn		145	4	2	nsubj															
+																								
+i+	и+	i	i	C		146	1	2	cc				And the seas ran away.											
+pobeže.	побеже.	pobeže	poběgna	Vmia3se		146	2	0	root															
+mórь+	мо́рь+	morъ	more	Nnpgn		146	3	2	nsubj							Punčo: <i>i more+to pobegna</i>								
+																								
+i+	и+	i	i	C		147	1	4	cc				And the bottomless depths were shaken.											
+glь_bine	гль_бине	glъbine	glǫbina	Nfpnn		147	2	4	nsubj					1										
+bezdani	бездани	bezdani	bezdъnen	Afpnn		147	3	2	amod															
+potrьsoše+	потрьсоше+	potrъsoše	potresa	Vmia3pe		147	4	0	root															
+se	се	se	se	Px---a		147	5	4	expl					1										
+																								
+i	и	i	i	C		148	1	3	cc				And Antichrist sat on his throne.											
+antixrьstь+	антихрьсть+	antixrъstъ	Antixrist	Nmsny		148	2	3	nsubj															
+sděše+	сдѣше+	sděše	sedja	Vmii3si		148	3	0	root															
+na+	на+	na	na	Sl		148	4	5	case															
+prě_stoli	прѣ_столи	prěstoli	prestol	Nmsln		148	5	3	obl	loc				1										
+svoemь.	своемь.	svoemъ	svoi	Amsly		148	6	5	amod	poss														
+																								
+i+	и+	i	i	C		149	1	2	cc				And he was shoved down.											
+smete+	смете+	smete	smeta	Vmia3se		149	2	0	root															
+se	се	se	se	Px---a		149	3	2	expl					1										
+																								
+i	и	i	i	C		150	1	2	cc				And he said:											
+rče+	рче+	rče	reka	Vmia3se		150	2	0	root															
+																								
+čto	что	čto	čto	Pq		151	1	2	nsubj				ʺWhat was (that)?ʺ											
+bi	би	bi	bъda	Vmia3se		151	2	0	root															
+																								
+jako	ꙗко	jako	jako	R		152	1	2	advmod				ʺThe earth shoke so much today!ʺ											
+potrese	потресе	potrese	potresa	Vmia3se		152	2	0	root															
+se	се	se	se	Px---a		152	3	2	expl					1										
+zemlà+	землà+	zemla	zemlja	Nfsnn		152	4	2	nsubj															
+dnsь.	днсь.	dnsъ	dnes	R		152	5	2	advmod															
+																								
+čto+	что+	čto	čto	Pq		153	1	3	nsubj				ʺWhat would that be?ʺ											
+li+	ли+	li	li	Qq		153	2	3	advmod															
+jes+	ѥс+	jes	sъm	Vmip3si		153	3	0	root															
+																								
+jako+	ꙗко+	jako	jako (2)	C		154	1	3	mark				ʺAs the sea ran (?)ʺ											
+mo_rь+	мо_рь+	morъ	more	Nnpgn		154	2	3	advcl					1										
+pobeže.	побеже.	pobeže	poběgna	Vmia3se		154	3	0	root															
+																								
+egda+	егда+	egda	egda	Pr		155	1	2	mark				ʺIf (?) there is an anger from the Highest Father, would He go alone to war?ʺ											
+jes+	ѥс+	jes	sъm	Vmip3si		155	2		advcl															
+gnevь+	гневь+	gnevъ	gněv	Nmsnn		155	3	2	nsubj															
+go_rnago	го_рнаго	gornago	goren	Amsgy		155	4	5	amod					1										
+wca+	ѡца+	oca	otec	Nmsgy		155	5	3	nmod															
+na+	на+	na	na	Sa		155	6	7	case															
+nsь.	нсь.	nsъ	nie	Pp1-pg		155	7	2	obl															
+eda+	еда+	eda	eda	Qq		155	8	12	advmod															
+na+	на+	na	na	Sa		155	9	10	case															
+ra_tь+	ра_ть+	ratъ	rat	Nfsnn		155	10	12	obl					1										
+samь+	самь+	samъ	sam	Amsnn		155	11	12	advmod															
+gredetь	гредеть	gredetъ	gręsti	Vmip3si		155	12	0	root															
+																								
+i+	и+	i	i	C		156	1	2	cc				And he looked upwards toward the sky with his evil eye,											
+vьzre_vь	вьзре_вь	vъzrevъ	vzra	Vmpa-sea	Amsnn	156	2	8	advcl					1										
+lukavimь	лꙋкавимь	lukavimъ	lukav	Ansiy		156	3	5	amod															
+svoimь+	своимь+	svoimъ	svoi	Ansiy		156	4	5	amod	poss														
+ẅko_mь.	ѡ̈ко_мь.	ẅkomъ	oko	Nnsin		156	5	2	obl					1										
+nbo	нбо	nbo	nebe	Nnsnn		156	6	2	obl															
+i+	и+	i	i	C		156	7	8	cc				and he saw Michael descending as a pillar of fire.											
+vide+	виде+	vide	vidja	Vmia3si		156	8	0	root															
+mixaila	михаила	mixaila	Mixail	Nmsgy		156	9	8	obj					1										
+sьxodešta+	сьходеща+	sъxodešta	sъxoždati	Amsgn	Vmpp-sia	156	10	9	amod															
+jako+	ꙗко+	jako	jako (2)	C		156	11	12	mark															
+stupь.	стꙋпь.	stupъ	stъlp	Nmsnn		156	12	10	acl															
+ẅgn_ьni+	ѡ̈гн_ьни+	ẅgnъni	ognen	Amsny		156	13	12	amod					1										
+																								
+i+	и+	i	i	C		157	1	2	cc				And he recognized him.											
+pozna+	позна+	pozna	poznaja	Vmia3se		157	2	0	root															
+ego.	его.	ego	toi	Pp3msg		157	3	2	obj															
+																								
+krepok	крепок	krepok	krepъk	Amsnn		158	1	0	root				(He was) strong.											
+																								
+i+	и+	i	i	C		159	1	2	cc				And his face was very beautiful.											
+mnogo_lěpno+	много_лѣпно+	mnogolěpno	mnogolěpьn	Ansnn		159	2	0	root					2										
+lice+	лице+	lice	lice	Nnsnn		159	3	2	nsubj		46v	/img/satan/46v.JPG												
+ego+	его+	ego	toi	Pp3msg		159	4	3	nmod	poss														
+beše.	беше.	beše	sъm	Vmii3si		159	5	2	cop															
+																								
+i+	и+	i	i	C		160	1	2	cc				And Satanael said to his servants:											
+rče	рче	rče	reka	Vmia3se		160	2	0	root					1										
+satanàilь	сатанàиль	satanailъ	Satanail	Nmsny		160	3	2	nsubj															
+slugamь	слꙋгамь	slugamъ	sluga	Nfpdy		160	4	2	obl	iobj														
+svoi_mь+	свои_мь+	svoimъ	svoi	Ampdy		160	5	4	amod	poss				1										
+																								
+mixàilo,	михàило,	mixailo	Mixail	Nmsoy		161	1	4	nsubj				ʺMichael comes from the heavens.ʺ											
+wt	ѿ	ot	ot	Sg		161	2	3	case															
+nbsь	нбсь	nbsъ	nebe	Nnpgn		161	3	4	obl	abl														
+grede_tь.	греде_ть.	gredetъ	gręsti	Vmip3si		161	4	0	root					1										
+																								
+da+	да+	da	da	C		162	1	3	cc				ʺAnd I know not, whether he comes in good (intent), or bad.ʺ											
+ne+	не+	ne	ne	Qz		162	2	3	advmod															
+vemь+	вемь+	vemъ	věděti	Vmip1si		162	3	0	root															
+ili+	или+	ili	ili	C		162	4	6	cc															
+ẅ+	ѡ̈+	ẅ	o (2)	Sl		162	5	6	case															
+dobre	добре	dobre	dobro	Nnsln		162	6	10	obl					1										
+ili+	или+	ili	ili	C		162	7	9	cc															
+ẅ+	ѡ̈+	ẅ	o (2)	Sl		162	8	9	case															
+zlì.	злѝ.	zli	zlo	Nfsdn		162	9	6	conj															
+gredetь+	гредеть+	gredetъ	gręsti	Vmip3si		162	10	3	advcl															
+																								
+na+	на+	na	pa	C		163	1	2	cc				ʺSo, let us go to meet him, to see, by what works (?) is he going.ʺ			Use of <i>na</i> as a conjunction comes in the whole manuscript - possibly a misreading of <i>pa</i> ?								
+izi_dimo.	изи_димо.	izidimo	izida	Vmm-1pe		163	2	0	root					1										
+vь+	вь+	vъ	v	Sa		163	3	4	case															
+sretenïe	сретенїе	sretenie	sretenie	Nnsnn		163	4	2	obl															
+emú	емꙋ́	emu	toi	Pp3msd		163	5	4	nmod	iobj				1										
+da+	да+	da	da	C		163	6	7	mark															
+vdimo+	вдимо+	vdimo	vidja	Vmip1pi		163	7	2	advcl															
+koimь+	коимь+	koimъ	koi	Amsiy		163	8	9	amod	mark														
+delomь	деломь	delomъ	delo	Nnsin		163	9	10	obl					1										
+idětь+	идѣть+	idětъ	ida	Vmip3si		163	10	7	advcl															
+kь+	кь+	kъ	k	Sd		163	11	12	case															
+namь.	намь.	namъ	nie	Pp1-pd		163	12	10	obl															
+																								
+i+	и+	i	i	C		164	1	2	cc				And all of his forces went to meet Michael.											
+podoše	подоше	podoše	poida	Vmia3pe		164	2	0	root					1										
+vse+	все+	vse	vse	Afpnn		164	3	4	amod	det														
+sile	силе	sile	sila	Nfpnn	Nfsdn	164	4	2	nsubj															
+ego.	его.	ego	toi	Pp3msg		164	5	4	nmod	poss														
+vь+	вь+	vъ	v	Sa		164	6	7	case															
+srětenïe	срѣтенїе	srětenie	sretenie	Nnsnn		164	7	2	obl					1										
+míxaílu.	ми́хаи́лꙋ.	mixailu	Mixail	Nmsdy		164	8	7	nmod	iobj														
+																								
+i+	и+	i	i	C		165	1	2	cc				And (they saw?) a vision: the deadly sword.											
+vděnïe+	вдѣнїе+	vděnie	videnie	Nnsnn		165	2	0	root															
+eže	еже	eže	iže	Pr-nsn		165	3	6	mark					1										
+vděše.	вдѣше.	vděše	vidja	Vmii3si		165	4	2	acl															
+sьmrь´tnonosni	сьмрь́тноносни	sъmrъtnonosni	smъrtonosen	Amsny		165	5	6	amod					1										
+mačь`.	мачь̀.	mačъ	meč	Nmsnn		165	6	4	obj															
+																								
+i+	и+	i	i	C		166	1	4	cc				And they were not daring to come closer to him.											
+ne+	не+	ne	ne	Qz		166	2	3	advmod															
+smijaxu+	смиꙗхꙋ+	smijaxu	smeja	Vmii3pi		166	3	4	aux															
+pris_tupiti	прис_тꙋпити	pristupiti	pristъpja	Vmn---e		166	4	0	root					1										
+kь+	кь+	kъ	k	Sd		166	5	6	case															
+nemu.	немꙋ.	nemu	toi	Pp3msd		166	6	4	obl															
+																								
+wt+	ѿ+	ot	ot	Sg		167	1	2	case				The heavens were opening by the sound (lit. voice) of his wings.											
+glasь+	глась+	glasъ	glas	Nmsnn		167	2	5	obl															
+kri_lu+	кри_лꙋ+	krilu	krilo	Nndgn		167	3	2	nmod					1										
+ego+	его+	ego	toi	Pp3msg		167	4	3	nmod	poss														
+rastupaxu	растꙋпахꙋ	rastupaxu	razstъpvam	Vmii3pi		167	5	0	root															
+se+	се+	se	se	Px---a		167	6	5	expl															
+nbsa	нбса	nbsa	nebe	Nnpnn		167	7	5	nsubj					1										
+																								
+i+	и+	i	i	C		168	1	2	cc				And evil devils were falling (as far as) 3 shots.											
+wtpadaxu.	ѿпадахꙋ.	otpadaxu	otpadam	Vmii3pi		168	2	0	root															
+lukavi+	лꙋкави+	lukavi	lukav	Ampnn		168	3	4	amod															
+běsi	бѣси	běsi	běs	Nmpny		168	4	2	nsubj					1										
+*g*	·г·	*g*	3	Mc		168	5	6	nummod															
+paprišta	паприща	paprišta	pъprište	Nnpnn		168	6	2	obl															
+																								
+i+	и+	i	i	C		169	1	2	cc				And they were falling on the ground down.											
+padaxu+	падахꙋ+	padaxu	padam	Vmii3pi		169	2	0	root															
+nica	ница	nica	nicь	R	Nmsgn	169	3	5	amod					1										
+na+	на+	na	na	Sa		169	4	5	case															
+zémljù.	зе́млю̀.	zemlju	zemlja	Nfsan		169	5	2	obl	lat														
+																								
+to+	то+	to	to	Qd		170	1	3	obj				And evil Satanael saw that (as an evidence), that Michael goes with bad (intent) to him.											
+že	же	že	že	Qg		170	2	3	cc															
+uvide	ꙋвиде	uvide	uvidja	Vmia3se		170	3	0	root					1										
+lukavi	лꙋкави	lukavi	lukav	Amsny		170	4	5	amod															
+satanailь	сатанаиль	satanailъ	Satanail	Nmsny		170	5	3	nsubj															
+jako	ꙗко	jako	jako (2)	C		170	6	9	mark					2										
+ẅ+	ѡ̈+	ẅ	o (2)	Sl		170	7	8	case		47r	/img/satan/47r.JPG												
+zlě+	злѣ+	zlě	zlo	Nnsln		170	8	9	obl															
+idetь+	идеть+	idetъ	ida	Vmip3si		170	9	3	advcl															
+mixàilo+	михàило+	mixailo	Mixail	Nmsoy		170	10	9	nsubj															
+kь	кь	kъ	k	Sd		170	11	12	case					1										
+nemu.	немꙋ.	nemu	toi	Pp3msd		170	12	9	obl															
+																								
+i+	и+	i	i	C		171	1	2	cc				And he took his fiery sword and his arrows.											
+zetь+	зеть+	zetъ	zema	Vmia3se	Vmip3se	171	2	0	root															
+mačь`+	мачь̀+	mačъ	meč	Nmsnn		171	3	2	obj															
+svoi	свои	svoi	svoi	Amsny		171	4	3	amod	poss				1										
+iwgnì.	иѡгнѝ.	iogni	ognen	Amsny		171	5	3	amod															
+i+	и+	i	i	C		171	6	7	cc															
+strlì+	стрлѝ+	strli	strela	Nfpnn		171	7	3	conj															
+svoe+	свое+	svoe	svoi	Afpny		171	8	7	amod	poss														
+																								
+i+	и+	i	i	C		172	1	4	cc				And he strung his bow.											
+lukь	лꙋкь	lukъ	lъk	Nmsnn		172	2	4	obj					1										
+svoi.	свои.	svoi	svoi	Amsny		172	3	2	amod	poss														
+naprěže	напрѣже	naprěže	napregna	Vmia3se		172	4	0	root															
+																								
+i+	и+	i	i	C		173	1	2	cc				And he prepared against Michael as to a battle.											
+ugotove+	ꙋготове+	ugotove	ugotovljati	Vmia3se		173	2	0	root															
+s[e]	с[е]	se	se	Px---a		173	3	2	expl					1										
+jako+	ꙗко+	jako	jako (2)	C		173	4	6	mark															
+na	на	na	na	Sa		173	5	6	case															
+branь+	брань+	branъ	bran	Nfsnn		173	6	2	advcl															
+na+	на+	na	na	Sa		173	7	8	case															
+mìxaila.	мѝхаила.	mixaila	Mixail	Nmsgy		173	8	2	obl					1										
+																								
+togda	тогда	togda	togda	Pr		174	1	3	advmod				Then, Michael descended on a rock.											
+mixailo.	михаило.	mixailo	Mixail	Nmsoy		174	2	3	nsubj															
+sleze+	слезе+	sleze	slezna	Vmia3se		174	3	0	root															
+na+	на+	na	na	Sa		174	4	5	case															
+ka_menь.	ка_мень.	kamenъ	kamen	Nmsnn	Nmsan	174	5	3	obl	lat				1		In OCS, it could be interpreted as a m.sg.acc form.								
+																								
+i+	и+	i	i	C		175	1	2	cc				And he made a sign to the earth.											
+znamena+	знамена+	znamena	znamenati	Vmia3se		175	2	0	root															
+zemljù	землю̀	zemlju	zemlja	Nfsan		175	3	2	obj					1										
+																								
+i+	и+	i	i	C		176	1	2	cc				And he said to the earth:											
+rče+	рче+	rče	reka	Vmia3se		176	2	0	root															
+zemli	земли	zemli	zemlja	Nfsdn		176	3	2	obl	iobj														
+																								
+tako+	тако+	tako	taka	Pr		177	1	2	advmod				ʺThus spoke the Lord to you:ʺ											
+gle	гле	gle	glagolati	Vmip3si		177	2	0	root															
+ti	ти	ti	ty	Pp2-sd	Pp2-sn	177	3	2	obl	iobj				1										
+gь.	гь.	gъ	Gospod	Nmsny		177	4	2	nsubj															
+																								
+stanemь	станемь	stanemъ	stana	Vmip1pe	Vmm-1pe	178	1	0	root				ʺMay we stand well!ʺ											
+dobre.	добре.	dobre	dobre	R		178	2	1	advmod															
+																								
+sta_nemь	ста_немь	stanemъ	stana	Vmip1pe	Vmm-1pe	179	1	0	root				ʺMay we stand in fear (of God)!ʺ	1										
+sь+	сь+	sъ	s	Si		179	2	3	case															
+straxomь.	страхомь.	straxomъ	strax	Nmsin		179	3	1	obl															
+																								
+to_gda	то_гда	togda	togda	Pr		180	1	8	advmod				Then, the earth and everything on it became silent.	1										
+zemlà+	землà+	zemla	zemlja	Nfsnn		180	2	8	nsubj															
+i+	и+	i	i	C		180	3	4	cc															
+vsa+	вса+	vsa	vse	Nnpnn		180	4	2	conj															
+jaže+	ꙗже+	jaže	iže	Pr-npn		180	5	7	mark															
+na+	на+	na	na	Sl		180	6	7	case															
+nei	неи	nei	tja	Pp3fsd		180	7	4	acl	loc				1										
+ukrotiše+	ꙋкротише+	ukrotiše	ukrotja	Vmia3pe		180	8	0	root															
+s[e].	с[е].	se	se	Px---a		180	9	8	expl															
+																								
+i+	и+	i	i	C		181	1	2	cc				And silence fell by the command of Michael.											
+bistь+	бисть+	bistъ	bъda	Vmia3se		181	2	0	root															
+tiši_na	тиши_на	tišina	tišina	Nfsnn		181	3	2	nsubj					1										
+po	по	po	po	Sd		181	4	5	case															
+velenïju	веленїю	veleniju	velěnie	Nnsdn		181	5	2	obl															
+mixàilo_vu.	михàило_вꙋ.	mixailovu	Mixailov	Amsdn		181	6	5	amod	poss				1										
+																								
+i+	и+	i	i	C		182	1	2	cc				And he saw the heavens (looking) like an ice, and the dark sun, and the pale moon.											
+vdě+	вдѣ+	vdě	vidja	Vmia3si		182	2	0	root															
+nbsa	нбса	nbsa	nebe	Nnpnn		182	3	2	obj															
+jako+	ꙗко+	jako	jako (2)	C		182	4	5	mark															
+ledь	ледь	ledъ	led	Nmsnn		182	5	3	acl															
+i+	и+	i	i	C		182	6	7	cc															
+sl_nce	сл_нце	slnce	slъnce	Nnsnn		182	7	3	conj					1										
+tamno	тамно	tamno	tъmen	Ansnn		182	8	7	amod															
+i+	и+	i	i	C		182	9	10	cc															
+mscь	мсць	mscъ	mesec	Nmsnn		182	10	7	conj															
+blě`dь	блѣ̀дь	blědъ	bled	Amsnn		182	11	10	amod					1										
+																								
+i+	и+	i	i	C		183	1	4	cc				And Michael saw all of that.											
+ta+	та+	ta	ta	C		183	2	3	det															
+vsa+	вса+	vsa	vse	Anpnn		183	3	4	obj															
+vdě+	вдѣ+	vdě	vidja	Vmia3si		183	4	0	root															
+míxailò.	ми́хаило̀.	mixailo	Mixail	Nmsoy		183	5	4	nsubj															
+																								
+i+	и+	i	i	C		184	1	2	cc				And he said a lie to praise him.											
+rče	рче	rče	reka	Vmia3se		184	2	0	root					1										
+lьžu	льжꙋ	lъžu	lъža	Nfsan		184	3	2	obj															
+poxválíti+	похвáли́ти+	poxvaliti	poxvalja	Vmn---e		184	4	2	advcl															
+ego.	его.	ego	toi	Pp3msg		184	5	4	obj															
+																								
+i+	и+	i	i	C		185	1	2	cc				And he said:	1										
+gle+	гле+	gle	glagolati	Vmip3si	Vmpp-sia	185	2	0	root							The form can reflect both a participle (<i>glagolę</i>) and a truncated 3sg.prs form (<i>glagolje-tъ</i>).								
+																								
+ẅ+	ѡ̈+	ẅ	o	I		186	1	2	discourse				ʺO son, I saw your good works, and your cunning, and your great forces.ʺ											
+sinè	синѐ	sine	sin	Nmsvy		186	2	3	vocative							Punčo: <i>o silne</i>								
+vděxь+	вдѣхь+	vděxъ	vidja	Vmia1si		186	3	0	root															
+dela+	дела+	dela	delo	Nnpnn		186	4	3	obj															
+tvoa	твоа	tvoa	tvoi	Anpny		186	5	4	amod	poss				2										
+dobra	добра	dobra	dobъr	Anpnn		186	6	4	amod		47v	/img/satan/47v.JPG												
+i+	и+	i	i	C		186	7	9	cc															
+tvoja	твоꙗ	tvoja	tvoi	Anpny		186	8	9	amod	poss														
+xitrosti	хитрости	xitrosti	xitrost	Nfpnn		186	9	4	conj					1										
+i+	и+	i	i	C		186	10	11	cc															
+sili+	сили+	sili	sila	Nfpnn		186	11	9	conj															
+tvoe+	твое+	tvoe	tvoi	Afpny		186	12	11	amod	poss														
+velike.	велике.	velike	velik	Afpnn		186	13	11	amod															
+																								
+i+	и+	i	i	C		187	1	5	cc				ʺAnd your works are better (?) made than (those) of the Highest Father.ʺ			Punčo: <i>če e bila tvoja+ta rabota po+golema o višnjago o-ca</i>								
+dě_la	дѣ_ла	děla	delo	Nnpnn		187	2	5	nsubj					1										
+tvoja	твоꙗ	tvoja	tvoi	Anpny		187	3	2	amod	poss														
+dobro	добро	dobro	dobre	R		187	4	5	advmod															
+sьtvore_na.	сьтворе_на.	sъtvorena	sъtvorja	Anpnn	Vmpa-pe	187	5	0	root					1										
+wt+	ѿ+	ot	ot	Sg		187	6	8	case															
+višnago	вишнаго	višnago	višen	Amsgy		187	7	8	amod															
+ẅca.	ѡ̈ца.	ẅca	otec	Nmsgy		187	8	5	obl															
+																								
+a+	а+	a	a	C		188	1	3	cc				ʺAnd you are preparing arrows and your bow?ʺ											
+ti	ти	ti	ty	Pp2-sd	Pp2-sn	188	2	3	nsubj					1										
+gotovišь+	готовишь+	gotovišъ	gotvja	Vmip2si		188	3	0	root															
+strěli.	стрѣли.	strěli	strela	Nfpnn		188	4	3	obj															
+i+	и+	i	i	C		188	5	6	cc															
+lu_kь+	лꙋ_кь+	lukъ	lъk	Nmsnn		188	6	4	conj					1										
+svoi	свои	svoi	svoi	Amsny		188	7	6	amod	poss														
+																								
+i+	и+	i	i	C		189	1	4	cc				ʺAnd you sharpen your sword against me?ʺ											
+mьčь+	мьчь+	mъčъ	meč	Nmsnn		189	2	4	obj															
+svoi+	свои+	svoi	svoi	Amsny		189	3	2	amod	poss														
+ẅst_riši+	ѡ̈ст_риши+	ẅstriši	ostrja	Vmip2si		189	4	0	root					1										
+na	на	na	na	Sa		189	5	6	case															
+me.	ме.	me	az	Pp1-sa		189	6	4	obl															
+																								
+jako+	ꙗко+	jako	jako (2)	C		190	1	3	mark				ʺYou prepare yourself for a battle against me.ʺ											
+na+	на+	na	na	Sa		190	2	3	case															
+bra_nь.	бра_нь.	branъ	bran	Nfsnn		190	3	4	advcl					1										
+gotoviši+	готовиши+	gotoviši	gotvja	Vmip2si		190	4	0	root															
+se+	се+	se	se	Px---a		190	5	4	expl															
+na+	на+	na	na	Sa		190	6	7	case															
+me	ме	me	az	Pp1-sa		190	7	4	obl					1										
+																								
+i+	и+	i	i	C		191	1	4	cc				ʺAnd you do inappropriate (things).ʺ											
+ne+	не+	ne	ne	Qz		191	2	3	amod															
+podobna.	подобна.	podobna	podoben	Anpnn		191	3	4	obj															
+tvorši	творши	tvorši	tvorja	Vmip2si		191	4	0	root					1										
+																								
+azь+	азь+	azъ	az	Pp1-sn		192	1	3	nsubj				ʺAnd I have seen, that every king is glad,ʺ											
+že+	же+	že	že	Qg		192	2	3	cc															
+vděẅ+	вдѣѡ̈+	vděẅ	vidja	Vmp--si	Amsnn	192	3	0	root															
+samь.	самь.	samъ	sъm	Vaip1si		192	4	3	aux	prf														
+jako+	ꙗко+	jako	jako (2)	C		192	5	8	mark															
+vsa_ki+	вса_ки+	vsaki	vsěki	Amsny		192	6	7	amod	det				1										
+crь+	црь+	crъ	car	Nmsny		192	7	8	nsubj															
+radь+	радь+	radъ	rad	Amsnn		192	8	3	advcl															
+jes.	ѥс.	jes	sъm	Vmip3si		192	9	8	cop															
+egda+	егда+	egda	egda	Pr		192	10	11	mark				ʺwhen he sees a warrior coming from foreign lands, or an elder.ʺ											
+vditь	вдить	vditъ	vidja	Vmip3si		192	11	8	advcl					1										
+voinika+	воиника+	voinika	voinik	Nmsgy		192	12	11	obj															
+wt+	ѿ+	ot	ot	Sg		192	13	15	case															
+tuždixь.	тꙋждихь.	tuždixъ	tužd	Anpgy		192	14	15	amod															
+me_stь+	ме_сть+	mestъ	město	Nnpgn		192	15	16	obl	abl				1										
+prixodeštago.	приходещаго.	prixodeštago	prixodja	Vmpp-sia	Ampgy	192	16	12	acl															
+ili	или	ili	ili	C		192	17	18	cc					1										
+starišinu.	старишинꙋ.	starišinu	stareišina	Nfsay		192	18	12	conj															
+																								
+gotovitь	готовить	gotovitъ	gotvja	Vmip3si		193	1	0	root				ʺHe prepares a throne and table for him.ʺ	1										
+emu+	емꙋ+	emu	toi	Pp3msd		193	2	1	obl	iobj														
+prěstolь.	прѣстоль.	prěstolъ	prestol	Nmsnn		193	3	1	obj															
+i+	и+	i	i	C		193	4	5	cc															
+trь_pezu	трь_пезꙋ	trъpezu	trapeza	Nfsan		193	5	3	conj					1										
+																								
+i+	и+	i	i	C		194	1	2	cc				ʺAnd (he?) kisses him.ʺ											
+ẅblobiznju+	ѡ̈блобизню+	ẅblobiznju	oblobizati	Vmip1se		194	2	0	root							The form is unclear, maybe reflecting a truncated 3pl.prs form (< *<i>oblobiznǫtъ</i>)? Miklosich has 1sg.prs <i>oblobъžǫ</i>.								
+ego	его	ego	toi	Pp3msg		194	3	2	obj					1										
+																								
+azь+	азь+	azъ	az	Pp1-sn		195	1	3	nsubj				ʺSo I come here to be with you.ʺ											
+že	же	že	že	Qg		195	2	3	cc															
+pribegьjemь+	прибегьѥмь+	pribegъjemъ	priběgna	Vmip1pe	Vmip1se	195	3	0	root							1sg.prs -<i>em</i> would be a Serbism, like the <i>ovde</i> (for *<i>semo</i>?) and <i>tobomь</i> (o-stem sg.inst ending on a 2sg pronoun) too. Punčo uses perfect: <i>smь prebegnalь</i>.								
+wvde	ѡвде	ovde	ovde	Pd		195	4	5	obj					1										
+biti	бити	biti	sъm	Vmn---i		195	5	3	advcl															
+s+	с+	s	s	Si		195	6	7	case															
+tobomь.	тобомь.	tobomъ	ty	Pp2-si		195	7	5	obl															
+																								
+a+	а+	a	a	C		196	1	6	cc				ʺAnd you prepare arrows and a sword against me?!ʺ											
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	196	2	6	nsubj															
+strěli	стрѣли	strěli	strela	Nfpnn		196	3	6	obj					2										
+i+	и+	i	i	C		196	4	5	cc		48r	/img/satan/48r.JPG												
+mačь+	мачь+	mačъ	meč	Nmsnn		196	5	3	conj															
+gotoviši+	готовиши+	gotoviši	gotvja	Vmip2si		196	6	0	root															
+na+	на+	na	na	Sa		196	7	8	case															
+me.	ме.	me	az	Pp1-sa		196	8	6	obl															
+																								
+vi_děx+	ви_дѣх+	viděx	vidja	Vmia1si		197	1	0	root				ʺFor I saw your good works and your great cunnings.ʺ	1										
+bo+	бо+	bo	bo	C		197	2	1	cc															
+dela+	дела+	dela	delo	Nnpnn		197	3	1	obj															
+tvoja.	твоꙗ.	tvoja	tvoi	Anpny		197	4	3	amod	poss														
+dobra	добра	dobra	dobъr	Anpnn		197	5	3	amod					1										
+i+	и+	i	i	C		197	6	8	cc															
+velike	велике	velike	velik	Afpnn		197	7	8	amod															
+xitrosti+	хитрости+	xitrosti	xitrost	Nfpnn		197	8	3	conj															
+tvvoe	тввое	tvvoe	tvoi	Afpny		197	9	8	amod	poss				1										
+																								
+i+	и+	i	i	C		198	1	2	cc				ʺAnd I saw the heavens, decorated and strengthened by your hand.ʺ											
+vděxь+	вдѣхь+	vděxъ	vidja	Vmia1si		198	2	0	root															
+nnbsa.	ннбса.	nnbsa	nebe	Nnpnn		198	3	2	obj															
+ukrašena+	ꙋкрашена+	ukrašena	ukrasja	Vmpa-pe	Anpnn	198	4	3	acl															
+i+	и+	i	i	C		198	5	6	cc															
+ut_vrьždena	ꙋт_врьждена	utvrъždena	utvъrdja	Vmpa-pe	Anpnn	198	6	4	conj					1										
+wt+	ѿ+	ot	ot	Sg		198	7	8	case															
+ruku+	рꙋкꙋ+	ruku	rъka	Nfdnn		198	8	4	obl															
+tvoeju	твоею	tvoeju	tvoi	Afsin		198	9	8	amod	poss				1										
+																								
+i+	и+	i	i	C		199	1	2	cc				ʺAnd I saw the shiny sun and moon shining.ʺ											
+vděxь.	вдѣхь.	vděxъ	vidja	Vmia1si		199	2	0	root															
+slnce+	слнце+	slnce	slъnce	Nnsnn		199	3	4	obj															
+prěsvě`tlo	прѣсвѣ̀тло	prěsvětlo	presvětъl	Ansnn		199	4	2	amod					1										
+i+	и+	i	i	C		199	5	6	cc															
+mscь	мсць	mscъ	mesec	Nmsnn		199	6	3	conj															
+sïjajušte.	сїꙗюще.	sijajušte	sijaja	Ansnn	Vmpp-sia	199	7	3	advmod															
+																								
+i+	и+	i	i	C		200	1	2	cc				ʺAnd I saw the decorated stars and the blowing wind.ʺ											
+vděxь+	вдѣхь+	vděxъ	vidja	Vmia1si		200	2	0	root															
+zvě_zde+	звѣ_зде+	zvězde	zvezda	Nfpnn		200	3	2	obj					1										
+ukrašene	ꙋкрашене	ukrašene	ukrasja	Afpnn		200	4	3	amod															
+i+	и+	i	i	C		200	5	6	cc															
+vitrь+	витрь+	vitrъ	větъr	Nmsnn		200	6	3	conj															
+viju_šti.	вию_щи.	vijušti	veja	Amsny	Vmpp-sia	200	7	6	amod					1										
+																								
+i+	и+	i	i	C		201	1	2	cc				ʺAnd I saw your power.ʺ											
+vděxь	вдѣхь	vděxъ	vidja	Vmia1si		201	2	0	root															
+siljù+	силю̀+	silju	sila	Nfsan		201	3	2	obj															
+tvoju.	твою.	tvoju	tvoi	Afsay		201	4	3	amod	poss														
+																								
+i	и	i	i	C		202	1	4	cc				ʺAnd that is why I came to you.ʺ	1										
+tgo+	тго+	tgo	toi	Pd-msg		202	2	4	obl															
+rad+	рад+	rad	radi	Sg		202	3	2	case															
+pridox+	придох+	pridox	priida	Vmia1se		202	4	0	root															
+k+	к+	k	k	Sd		202	5	6	case															
+tebě`.	тебѣ̀.	tebě	ty	Pp2-sd		202	6	4	obl	iobj														
+																								
+egda	егда	egda	egda	Pr		203	1	2	mark				ʺIf (?) you will want me to be with you staunchly, after some time thousands of (angelic) ranks will come to be here with you.ʺ	1										
+xošteši.	хощеши.	xošteši	xotěti	Vmip2si		203	2	13	advcl															
+da+	да+	da	da	C		203	3	4	mark															
+budú+	бꙋдꙋ́+	budu	bъda	Vmip1se		203	4	2	advcl															
+s+	с+	s	s	Si		203	5	6	case															
+tobò_mь	тобо̀_мь	tobomъ	ty	Pp2-si		203	6	4	obl					1										
+newtstupno.	неѿстꙋпно.	neotstupno	neotstǫpьno	R		203	7	4	advmod															
+a+	а+	a	a	C		203	8	13	cc															
+po+	по+	po	po	Sd		203	9	11	case															
+malu	малꙋ	malu	malo	R	Ansdn	203	10	11	amod					1										
+vrěmene.	врѣмене.	vrěmene	vreme	Nnsgn		203	11	13	obl															
+vsi+	вси+	vsi	vse	Ampnn		203	12	14	amod	det														
+pridútь+	придꙋ́ть+	pridutъ	priida	Vmip3pe		203	13	0	root															
+čino_ve+	чино_ве+	činove	čin	Nmpnn		203	14	13	nsubj					1										
+xilïjadь	хилїꙗдь	xilijadъ	xiljada	Nfpgn		203	15	14	nummod															
+biti+	бити+	biti	sъm	Vmn---i		203	16	13	advcl															
+s+	с+	s	s	Si		203	17	18	case															
+toboju	тобою	toboju	ty	Pp2-si		203	18	16	obl					1										
+ẅvde.	ѡ̈вде.	ẅvde	ovde	Pr		203	19	16	advmod															
+																								
+togda+	тогда+	togda	togda	Pr		204	1	3	advmod				Then, Satanael said to his servants:											
+satanailь+	сатанаиль+	satanailъ	Satanail	Nmsny		204	2	3	nsubj															
+rče	рче	rče	reka	Vmia3se		204	3	0	root					1										
+slúgamь	слꙋ́гамь	slugamъ	sluga	Nfpdy		204	4	3	obl	iobj														
+svoimь.	своимь.	svoimъ	svoi	Afpdy		204	5	4	amod	poss														
+																								
+rduite	рдꙋите	rduite	radvam	Vmm-2pi		205	1	0	root				ʺRejoice today, my minions!ʺ	1										
+se+	се+	se	se	Px---a		205	2	1	expl															
+dnsь+	днсь+	dnsъ	dnes	R		205	3	1	advmod															
+slúge+	слꙋ́ге+	sluge	sluga	Nfpny		205	4	1	vocative															
+moe.	мое.	moe	moi	Afpny		205	5	4	amod	poss														
+																								
+i+	и+	i	i	C		206	1	2	cc				ʺAnd rejoice (with?) angels!ʺ											
+vseli_te+	всели_те+	vselite	veselja	Vmm-2pi		206	2	0	root					1										
+se+	се+	se	se	Px---a		206	3	2	expl															
+angglьmi+	анггльми+	angglъmi	angel	Nmpiy		206	4	2	obl															
+																								
+rduite+	рдꙋите+	rduite	radvam	Vmm-2pi		207	1	0	root				ʺRejoice!ʺ											
+se	се	se	se	Px---a		207	2	1	expl					2										
+																								
+i+	и+	i	i	C		208	1	2	cc		48v	/img/satan/48v.JPG	ʺAnd rejoice (you too), my throne!ʺ											
+veseli+	весели+	veseli	veselja	Vmm-2si		208	2	0	root															
+se+	се+	se	se	Px---a		208	3	2	expl															
+prěstole+	прѣстоле+	prěstole	prestol	Nmsvn		208	4	2	vocative															
+moi	мои	moi	moi	Amsny		208	5	4	amod	poss				1										
+																								
+vseli+	всели+	vseli	veselja	Vmm-2si		209	1	0	root				ʺYou too, rejoice, my realm!ʺ											
+se+	се+	se	se	Px---a		209	2	1	expl															
+i+	и+	i	i	C		209	3	4	amod															
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	209	4	1	nsubj															
+drьžavo+	дрьжаво+	drъžavo	dъržava	Nfsvn		209	5	4	vocative															
+mo_ja.	мо_ꙗ.	moja	moi	Afsny		209	6	5	amod	poss				1										
+																								
+egda+	егда+	egda	egda	Pr		210	1	4	mark				ʺFor if (?) Michael came to us and said all (in) truth,ʺ			Punčo: <i>zašto doide Mixailь pri nasь ta ni va istinu pravo kaza če xočatь svi+te angelski činove da doidatь pri nasь</i>								
+bo+	бо+	bo	bo	C		210	2	16	cc															
+mixàilò+	михàило̀+	mixailo	Mixail	Nmsoy		210	3	4	nsubj															
+pride	приде	pride	priida	Vmia3se		210	4	16	advcl					1										
+kь	кь	kъ	k	Sd		210	5	6	case															
+namь.	намь.	namъ	nie	Pp1-pd		210	6	4	obl															
+i+	и+	i	i	C		210	7	10	cc															
+vsú+	всꙋ́+	vsu	vse	Afsan		210	8	9	amod															
+istinu+	истинꙋ+	istinu	istina	Nfsan		210	9	10	obj															
+i_zrče+	и_зрче+	izrče	izreka	Vmia3se		210	10	4	conj					1										
+namь.	намь.	namъ	nie	Pp1-pd		210	11	10	obl	iobj														
+jako+	ꙗко+	jako	jako (2)	C		210	12	16	discourse				ʺall the forces (?) will (?) come to us.ʺ			Either <i>jako</i> or <i>egda</i> is breaking the syntax of the sentence.								
+vse+	все+	vse	vse	Afpnn		210	13	14	amod	det														
+vlasti	власти	vlasti	vlast	Nfpnn		210	14	16	nsubj					1										
+xotě+	хотѣ+	xotě	xotěti	Vaia3si		210	15	16	aux	fut						Likely from *<i>xotętъ</i>?								
+priti.	прити.	priti	priida	Vmn---i		210	16	0	root															
+k+	к+	k	k	Sd		210	17	18	case															
+namь+	намь+	namъ	nie	Pp1-pd		210	18	16	obl															
+																								
+i+	и+	i	i	C		211	1	2	cc				And Satanael said to Michael:											
+rče+	рче+	rče	reka	Vmia3se		211	2	0	root					1										
+satanailь.	сатанаиль.	satanailъ	Satanail	Nmsny		211	3	2	nsubj															
+kь+	кь+	kъ	k	Sd		211	4	5	case															
+mìxàilù	мѝхàилꙋ̀	mixailu	Mixail	Nmsdy		211	5	2	obl	iobj				1										
+																								
+radui+	радꙋи+	radui	radvam	Vmm-2si		212	1	0	root				ʺRejoice too, o beautiful Michael, you shining star!ʺ											
+se+	се+	se	se	Px---a		212	2	1	expl															
+i+	и+	i	i	C		212	3	4	amod															
+ti,	ти,	ti	ty	Pp2-sd	Pp2-sn	212	4	1	nsubj															
+prikrasni+	прикрасни+	prikrasni	prekrasen	Amsny		212	5	6	amod															
+mi_xaile+	ми_хаиле+	mixaile	Mixail	Nmsvy		212	6	1	vocative					1										
+zvězdo,	звѣздо,	zvězdo	zvezda	Nfsvn		212	7	6	appos															
+svě`tla+	свѣ̀тла+	světla	světъl	Afsnn		212	8	7	amod															
+																								
+vь	вь	vъ	v	Sa		213	1	2	case				ʺI will make you second to my power.ʺ	1										
+*v*go+	·в·го+	*v*go	vtori	Amsgy	Mc	213	2	4	obl	pred														
+te	те	te	ty	Pp2-sa		213	3	4	obj															
+sьtvoru	сьтворꙋ	sъtvoru	sъtvorja	Vmip1se		213	4	0	root															
+moei	моеи	moei	moi	Afsdy		213	5	6	amod					1										
+silě.	силѣ.	silě	sila	Nfsdn		213	6	2	nmod															
+																								
+i+	и+	i	i	C		214	1	2	cc				And he commanded to place Michael on a second throne.											
+povele+	повеле+	povele	povelja	Vmia3se		214	2	0	root															
+postavi_ti+	постави_ти+	postaviti	postavja	Vmn---e		214	3	2	advcl					1										
+mixailà	михаилà	mixaila	Mixail	Nmsgy		214	4	3	obj															
+na	на	na	na	Sl		214	5	7	case															
+*v*romь+	·в·ромь+	*v*romъ	vtori	Amsin	Mc	214	6	7	amod															
+prěstole	прѣстоле	prěstole	prestol	Nmsln		214	7	3	obl	loc				1										
+																								
+sděštim+	сдѣщим+	sděštim	sedja	Vmpp-sia	Ampdy	215	1	10	advcl				As they were sitting and holding hands,									6	Dragon Lake	
+nima.	нима.	nima	tě	Pp3-dd		215	2	1	nsubj															
+i+	и+	i	i	C		215	3	4	cc															
+drь_žeštima+	дрь_жещима+	drъžeštima	dъrža	Vmpp-dia	Amddy	215	4	1	conj					1										
+za+	за+	za	za	Sa		215	5	6	case															
+ruke.	рꙋке.	ruke	rъka	Nfdnn		215	6	4	obl															
+i+	и+	i	i	C		215	7	10	cc				by the command of God, the gates of sun opened.											
+povele_nïemь+	повеле_нїемь+	poveleniemъ	povelenie	Nnsin		215	8	10	obl					1										
+bžimь.	бжимь.	bžimъ	božii	Amsiy		215	9	8	amod	poss														
+wtvrьze+	ѿврьзе+	otvrъze	otvъrža	Vmia3se		215	10	0	root															
+se	се	se	se	Px---a		215	11	10	expl					1										
+slncu+	слнцꙋ+	slncu	slъnce	Nnsdn		215	12	13	nmod															
+vrata.	врата.	vrata	vrata	Nnpnn		215	13	10	nsubj															
+																								
+i+	и+	i	i	C		216	1	2	cc				And the sun gave more warmth, burning and roasting.											
+prigrïja	пригрїꙗ	prigrija	prigreja	Vmia3se		216	2	0	root															
+slь_ncè	сль_нцѐ	slъnce	slъnce	Nnsnn		216	3	2	nsubj					1										
+gorěšte	горѣще	gorěšte	gorja	Vmpp-sia	Ansnn	216	4	3	amod															
+i+	и+	i	i	C		216	5	6	cc															
+žegomo.	жегомо.	žegomo	žešti	Vmpp-si	Ansnn	216	6	4	conj	pass						The passive ending does not really make sense for 'sun'.								
+																								
+i+	и+	i	i	C		217	1	3	cc				And it began to burn hills.											
+poče_še+	поче_ше+	počeše	počna	Vmii3se		217	2	3	aux					1		Imperfect ending on an aorist?								
+gorěti+	горѣти+	gorěti	gorja	Vmn---i		217	3	0	root															
+xlь`mi,	хль̀ми,	xlъmi	xъlm	Nmpnn		217	4	3	obj															
+																								
+i+	и+	i	i	C		218	1	3	cc				And the land was filled with smoke, and the heavens of Antichrist (too).											
+zemljà	землꙗ̀	zemlja	zemlja	Nfsnn		218	2	3	nsubj					2										
+zadimi+	задими+	zadimi	zadimja	Vmia3se		218	3	0	root		49r	/img/satan/49r.JPG												
+se+	се+	se	se	Px---a		218	4	3	expl															
+zě`lo.	зѣ̀ло.	zělo	zělo	R		218	5	3	advmod															
+i+	и+	i	i	C		218	6	7	cc															
+nbsa+	нбса+	nbsa	nebe	Nnpnn		218	7	2	conj															
+antixrь_stova.	антихрь_стова.	antixrъstova	Antixristov	Anpnn		218	8	7	amod	poss				1										
+																								
+i+	и+	i	i	C		219	1	2	cc				And all his servants were filled with smoke by the burning of the sun.											
+zadimiše+	задимише+	zadimiše	zadimja	Vmii3se		219	2	0	root															
+s[e]+	с[е]+	se	se	Px---a		219	3	2	expl															
+vse+	все+	vse	vse	Afpnn		219	4	5	amod	det														
+slùge	слꙋ̀ге	sluge	sluga	Nfpny		219	5	2	nsubj					1										
+ego+	его+	ego	toi	Pp3msg		219	6	5	nmod	poss														
+wt+	ѿ+	ot	ot	Sg		219	7	8	case															
+gorěnïa.	горѣнїа.	gorěnia	gorenie	Nnsgn		219	8	2	obl															
+slnčanago+	слнчанаго+	slnčanago	slъnečen	Amsgy		219	9	8	amod															
+																								
+leža_xu+	лежа_хꙋ+	ležaxu	leža	Vmii3pi		220	1	0	root				They were lying on the ground as dead.	1										
+jako+	ꙗко+	jako	jako (2)	C		220	2	3	mark															
+mrьtvi+	мрьтви+	mrъtvi	mъrtъv	Ampnn		220	3	1	advcl															
+na+	на+	na	na	Sl		220	4	5	case															
+zemlì.	землѝ.	zemli	zemlja	Nfsdn		220	5	1	obl	loc														
+																								
+i+	и+	i	i	C		221	1	3	cc				And Antichrist was shoved down.			Punčo: <i>i antixrisь se saštisa ali nikakvo ne duma če go e sramь ot arxistratiga mixaila</i>								
+anti_xrьsь+	анти_хрьсь+	antixrъsъ	Antixrist	Nmsnn		221	2	3	nsubj					1										
+smete+	смете+	smete	smeta	Vmia3se		221	3	0	root															
+se,	се,	se	se	Px---a		221	4	3	expl															
+																								
+na+	на+	na	na	Sa		222	1	2	case				He did not dare to tell Michael (about) the burning (?)			< *<i>Mixaila radi</i> or iobj construction ?								
+mixàila	михàила	mixaila	Mixail	Nmsgy		222	2	6	obl	iobj				1										
+rad+	рад+	rad	rad	Amsnn		222	3	6	obl	pred														
+ne+	не+	ne	ne	Qz		222	4	6	advmod															
+smeše+	смеше+	smeše	smeja	Vaii3si		222	5	6	aux															
+povedeti+	поведети+	povedeti	povědati	Vmn---e		222	6	0	root															
+gorě_nïja.	горѣ_нїꙗ.	gorěnija	gorenie	Nnsgn		222	7	6	obj					1										
+																								
+na	на	na	na	Sa		223	1	2	case				Michael saw a sign in the heavens.											
+ss_bě`	сс_бѣ̀	ssbě	nebe	Nnsln		223	2	4	obl	loc														
+mixàilo+	михàило+	mixailo	Mixail	Nmsoy		223	3	4	nsubj															
+videše	видеше	videše	vidja	Vmii3si		223	4	0	root					1										
+znamenïe	знаменїе	znamenie	znamenie	Nnsnn		223	5	4	obj															
+																								
+pokrivaše+	покриваше+	pokrivaše	pokrivam	Vmii3si		224	1	0	root				It was covering him by an invisible cloud.											
+ego.	его.	ego	toi	Pp3msg		224	2	1	obj															
+ẅbla_komь.	ѡ̈бла_комь.	ẅblakomъ	oblak	Nmsin		224	3	1	obl					1										
+ne+	не+	ne	ne	Qz		224	4	5	advmod															
+vdimo	вдимо	vdimo	vidja	R	Vmpp-si	224	5	1	advmod															
+																								
+i+	и+	i	i	C		225	1	2	cc				And Michael said:											
+rče+	рче+	rče	reka	Vmia3se		225	2	0	root															
+mixaílo	михаи́ло	mixailo	Mixail	Nmsoy		225	3	2	nsubj					1										
+																								
+ẅ+	ѡ̈+	ẅ	o	I		226	1	2	discourse				ʺO son (?), what should we do?ʺ											
+sne+	сне+	sne	sin	Nmsvy		226	2	5	vocative							< *<i>silne</i> ?								
+čto+	что+	čto	čto	Pq		226	3	5	obj															
+da+	да+	da	da	C		226	4	5	aux	opt														
+sьtvorimo	сьтворимо	sъtvorimo	sъtvorja	Vmip1pe		226	5	0	root					1										
+																								
+jako+	ꙗко+	jako	jako (2)	C		227	1	3	cc				ʺFor the sun is hot and burning us.ʺ											
+slnce+	слнце+	slnce	slъnce	Nnsnn		227	2	3	nsubj															
+goruće	горꙋће	goruće	gorešt	Ansnn		227	3	0	root															
+jes.	ѥс.	jes	sъm	Vmip3si		227	4	3	cop															
+i+	и+	i	i	C		227	5	6	cc															
+žegu_šte+	жегꙋ_ще+	žegušte	žešti	Ansnn	Vmpp-sia	227	6	3	conj					1										
+nsь+	нсь+	nsъ	nie	Pp1-pg		227	7	6	obj															
+																								
+i+	и+	i	i	C		228	1	3	cc				ʺAnd the land is smoking by the great burn.ʺ											
+zemljà+	землꙗ̀+	zemlja	zemlja	Nfsnn		228	2	3	nsubj															
+dimi+	дими+	dimi	dimja	Vmip3si		228	3	0	root															
+se.	се.	se	se	Px---a		228	4	3	expl															
+wt+	ѿ+	ot	ot	Sg		228	5	7	case															
+vě_likago+	вѣ_ликаго+	vělikago	velik	Amsgy		228	6	7	amod					1										
+gorěnïa.	горѣнїа.	gorěnia	gorenie	Nnsgn		228	7	3	obl															
+																								
+i+	и+	i	i	C		229	1	4	cc				ʺAnd your forces lay as dead on the ground.ʺ											
+činovè	чиновѐ	činove	čin	Nmpnn		229	2	4	nsubj					1										
+tvoi+	твои+	tvoi	tvoi	Ampnn		229	3	2	amod	poss														
+ležetь´.	лежеть́.	ležetъ	leža	Vmip3pi		229	4	0	root															
+jako+	ꙗко+	jako	jako (2)	C		229	5	6	mark															
+mrь´tvi	мрь́тви	mrъtvi	mъrtъv	Ampnn		229	6	4	advcl					1										
+na+	на+	na	na	Sl		229	7	8	case															
+zemlì.	землѝ.	zemli	zemlja	Nfsdn		229	8	4	obl	loc														
+																								
+da+	да+	da	da	C		230	1	2	aux	opt			ʺCommand something, to do, so that we would not die!ʺ			Next to a synthetic imperative, the <i>da</i> particle seems redundant.								
+poveli+	повели+	poveli	povelja	Vmm-2se		230	2	0	root															
+čto+	что+	čto	čto	Pq		230	3	5	mark															
+da	да	da	da	C		230	4	3	fixed					1										
+sьtvorimo.	сьтворимо.	sъtvorimo	sъtvorja	Vmip1pi		230	5	2	advcl															
+da+	да+	da	da	C		230	6	8	mark															
+ne+	не+	ne	ne	Qz		230	7	8	advmod															
+pobnemo	побнемо	pobnemo	pogybnǫti	Vmip1pe		230	8	5	advcl					1										
+																								
+togda	тогда	togda	togda	Pr		231	1	3	advmod				Then, Satanael said:											
+satanailь+	сатанаиль+	satanailъ	Satanail	Nmsny		231	2	3	nsubj															
+rče.	рче.	rče	reka	Vmia3se		231	3	0	root															
+																								
+ne+	не+	ne	ne	Qz		232	1	2	advmod				ʺHave no fear, Michael!ʺ											
+boi+	бои+	boi	boja	Vmm-2si		232	2	0	root															
+se	се	se	se	Px---a		232	3	2	expl					1										
+mixaile.	михаиле.	mixaile	Mixail	Nmsvy		232	4	2	vocative															
+																								
+jesi+	ѥси+	jesi	sъm	Vaip2si		233	1	3	aux	prf			ʺHave you seen, by what kind of cunning I and my angelic forces live?ʺ											
+li+	ли+	li	li	Qq		233	2	3	advmod															
+vděẅ+	вдѣѡ̈+	vděẅ	vidja	Vmp--si	Amsnn	233	3	0	root															
+koeju	коею	koeju	koi	Afsiy	Pq---i	233	4	5	amod	mark				2										
+xitrostïju	хитростїю	xitrostiju	xitrost	Nfsin		233	5	7	obl		49v	/img/satan/49v.JPG												
+azь+	азь+	azъ	az	Pp1-sn		233	6	7	nsubj															
+živú.	живꙋ́.	živu	živeja	Vmip1si		233	7	3	advcl															
+i+	и+	i	i	C		233	8	10	cc							Punčo: <i>svi+te anggele se mene bojatь</i>								
+anglь_skïe+	англь_скїе+	anglъskie	angelski	Afpny		233	9	10	amod					1										
+sili	сили	sili	sila	Nfpnn		233	10	6	conj															
+moe,	мое,	moe	moi	Afpny		233	11	10	amod	poss														
+																								
+ne+	не+	ne	ne	Qz		234	1	2	advmod				ʺHave no fear of that fire!ʺ											
+boi+	бои+	boi	boja	Vmm-2si		234	2	0	root															
+se+	се+	se	se	Px---a		234	3	2	expl															
+wt+	ѿ+	ot	ot	Sg		234	4	5	case															
+wgnà	ѡгнà	ogna	ogъn	Nmsgn		234	5	2	obl					1										
+sego+	сего+	sego	sii	Pd-msg		234	6	5	det	p_nom						Unlike <i>Tale of Alexander the Elder</i> in the same manuscript, demonstratives are sometimes placed after the noun, especially in the second half of the text.								
+																								
+i+	и+	i	i	C		235	1	2	cc				ʺ(You have seen?) my mind.ʺ			The two fragments of sentences are not found in Punčo, nor in BAR 1282.								
+umь+	ꙋмь+	umъ	um	Nmsnn		235	2	0	root															
+moi+	мои+	moi	moi	Amsny		235	3	2	amod	poss														
+																								
+i+	и+	i	i	C		236	1	2	cc				ʺAnd (you have seen?) my power.ʺ											
+sila+	сила+	sila	sila	Nfsnn		236	2	0	root															
+moja	моꙗ	moja	moi	Afsny		236	3	2	amod	poss				1										
+																								
+mixailo+	михаило+	mixailo	Mixail	Nmsoy		237	1	2	nsubj				Michael said:											
+rče+	рче+	rče	reka	Vmia3se		237	2	0	root															
+																								
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	238	1	2	nsubj				ʺYou are powerful.ʺ											
+silьnь+	сильнь+	silъnъ	silen	Amsnn		238	2	0	root															
+jesi	ѥси	jesi	sъm	Vmip2si		238	3	2	cop					1										
+																								
+ne+	не+	ne	ne	Qz		239	1	2	advmod				ʺYou have no fear.ʺ											
+boiši	боиши	boiši	boja	Vmip2si		239	2	0	root															
+se,	се,	se	se	Px---a		239	3	2	expl															
+																								
+nu+	нꙋ+	nu	no	C		240	1	7	cc				ʺBut I cannot endure this heat.ʺ											
+azь+	азь+	azъ	az	Pp1-sn		240	2	7	nsubj															
+gorěšti+	горѣщи+	gorěšti	gorešt	Nfsgn		240	3	7	obj															
+sïe	сїе	sie	sii	Pd-fsg		240	4	3	det	p_nom				1										
+ne+	не+	ne	ne	Qz		240	5	6	advmod															
+mogu+	могꙋ+	mogu	moga	Vmip1si		240	6	7	aux															
+trьpeti.	трьпети.	trъpeti	tъrpja	Vmn---i		240	7	0	root															
+																								
+ne+	не+	ne	ne	Qz		241	1	2	advmod				ʺDon't you see, o powerful one?ʺ											
+vdiši	вдиши	vdiši	vidja	Vmip2si		241	2	0	root					1										
+li+	ли+	li	li	Qq		241	3	2	advmod															
+siwne+	сиѡне+	sione	silen	Amsvn		241	4	2	vocative															
+																								
+jerè	ѥрѐ	jere	ere	C		242	1	2	cc				ʺFor I left the Highest Father.ʺ											
+ẅstavix,	ѡ̈ставих,	ẅstavix	ostavja	Vmia1se		242	2	0	root															
+go_rnago+	го_рнаго+	gornago	goren	Amsgy		242	3	4	amod					1										
+ẅca	ѡ̈ца	ẅca	otec	Nmsgy		242	4	2	obj															
+																								
+i+	и+	i	i	C		243	1	2	cc				ʺAnd I came to you.ʺ											
+pridox,	придох,	pridox	priida	Vmia1se		243	2	0	root															
+k+	к+	k	k	Sd		243	3	4	case															
+tebě	тебѣ	tebě	ty	Pp2-sd		243	4	2	obl					1										
+																								
+i+	и+	i	i	C		244	1	4	cc				ʺAnd that is why the fire is burning me.ʺ											
+tgo+	тго+	tgo	toi	Pd-msg		244	2	4	obl															
+rad	рад	rad	radi	Sg		244	3	2	case															
+palit+	палит+	palit	palja	Vmip3si		244	4	0	root															
+me+	ме+	me	az	Pp1-sn		244	5	4	obj															
+wgnь`.	ѡгнь̀.	ognъ	ogъn	Nmsnn		244	6	4	nsubj															
+																								
+sata_nailь+	сата_наиль+	satanailъ	Satanail	Nmsny		245	1	2	nsubj				Satanael said to Michael:	1										
+rče+	рче+	rče	reka	Vmia3se		245	2	0	root															
+kь+	кь+	kъ	k	Sd		245	3	4	case															
+mixàilu	михàилꙋ	mixailu	Mixail	Nmsdy		245	4	2	obl															
+																								
+ne+	не+	ne	ne	Qz		246	1	2	advmod				ʺHave no fear of anything!ʺ											
+bo_i+	бо_и+	boi	boja	Vmm-2si		246	2	0	root					1										
+se+	се+	se	se	Px---a		246	3	2	expl															
+ništa,	нища,	ništa	ništo	Nnsgn		246	4	2	obl															
+																								
+znamь+	знамь+	znamъ	znaja	Vmip1si		247	1	0	root				ʺI know a big lake.ʺ											
+ezéro+	езе́ро+	ezero	ezero	Nnsnn		247	2	1	obj															
+veli_ko	вели_ко	veliko	velik	Ansnn		247	3	2	amod					1										
+																								
+i+	и+	i	i	C		248	1	2	cc				ʺAnd we will go to it to bathe, to calm ourselves, until the sun sets.ʺ											
+poći	поћи	poći	poida	Vmn---e	Vmia3se	248	2	0	root															
+ćemo+	ћемо+	ćemo	šta	Vaip1pi		248	3	2	aux	fut														
+kь+	кь+	kъ	k	Sd		248	4	5	case															
+nemu+	немꙋ+	nemu	to	Pp3nsd		248	5	2	obl															
+da	да	da	da	C		248	6	8	mark					1										
+se+	се+	se	se	Px---a		248	7	8	expl															
+ẅkúplemo.	ѡ̈кꙋ́племо.	ẅkuplemo	okъpja	Vmip1pe		248	8	2	advcl															
+da+	да+	da	da	C		248	9	10	mark															
+primi_mo	прими_мо	primimo	priema	Vmip1pe		248	10	8	advcl					1										
+xladь`	хладь̀	xladъ	xlad	Nmsnn		248	11	10	obj															
+dondeže+	дондеже+	dondeže	donьdeže	R		248	12	13	mark															
+zaće	заће	zaće	zaida	Vmip3se	Vmia3se	248	13	10	advcl					1										
+slnce.	слнце.	slnce	slъnce	Nnsnn		248	14	13	nsubj															
+																								
+i+	и+	i	i	C		249	1	2	cc				ʺAnd (then) we will go to the East.ʺ											
+poćimo+	поћимо+	poćimo	poida	Vmip1pe	Vmm-1pe	249	2	0	root															
+na+	на+	na	na	Sa		249	3	4	case															
+isto_kь.	исто_кь.	istokъ	iztok	Nmsnn		249	4	2	obl					1										
+																								
+i+	и+	i	i	C		250	1	2	cc				ʺAnd we will close the gates of sun, so that it cannot shine (on) us.ʺ											
+zatvori	затвори	zatvori	zatvorja	Vmn---e	Vmia3se	250	2	0	root															
+ćemo+	ћемо+	ćemo	šta	Vaip1pi		250	3	2	aux	fut														
+slncu	слнцꙋ	slncu	slъnce	Nnsdn		250	4	5	nmod					1										
+vrata.	врата.	vrata	vrata	Nnpnn		250	5	2	obj															
+da+	да+	da	da	C		250	6	10	mark															
+ne+	не+	ne	ne	Qz		250	7	8	advmod															
+možetь+	можеть+	možetъ	moga	Vmip3si		250	8	10	aux															
+nas	нас	nas	nie	Pp1-pg		250	9	10	obj					1										
+sïati.	сїати.	siati	sijaja	Vmn---i		250	10	2	advcl															
+																								
+slišavše+	слишавше+	slišavše	slyšati	Vmpa-pi	Ampnn	251	1	6	advcl				As Michael heard about the lake, he became glad.											
+mixailẅ	михаилѡ̈	mixailẅ	Mixail	Nmsoy		251	2	1	nsubj					2										
+ẅ+	ѡ̈+	ẅ	o (2)	Sl		251	3	4	case		50r	/img/satan/50r.JPG												
+ezeri	езери	ezeri	ezero	Nnsln		251	4	1	obl															
+i+	и+	i	i	C		251	5	6	cc															
+rad	рад	rad	rad	Amsnn		251	6	0	root															
+bis+	бис+	bis	bъda	Vmia3se		251	7	6	cop															
+																								
+erè	ерѐ	ere	ere	C		252	1	3	cc				For he was going to rob him.											
+xoteše	хотеше	xoteše	xotěti	Vaii3si		252	2	3	aux	fut				1										
+ẅpleniti+	ѡ̈пленити+	ẅpleniti	oplenja	Vmn---e		252	3	0	root															
+ego+	его+	ego	toi	Pp3msg		252	4	3	obj															
+																								
+i+	и+	i	i	C		253	1	2	cc				And he said to him:											
+rče+	рче+	rče	reka	Vmia3se		253	2	0	root															
+emú.	емꙋ́.	emu	toi	Pp3msd		253	3	2	obl	iobj														
+																								
+sī_ẅnè+	сӥ_ѡ̈нѐ+	siẅne	silen	Amsvn		254	1	2	vocative				ʺO powerful one, let us go to the lake!ʺ	1		Punčo: <i>o vldko vasesilne</i>								
+poidimo+	поидимо+	poidimo	poida	Vmm-1pe	Vmip1pe	254	2	0	root															
+na+	на+	na	na	Sa		254	3	4	case															
+ezéro.	езе́ро.	ezero	ezero	Nnsnn		254	4	2	obl	lat														
+																								
+to_gda+	то_гда+	togda	togda	Pr		255	1	2	advmod				Then Satanael (said) to his servants:	1										
+satanailь.	сатанаиль.	satanailъ	Satanail	Nmsny		255	2	0	root															
+slugmь+	слꙋгмь+	slugmъ	sluga	Nfpdy		255	3	2	obl	iobj														
+svoimь	своимь	svoimъ	svoi	Amsiy		255	4	3	amod	poss				1										
+																								
+strizite	стризите	strizite	strěžati	Vmm-2pi		256	1	0	root				ʺWatch Michael!ʺ											
+mixàila	михàила	mixaila	Mixail	Nmsgy		256	2	1	obj															
+																								
+i+	и+	i	i	C		257	1	2	cc				ʺAnd guard (him) well!ʺ											
+vьpa_zite+	вьпа_зите+	vъpazite	upazja	Vmm-2pe		257	2	0	root					1										
+mnògo.	мно̀го.	mnogo	mnogo	R		257	3	2	advmod															
+																								
+eda+	еда+	eda	eda	Qq		258	1	6	aux	opt			ʺMay he does not take, by intrigues or lies, the gratitude (?) from me,ʺ			Punčo: <i>če onь sasь lukavština i sasь lьža doide pri nasь da ni otьvne dobro+to naše</i><br/>See the dictionary entry for details on the construction <i>eda kako</i>.								
+kako+	како+	kako	kako	Pq		258	2	1	fixed															
+luka_stvomь.	лꙋка_ствомь.	lukastvomъ	lukavstvo	Nnsin		258	3	6	obl					1										
+ili+	или+	ili	ili	C		258	4	5	cc															
+lьžïju+	льжїю+	lъžiju	lъža	Nfsin		258	5	3	conj															
+vьzme_tь	вьзме_ть	vъzmetъ	vzema	Vmip3se		258	6	0	root					1										
+blgo_darenïe	блго_даренїе	blgodarenie	blagodarenie	Nnsnn		258	7	6	obj							BAR 1282: <i>darurile</i>								
+wt+	ѿ+	ot	ot	Sg		258	8	9	case															
+mne	мне	mne	az	Pp1-sd		258	9	6	obl							A Slovakism?								
+i+	и+	i	i	C		258	10	11	cc				ʺand (may he does not) make me (appear) not pretty and not glorious!ʺ											
+sь_tvoritь	сь_творить	sъtvoritъ	sъtvorja	Vmip3se		258	11	6	conj					1										
+mene.	мене.	mene	az	Pp1-sg		258	12	11	obj															
+ne+	не+	ne	ne	Qz		258	13	14	amod															
+lepa	лепа	lepa	lěp	Amsgn		258	14	11	obl	pred				1										
+i+	и+	i	i	C		258	15	17	cc															
+ne+	не+	ne	ne	Qz		258	16	17	amod															
+slàvnà.	слàвнà.	slavna	slaven	Amsgn		258	17	14	conj															
+																								
+da+	да+	da	da	C		259	1	4	mark				ʺIf that would happen, I will be (left) for mockery to my servants.ʺ											
+ašte+	аще+	ašte	ašte	C		259	2	1	fixed															
+tako	тако	tako	taka	Pr		259	3	4	advmod					1										
+budetь.	бꙋдеть.	budetъ	bъda	Vmip3se		259	4	7	advcl															
+vь+	вь+	vъ	v	Sa		259	5	6	case															
+posměx+	посмѣх+	posměx	posměx	Nmsnn		259	6	7	obl															
+bdu+	бдꙋ+	bdu	bъda	Vmip1se		259	7	0	root															
+slú_gamь+	слꙋ́_гамь+	slugamъ	sluga	Nfpdy		259	8	7	obl	iobj				1										
+moimь.	моимь.	moimъ	moi	Afpdy		259	9	8	amod	poss														
+																								
+i+	и+	i	i	C		260	1	2	cc				ʺAnd my angels will say:ʺ											
+glati+	глати+	glati	glagolati	Vmn---i		260	2	0	root															
+xo_te+	хо_те+	xote	xotěti	Vmip3pi	Vmpp-sia	260	3	2	aux	fut				1										
+aggli+	аггли+	aggli	angel	Nmpny		260	4	2	nsubj															
+moi.	мои.	moi	moi	Amsny		260	5	4	amod	poss														
+																								
+se+	се+	se	se (2)	Qd		261	1	0	root				ʺBehold, our poor king!ʺ											
+knézь+	кне́зь+	knezъ	knęz	Nmsny		261	2	1	nsubj															
+nšь	ншь	nšъ	naš	Amsnn		261	3	2	amod	poss				1										
+úbogь+	ꙋ́богь+	ubogъ	ubog	Amsnn		261	4	2	amod															
+																								
+i+	и+	i	i	C		262	1	2	cc				ʺAnd: He is robbed (by?) Michael.ʺ			Punčo: <i>no pazete dobre mixaila</i><br/>BAR 1282: <i>Iară Mihail va rîde de mine</i>								
+plenenь+	пленень+	plenenъ	plenja	Vmpa-se	Amsnn	262	2	0	root															
+jes	ѥс	jes	sъm	Vaip3si		262	3	2	aux	pass														
+na+	на+	na	na	Sa		262	4	5	case															
+mì_xaila	мѝ_хаила	mixaila	Mixail	Nmsgy		262	5	2	obl					1										
+i+	и+	i	i	C		262	6	7	cc															
+semь.	семь.	semъ	sii	Pd-msl		262	7	2	discourse															
+																								
+azь+	азь+	azъ	az	Pp1-sn		263	1	2	nsubj				ʺI am the lord!ʺ											
+esmь+	есмь+	esmъ	sъm	Vmip1si		263	2	0	root															
+gь	гь	gъ	gospodin	Nmsny		263	3	2	obl	pred				1										
+																								
+da+	да+	da	da	C		264	1	2	aux	opt			ʺMay no one dares to do (something) evil (to me)!ʺ											
+smètь+	смѐть+	smetъ	směja	Vmip3si		264	2	0	root															
+nikto.	никто.	nikto	nikъtože	Pz		264	3	2	nsubj															
+lukavo	лꙋкаво	lukavo	lukav	Ansnn		264	4	5	obj					1										
+sьtvoriti.	сьтворити.	sъtvoriti	sъtvorja	Vmn---e		264	5	2	advcl															
+																								
+i+	и+	i	i	C		265	1	2	cc				And, having taken his servants, they went to the lake.											
+vьzmь+	вьзмь+	vъzmъ	vzema	Vmpp-sea	Amsnn	265	2	6	advcl							The participle does not agree in number with the main verb. Punčo: <i>xaidate vie sasь mene na ezero i oni poidoxu i arxggelь mixailь poide sasь antixrista zaedno</i>								
+slù_gi+	слꙋ̀_ги+	slugi	sluga	Nfpny		265	3	2	obj					1										
+svoe+	свое+	svoe	svoi	Afpny		265	4	3	amod	poss														
+i+	и+	i	i	C		265	5	6	cc															
+podoše,	подоше,	podoše	poida	Vmia3pe		265	6	0	root															
+na+	на+	na	na	Sa		265	7	8	case															
+ezero	езеро	ezero	ezero	Nnsnn		265	8	6	obl					2										
+																								
+i+	и+	i	i	C		266	1	2	cc		50v	/img/satan/50v.JPG	And they discussed about God, how they will close the way for the sun.											
+besědovaxu+	бесѣдовахꙋ+	besědovaxu	besědovati	Vmii3pi		266	2	0	root															
+ẅ+	ѡ̈+	ẅ	o (2)	Sl		266	3	4	case															
+bgu.	бгꙋ.	bgu	bog	Nmsdy		266	4	2	obl															
+ka_ko+	ка_ко+	kako	kako	Pq		266	5	7	mark					1										
+xote+	хоте+	xote	xotěti	Vaip3pi		266	6	7	aux	fut														
+zatvoriti+	затворити+	zatvoriti	zatvorja	Vmn---e		266	7	2	advcl															
+pútь	пꙋ́ть	putъ	pǫt	Nmsnn		266	8	7	obj					1										
+slncú.	слнцꙋ́.	slncu	slъnce	Nnsdn		266	9	8	nmod															
+																								
+i+	и+	i	i	C		267	1	2	cc				And Michael said to Antichrist:											
+rče+	рче+	rče	reka	Vmia3se		267	2	0	root															
+mixàilo+	михàило+	mixailo	Mixail	Nmsoy		267	3	2	nsubj															
+kь+	кь+	kъ	k	Sd		267	4	5	case															
+anti_xrь`stú	анти_хрь̀стꙋ́	antixrъstu	Antixrist	Nmsdy		267	5	2	obl	iobj				1										
+																								
+gdne+	гдне+	gdne	gospodin	Nmsvy		268	1	2	vocative				ʺO lord, (let us) haste for (?) the sun!ʺ											
+pospešimo+	поспешимо+	pospešimo	pospěšiti	Vmip1pe		268	2	0	root															
+se	се	se	se	Px---a		268	3	2	expl					1										
+za+	за+	za	za	Sa		268	4	5	case															
+slnca.	слнца.	slnca	slъnce	Nnpnn		268	5	2	obl															
+																								
+a	а	a	a	C		269	1	6	cc				ʺAnd what we would do afterwards?ʺ											
+po+	по+	po	po	Sl		269	2	3	case															
+tom+	том+	tom	tъ	Pd-msl		269	3	6	obl															
+čto+	что+	čto	čto	Pq---n		269	4	6	obj															
+xoštemo	хощемо	xoštemo	xotěti	Vaip1pi		269	5	6	aux	fut				1										
+sьtvoriti+	сьтворити+	sъtvoriti	sъtvorja	Vmn---e		269	6	0	root															
+vь+	вь+	vъ	v	Sl		269	7	8	case															
+skore.	скоре.	skore	skoro	R		269	8	6	advmod															
+																								
+i+	и+	i	i	C		270	1	3	cc				And they went in haste towards the lake.											
+to_gda	то_гда	togda	togda	Pr		270	2	3	advmod					1										
+idosta+	идоста+	idosta	ida	Vmia3pi		270	3	0	root															
+na+	на+	na	na	Sa		270	4	5	case															
+pospex,	поспех,	pospex	pospěx	Nmsnn		270	5	3	obl															
+do+	до+	do	do	Sg		270	6	7	case															
+ezè_ra+	езѐ_ра+	ezera	ezero	Nnsgn		270	7	3	obl					1										
+																								
+i+	и+	i	i	C		271	1	3	cc				And thus spoke Satanael to Michael:											
+takoi+	такои+	takoi	taka	Pr		271	2	3	advmod															
+rče+	рче+	rče	reka	Vmia3se		271	3	0	root															
+satanailь+	сатанаиль+	satanailъ	Satanail	Nmsny		271	4	3	nsubj															
+kь	кь	kъ	k	Sd		271	5	6	case					1										
+mixaílu+	михаи́лꙋ+	mixailu	Mixail	Nmsdy		271	6	3	obl	iobj														
+																								
+vьlězi+	вьлѣзи+	vъlězi	vlěza	Vmm-2se		272	1	0	root				ʺGo in to receive coolness!ʺ											
+da+	да+	da	da	C		272	2	3	mark															
+primi_ši+	прими_ши+	primiši	priema	Vmip2se		272	3	1	advcl					1										
+xládь.	хлáдь.	xladъ	xlad	Nmsnn		272	4	3	obj															
+																								
+azь+	азь+	azъ	az	Pp1-sn		273	1	4	nsubj				ʺAnd I will serve you.ʺ											
+že+	же+	že	že	Qg		273	2	4	cc															
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	273	3	4	obl	iobj														
+poslù_žu+	послꙋ̀_жꙋ+	poslužu	posluža	Vmip1se		273	4	0	root					1										
+																								
+jako	ꙗко	jako	jako (2)	C		274	1	2	cc				ʺBecause you are dear to me.ʺ											
+dragь+	драгь+	dragъ	drag	Amsnn		274	2	0	root															
+mi+	ми+	mi	az	Pp1-sd		274	3	2	obl	iobj														
+jesi.	ѥси.	jesi	sъm	Vmip2si		274	4	2	cop															
+																								
+rče	рче	rče	reka	Vmia3se		275	1	0	root				Michael said:	1										
+mixàilà+	михàилà+	mixaila	Mixail	Nmsgy		275	2	1	nsubj															
+																								
+n+	н+	n	ne	Qz		276	1	2	advmod				ʺA servant is not greater than his lord.ʺ											
+estь.	есть.	estъ	sъm	Vmip3si		276	2	4	cop															
+rabь`+	рабь̀+	rabъ	rab	Nmsny		276	3	4	nsubj															
+boli	боли	boli	bolii	Amsnn		276	4	0	root					1										
+gdna+	гдна+	gdna	gospodin	Nmsgy		276	5	4	nmod															
+svoego.	своего.	svoego	svoi	Amsgy		276	6	5	amod	poss														
+																								
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	277	1	4	nsubj				ʺYou were the first in heavens.ʺ											
+na+	на+	na	na	Sl		277	2	3	case															
+nbsjexь	нбсѥхь	nbsjexъ	nebe	Nnpln		277	3	4	obl	loc				1										
+prьvi+	прьви+	prъvi	pъrvi	Amsny		277	4	0	root															
+jesi+	ѥси+	jesi	sъm	Vaip3si		277	5	6	aux	prf														
+bilь´.	биль́.	bilъ	sъm	Vmp--si	Amsnn	277	6	4	cop															
+																								
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	278	1	5	cc				ʺSo, you will be the first in depths.ʺ											
+ubo+	ꙋбо+	ubo	ubo	C		278	2	5	advmod															
+vь	вь	vъ	v	Sl		278	3	4	case					1										
+glь`bini	гль̀бини	glъbini	glǫbina	Nfpnn		278	4	5	obl	loc						The word seems to be a Bulgarism: first for the jer reflecting an *ǫ, then for the case - a locative like in previous sentence would be expected. The sentence is not found in Punčo's version, nor in BAR 1282.								
+prь`vi+	прь̀ви+	prъvi	pъrvi	Amsny		278	5	0	root															
+xoštešь	хощешь	xoštešъ	xotěti	Vaip2si		278	6	7	aux	fut				1										
+biti.	бити.	biti	sъm	Vmn---i		278	7	5	cop															
+																								
+azь+	азь+	azъ	az	Pp1-sn		279	1	6	nsubj				ʺFor I don't know the depth(s) of the lake.ʺ											
+bo+	бо+	bo	bo	C		279	2	6	cc															
+glь`bini	гль̀бини	glъbini	glǫbina	Nfsgn	Nfpnn	279	3	6	obj															
+eze_ru	езе_рꙋ	ezeru	ezero	Nnsdn		279	4	3	nmod					1										
+ne+	не+	ne	ne	Qz		279	5	6	advmod															
+znamь.	знамь.	znamъ	znaja	Vmip1si		279	6	0	root															
+																								
+i+	и+	i	i	C		280	1	2	cc				ʺAnd I fear the filthy animal, and the dragon, whom the Father created.ʺ											
+boju+	бою+	boju	boja	Vmip1si		280	2	0	root															
+se+	се+	se	se	Px---a		280	3	2	expl															
+mrь_skoga	мрь_скога	mrъskoga	morski	Amsgy		280	4	5	amod					1										
+zvě`ra+	звѣ̀ра+	zvěra	zvěr	Nmsgn		280	5	2	obl															
+i+	и+	i	i	C		280	6	7	cc															
+zmïja	змїꙗ	zmija	zmei	Nmsgn		280	7	5	conj															
+egože	егоже	egože	iže	Pr-msg		280	8	10	mark					2		Punčo: <i>štoto e tebe sozdala</i>								
+wtcь+	ѿць+	otcъ	otec	Nmsny		280	9	10	nsubj		51r	/img/satan/51r.JPG												
+sazda.	сазда.	sazda	sъzdam	Vmia3se		280	10	7	acl															
+																								
+na+	на+	na	pa	C		281	1	3	cc				ʺBut you are strong.ʺ											
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	281	2	3	nsubj															
+silanь+	силань+	silanъ	silen	Amsnn		281	3	0	root															
+jesì	ѥсѝ	jesi	sъm	Vmip2si		281	4	3	cop					1										
+																								
+i+	и+	i	i	C		282	1	3	cc				ʺAnd you will tame the dragon by your power.ʺ											
+zmïja+	змїꙗ+	zmija	zmei	Nmsgn		282	2	3	obj															
+ukrotiši+	ꙋкротиши+	ukrotiši	ukrotja	Vmip2se		282	3	0	root															
+silòju	сило̀ю	siloju	sila	Afsin		282	4	3	obl															
+svo_ejù.	сво_ею̀.	svoeju	svoi	Afsiy		282	5	4	amod	poss				1										
+																								
+i+	и+	i	i	C		283	1	4	cc				ʺAnd then, I will enter.ʺ											
+togda+	тогда+	togda	togda	Pr		283	2	4	advmod															
+azь+	азь+	azъ	az	Pp1-sn		283	3	4	nsubj															
+vlězi+	влѣзи+	vlězi	vlěza	Vmip3se		283	4	0	root															
+																								
+mene+	мене+	mene	az	Pp1-sn		284	1	4	obl				ʺAnd it is more appropriate for me to serve you.ʺ											
+ž[e]	ж[е]	že	že	Qd		284	2	4	cc					1										
+pače+	паче+	pače	pače	R		284	3	4	advmod															
+podobaetь.	подобаеть.	podobaetъ	podobati	Vmip3si		284	4	0	root															
+posluži_ti+	послꙋжи_ти+	poslužiti	posluža	Vmn---e		284	5	4	advcl					1										
+tebě.	тебѣ.	tebě	ty	Pp2-sd		284	6	5	obl	iobj														
+																								
+togda+	тогда+	togda	togda	Pr		285	1	3	advmod				Then, Satanael put off his clothes, and the wreath,											
+satanailь	сатанаиль	satanailъ	Satanail	Nmsny		285	2	3	nsubj					1										
+sьnetь+	сьнеть+	sъnetъ	sъnęti	Vmia3se		285	3	0	root															
+ẅděždou+	ѡ̈дѣждоу+	ẅděždou	odežda	Nfsan		285	4	3	obj															
+svoju+	свою+	svoju	svoi	Afsay		285	5	5	amod	poss														
+i+	и+	i	i	C		285	6	7	cc															
+vě_ncь+	вѣ_нць+	věncъ	venec	Nmsnn		285	7	4	conj					1										
+i+	и+	i	i	C		285	8	10	cc				and all the glory he had received from the angels of God.											
+vsù+	всꙋ̀+	vsu	vse	Afsan		285	9	10	amod	det														
+slàvu.	слàвꙋ.	slavu	slava	Nfsan		285	10	7	conj															
+juže+	юже+	juže	iže	Pr-fsa		285	11	13	mark															
+beše	беше	beše	sъm	Vaii3si		285	12	13	aux	pprf				1										
+prielь+	приель+	prielъ	priema	Vmp--se	Amsnn	285	13	10	acl															
+wt+	ѿ+	ot	ot	Sg		285	14	15	case															
+anglь+	англь+	anglъ	angel	Nmpgy		285	15	13	obl															
+bžix,	бжих,	bžix	božii	Ampgy		285	16	15	amod	poss														
+																								
+i+	и+	i	i	C		286	1	2	cc				And he gave (it) to Michael to hands.											
+das_tь	дас_ть	dastъ	dam	Vmia3se		286	2	0	root					1										
+mixaìlu	михаѝлꙋ	mixailu	Mixail	Nmsdy		286	3	2	obl	iobj														
+vь+	вь+	vъ	v	Sa		286	4	5	case															
+rúce+	рꙋ́це+	ruce	rъka	Nfdnn		286	5	2	obl	lat														
+																								
+i+	и+	i	i	C		287	1	2	cc				And he said to Michael:											
+rče+	рче+	rče	reka	Vmia3se		287	2	0	root															
+emú	емꙋ́	emu	toi	Pp3msd		287	3	4	expl					1										
+mixàilú.	михàилꙋ́.	mixailu	Mixail	Nmsdy		287	4	2	obl	iobj														
+																								
+da+	да+	da	da	C		288	1	4	aux	opt			ʺMay you are not deceived about me!ʺ											
+se+	се+	se	se	Px---a		288	2	4	expl															
+ne+	не+	ne	ne	Qz		288	3	4	advmod															
+sьbla_zniši+	сьбла_зниши+	sъblazniši	sъblaznja	Vmip2se		288	4	0	root					1										
+ẅ+	ѡ̈+	ẅ	o (2)	Sl		288	5	6	case															
+mně`.	мнѣ̀.	mně	az	Pp1-sd		288	6	4	obl															
+																								
+i+	и+	i	i	C		289	1	4	cc				Then, Michael said to him:											
+togda+	тогда+	togda	togda	Pr		289	2	4	advmod															
+mi_xailo	ми_хаило	mixailo	Mixail	Nmsoy		289	3	4	nsubj					1										
+rče+	рче+	rče	reka	Vmia3se		289	4	0	root															
+kь+	кь+	kъ	k	Sd		289	5	6	case															
+nemu.	немꙋ.	nemu	toi	Pp3msd		289	6	4	obl															
+																								
+tako+	тако+	tako	taka	Pr		290	1	0	root				ʺThus (is) to me your power.ʺ											
+mi	ми	mi	az	Pp1-sd		290	2	1	obl	iobj				1										
+silè+	силѐ+	sile	sila	Nfpnn	Nfsdn	290	3	1	nsubj															
+tvoe.	твое.	tvoe	tvoi	Afpny		290	4	3	amod	poss														
+																								
+ne+	не+	ne	ne	Qz		291	1	2	advmod				ʺYou have no evil cunning in me.ʺ											
+imaši+	имаши+	imaši	imam	Vmip2si		291	2	0	root															
+lu_kastvà	лꙋ_каствà	lukastva	lukavstvo	Nnpnn	Nnsgn	291	3	2	obj					1										
+vь+	вь+	vъ	v	Sl		291	4	5	case															
+mene.	мене.	mene	az	Pp1-sg		291	5	2	obl	loc														
+																								
+i+	и+	i	i	C		292	1	3	cc				And again, Satanael secretly spoke to his servants:											
+paki	паки	paki	paki	R		292	2	3	advmod					1										
+rče	рче	rče	reka	Vmia3se		292	3	0	root															
+satanailь	сатанаиль	satanailъ	Satanail	Nmsny		292	4	3	nsubj															
+ẅtae	ѡ̈тае	otae	otai	R		292	5	3	advmod															
+slugamь	слꙋгамь	slugamъ	sluga	Nfpdy		292	6	3	obl	iobj				1										
+svoimь.	своимь.	svoimъ	svoi	Afpdy		292	7	6	amod	poss														
+																								
+strь`zite	стрь̀зите	strъzite	strěžati	Vmm-2pi		293	1	0	root				ʺGuard Michael well!ʺ	1										
+mixáila+	михáила+	mixaila	Mixail	Nmsgy		293	2	1	obj															
+tvrь`do.	тврь̀до.	tvrъdo	tvъrdo	R		293	3	1	advmod															
+																								
+i+	и+	i	i	C		294	1	2	cc				And he entered the lake to bathe.											
+vь_leze+	вь_лезе+	vъleze	vlěza	Vmia3se		294	2	0	root					1										
+kupati+	кꙋпати+	kupati	kъpja	Vmn---i		294	3	2	advcl															
+se.	се.	se	se	Px---a		294	4	3	expl															
+vь+	вь+	vъ	v	Sa		294	5	6	case															
+ezéro	езе́ро	ezero	ezero	Nnsnn		294	6	2	obl	lat				2										
+																								
+i+	и+	i	i	C		295	1	5	cc		51v	/img/satan/51v.JPG	And having entered, he went out again.											
+vьlezь`	вьлезь̀	vъlezъ	vlěza	Vmpa-sea	Amsnn	295	2	5	advcl															
+i+	и+	i	i	C		295	3	5	cc															
+paki+	паки+	paki	paki	R		295	4	5	advmod															
+izide.	изиде.	izide	izida	Vmia3se		295	5	0	root															
+																								
+i+	и+	i	i	C		296	1	2	cc				And he saw Michael reaching (?) the heavens with eyes and preparing himself.											
+vdě	вдѣ	vdě	vidja	Vmia3si		296	2	0	root					1										
+mixailà+	михаилà+	mixaila	Mixail	Nmsgy		296	3	2	obj															
+imuštago+	имꙋщаго+	imuštago	ęti	Vmpp-sia	Amsgy	296	4	3	acl															
+wčíma	ѡчи́ма	očima	oko	Nnddn		296	5	4	obl					1										
+nbo.	нбо.	nbo	nebe	Nnsnn		296	6	4	obj															
+i+	и+	i	i	C		296	7	8	cc															
+gotovešta+	готовеща+	gotovešta	gotvja	Vmpp-sia	Amsgn	296	8	4	conj															
+se.	се.	se	se	Px---a		296	9	8	expl															
+																								
+i+	и+	i	i	C		297	1	2	cc				And he said to him:											
+rče+	рче+	rče	reka	Vmia3se		297	2	0	root															
+je_mu	ѥ_мꙋ	jemu	toi	Pp3msd		297	3	2	obl	iobj				1										
+																								
+mixàile+	михàиле+	mixaile	Mixail	Nmsvy		298	1	3	vocative				ʺO Michael, you always swear to me by my power.ʺ											
+vьse	вьсе	vъse	vse	R		298	2	3	advmod															
+klьneši	кльнеши	klъneši	kъlna	Vmip2si		298	3	0	root					1										
+mi+	ми+	mi	az	Pp1-sd		298	4	3	obl	iobj														
+se+	се+	se	se	Px---a		298	5	3	expl															
+silòju+	сило̀ю+	siloju	sila	Nfsin		298	6	3	obl															
+moeju.	моею.	moeju	moi	Afsiy		298	7	6	amod	poss														
+																								
+na+	на+	na	pa	C		299	1	2	cc				ʺSo swear by the Highest Father, so that I will have no worries!ʺ											
+zaklь`_ni+	закль̀_ни+	zaklъni	zakъlna	Vmm-2se		299	2	0	root					1										
+mi+	ми+	mi	az	Pp1-sd		299	3	2	obl	iobj														
+se+	се+	se	se	Px---a		299	4	2	expl															
+vь+	вь+	vъ	v	Sl		299	5	7	case															
+višnimь+	вишнимь+	višnimъ	višen	Amsiy		299	6	7	amod															
+ẅce_mь+	ѡ̈це_мь+	ocemъ	otec	Nmsiy		299	7	2	obl					1										
+da+	да+	da	da	C		299	8	10	mark															
+bdu,	бдꙋ,	bdu	bъda	Vmip1se		299	9	10	cop															
+bezpečalanь`.	безпечалань̀.	bezpečalanъ	bespečalьn	Amsnn		299	10	2	advcl															
+																								
+vdě	вдѣ	vdě	vidja	Vmia3si		300	1	0	root				Michael saw, that he could not deceive his evil cunning.	1										
+mixàilь`+	михàиль̀+	mixailъ	Mixail	Nmsny		300	2	1	nsubj															
+jako+	ꙗко+	jako	jako (2)	C		300	3	6	mark															
+ne+	не+	ne	ne	Qz		300	4	5	advmod															
+može	може	može	moga	Vmia3si	Vmip3si	300	5	6	aux															
+sь_lь`gati.	сь_ль̀гати.	sъlъgati	sъlъgati	Vmn---e		300	6	1	advcl					1										
+lúkastvù+	лꙋ́каствꙋ̀+	lukastvu	lukavstvo	Nnsdn		300	7	6	obl	iobj														
+ego	его	ego	toi	Pp3msg		300	8	7	nmod	poss														
+																								
+i+	и+	i	i	C		301	1	3	cc				And again, he said:											
+pa_ki+	па_ки+	paki	paki	R		301	2	3	advmod					1										
+rče+	рче+	rče	reka	Vmia3se		301	3	0	root															
+																								
+tako+	тако+	tako	taka	Pr		302	1	0	root				ʺThus (is) to me your power and the power of (?) the Highest Father.ʺ											
+mi+	ми+	mi	az	Pp1-sd		302	2	1	obl	iobj														
+silè+	силѐ+	sile	sila	Nfpnn		302	3	1	nsubj															
+tvoe	твое	tvoe	tvoi	Afpny		302	4	3	amod	poss				1										
+vldko.	влдко.	vldko	vladika	Nfsvy		302	5	4	vocative															
+i+	и+	i	i	C		302	6	7	cc															
+sile+	силе+	sile	sila	Nfpnn		302	7	3	conj															
+vь+	вь+	vъ	v	Sl		302	8	10	case															
+višnago	вишнаго	višnago	višen	Amsgy		302	9	10	amod					1										
+wtca+	ѿца+	otca	otec	Nmsgy		302	10	7	nmod															
+																								
+n+	н+	n	ne	Qz		303	1	2	advmod				ʺThere is no evil cunning in me.ʺ											
+ěstь`	ѣсть̀	ěstъ	sъm	Vmip3si		303	2	0	root															
+ljukastva.	люкаства.	ljukastva	lukavstvo	Nnsgn		303	3	2	nsubj															
+vь	вь	vъ	v	Sl		303	4	5	case					1										
+mně`.	мнѣ̀.	mně	az	Pp1-sd		303	5	2	obl	loc														
+																								
+togda+	тогда+	togda	togda	Pr		304	1	3	advmod				Then the evil one said:											
+lukavi+	лꙋкави+	lukavi	lukav	Amsny		304	2	3	nsubj															
+rče+	рче+	rče	reka	Vmia3se		304	3	0	root															
+																								
+n+	н+	n	ne	Qz		305	1	2	advmod				ʺThere is no evil cunning in Michael.ʺ											
+ěstь+	ѣсть+	ěstъ	sъm	Vmip3si		305	2	0	root					1										
+lùkastvà.	лꙋ̀каствà.	lukastva	lukavstvo	Nnsgn		305	3	2	nsubj															
+vь+	вь+	vъ	v	Sl		305	4	5	case															
+mixàilù	михàилꙋ̀	mixailu	Mixail	Nmsdy		305	5	2	obl	loc				1										
+																								
+i+	и+	i	i	C		306	1	2	cc				And he put off all the worries and fear.											
+wtloži+	ѿложи+	otloži	otloža	Vmia3se		306	2	0	root															
+se+	се+	se	vse	Afpnn		306	3	4	amod	det														
+skrь`bi+	скрь̀би+	skrъbi	skъrb	Nfpnn		306	4	2	obj															
+i+	и+	i	i	C		306	5	6	cc															
+strax.	страх.	strax	strax	Nmsnn		306	6	4	conj					1										
+																								
+i+	и+	i	i	C		307	1	2	cc				And he waved with his dishonorable wings.											
+trepetnù+	трепетнꙋ̀+	trepetnu	trepna	Vmia3se		307	2	0	root															
+ne+	не+	ne	ne	Qz		307	3	4	amod															
+čsьtivemi	чсьтивеми	čsъtivemi	čestiv	Anpin		307	4	5	amod					1										
+kriẅma+	криѡ̈ма+	kriẅma	krilo	Nnddn		307	5	2	obl															
+svoima.	своима.	svoima	svoi	Anddn		307	6	5	amod	poss														
+																								
+i+	и+	i	i	C		308	1	2	cc				And he descended into the deepest (depths) of the lake.											
+sьni_de+	сьни_де+	sъnide	sъniti	Vmia3se		308	2	0	root					1										
+vь+	вь+	vъ	v	Sa		308	3	4	case															
+prěspodna	прѣсподна	prěspodna	prěspodьn	Anpnn		308	4	2	obl	lat														
+ezerù	езерꙋ̀	ezeru	ezero	Nnsdn		308	5	4	nmod															
+																								
+i+	и+	i	i	C		309	1	5	cc				And a voice (?) and thunder came up in the waters from the descent of the evil one.											
+glsь	глсь	glsъ	glas	Nmsnn		309	2	5	nsubj					2										
+i+	и+	i	i	C		309	3	4	cc		52r	/img/satan/52r.JPG												
+gromь+	громь+	gromъ	grom	Nmsnn		309	4	2	conj															
+bьïs	бьїс	bъis	bъda	Vmia3se		309	5	0	root															
+vь+	вь+	vъ	v	Sl		309	6	7	case															
+vodax.	водах.	vodax	voda	Nfpln		309	7	5	obl	loc														
+wt+	ѿ+	ot	ot	Sg		309	8	9	case															
+sьxo_ždenïa+	сьхо_жденїа+	sъxoždenia	sъxoždenie	Nnsgn		309	9	5	obl					1										
+lukavago.	лꙋкаваго.	lukavago	lukav	Amsgy		309	10	9	nmod															
+																								
+i+	и+	i	i	C		310	1	2	cc				And it killed many fish and animals of the earth and the sea.											
+sьtrь	сьтрь	sъtrъ	sъtrěti	Vmia3se		310	2	0	root					1										
+množьstvo+	множьство+	množъstvo	množestvo	Nnsnn		310	3	2	obj															
+ribь+	рибь+	ribъ	riba	Nfpgn		310	4	3	nmod															
+i+	и+	i	i	C		310	5	6	cc															
+zvěri	звѣри	zvěri	zvěr	Nfsgn		310	6	4	conj					1										
+zemlь`niix	земль̀ниих	zemlъniix	zemlen	A-pgy		310	7	4	amod															
+i+	и+	i	i	C		310	8	9	cc															
+morьskix.	морьских.	morъskix	morski	A-pgy		310	9	7	conj															
+																								
+i+	и+	i	i	C		311	1	2	cc				And the dragon heard the mighty voice of the thunder.											
+uslì_ša+	ꙋслѝ_ша+	usliša	uslyšati	Vmia3se		311	2	0	root					1										
+zmь`i+	змь̀и+	zmъi	zmei	Nmsny		311	3	2	nsubj															
+glsь+	глсь+	glsъ	glas	Nmsnn		311	4	2	obj															
+groma+	грома+	groma	grom	Nmsgn		311	5	4	nmod															
+velikь`	великь̀	velikъ	velik	Amsnn		311	6	4	amod					1										
+																								
+i+	и+	i	i	C		312	1	2	cc				And as Satanael stood in the deepest depths, (the dragon) grasped him (to fight).											
+stoeštu+	стоещꙋ+	stoeštu	stoja	Vmpp-sia		312	2	8	advcl															
+satanailú+	сатанаилꙋ́+	satanailu	Satanail	Nmsdy		312	3	2	nsubj															
+vь	вь	vъ	v	Sl		312	4	6	case					1										
+prěspodnex	прѣсподнех	prěspodnex	prěspodьn	Afpgn		312	5	6	amod															
+glь`binax.	гль̀бинах.	glъbinax	glǫbina	Nfpln		312	6	2	obl	loc														
+i+	и+	i	i	C		312	7	8	cc															
+xva_ti+	хва_ти+	xvati	xvatja	Vmia3se		312	8	0	root					1										
+se+	се+	se	se	Px---a		312	9	8	expl															
+sь+	сь+	sъ	s	Si		312	10	11	case															
+nimь.	нимь.	nimъ	toi	Pp3msi		312	11	8	obl															
+																								
+i+	и+	i	i	C		313	1	2	cc				And the dragon said to him:											
+rče+	рче+	rče	reka	Vmia3se		313	2	0	root															
+emu+	емꙋ+	emu	toi	Pp3msd		313	3	2	obl	iobj														
+zmь`i	змь̀и	zmъi	zmei	Nmsny		313	4	2	nsubj					1										
+																								
+nnja	ннꙗ	nnja	nyně	R		314	1	2	advmod				ʺNow you have killed all the lifeforms of the sea.ʺ			Punčo: <i>saga izbi svi+te živini morskie a ja xočemь tebe da zatriemь do konecь</i>								
+sьtrьlь+	сьтрьль+	sъtrъlъ	sъtrěti	Vmp--se	Amsnn	314	2	0	root															
+jesi+	ѥси+	jesi	sъm	Vaip2si		314	3	2	aux	prf														
+vse+	все+	vse	vse	Afpnn		314	4	5	amod	det														
+živi_ne+	живи_не+	živine	živina	Nfpnn		314	5	2	obj					1										
+morь`ske.	морь̀ске.	morъske	morski	Afpnn		314	6	5	amod															
+																								
+nь+	нь+	nъ	no	C		315	1	2	cc				ʺBut come to the depths, to the end of the depths!ʺ											
+podi+	поди+	podi	poida	Vmm-2se		315	2	0	root															
+va+	ва+	va	v	Sa		315	3	4	case															
+glь_bini+	гль_бини+	glъbini	glǫbina	Nfpnn		315	4	2	obl	lat				1										
+do+	до+	do	do	Sg		315	5	6	case															
+konca+	конца+	konca	konec	Nmsgn		315	6	2	obl															
+glьbine.	гльбине.	glъbine	glǫbina	Nfsdn		315	7	6	nmod															
+																								
+ere	ере	ere	ere	C		316	1	3	cc				(Satanael said:) ʺFor what I sought, I found.ʺ	1		Punčo: <i>reče źmii sanьtailь (:) i ja što sakaxь i ja naidoxь</i>								
+že+	же+	že	že	Qg		316	2	3	cc															
+iskax.	исках.	iskax	iskam	Vmia1si		316	3	0	root															
+i+	и+	i	i	C		316	4	5	cc															
+wtbrětox	ѿбрѣтох	otbrětox	obrěsti	Vmia1se		316	5	3	conj															
+																								
+i+	и+	i	i	C		317	1	2	cc				ʺAnd I shall descend into the end of the depths.ʺ											
+sьniti	сьнити	sъniti	sъniti	Vmn---e		317	2	0	root					1										
+xoštù+	хощꙋ̀+	xoštu	xotěti	Vaip1si		317	3	2	aux	fut														
+do+	до+	do	do	Sg		317	4	5	case															
+konca+	конца+	konca	konec	Nmsgn		317	5	2	obl															
+glь`bini.	гль̀бини.	glъbini	glǫbina	Nfsgn		317	6	5	nmod							Nikoljac 82: <i>vъ adъ</i> (cit. in Coṣcodan 2017:20)								
+																								
+to_gda	то_гда	togda	togda	Pr		318	1	3	advmod				Then, Michael prayed to the Lord:	1								7	Battle in Heaven	
+mixàiló	михàило́	mixailo	Mixail	Nmsoy		318	2	3	nsubj															
+pomli+	помли+	pomli	pomolja	Vmia3se		318	3	0	root															
+se+	се+	se	se	Px---a		318	4	3	expl															
+gu	гꙋ	gu	Gospod	Nmsdy		318	5	3	obl	iobj														
+																								
+glú	глꙋ́	glu	glagolati	Vmip1si		319	1	0	root				ʺI speak to you, o Ruler of All and Eternal King, the Creator of the Fiery Hosts, and Commander of Unseen Forces,ʺ	1										
+ti.	ти.	ti	ty	Pp2-sd	Pp2-sn	319	2	1	obl	iobj														
+vsedrьžitelu+	вседрьжителꙋ+	vsedrъžitelu	vsedъržitel	Nmsvy	Nmsdy	319	3	1	vocative															
+i+	и+	i	i	C		319	4	6	cc															
+věčni	вѣчни	věčni	večen	Amsny		319	5	6	amod					1										
+cru.	црꙋ.	cru	car	Nmsvy	Nmsdy	319	6	3	conj															
+iže+	иже+	iže	iže	Pr-msn		319	7	10	det															
+wgnímь+	ѡгни́мь+	ognimъ	ognen	Ampdy		319	8	10	amod															
+činòmь+	чино̀мь+	činomъ	čin	Nmpdy		319	9	10	nmod	iobj														
+sь_zdatelú.	сь_здателꙋ́.	sъzdatelu	sъzdatel	Nmsvy	Nmsdy	319	10	6	conj					1										
+i+	и+	i	i	C		319	11	15	cc															
+ne+	не+	ne	ne	Qz		319	12	13	amod															
+vidimimь+	видимимь+	vidimimъ	vidja	A-pdy	Vmpp-si	319	13	14	amod															
+silòmь`	сило̀мь̀	silomъ	sila	Nmpdn		319	14	15	nmod	iobj				1										
+upravitelú+	ꙋправителꙋ́+	upravitelu	upravitel	Nmsvy	Nmsdy	319	15	10	conj															
+egože+	егоже+	egože	iže	Pr-msg		319	16	23	mark				ʺ(the one), who has not been seen (?) by anyone from human(s) anywhere!ʺ											
+wt	ѿ	ot	ot	Sg		319	17	18	case															
+člvka.	члвка.	člvka	človek	Nmsgy		319	18	23	obl					2										
+kь+	кь+	kъ	k	Sd		319	19	23	discourse		52v	/img/satan/52v.JPG												
+niktož[e]+	никтож[е]+	niktože	nikъtože	Pz---n		319	20	23	nsubj															
+nigde+	нигде+	nigde	nigde	Pz		319	21	23	advmod															
+ne+	не+	ne	ne	Qz		319	22	23	advmod															
+vdimo+	вдимо+	vdimo	vidja	Vmpp-si	Ansnn	319	23	3	acl															
+																								
+bú_di+	бꙋ́_ди+	budi	bъda	Vmm-2se		320	1	0	root				ʺBe my helper, for your archangel!ʺ	1										
+mně`.	мнѣ̀.	mně	az	Pp1-sd		320	2	1	obl	iobj														
+pomoštnikь+	помощникь+	pomoštnikъ	pomoštnik	Nmsny		320	3	1	obl	pred														
+arxà_ggu+	архà_ггꙋ+	arxaggu	arxangel	Nmsdy		320	4	2	appos					1										
+tvoemu,	твоемꙋ,	tvoemu	tvoi	Amsdy		320	5	4	amod	poss														
+																								
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	321	1	7	nsubj				ʺFor you, o King, by your will did not ask (him?) to be a teacher on the earth (?)ʺ			The sentence does not really make sense, probably going back to a participial clause. Punčo skips it, if it was part of his source: <i>budi mi pomoštnikь i prekloni dlьbinu morsku kolkoto e do nebesa visoko</i>. It also seems to be skipped in BAR 1282.								
+ubò+	ꙋбо̀+	ubo	ubo	C		321	2	7	cc															
+cru+	црꙋ+	cru	car	Nmsvy	Nmsdy	321	3	1	vocative															
+svo_imь+	сво_имь+	svoimъ	svoi	Amsiy		321	4	6	amod					1										
+xotenïemь.	хотенїемь.	xoteniemъ	xotěnie	Nnsin		321	5	7	obl															
+ni+	ни+	ni	nie	C		321	6	7	advmod															
+zvav	звав	zvav	zova	Vmpa-sia	Amsnn	321	7	0	root					1										
+že+	же+	že	že	Qd		321	8	7	cc															
+emu+	емꙋ+	emu	toi	Pp3msd		321	9	10	expl															
+učitelu+	ꙋчителꙋ+	učitelu	učitel	Nmsdy		321	10	7	obl	iobj														
+na+	на+	na	na	Sa		321	11	12	case															
+zemlù	землꙋ̀	zemlu	zemlja	Nfsan		321	12	7	obl	lat				1										
+																								
+tьi+	тьи+	tъi	ty	Pp2-sn		322	1	5	nsubj				ʺYou, o Lord, by all means (?) hear me at this time!ʺ											
+úbo+	ꙋ́бо+	ubo	ubo	C		322	2	5	cc															
+vldko	влдко	vldko	vladika	Nfsvy		322	3	1	vocative															
+vsačьskimь	всачьскимь	vsačъskimъ	vsěčьskъ	Amsiy		322	4	5	obl					1										
+oȕsliši+	оу̏слиши+	oȕsliši	uslyšati	Vmm-2se		322	5	0	root															
+me+	ме+	me	az	Pp1-sa		322	6	5	obj															
+vь+	вь+	vъ	v	Sa		322	7	9	case															
+sьi+	сьи+	sъi	sii	Pd-msn		322	8	9	det															
+čsь.	чсь.	čsъ	čas	Nmsnn		322	9	5	obl															
+																								
+i+	и+	i	i	C		323	1	2	cc				ʺAnd turn over these depths!ʺ											
+prěklo_ni	прѣкло_ни	prěkloni	preklonja	Vmm-2se		323	2	0	root					1		BAR 1282: <i>turbură</i>								
+glь`binu+	гль̀бинꙋ+	glъbinu	glǫbina	Nfsan		323	3	2	obj															
+sïju	сїю	siju	sii	Pd-fsa		323	4	3	det	p_nom														
+																								
+preklon_i+	преклон_и+	prekloni	preklonja	Vmm-2se		324	1	0	root				ʺTurn over the heavens!ʺ			Punčo: <i>tolko da stane more+to dlьboko da ne može antixrisь skoro da izlezne iz nego da me ne fane toja besь no ti</i>								
+ne	не	ne	ne	Qz		324	2	3	discourse					1										
+nbsa.	нбса.	nbsa	nebe	Nnpnn		324	3	1	obj															
+																								
+i+	и+	i	i	C		325	1	2	cc				ʺAnd loose your most holy right hand (over me), o Lord, so that the Evil One with his devils will not surround (?) me!ʺ			Punčo: <i>no ti gs-di pušti nad mene tvoju prčs-oju desnicu ta me izbavi da imašь pofala o(t) tvoi+te angg-li</i>								
+spusti+	спꙋсти+	spusti	spusna	Vmm-2se		325	2	0	root															
+prěstuju+	прѣстꙋю+	prěstuju	presvęt	Afsay		325	3	4	amod															
+desni_cu	десни_цꙋ	desnicu	desnica	Nfsan		325	4	2	obj					1										
+svojù+	свою̀+	svoju	svoi	Afsay		325	5	4	amod	poss														
+vldko.	влдко.	vldko	vladika	Nfsvy		325	6	2	vocative															
+da+	да+	da	da	C		325	7	9	mark															
+ne+	не+	ne	ne	Qz		325	8	9	advmod															
+ẅbimi_tь+	ѡ̈бими_ть+	ẅbimitъ	obema	Vmip3se		325	9	2	advcl					1										
+mne+	мне+	mne	az	Pp1-sd		325	10	9	obj															
+lukavi+	лꙋкави+	lukavi	lukav	Amsny		325	11	9	nsubj															
+sь+	сь+	sъ	s	Si		325	12	13	case															
+besi+	беси+	besi	běs	Nmpny		325	13	9	obl															
+svoi_mi.	свои_ми.	svoimi	svoi	Ampiy		325	14	13	amod	poss				1										
+																								
+nь+	нь+	nъ	no	C		326	1	2	cc				ʺBut seize him by arms (?), so that he will not boast about your archangel!ʺ											
+kosni+	косни+	kosni	kosna	Vmm-2se		326	2	0	root															
+se+	се+	se	se	Px---a		326	3	2	expl															
+ẅrúžno+	ѡ̈рꙋ́жно+	ẅružno	orъžno	R		326	4	2	advmod															
+ego	его	ego	toi	Pp3msg		326	5	2	obl					1										
+jako+	ꙗко+	jako	jako (2)	C		326	6	9	mark															
+da+	да+	da	da	C		326	7	6	fixed															
+ne+	не+	ne	ne	Qz		326	8	9	advmod															
+poxvali+	похвали+	poxvali	poxvalja	Vmia3se		326	9	2	advcl															
+se	се	se	se	Px---a		326	10	9	expl															
+ẅ+	ѡ̈+	ẅ	o (2)	Sl		326	11	12	case															
+arxan_glě`	архан_глѣ̀	arxanglě	arxangel	Nmsly		326	12	9	obl					1										
+tvoimь.	твоимь.	tvoimъ	tvoi	Amsly		326	13	12	amod	poss														
+																								
+i+	и+	i	i	C		327	1	2	cc				And (for this?) all Michael prayed.											
+pomli+	помли+	pomli	pomolja	Vmia3se		327	2	0	root															
+vse	все	vse	vse	R		327	3	2	obj					1										
+mixàìlo.	михàѝло.	mixailo	Mixail	Nmsoy		327	4	2	nsubj															
+																								
+i+	и+	i	i	C		328	1	2	cc				And he made a terrible sign in the name of the Highest Father in the lake.											
+sьtvori	сьтвори	sъtvori	sъtvorja	Vmia3se		328	2	0	root															
+zname_nïe	знаме_нїе	znamenie	znamenie	Nnsnn		328	3	2	obj					1										
+vь+	вь+	vъ	v	Sl		328	4	5	case															
+ezèri+	езѐри+	ezeri	ezero	Nnsln		328	5	2	obl	loc						A soft-stem ending is not expected in this lemma.								
+stràšno.	стрàшно.	strašno	strašno	Ansnn		328	6	5	amod															
+u+	ꙋ+	u	u	Sg		328	7	8	case															
+i_me+	и_ме+	ime	ime	Nnsnn		328	8	3	nmod					1										
+nbsnago+	нбснаго+	nbsnago	nebesen	Amsgy		328	9	10	amod															
+ẅca.	ѡ̈ца.	ẅca	otec	Nmsgy		328	10	8	nmod															
+																								
+i+	и+	i	i	C		329	1	2	cc				And he made it hard with ice.											
+zatvrьdi	затврьди	zatvrъdi	zatvъrdja	Vmia3se		329	2	0	root					1										
+ego.	его.	ego	toi	Pp3msg		329	3	2	obj															
+ledomь+	ледомь+	ledomъ	led	Nmsin		329	4	2	obl															
+																								
+i+	и+	i	i	C		330	1	2	cc				And he waved his wing(s).			BAR 1282: <i>Și Mihail scoase spata și abătu în dracii și-i gonia de nu se știa unul cu altul. Atuncea Mihail luă veșmîntul lui Dumnezeu</i> 'And Michael then took out his spade (sword?) and slayed the demons until they couldn‘t recognize each other. Then Michael took the garment of God and the crown and the flags' (Coṣcodan 2017:20)								
+trepetnu	трепетнꙋ	trepetnu	trepna	Vmia3se		330	2	0	root					2										
+kriẅmь+	криѡ̈мь+	kriẅmъ	krilo	Nnsin		330	3	2	obl		53r	/img/satan/53r.JPG												
+svoim.	своим.	svoim	svoi	Ansiy		330	4	3	amod	poss														
+																								
+i+	и+	i	i	C		331	1	2	cc				And he came to the first heaven.											
+dode+	доде+	dode	doida	Vmia3se		331	2	0	root															
+do+	до+	do	do	Sg		331	3	5	case															
+prь`_vix+	прь̀_вих+	prъvix	pъrvi	Anpgy		331	4	5	amod					1										
+nbsь	нбсь	nbsъ	nebe	Nnpgn		331	5	2	obl															
+																								
+i+	и+	i	i	C		332	1	3	cc				And here, Lord God met him.											
+túi+	тꙋ́и+	tui	tu	Pr		332	2	3	advmod															
+srète+	срѐте+	srete	sreštna	Vmia3se		332	3	0	root															
+jego.	ѥго.	jego	toi	Pp3msg		332	4	3	obj															
+gь	гь	gъ	Gospod	Nmsny		332	5	3	nsubj															
+bь	бь	bъ	bog	Nmsny		332	6	5	appos					1										
+																								
+i+	и+	i	i	C		333	1	2	cc				And He rejoiced about him.											
+ẅbradova+	ѡ̈брадова+	ẅbradova	obraduvam	Vmia3se		333	2	0	root															
+se+	се+	se	se	Px---a		333	3	2	expl															
+w+	ѡ+	o	o	Sl		333	4	5	case															
+nemь+	немь+	nemъ	toi	Pp3msl		333	5	2	obl															
+																								
+i+	и+	i	i	C		334	1	2	cc				And He said:											
+rče+	рче+	rče	reka	Vmia3se		334	2	0	root															
+																								
+radu_i+	радꙋ_и+	radui	radvam	Vmm-2si		335	1	0	root				ʺRejoice, o Michael!ʺ	1										
+se	се	se	se	Px---a		335	2	1	expl															
+mixáive.	михáиве.	mixaive	Mixail	Nmsvy		335	3	1	vocative															
+																								
+prinose+	приносе+	prinose	prinosja	Vmia3se		336	1	0	root				ʺYou brought to the (rightful owner what is?) one's.ʺ			Unclear, possibly < *<i>prinose svoe gs-dnu svoemu</i> ? Punčo has simply <i>radui se mixaile arxistratiže i mixailь togiva vozupi ...</i>. Coṣcodan interprets the phrase from BAR 1282 <i>că ți le aduc pentru toți și de la toți</i> 'because he brings the owner that which is His' as equivalent to <i>Tvoja ot tvoix ...</i> below.								
+svoe	свое	svoe	svoi	Ansny		336	2	1	obj					1										
+nьsvomú.	ньсвомꙋ́.	nъsvomu	svoi	Amsdy		336	3	1	obl															
+																								
+i+	и+	i	i	C		337	1	3	cc				And the archangels began to sing with a strong voice.											
+arxangly̏	арханглы̏	arxanglȉ	arxangel	Nmpay		337	2	3	nsubj							Both Punčo and BAR 1282 show Michael as the subject here, indicated by the 3sg form in the next sentence too.								
+vьzú_piše+	вьзꙋ́_пише+	vъzupiše	vъzupiti	Vmia3pe		337	3	0	root					1										
+glsomь+	глсомь+	glsomъ	glas	Nmsin		337	4	3	obl															
+velikimь.	великимь.	velikimъ	velik	Amsiy		337	5	4	amod															
+																								
+i+	и+	i	i	C		338	1	2	cc				And (Michael?) said:											
+rče	рче	rče	reka	Vmia3se		338	2	0	root					1										
+																								
+Tvoja+	Твоꙗ+	tvoja	tvoi	Afsny	Anpnn	339	1	5	nsubj				ʺYours from yours is being brought to you, from all, and for all.ʺ											
+wt+	ѿ+	ot	ot	Sg		339	2	3	case															
+tvoix	твоих	tvoix	tvoi	Afpgy		339	3	1	nmod															
+tebě.	тебѣ.	tebě	ty	Pp2-sd		339	4	5	obl	iobj														
+prinosite+	приносите+	prinosite	prinosja	Vmip2se		339	5	0	root					1										
+s[e]+	с[е]+	se	se	Px---a		339	6	5	expl															
+wt+	ѿ+	ot	ot	Sg		339	7	8	case															
+vsex+	всех+	vsex	vse	A-pgy		339	8	5	obl															
+i+	и+	i	i	C		339	9	11	cc															
+za+	за+	za	za	Sa		339	10	11	case															
+vas.	вас.	vas	vy	Pp2-pg		339	11	5	obl															
+																								
+i+	и+	i	i	C		340	1	2	cc				And all the forces (of God) learned, that Michael came (back).											
+uvedše+	ꙋведше+	uvedše	uveda	Vmpa-sea	Ampnn	340	2	0	root							A finite verb would be expected, so it is likely a contraction of *<i>uvěděšę</i>. Punčo: <i>dočuxa</i>.								
+vse	все	vse	vse	Afpnn		340	3	4	amod	det				1										
+sile+	силе+	sile	sila	Nfpnn		340	4	2	nsubj															
+jako+	ꙗко+	jako	jako (2)	C		340	5	7	mark															
+míxailò.	ми́хаило̀.	mixailo	Mixail	Nmsoy		340	6	7	nsubj															
+pride	приде	pride	priida	Vmia3se		340	7	2	advcl					1										
+																								
+i+	и+	i	i	C		341	1	2	cc				And they exclaimed in one voice.											
+vьzúpiše+	вьзꙋ́пише+	vъzupiše	vъzupiti	Vmia3pe		341	2	0	root															
+edínimь+	еди́нимь+	edinimъ	edin	Amsiy		341	3	4	amod															
+glso_mь.	глсо_мь.	glsomъ	glas	Nmsin		341	4	2	obl					1										
+																								
+tebě+	тебѣ+	tebě	ty	Pp2-sd		342	1	2	obl	iobj			ʺWe sing to you!ʺ											
+poem+	поем+	poem	peja	Vmip1pi		342	2	0	root															
+																								
+tebè+	тебѐ+	tebe	ty	Pp2-sg		343	1	2	obj				ʺWe praise you, o Lord!ʺ											
+blgo_svimь.	блго_свимь.	blgosvimъ	blagoslovja	Vmip1pi		343	2	0	root					1										
+vldko	влдко	vldko	vladika	Nfsvy		343	3	2	vocative															
+																								
+slávim+	слáвим+	slavim	slavja	Vmip1pi		344	1	0	root				ʺWe glorify you, o Gospel-giver!ʺ											
+te	те	te	ty	Pp2-sa		344	2	1	obj															
+blgo_svešte.	блго_свеще.	blgosvešte	blagosъvěšt	Amsvn		344	3	1	vocative					1		See the dictionary on details about the lemma.								
+																								
+blgodarim+	блгодарим+	blgodarim	blagodarja	Vmip1pi		345	1	0	root				ʺWe thank you, o Lord, Ruler of All!ʺ											
+te+	те+	te	ty	Pp2-sa		345	2	1	obj															
+vldko	влдко	vldko	vladika	Nfsvy		345	3	1	vocative					1										
+vsedrьžitlù.	вседрьжитлꙋ̀.	vsedrъžitlu	vsedъržitel	Nmsvy	Nmsdy	345	4	3	appos															
+																								
+mlim+	млим+	mlim	molja	Vmip1pi		346	1	0	root				ʺWe pray to you, o our God!ʺ											
+ti+	ти+	ti	ty	Pp2-sd	Pp2-sn	346	2	1	obl	iobj														
+se	се	se	se	Px---a		346	3	1	expl					1										
+be+	бе+	be	bog	Nmsvy		346	4	1	vocative															
+nšь.	ншь.	nšъ	naš	Amsnn		346	5	4	amod	poss														
+																								
+i+	и+	i	i	C		347	1	2	cc				ʺAnd you, land and the sea, shall give praise and joy to Michael, and great glory!ʺ			Ps 68:35 - <i>da vosxvalętъ ego n-bsa i zemlę, more i vsę živuštaę vъ nemъ</i>								
+vьzdaši+	вьздаши+	vъzdaši	vъzdam	Vmip2se		347	2	0	root															
+xvàlú+	хвàлꙋ́+	xvalu	xvala	Nfsan		347	3	2	obj															
+i+	и+	i	i	C		347	4	5	cc															
+vě_selïe+	вѣ_селїе+	věselie	veselie	Nnsnn		347	5	3	conj					1										
+mixàilú+	михàилꙋ́+	mixailu	Mixail	Nmsdy		347	6	2	obl	iobj														
+i+	и+	i	i	C		347	7	8	cc															
+slavu+	славꙋ+	slavu	slava	Nfsan		347	8	5	conj															
+velïju	велїю	veliju	velii	Afsan		347	9	8	amod					1										
+zemlà+	землà+	zemla	zemlja	Nfsnn		347	10	2	vocative															
+že+	же+	že	že	Qg		347	11	10	cc															
+i+	и+	i	i	C		347	12	13	cc															
+morè.	морѐ.	more	more	Nnsnn		347	13	10	conj															
+																								
+i+	и+	i	i			348	1	3	cc				And the abyss trembled.											
+bezna	безна	bezna	bezdna	Nfsnn		348	2	3	nsubj					1										
+pokoleba+	поколеба+	pokoleba	pokolebaja	Vmia3se		348	3	0	root															
+se.	се.	se	se	Px---a		348	4	3	expl															
+																								
+i+	и+	i	i	C		349	1	4	cc				And Satanael heard the glory (from the?) deepest depths.											
+tui+	тꙋи+	tui	tu	Pr		349	2	4	advmod							Or <i>tuju</i> ?								
+slavu.	славꙋ.	slavu	slava	Nfsan		349	3	4	obj					2										
+oȕslìša+	оу̏слѝша+	oȕsliša	uslyšati	Vmia3se		349	4	0	root		53v	/img/satan/53v.JPG												
+satanailь.	сатанаиль.	satanailъ	Satanail	Nmsny		349	5	4	nsubj															
+prěs_podnè+	прѣс_поднѐ+	prěspodne	prěspodьn	Afsdn		349	6	7	amod					1										
+glь`binè.	гль̀бинѐ.	glъbine	glǫbina	Nfsdn		349	7	4	obl							A locative without preposition? Possibly goes back to a genitive (*<i>izъ prěspodьny glǫbiny</i>) construction, as in BAR 1282 (<i>din fundul mării</i>).								
+																								
+i+	и+	i	i	C		350	1	2	cc				And he understood, that he was robbed.											
+uvdě+	ꙋвдѣ+	uvdě	uvidja	Vmia3se		350	2	0	root															
+jako	ꙗко	jako	jako (2)	C		350	3	4	mark					1										
+ẅplě`nenь+	ѡ̈плѣ̀нень+	ẅplěnenъ	oplenja	Vmpa-se	Amsnn	350	4	2	advcl															
+by̏s+	бы̏с+	bȉs	bъda	Vaip3se		350	5	4	aux	pass														
+																								
+i+	и+	i	i	C		351	1	2	cc				And he cast himself a lot.											
+smete+	смете+	smete	smeta	Vmia3se		351	2	0	root															
+se	се	se	se	Px---a		351	3	2	expl					1										
+zě`lo+	зѣ̀ло+	zělo	zělo	R		351	4	2	advmod															
+																								
+i+	и+	i	i	C		352	1	2	cc				And he was fighting for three hours.											
+boril+	борил+	boril	borja	Vmp--si	Amsnn	352	2	0	root															
+se	се	se	se	Px---a		352	3	2	expl															
+[beše]	[беше]	beše	sъm	Vaii3si		352	4	2	aux	pprf														
+*g*	·г·	*g*	3	Mc		352	5	6	nummod															
+čsy̏.	чсы̏.	čsȉ	čas	Nmpnn		352	6	2	obl															
+																								
+i+	и+	i	i	C		353	1	3	cc				And then, he shoved the dragon off himself.											
+to_gda+	то_гда+	togda	togda	Pr		353	2	3	advmod					1										
+wtrinu+	ѿринꙋ+	otrinu	otrina	Vmia3se		353	3	0	root															
+zmьa+	змьа+	zmъa	zmei	Nmsgy		353	4	3	obj															
+wt	ѿ	ot	ot	Sg		353	5	6	case															
+sěbě.	сѣбѣ.	sěbě	se	Px---d		353	6	3	obl															
+																								
+i+	и+	i	i	C		354	1	4	cc				And he went for 4 miles to the exit (?) of the lake.											
+mi_lь	ми_ль	milъ	milija	Nfpgn		354	2	4	obl					1										
+*d*	·д·	*d*	4	Mc		354	3	2	nummod															
+izide+	изиде+	izide	izida	Vmia3se		354	4	0	root															
+na+	на+	na	na	Sa		354	5	6	case															
+isxòdь+	исхо̀дь+	isxodъ	izxod	Nmsnn		354	6	4	obl															
+ezéra	езе́ра	ezera	ezero	Nnsgn		354	7	6	nmod					1										
+																								
+i+	и+	i	i	C		355	1	2	cc				And he found the sign of the heavenly (Father?).											
+ẅbrete+	ѡ̈брете+	ẅbrete	obrěsti	Vmia3se		355	2	0	root															
+znaminïe.	знаминїе.	znaminie	znamenie	Nnsnn		355	3	2	obj															
+nbsna_go+	нбсна_го+	nbsnago	nebesen	Amsgy		355	4	3	nmod					1										
+																								
+i+	и+	i	i	C		356	1	2	cc				And he became afraid.											
+uboě+	ꙋбоѣ+	uboě	uboja	Vmia3se		356	2	0	root															
+se.	се.	se	se	Px---a		356	3	2	expl															
+																								
+i+	и+	i	i	C		357	1	2	cc				And he exclaimed with a great voice.											
+vьzupì+	вьзꙋпѝ+	vъzupi	vъzupiti	Vmia3se		357	2	0	root															
+glsomь	глсомь	glsomъ	glas	Nmsin		357	3	2	obl					1										
+velikim+	великим+	velikim	velik	Amsiy		357	4	3	amod															
+																								
+i+	и+	i	i	C		358	1	2	cc				And he said:											
+rče.	рче.	rče	reka	Vmia3se		358	2	0	root															
+																								
+g.de+	г.де+	gde	gde	Pq		359	1	2	advmod				ʺWhere are you, o my angels?ʺ											
+ste	сте	ste	sъm	Vmip2si		359	2	0	root															
+aggli	аггли	aggli	angel	Nmpny		359	3	2	vocative					1										
+moi+	мои+	moi	moi	Ampnn		359	4	3	amod	poss														
+																								
+i+	и+	i	i	C		360	1	3	cc				And there was no voice nor hearing from them.											
+ne+	не+	ne	ne	Qz		360	2	3	advmod															
+bis	бис	bis	bъda	Vmia3se		360	3	0	root															
+glas+	глас+	glas	glas	Nmsnn		360	4	3	nsubj															
+wt+	ѿ+	ot	ot	Sg		360	5	6	case															
+nix.	них.	nix	tě	Pp3-pg		360	6	4	nmod															
+ni+	ни+	ni	ni	C		360	7	8	cc															
+slì_šanïa	слѝ_шанїа	slišania	slyšanie	Nnsgn		360	8	4	conj					1										
+																								
+sьtrь+	сьтрь+	sъtrъ	sъtrěti	Vmia3se		361	1	0	root				Michael destroyed both (?) at his departure.			The sentence shows a lot of Serbisms: an l-participle would be expected in plusquamperfect, -o, confusion of /a/ and jer in the preposition (<i>na</i> for temporal relations is also not fully CS), single n.sg.dat/loc ending...								
+wboix+	ѡбоих+	oboix	oba	A-pgy		361	2	1	obj							The number of Satanael's angels is unclear - earlier he mentions 40 thousand.								
+beše+	беше+	beše	sъm	Vaii3si		361	3	1	aux	pprf														
+mì_xàilo	мѝ_хàило	mixailo	Mixail	Nmsoy		361	4	1	nsubj					1										
+nь+	нь+	nъ	na	Sl		361	5	6	case															
+ẅšьstiju	ѡ̈шьстию	ẅšъstiju	otъšьstvie	Nnsdn		361	6	1	obl	loc														
+svoemь`	своемь̀	svoemъ	svoi	Amsly		361	7	6	amod	poss				1										
+																								
+i+	и+	i	i	C		362	1	2	cc				And the evil Satanael saw (?), that a sign of the Lord bars him (to go out of the lake):											
+vděvši	вдѣвши	vděvši	vidja	Vmpa-sia	Afsnn	362	2	0	root															
+lukavi,	лꙋкави,	lukavi	lukav	Amsny		362	3	4	amod															
+satana_ilo+	сатана_ило+	satanailo	Satanail	Nmsoy		362	4	2	nsubj					1										
+jako+	ꙗко+	jako	jako (2)	C		362	5	6	mark															
+vьzbranitь+	вьзбранить+	vъzbranitъ	vъzbranja	Vmip3se		362	6	2	advcl															
+emú	емꙋ́	emu	toi	Pp3msd		362	7	6	obl	iobj				1										
+znamenïe+	знаменїе+	znamenie	znamenie	Nnsnn		362	8	6	nsubj															
+gsne.	гсне.	gsne	Gospoden	Ansnn		362	9	8	amod	poss														
+																								
+izьšьẅ	изьшьѡ̈	izъšъẅ	izida	Vmp--se	Amsnn	363	1	0	root				A great stone had come out of the lake.	1										
+beše+	беше+	beše	sъm	Vaii3si		363	2	1	aux	pprf														
+izь	изь	izъ	iz	Sg		363	3	4	case															
+ezerà+	езерà+	ezera	ezero	Nnsgn		363	4	1	obl	abl														
+tog+	тог+	tog	tъ	Pd-msg		363	5	4	det	p_nom														
+kamen	камен	kamen	kamen	Nmsnn		363	6	1	nsubj					1										
+vělikь+	вѣликь+	vělikъ	velik	Amsnn		363	7	6	amod															
+																								
+drьžnь`+	дрьжнь̀+	drъžnъ	dъlžina	Nfson		364	1	0	root				Its length (was) 200 cubits.											
+ego	его	ego	toi	Pp3msg		364	2	1	nmod	poss														
+*s*	·с·	*s*	200	Mc		364	3	4	nummod															
+la_kьtь+	ла_кьть+	lakъtъ	lakъt	Nmpgn		364	4	1	obl	pred				1										
+																								
+i+	и+	i	i	C		365	1	2	cc				And its width (was) 100 cubits.											
+širnà+	ширнà+	širna	širina	Nfsnn		365	2	0	root															
+ego	его	ego	toi	Pp3msg		365	3	2	nmod	poss														
+*r*	·р·	*r*	100	Mc		365	4	5	nummod															
+lakьtь	лакьть	lakъtъ	lakъt	Nmpgn		365	5	2	obl	pred				2										
+																								
+wnь+	ѡнь+	onъ	on	Pp3msn		366	1	5	expl		54r	/img/satan/54r.JPG	And (trying to fly out) the evil Satanael crushed into the hard stone with his lawless top (of the head).			BAR 1282: <i>Și zberă și zbură Satanail ș-o dete cu capul de ghiață</i> 'And Satanael shrieked and flew up and hit with his head the ice.' (Coṣcodan 2017:21)								
+že+	же+	že	že	Qg		366	2	3	cc															
+udári+	ꙋдáри+	udari	udarja	Vmia3se		366	3	0	root															
+pronórlivi	проно́рливи	pronorlivi	pronorьliv	Amsny		366	4	5	amod															
+sa_tanailь.	са_танаиль.	satanailъ	Satanail	Nmsny		366	5	3	nsubj					1										
+vь+	вь+	vъ	v	Sa		366	6	8	case															
+tvrь`dь+	тврь̀дь+	tvrъdъ	tvъrd	Amsnn		366	7	8	amod															
+kamenь	камень	kamenъ	kamen	Nmsnn	Nmsan	366	8	3	obl	lat				1										
+bezakonimь+	безаконимь+	bezakonimъ	bezzakonen	Amsiy		366	9	11	amod															
+svoimь.	своимь.	svoimъ	svoi	Amsiy		366	10	11	amod	poss														
+vrь_xomь+	врь_хомь+	vrъxomъ	vrъx	Nmsin		366	11	3	obl					1										
+																								
+i+	и+	i	i	C		367	1	2	cc				And he threw the stone from the lake 5 shots away.											
+wtrinu	ѿринꙋ	otrinu	otrina	Vmia3se		367	2	0	root															
+wt+	ѿ+	ot	ot	Sg		367	3	4	case															
+ezéra	езе́ра	ezera	ezero	Nnsgn		367	4	2	obl	abl														
+kamen	камен	kamen	kamen	Nmsnn	Nmsan	367	5	2	obj					1										
+*e*	·е·	*e*	5	Mc		367	6	7	nummod															
+pьprištь´+	пьприщь́+	pъprištъ	pъprište	Nnpgn		367	7	2	obl															
+wt+	ѿ+	ot	ot	Sg		367	8	9	case															
+mesta.	места.	mesta	město	Nnsgn		367	9	7	nmod															
+																								
+beše+	беше+	beše	sъm	Vmii3si		368	1	0	root				There was a mountain next to the lake.											
+ž[e]	ж[е]	že	že	Qg		368	2	1	cc					1										
+gorà+	горà+	gora	gora	Nfsnn		368	3	1	nsubj															
+pri+	при+	pri	pri	Sl		368	4	5	case															
+ezére+	езе́ре+	ezere	ezero	Nnsln		368	5	1	obl	loc														
+tom.	том.	tom	tъ	Pd-msl		368	6	5	det	p_nom														
+																								
+i+	и+	i	i	C		369	1	2	cc				And the mountain is called Tatra (?) even today.											
+narče	нарче	narče	nareka	Vmia3se		369	2	0	root					1										
+se+	се+	se	se	Px---a		369	3	2	expl															
+gora+	гора+	gora	gora	Nfsnn		369	4	2	nsubj															
+ta.	та.	ta	tъ	Pd-fsn		369	5	4	det	p_nom														
+tadera+	тадера+	tadera	Tadera	Nfsnn		369	6	2	obl	pred														
+i+	и+	i	i	C		369	7	10	amod															
+do+	до+	do	do	Sg		369	8	10	case															
+seg	сег	seg	sii	Pd-msg		369	9	10	det					1										
+dne.	дне.	dne	den	Nmsgn		369	10	2	obl															
+																								
+izide+	изиде+	izide	izida	Vmia3se		370	1	0	root				Evil Satanael came out.											
+lukàvi+	лꙋкàви+	lukavi	lukav	Amsny		370	2	3	amod															
+satana_ilь	сатана_иль	satanailъ	Satanail	Nmsny		370	3	1	nsubj					1										
+																								
+i+	и+	i	i	C		371	1	2	cc				And he found his forces laying slaughtered as dead.											
+ẅbrěte	ѡ̈брѣте	ẅbrěte	obrěsti	Vmia3se		371	2	0	root															
+silè+	силѐ+	sile	sila	Nfpnn		371	3	2	obj															
+svoe+	свое+	svoe	svoi	Afpny		371	4	3	amod	poss														
+izbì_ene+	избѝ_ене+	izbiene	izbija	Afpnn	Vmpa-pe	371	5	6	obl	pred				1										
+ležešte.	лежеще.	ležešte	leža	Vmpp-pia	Afpnn	371	6	3	acl															
+jako+	ꙗко+	jako	jako (2)	C		371	7	8	mark															
+mrь`tvi	мрь̀тви	mrъtvi	mъrtъv	Afpnn		371	8	6	advcl					1										
+																								
+i+	и+	i	i	C		372	1	2	cc				And he cried aloud, saying:											
+vьzupi	вьзꙋпи	vъzupi	vъzupiti	Vmia3se		372	2	0	root															
+gle+	гле+	gle	glagolati	Vmpp-sia	Amsnn	372	3	2	advcl															
+																								
+uvi+	ꙋви+	uvi	uvy	I		373	1	0	root				ʺWoe to me, having went astray!ʺ											
+mně`.	мнѣ̀.	mně	az	Pp1-sd		373	2	1	obl	iobj														
+zablú_divšomú+	заблꙋ́_дившомꙋ́+	zabludivšomu	zablǫditi	Amsdy	Vmpp-sea	373	3	2	appos					1										
+																								
+vse	все	vse	vse	Afpnn		374	1	2	amod	det			ʺI lost all my forces and hope!ʺ											
+silè	силѐ	sile	sila	Nfpnn		374	2	5	obj															
+i+	и+	i	i	C		374	3	4	cc															
+nade_ždu.	наде_ждꙋ.	nadeždu	nadežda	Nfsan		374	4	2	conj					1										
+pogubix+	погꙋбих+	pogubix	pogubja	Vmia1se		374	5	0	root															
+																								
+i+	и+	i	i	C		375	1	2	cc				And he (?) gnashed with his teeth.											
+poskrь`žita	поскрь̀жита	poskrъžita	poskrъžiti	Vmia2de		375	2	0	root					1		A dual?								
+zúbi+	зꙋ́би+	zubi	zъb	Nmpnn		375	3	2	obl															
+svoim.	своим.	svoim	svoi	Amsin		375	4	3	amod	poss						Possibly a ligature for final -<i>imi</i>?								
+																								
+i+	и+	i	i	C		376	1	2	cc				And he flapped his wing(s).											
+trěpetnu+	трѣпетнꙋ+	trěpetnu	trepna	Vmia3se		376	2	0	root															
+kriwm	криѡм	kriom	krilo	Nnsin		376	3	2	obl					1										
+svoim.	своим.	svoim	svoi	Amsiy		376	4	3	amod	poss														
+																								
+i+	и+	i	i	C		377	1	2	cc				And he reached the third heaven.			The locative makes more sense in face of later versions.<br/>Punčo: <i>i stignu mixaila na treto n-bo</i><br/>BAR 1282: <i>și ajunse pre Mihail la al treilea cer</i> 'and he reached Michael in the third heaven' (Coṣcodan 2017:21)								
+stižna	стижна	stižna	stigna	Vmia3se		377	2	0	root															
+*g*emь+	·г·емь+	*g*emъ	treti	Amsln	Mc	377	3	4	amod															
+nbse	нбсе	nbse	nebe	Nnsgn		377	4	2	obj															
+																								
+i+	и+	i	i	C		378	1	2	cc				And he seized him by his foot and right hand with his evil right hand.			Punčo: <i>i frьli čengelь ta go fanu za stupalo</i>								
+uxva_ti	ꙋхва_ти	uxvati	uxvatiti	Vmia3se		378	2	0	root					1										
+ego.	его.	ego	toi	Pp3msg		378	3	2	obj															
+za+	за+	za	za	Sa		378	4	5	case															
+stupalo	стꙋпало	stupalo	stъpalo	Nnsnn		378	5	2	obl															
+i+	и+	i	i	C		378	6	9	cc															
+za+	за+	za	za	Sa		378	7	9	case															
+de_snú	де_снꙋ́	desnu	desen	Afsan		378	8	9	amod					1										
+rukù.	рꙋкꙋ̀.	ruku	rъka	Nfsan		378	9	2	obl															
+lukvoju+	лꙋквою+	lukvoju	lukav	Afsin		378	10	12	amod															
+svoeju+	своею+	svoeju	svoi	Afsiy		378	11	12	amod	poss														
+de_snicòju.	де_сницо̀ю.	desnicoju	desnica	Nfsin		378	12	2	obl					1										
+																								
+i+	и+	i	i	C		379	1	2	cc				And he seized Michael by foot.											
+uxiti	ꙋхити	uxiti	uxytiti	Vmia3se		379	2	0	root															
+mìxàilà	мѝхàилà	mixaila	Mixail	Nmsgy		379	3	2	obj					1										
+za+	за+	za	za	Sa		379	4	5	case															
+stupalo.	стꙋпало.	stupalo	stъpalo	Nnsnn		379	5	2	obl															
+																								
+i+	и+	i	i	C		380	1	2	cc				And he was seizing him by the holy and divine-woven clothes.											
+úxvátaše+	ꙋ́хвáташе+	uxvataše	uxvaštati	Vmii3si		380	2	0	root															
+ego	его	ego	toi	Pp3msg		380	3	2	obj					2										
+za+	за+	za	za	Sa		380	4	8	case		54v	/img/satan/54v.JPG												
+stuju	стꙋю	stuju	svęt	Afsay		380	5	8	amod															
+i+	и+	i	i	C		380	6	7	cc															
+bo_tkanu+	бо_тканꙋ+	botkanu	bogotъkan	Afsan		380	7	5	conj															
+ẅdeždu	ѡ̈деждꙋ	ẅdeždu	odežda	Nfsan		380	8	2	obl					1										
+																								
+togda+	тогда+	togda	togda	Pr		381	1	3	advmod				Then, Michael cried with a great voice.											
+mixailò	михаило̀	mixailo	Mixail	Nmsoy		381	2	3	nsubj															
+vьzupi+	вьзꙋпи+	vъzupi	vъzupiti	Vmia3se		381	3	0	root															
+glso_mь+	глсо_мь+	glsomъ	glas	Nmsin		381	4	3	obl					1										
+velikimь,	великимь,	velikimъ	velik	Amsiy		381	5	4	amod															
+																								
+i+	и+	i	i	C		382	1	2	cc				And he said:											
+rče+	рче+	rče	reka	Vmia3se		382	2	0	root															
+																								
+prizri	призри	prizri	prizra	Vmm-2se		383	1	0	root				ʺHelp, o Lord, your servant!ʺ	1										
+vldko+	влдко+	vldko	vladika	Nfsvy		383	2	1	vocative															
+na+	на+	na	na	Sa		383	3	5	case															
+svoegò.	своего̀.	svoego	svoi	Amsgy		383	4	5	amod	poss														
+raba+	раба+	raba	rab	Nmsgy		383	5	1	obl															
+																								
+i+	и+	i	i	C		384	1	2	cc				ʺAnd cover and protect your agent!ʺ											
+po_kri+	по_кри+	pokri	pokrija	Vmm-2se		384	2	0	root					1										
+i+	и+	i	i	C		384	3	4	cc															
+sьxrani.	сьхрани.	sъxrani	sъxranja	Vmm-2se		384	4	2	conj															
+prědstate_lu+	прѣдстате_лꙋ+	prědstatelu	predstojatel	Nmsdy		384	5	2	obl	iobj				1										
+svoemu.	своемꙋ.	svoemu	svoi	Amsdy		384	6	5	amod	poss														
+																								
+i+	и+	i	i	C		385	1	2	cc				ʺAnd stretch your hand!ʺ											
+prostrì+	прострѝ+	prostri	prostra	Vmm-2se		385	2	0	root															
+rúku	рꙋ́кꙋ	ruku	rъka	Nfsan		385	3	2	obj					1										
+svoju+	свою+	svoju	svoi	Afsay		385	4	3	amod	poss														
+																								
+primix+	примих+	primix	priema	Vmia1se		386	1	0	root				ʺI received worry from the Evil One.ʺ											
+skrьbь	скрьбь	skrъbъ	skrъb	Nfsnn		386	2	1	obj															
+wt+	ѿ+	ot	ot	Sg		386	3	4	case															
+lu_kavago.	лꙋ_каваго.	lukavago	lukav	Amsgy		386	4	1	obl					1										
+																								
+i+	и+	i	i	C		387	1	2	cc				ʺHe seized me by the left leg.ʺ											
+uxiti+	ꙋхити+	uxiti	uxytiti	Vmia3se		387	2	0	root															
+me+	ме+	me	az	Pp1-sa		387	3	2	obj															
+za+	за+	za	za	Sa		387	4	6	case															
+šuju	шꙋю	šuju	šui	Afsan		387	5	6	amod					1										
+nogú+	ногꙋ́+	nogu	noga	Nfsan		387	6	2	obl															
+																								
+i+	и+	i	i	C		388	1	2	cc				ʺAnd he seized me by the divine(-woven) clothes.ʺ											
+poimlet+	поимлет+	poimlet	poema	Vmia3se	Vmip3se	388	2	0	root															
+me,	ме,	me	az	Pp1-sa		388	3	2	obj															
+za+	за+	za	za	Sa		388	4	6	case															
+bžst_vnu	бжст_внꙋ	bžstvnu	božestven	Afsan		388	5	6	amod					1										
+ẅdeždu.	ѡ̈деждꙋ.	ẅdeždu	odežda	Nfsan		388	6	2	obl															
+																								
+togda+	тогда+	togda	togda	Pr		389	1	2	advmod				ʺCome, then, o Lord!ʺ											
+sьnidi	сьниди	sъnidi	sъniti	Vmm-2se		389	2	0	root					1										
+vldko+	влдко+	vldko	vladika	Nfsvy		389	3	2	vocative															
+																								
+ẅbimi+	ѡ̈бими+	ẅbimi	obema	Vmm-2se		390	1	0	root				ʺThe Evil One seize(d) me.ʺ			Formally an imperative form, although a 3sg.aor would make more sense. Maybe forms like <i>poimlet</i> above were too archaic.								
+me+	ме+	me	az	Pp1-sa		390	2	1	obj															
+lukavi.	лꙋкави.	lukavi	lukav	Amsny		390	3	1	nsubj															
+																								
+na	на	na	pa	C		391	1	4	cc				ʺSo, o Lord, do not leave me, your servant!ʺ	1										
+gde+	где+	gde	Gospod	Nmsly		391	2	4	vocative															
+ne+	не+	ne	ne	Qz		391	3	4	advmod															
+ẅstavi	ѡ̈стави	ẅstavi	ostavja	Vmm-2se		391	4	0	root															
+mne.	мне.	mne	az	Pp1-sd		391	5	4	obj															
+raba+	раба+	raba	rab	Nmsgy		391	6	5	appos															
+svo_ego+	сво_его+	svoego	svoi	Amsgy		391	7	6	amod	poss				1										
+																								
+poginuti	погинꙋти	poginuti	pogina	Vmn---e		392	1	0	root				ʺ(Else) I will perish!ʺ											
+xoštu.	хощꙋ.	xoštu	xotěti	Vaip1si		392	2	1	aux	fut														
+																								
+vь+	вь+	vъ	v	Sl		393	1	2	case				The Lord, who (is) in the Heights, said with a great voice:	1										
+višni+	вишни+	višni	višen	A-pnn		393	2	4	nmod															
+iže+	иже+	iže	iže	Pr-msn		393	3	4	det															
+vldka+	влдка+	vldka	vladika	Nfsny		393	4	5	nsubj															
+rče+	рче+	rče	reka	Vmia3se		393	5	0	root															
+glsomь	глсомь	glsomъ	glas	Nmsin		393	6	5	obl					1										
+velikim.	великим.	velikim	velik	Amsiy		393	7	6	amod															
+																								
+mixàilè+	михàилѐ+	mixaile	Mixail	Nmsvy		394	1	3	vocative				ʺO Michael, have no fear!ʺ											
+ne+	не+	ne	ne	Qz		394	2	3	advmod															
+boí+	бои́+	boi	boja	Vmm-2si		394	3	0	root															
+se	се	se	se	Px---a		394	4	3	expl					1										
+																								
+izmì+	измѝ+	izmi	izęti	Vmm-2se		395	1	0	root				ʺTake your sword!ʺ											
+mačь´+	мачь́+	mačъ	meč	Nmsnn		395	2	1	obj															
+svoí.	свои́.	svoi	svoi	Amsny		395	3	2	amod	poss														
+																								
+i+	и+	i	i	C		396	1	2	cc				ʺAnd strike him on the top (of the head)!ʺ											
+údri+	ꙋ́дри+	udri	udarja	Vmm-2se		396	2	0	root															
+e_go+	е_го+	ego	toi	Pp3msg		396	3	2	obj					1										
+po+	по+	po	po	Sd		396	4	6	case															
+suštem.	сꙋщем.	suštem	sъm	Amsin	Vmpp-sia	396	5	6	amod															
+vrьxú+	врьхꙋ́+	vrъxu	vrъx	Nmsdn		396	6	2	obl															
+																								
+i+	и+	i	i	C		397	1	2	cc				ʺAnd take away his power!ʺ											
+wtnimi	ѿними	otnimi	otnema	Vmm-2se		397	2	0	root					1										
+mu+	мꙋ+	mu	toi	Pp1-sd		397	3	2	obl															
+silú+	силꙋ́+	silu	sila	Nfsan		397	4	2	obj															
+ego.	его.	ego	toi	Pp3msg		397	5	4	nmod	poss														
+																								
+i+	и+	i	i	C		398	1	2	cc				ʺAnd crush his capability of (?) sight!ʺ											
+porazi+	порази+	porazi	porazja	Vmm-2se		398	2	0	root															
+emú	емꙋ́	emu	toi	Pp3msd		398	3	2	obl	iobj				1										
+vděnïe+	вдѣнїе+	vděnie	videnie	Nnsnn		398	4	2	obj															
+zraka.	зрака.	zraka	zrak	Nmsgn		398	5	4	nmod															
+																								
+tagda+	тагда+	tagda	togda	Pr		399	1	3	advmod				Then, Michael said:											
+mixáilo	михáило	mixailo	Mixail	Nmsoy		399	2	3	nsubj					2										
+rče+	рче+	rče	reka	Vmia3se		399	3	0	root		55r	/img/satan/55r.JPG												
+																								
+gi+	ги+	gi	Gospod	Nmsvy		400	1	2	vocative				ʺO Lord, may your authority (?) and your grace commands meʺ											
+poveli+	повели+	poveli	povelja	Vmm-3se		400	2	0	root															
+mi+	ми+	mi	az	Pp1-sd		400	3	2	obl	iobj														
+tvoja.	твоꙗ.	tvoja	tvoi	Afsny		400	4	5	amod	poss														
+drь_ža	дрь_жа	drъža	dъržava	Nfsnn		400	5	2	nsubj					1										
+i+	и+	i	i	C		400	6	8	cc															
+tvojà+	твоꙗ̀+	tvoja	tvoi	Afsny		400	7	8	amod	poss														
+mlstь.	млсть.	mlstъ	milost	Nfsnn		400	8	5	conj															
+da+	да+	da	da	C		400	9	12	mark				ʺto destroy him for once, so that he will not dare (deny?) us anymore!ʺ											
+do+	до+	do	do	Sg		400	10	11	case															
+ko_nca+	ко_нца+	konca	konec	Nmsgn		400	11	12	obl					1										
+pogúblȕ+	погꙋ́блꙋ̏+	pogublȕ	pogubja	Vmip1se		400	12	2	advcl															
+ego.	его.	ego	toi	Pp3msg		400	13	12	obj															
+da+	да+	da	da	C		400	14	17	mark															
+vasegda	васегда	vasegda	vsegda	R		400	15	17	advmod					1										
+ne+	не+	ne	ne	Qz		400	16	17	advmod															
+smějušta+	смѣюща+	smějušta	smeja	Vmpp-sia	Amsgn	400	17	12	advcl															
+nsь.	нсь.	nsъ	nie	Pp1-pg		400	18	17	obj															
+																								
+togda+	тогда+	togda	togda	Pr		401	1	2	advmod				Then the Lord said to him:											
+rče+	рче+	rče	reka	Vmia3se		401	2	0	root															
+emu	емꙋ	emu	toi	Pp3msd		401	3	2	obl	iobj				1										
+gь+	гь+	gъ	Gospod	Nmsny		401	4	2	nsubj															
+																								
+ne	не	ne	ne	Qz		402	1	2	advmod				ʺNot so, o Michael!ʺ											
+tako.	тако.	tako	taka	Pr		402	2	0	root															
+mixàile+	михàиле+	mixaile	Mixail	Nmsvy		402	3	2	vocative															
+																								
+nь+	нь+	nъ	no	C		403	1	0	root				ʺBut (do) as I told you!ʺ											
+jako	ꙗко	jako	jako (2)	C		403	2	3	advmod					1										
+rekox+	рекох+	rekox	reka	Vmia3se		403	3	1	advcl															
+ti	ти	ti	ty	Pp2-sd	Pp2-sn	403	4	3	obl	iobj														
+																								
+*vı*	·вı·	*vi*	12	Mc		404	1	2	nummod				ʺI have given him 12 powers before.ʺ											
+sili+	сили+	sili	sila	Nfpnn		404	2	3	obj															
+dax+	дах+	dax	dam	Vmia1se		404	3	0	root															
+emu	емꙋ	emu	toi	Pp3msd		404	4	3	obl	iobj				1										
+prěžde+	прѣжде+	prěžde	prežde	R		404	5	3	advmod															
+																								
+wtnimi+	ѿними+	otnimi	otnema	Vmm-2se		405	1	0	root				ʺTake from him 5 powers!ʺ			Punčo: <i>otseči mu ot krila+ta *e*</i>								
+wt+	ѿ+	ot	ot	Sg		405	2	3	case															
+nego	него	nego	toi	Pp3msg		405	3	1	obl															
+*e*	·е·	*e*	5	Mc		405	4	5	nummod															
+silь`	силь̀	silъ	sila	Nfpgn		405	5	1	obj					1										
+																								
+a+	а+	a	a	C		406	1	2	cc				ʺAnd leave him 7 powers!ʺ											
+stavi+	стави+	stavi	ostavja	Vmm-2se		406	2	0	root															
+emú	емꙋ́	emu	toi	Pp3msd		406	3	2	obl	iobj														
+*z*	·з·	*z*	7	Mc		406	4	5	nummod															
+silь`+	силь̀+	silъ	sila	Nfpgn		406	5	2	obj															
+																								
+togda+	тогда+	togda	togda	Pr		407	1	3	advmod				Then, Michael took the deadly sword.											
+mi_xàilo	ми_хàило	mixailo	Mixail	Nmsoy		407	2	3	nsubj					1										
+ize+	изе+	ize	izęti	Vmia3se		407	3	0	root															
+sьmrь´tosni+	сьмрь́тосни+	sъmrъtosni	smъrtonosen	Amsny		407	4	5	amod															
+mačь	мачь	mačъ	meč	Nmsnn		407	5	3	obj					1										
+																								
+i+	и+	i	i	C		408	1	2	cc				And he struck him on the top (of the head).			Punčo: <i>i udari antixrista po vrьx po glavu</i>								
+udri+	ꙋдри+	udri	udarja	Vmia3se	Vmm-2se	408	2	0	root							Formally an imperative form.								
+ego.	его.	ego	toi	Pp3msg		408	3	2	obj															
+prězь+	прѣзь+	prězъ	prez	Sg		408	4	5	case															
+vrxь+	врхь+	vrxъ	vrъx	Nmsnn		408	5	2	obl															
+																								
+i+	и+	i	i	C		409	1	2	cc				And the Evil One fell away.											
+wtpa_de+	ѿпа_де+	otpade	otpadna	Vmia3se		409	2	0	root					1										
+lúkavi	лꙋ́кави	lukavi	lukav	Amsny		409	3	2	nsubj															
+																								
+i+	и+	i	i	C		410	1	3	cc				And the evil Satanael could not (continue to fight?)			< *<i>iznemože</i> ?<br/>Punčo: <i>i zabi mu slux</i>								
+ne+	не+	ne	ne	Qz		410	2	3	advmod															
+može+	може+	može	moga	Vmia3si		410	3	0	root															
+porno_livi+	порно_ливи+	pornolivi	pronorьliv	Amsny		410	4	5	amod					1										
+satanailь.	сатанаиль.	satanailъ	Satanail	Nmsny		410	5	3	nsubj															
+																								
+i+	и+	i	i	C		411	1	2	cc				And he went to the deepest (depths) ashamed, and stripped, and robbed, as it was appropriate (for him).											
+wtide	ѿиде	otide	otida	Vmia3se		411	2	0	root					1										
+vь+	вь+	vъ	v	Sa		411	3	4	case															
+prěispòdnúju.	прѣиспо̀днꙋ́ю.	prěispodnuju	prěspodьn	Afsay		411	4	2	obl															
+posramlè_nь	посрамлѐ_нь	posramlenъ	posramja	Amsnn	Vmpa-se	411	5	2	obl	pred				1										
+i+	и+	i	i	C		411	6	7	cc															
+ẅbnàženь.	ѡ̈бнàжень.	ẅbnaženъ	obnažiti	Amsnn	Vmpa-se	411	7	5	conj															
+i+	и+	i	i	C		411	8	9	cc															
+ẅplene_nь	ѡ̈плене_нь	ẅplenenъ	oplenja	Amsnn	Vmpa-se	411	9	7	conj					1										
+jakože+	ꙗкоже+	jakože	jakože	C		411	10	11	mark															
+pdobaše.	пдобаше.	pdobaše	podobati	Vmii3si		411	11	2	advcl															
+																								
+mixàilò	михàило̀	mixailo	Mixail	Nmsoy		412	1	2	nsubj				Michael gave over the divine-woven clothes and the unwithering wreath of command over archangelic ranks.	1										
+prěda+	прѣда+	prěda	predam	Vmia3se		412	2	0	root															
+bgotkanú.	бготканꙋ́.	bgotkanu	bogotъkan	Afsan		412	3	4	amod															
+wdeždú	ѡдеждꙋ́	odeždu	odežda	Nfsan		412	4	2	obj					1										
+i+	и+	i	i	C		412	5	8	cc															
+ne+	не+	ne	ne	Qz		412	6	7	amod															
+úvedaemi+	ꙋ́ведаеми+	uvedaemi	uvędati	Amsny	Vmpp-sea	412	7	8	amod															
+věncь.	вѣнць.	věncъ	venec	Nmsnn		412	8	4	conj															
+ski_petrà.	ски_петрà.	skipetra	skiptъr	Nmsgn		412	9	8	nmod					1										
+arxaglьskixь+	архагльскихь+	arxaglъskixъ	arxangelski	Ampgy		412	10	11	amod															
+čino_vь	чино_вь	činovъ	čin	Nmpgn		412	11	9	nmod					1										
+																								
+i+	и+	i	i	C		413	1	2	cc				And he gave (it) over to God's hands.											
+prědastь+	прѣдасть+	prědastъ	predam	Vmia3se		413	2	0	root															
+vь+	вь+	vъ	v	Sa		413	3	4	case															
+rucě	рꙋцѣ	rucě	rъka	Nfdnn		413	4	2	obl					2										
+bži.	бжи.	bži	božii	Afdnn		413	5	4	amod	poss	55v	/img/satan/55v.JPG												
+																								
+tako+	тако+	tako	taka	Pr		414	1	2	advmod				Thus Michael did, as the Lord did not allow him to finally destroy Satanael.											
+sьtvori+	сьтвори+	sъtvori	sъtvorja	Vmia3se		414	2	0	root															
+mixai_lo.	михаи_ло.	mixailo	Mixail	Nmsoy		414	3	2	nsubj					1										
+jako+	ꙗко+	jako	jako (2)	C		414	4	6	mark															
+ne+	не+	ne	ne	Qz		414	5	6	advmod															
+das+	дас+	das	dam	Vmia3se		414	6	2	advcl															
+jemu	ѥмꙋ	jemu	toi	Pp3msd		414	7	6	obl	iobj														
+gь.	гь.	gъ	Gospod	Nmsny		414	8	6	nsubj															
+pogú_biti+	погꙋ́_бити+	pogubiti	pogubja	Vmn---e		414	9	6	advcl					1										
+satanàila	сатанàила	satanaila	Satanail	Nmsgy		414	10	9	obj															
+do+	до+	do	do	Sg		414	11	12	case															
+koncà	концà	konca	konec	Nmsgn		414	12	9	obl					1										
+																								
+i+	и+	i	i	C		415	1	2	cc				And there were coming to Archstratege Michael all the ranks (of angels),											
+prixoždaxú+	прихождахꙋ́+	prixoždaxu	prixoždam	Vmii3si		415	2	0	root															
+kь+	кь+	kъ	k	Sd		415	3	4	case															
+arxistrati_gú+	архистрати_гꙋ́+	arxistratigu	arxistratig	Nmsdy		415	4	2	obl					1										
+mixàilu.	михàилꙋ.	mixailu	Mixail	Nmsdy		415	5	4	appos															
+vse+	все+	vse	vse	Afpnn	Ampan	415	6	7	amod	det														
+činove+	чинове+	činove	čin	Nmpnn		415	7	2	nsubj															
+prь_vie	прь_вие	prъvie	pъrvi	Afpny		415	8	7	conj				the Archons, the Powers, and Thrones, and Dominions,	1										
+vlasti.	власти.	vlasti	vlast	Nfpnn		415	9	8	conj															
+i+	и+	i	i	C		415	10	11	cc															
+prěstoli+	прѣстоли+	prěstoli	prestol	Nmpnn		415	11	9	conj															
+i+	и+	i	i	C		415	12	13	cc															
+gь_stivija+	гь_стивиꙗ+	gъstivija	gospodьstvie	Nnpnn		415	13	11	conj					1										
+xerovim.	херовим.	xerovim	xeruvim	Nmsnn		415	14	13	conj				the Cherubim and the many-eyed Seraphim, and Living Ones, and the Four-Armed,											
+i+	и+	i	i	C		415	15	16	cc															
+saraximi	сарахими	saraximi	serafim	Nmpnn		415	16	14	conj					1										
+mngo.ꚙčíta+	мнго.ꚙчи́та+	mngoꚙčita	mnogoočit	Anpnn		415	17	16	amod															
+i+	и+	i	i	C		415	18	19	cc															
+životna+	животна+	životna	životen	Anpnn		415	19	16	conj															
+i+	и+	i	i	C		415	20	21	cc															
+čè_tvorokonьčьnьjà.	чѐ_твороконьчьньꙗ̀.	četvorokonъčъnъja	četverokonьčьn	Anpnn		415	21	19	conj					1										
+i+	и+	i	i	C		415	22	24	cc				and angelic legions of many varieties.											
+mnogo_ẅbrazna+	много_ѡ̈бразна+	mnogoẅbrazna	mnogoobrazen	Anpnn		415	23	24	amod															
+legiwnì.	легиѡнѝ.	legioni	legeon	Nmpnn		415	24	21	conj															
+agglьsci	аггльсци	agglъsci	angelski	Ampnn		415	25	24	amod					1										
+																								
+i+	и+	i	i	C		416	1	6	cc				And all the forces of the Heavenly Jerusalem were coming to see Michael, to see the hero.											
+vse+	все+	vse	vse	Afpnn		416	2	3	amod	det														
+sile+	силе+	sile	sila	Nfpnn		416	3	6	nsubj															
+gornago+	горнаго+	gornago	goren	Amsgy		416	4	5	amod															
+erúsalìma	ерꙋ́салѝма	erusalima	Ierusalim	Nmsgn		416	5	3	nmod					1										
+prixoždaxu.	прихождахꙋ.	prixoždaxu	prixoždam	Vmii3si		416	6	0	root															
+na+	на+	na	na	Sa		416	7	8	mark															
+vděnïe+	вдѣнїе+	vděnie	videnie	Nnsnn		416	8	6	advcl															
+míxa_ilovo.	ми́ха_илово.	mixailovo	Mixailov	Ansnn		416	9	8	amod					1										
+jako+	ꙗко+	jako	jako (2)	C		416	10	12	mark															
+da+	да+	da	da	C		416	11	10	fixed															
+vdětь+	вдѣть+	vdětъ	vidja	Vmip3si		416	12	8	advcl															
+vóinakà	во́инакà	voinaka	voinik	Nmsgy		416	13	12	obj					1		Seems like a combination of <i>voinik</i> and <i>junak</i>.								
+																								
+i+	и+	i	i	C		417	1	2	cc				And they rejoiced at coming (of the hero).											
+ẅbradovaxu+	ѡ̈брадовахꙋ+	ẅbradovaxu	obraduvam	Vmii3pe		417	2	0	root															
+se.	се.	se	se	Px---a		417	3	2	expl															
+prixodešta	приходеща	prixodešta	prixodja	Vmpp-sea	Amsgn	417	4	2	obl					1										
+																								
+i+	и+	i	i	C		418	1	2	cc				And they saw him with the face down, as burnt.											
+zrěxu+	зрѣхꙋ+	zrěxu	zra	Vmii3pi		418	2	0	root															
+ego+	его+	ego	toi	Pp3msg		418	3	2	obj															
+ponikla	поникла	ponikla	poniknǫti	Vmp--se	Amsgn	418	4	2	advcl	obl:pred														
+licemь+	лицемь+	licemъ	lice	Nnsin		418	5	4	obl															
+ego	его	ego	toi	Pp3msg		418	6	5	nmod	poss				1										
+jako	ꙗко	jako	jako (2)	C		418	7	8	mark															
+znojano.	зноꙗно.	znojano	znojan	Ansnn		418	8	6	acl															
+																								
+i+	и+	i	i	C		419	1	2	cc				And they gave him great praise and joy.											
+vьzdaše+	вьздаше+	vъzdaše	vъzdam	Vmia3pe		419	2	0	root															
+jemu	ѥмꙋ	jemu	toi	Pp3msd		419	3	2	obl	iobj				1										
+xvàlù+	хвàлꙋ̀+	xvalu	xvala	Nfsan		419	4	2	obj															
+i+	и+	i	i	C		419	5	6	cc															
+ra_dostь+	ра_дость+	radostъ	radost	Nfsnn		419	6	4	conj															
+velïju.	велїю.	veliju	velii	Afsan		419	7	4	amod					1										
+																								
+Bu+	Бꙋ+	bu	bog	Nmsdy		420	1	3	obl	iobj			Glory (be) to our God forever!									8	Closing Prayers	
+nšemú	ншемꙋ́	nšemu	naš	Amsdy		420	2	1	amod	poss														
+slàvà.	слàвà.	slava	slava	Nfsnn		420	3	0	root															
+vь+	вь+	vъ	v	Sa		420	4	5	case															
+věky	вѣкы	věki	vek	Nmpan		420	5	3	obl					1										
+																								
+imnь---	имнь---	imnъ	amin	I		421	1	0	root				Amen.											

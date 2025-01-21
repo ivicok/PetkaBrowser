@@ -1,0 +1,28 @@
+text	cyrillic	diplomatic	lemma	PoS_tag	PoS_ext	sent_id	UD_id	UD_ncy	UD_type	UD_ext	page	folio	translation	eol	chapter	ref	desc	lat_header	cyr_header	lat_page_nr	cyr_page_nr	chunk	chunk_desc
+																							
+Jesu	Jesu	Jesu	Jesus	Nasn		1	1	6	vocative		1	https://oieahc.wm.edu/wp-content/uploads/MA-Figure-1.jpg	Jesus, to you alone	0	moh Moravian Mohican Hymns		<b>Moravian Mohican Hymns</b><br/><br/>Songs of Moravian Brethren missionaries, translated into a Mohican (Eastern Algonquian) variety spoken in the area of the Hudson river in the 18th century. The annotation is based on the anonymous grammar written for the Stockbridge variety (<a target=_blank href=https://munseedelaware.com/introduction-to-the-language-of-the-stockbridge-mohicans/>link</a>) of Mohican.<br/>The songs were recorded within the frame of the project <b>Singing Box 331</b> led by Prof. Rachel Wheeler of Indiana University - Purdue University Indianapolis and Sarah Eyerly of Florida State University (<a target=_blank href=https://oieahc.wm.edu/digital-projects/oi-reader/singing-box-331-rachel-wheeler-sarah-eyerly/introduction/>link</a>). Further songs can be accessed at the websites of the Archive (<a target=_blank href=https://moravianmusic.org/eight-mohican-moravian-hymns/>link</a>) and of the University of Michigan (<a target=_blank href=https://doi.org/10.3998/mpub.11374592.cmp.7>link</a>).<br/><br/><font size=1> Nominal tag structure: N-gender-number-case-possessor<br/> genders: animate (a), neuter (or inanimate - n)<br/> numbers: singular (s), plural (p)<br/> cases (final suffixes): unmarked (n), obviative (o), absentive (b), locative (l)<br/> possessors (interfixed): 1sg (1), 2sg (2), 3sg (3), 1pl (a), 2pl (b), 3pl (c)<br/><br/> Verbal tag structure: V-type-mood-tense-person-number-obj.number/person<br/> types: VII (neuter object intransitive - i), VAI (animate intransitive - a), VTI (neuter transitive - n), VTA (animate transitive - t)<br/> moods (orders): independent (i), conjunct (o), imperative (m), participle (p)<br/> tenses: present (p), past (a), future (r)<br/> indicative (etc.) object number: sg (s) or pl (p)<br/> imperative object person: 1st (1) or 3rd (3)<br/><br/> literature:<br/> Rachel Wheeler and Sarah Eyerly (2019) Singing Box 331: Re-sounding Eighteenth-Century Mohican Hymns from the Moravian Archives. <i>William and Mary Quarterly</i> 3d ser., 76, no. 4 (10.2019). 649-696.<br/><i>Verse zum Gebrauch bey den Indianern in Scattigok</i>, Moravian Archives (Bethlehem, PA) 331.2</font>	<audio id='mwe_player_0' controls='' preload='none' width='150' style='width:200px;' data-durationhint='143' data-mwtitle='rv3-18.mp3' data-mwprovider='wikimediacommons'><source src='https://moravianmusic.org/wp-content/uploads/5a.-Jesu-paashqon-kiya_-sung.mp3' type='audio/mpeg' data-title='MP3' data-shorttitle='MP3' data-transcodekey='mp3' data-width='0' data-height='0' data-bandwidth='183232' /></audio><br/>	<audio id='mwe_player_0' controls='' preload='none' width='150' style='width:200px;' data-durationhint='143' data-mwtitle='rv3-18.mp3' data-mwprovider='wikimediacommons'><source src='https://moravianmusic.org/wp-content/uploads/5a.-Jesu-paashqon-kiya_-sung.mp3' type='audio/mpeg' data-title='MP3' data-shorttitle='MP3' data-transcodekey='mp3' data-width='0' data-height='0' data-bandwidth='183232' /></audio><br/>	Herr Jesu Christ, dein Tod	Herr Jesu Christ, dein Tod		
+pashgon	pashgon	paashqon	paaschkon ´one´	M		1	2	3	det														
+kia	kia	kiyu	kuyah, keyuh ´you´ (sg)	Pp2s		1	3	6	obl	iobj				1									
+nia	nia	niyu	nuyah, neyuh ´I´	Pp1s		1	4	6	nsubj				do I willingly give my heart										
+quege	quege	nqeeche	nquehcheh ´alone´	R		1	5	6	advmod														
+men	men	meenin	meen ´give´	Vnip1ss		1	6	0	root														
+ntaa	ntaa	ntah	dah ´heart´	Nnsn1		1	7	6	obj					1									
+																							
+kia	kia	kiya	kuyah ´you´ (sg)	Pp2s		2	1	3	nsubj				you certainly have earned it										
+muchtsche	muchtsche	muxche	muhcheh, muchtsche ´already´	R		2	2	3	advmod														
+gpenhamen	gpenhamen	kpinhumin	penhammen ´deserve´	Vnip2ss		2	3	0	root					1									
+																							
+gahanna	gahanna	kahuna	gahane ´true´	R		3	1	2	advmod				you have paid much for it										
+gmachnochganap	gmachnochganap	kmuxeenohkaanaap		Vnia2ss		3	2							1									
+gtauwahan	gtauwahan	ktuwahaan	tattawah ´purchase, buy´	Vnp		3	3	0	root														
+machane	machane	muxaane	mukhhauneh, machane ´many´	R		3	4	5	amod				with your many wounds										
+papaguajan	papaguajan	paapqaayun	papaquaik ´wounds´	Nnpn		3	5	2	obl					1									
+nik+	nik+	nik	niik ´those´	Pd-ap		3	6	5	det				and your blood										
+quaak	quaak	wãak	wauch ´also, too´	C		3	7	8	cc														
+gpegachganoom	gpegachganoom	kpykahkunoom	p´gachganon ´blood´	Nnsn2		3	8	5	conj					1									
+																							
+nhackay	nhackay	nhukuy	nhokki ´my body´	Nasn1		4	1	2	nsubj				since I am your child										
+wa+	wa+	owu	owwaun ´who´	Pr		4	2	0	root														
+cktajoom	cktajoom	ktuyoom	ktiom ´your son´	Nnsn2		4	3	2	obl	pred				1									
+																							
+osatammawe	osatammawe	osãatumuweh	osatammawa ´forgive´	Vtm-2s1		5	1	0	root				forgive me	2									

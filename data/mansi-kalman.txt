@@ -1,0 +1,793 @@
+text	cyrillic	diplomatic	lemma	PoS_tag	PoS_ext	sent_id	UD_id	UD_ncy	UD_type	UD_ext	page	folio	translation	eol	chapter	ref	desc	lat_header	cyr_header	lat_page_nr	cyr_page_nr	chunk	chunk_desc
+																							
+12.	12.	12	12	Md		1	1	7	discourse		72	/img/other/man1.jpeg	[Title] 12. Seven elks stood on one foot	0	man Vogul Chrestomathy		<b>Vogul Chrestomathy</b><br/><br/>Mansi (or Vogul) folk stories from the collection of Béla Kálmán. Presently, the sample contains two stories: the play <i>Seven Elks Stood on One Foot</i> (Kálmán 1965:72-73) and the historical epic poem <i>Song of Conversion</i> (ibid. 79-81).<br/><br/><font size=1>  Nominal tag structure: N-(gender)-number-case-possessor<br/>  numbers: singular (s), dual (d), plural (p)<br/>  cases: unmarked (n), ablative (b), lative (d), locative (l), instrumental (i), translative (t)<br/>  possessors: 1sg (1), 2sg (2), 3sg (3), 1pl (a), 2pl (b), 3pl (c)<br/><br/>  Verbal tag structure: V-conjugation-mood-tense-person-number-obj.number-voice/ptcp.type<br/>  conjugations: indefinite (m), definite (d)<br/>  moods: indicative (i), imperative (m), infinitive (n), conditional-optative (o), narrative (r), participle (p)<br/>  tenses: present (p), past (a)<br/> participle types: -ŋ (a), -i (i), -m (m), -n/-ne (n), -pa (p), -s (s), -tal (t) <br/><br/> Lemma dictionary: <a target=_blank href=/dict.php?var=mansi>link</a><br/><br/>Literature:<br/>Béla Kálman (1965) <i>Vogul Chrestomathy</i>. Bloomington: Indiana University.<br/>Timothy Riese (2001) <i>Vogul</i> (<i>Languages of the World/Materials</i> 158). München: Lincom Europa.</font>						
+sāt	сат	sāt	sāt	Ml		1	2	3	nummod														
+sōrp	сорп	sōrp	sōrp	N-sn		1	3	7	nsubj							Pos. 2, indicating gender elsewhere in the corpus, is always blank.							
+akw	акв	akw	akw	Ml		1	4	5	nummod														
+lāɣl	лагл	lāɣl	lāɣl	N-sn		1	5	7	obl	loc													
+tarməl	тармыл	tarməl	tarməl	S		1	6	5	case														
+ľūľsət,	люльсыт,	ľūľsət	ľūľi	Vmia3p		1	7	0	root							Tag pos. 7 and 8 (obj.number and voice) are omitted, unless explicitly marked by relevant suffixes (i.e. in indef. verbs with active voice).							
+																							
+tūli̮ɣlap	тулиглап	tūliɣlap	tūliɣlap	N-sn		2	1	0	root				[Title] A spectacle	1									
+																							
+am	ам	am	am	Pp1-sn		3	1	4	nsubj				I went fishing (lit. hunt a fish).										
+χūl	xул	xūl	xūl	N-sn		3	2	3	obj														
+aliślaŋkwe	алищлаӈкве	aliślaŋkwe	aliśli	Vmn		3	3	4	advcl														
+minasᵘm.	минасум.	minasum	mini	Vmia1s		3	4	0	root														
+																							
+χūlpət	xулпыт	xūlpət	xūlp	N-pn		4	1	2	obj				I threw (took?) fishing nets,										
+maχtsᵘm,	маxтсум,	maxtsum	maxti	Vmia1s		4	2	0	root														
+																							
+pā	па	pā	pā	R		5	1	2	advmod				I went to the shore,										
+kwālsᵘm:	квалсум:	kwālsum	kwāli	Vmia1s		5	2	0	root														
+																							
+wāni̮ɣn,	ванигн,	wāniɣn	wāniɣ	N-dd		6	1	3	obl	lat			I walked into the mountains and forests,										
+wōrn	ворн	wōrn	wōr	N-sd		6	2	1	conj														
+jōmentasᵘm,	йоментасум,	jōmentasum	jōmanti	Vmia1s		6	3	0	root							Forms with regular derivational suffixes (cf. Kálmán 1965:48, Riese 2001:58) are handled as separate lemmas.							
+																							
+takwəs-āluw	таквыс-алув	takwəs-āluw	takwəs-āluw	R		7	1	3	advmod				I went in the autumn,										
+ta	та	ta	ta	Pd		7	2	1	det														
+jōmsᵘm.	йомсум.	jōmsum	jōmi	Vmia1s		7	3	0	root					1									
+																							
+akw-mat-ērt	акв-мат-ерт	akw-mat-ērt	akw-mat-ērt	R		8	1	3	advmod				(but) suddenly it began to snow.										
+tūjt	туйт	tūjt	tūjt	N-sn		8	2	3	nsubj														
+patəs.	патыс.	patəs	pati	Vmia3s		8	3	0	root														
+																							
+āmpᵘm	ампум	āmpum	āmp	N-sn1		9	1	3	nsubj				My dog barks strongly (?) at something.			Possessive suffixes (pos. 5):<br/>1 - 1sg<br/>2 - 2sg<br/>3 - 3sg<br/>a - 1pl<br/>b - 2pl<br/>c - 3pl<br/><br/>Left blank if no possessor is indicated on the word. Mansi uses distinctive endings according to the number of the possessee (e.g. <i>āmpe</i> 'his/her dog', <i>āmpane</i> 'his/her dogs' - not **<i>āmpəte</i>!).<br/>The system based on Turkish tagset.							
+matər	матыр	matər	matər	Pi		9	2	3	obj														
+ūti,	ути,	ūti	ūti	Vmip3s		9	3	0	root														
+sujti.	суйти.	sujti	sujti	Vmip3s		9	4	3	conj														
+																							
+tuw	тув	tuw	tuw	Pr		10	1	2	advmod				I went there,										
+jōmsᵘm,	йомсум,	jōmsum	jōmi	Vmia1s		10	2	0	root														
+																							
+taw	тав	taw	taw	Pp3-sn		11	1	4	nsubj				it surely barked at a sable.										
+ťal	тял	ťal	ťal	R		11	2	4	advmod														
+ńoχs	нюxс	ńoxs	ńoxs	N-sn		11	3	4	obj														
+ūts.	утс.	ūts	ūti	Vmia3s		11	4	0	root														
+																							
+am	ам	am	am	Pp1-sn		12	1	2	nsubj				I tracked (it), where it fell.										
+pōsəltaslᵘm,	посылтаслум,	pōsəltaslum	pōsəlti	Vdia1ss		12	2	0	root														
+taw	тав	taw	taw	Pp3-sn		12	3	4	nsubj														
+jol-rēpi̮ɣtaχti.	йол-репигтаxти.	jol-rēpiɣtaxti	jol-rēpiɣtaxti	Vmip3s		12	4	2	advcl	obl:loc													
+																							
+āmpᵘm	ампум	āmpum	āmp	N-sn1		13	1	3	nsubj				My dog was jumping.										
+tuw	тув	tuw	tuw	Pr		13	2	3	advmod														
+sēlχats.	селxатс.	sēlxats	sēlxati	Vmia3s		13	3	0	root														
+																							
+taw	тав	taw	taw	Pp3-sn		14	1	2	nsubj				It jumped aside.										
+χot-raɣats.	xот-рагатс.	xot-raɣats	xot-raɣati	Vmia3s		14	2	0	root														
+																							
+āmp	амп	āmp	āmp	N-sn		15	1	2	nsubj				The dog whined.										
+śisɣəltaχtəs.	щисгылтаxтыс.	śisɣəltaxtəs	śisɣəltaxti	Vmia3s		15	2	0	root														
+																							
+am	ам	am	am	Pp1-sn		16	1	3	nsubj				I went there around (?)										
+tuw	тув	tuw	tuw	Pr		16	2	3	advmod														
+jōmli̮ɣtasᵘm:	йомлигтасум:	jōmliɣtasum	jōmliɣtaxti	Vmia1s		16	3	0	root							Refl. suffix -<i>iɣta</i>- ?							
+																							
+jani̮ɣ	яниг	janiɣ	janiɣ	A		17	1	4	amod				It ruffled dorsal fins of blacktail fish,										
+simri	симри	simri	simri	N-sn		17	2	4	nmod	poss													
+mājtəŋ	майтыӈ	mājtəŋ	mājtəŋ	A		17	3	4	amod														
+palite	палите	palite	palit	N-sl3		17	4	5	obj							Lit. ʺat its sideʺ. Kálmán: <i>mājtəŋ palite</i>, lit. 'mane of its liver', denotes the dorsal fin of the fish.							
+nōŋχ-χasartᵘmane,	ноӈx-xасартумане,	nōŋx-xasartumane	nōŋx-xasarti	Vdra3sp		17	5	0	root							Verbal moods (pos. 3):<br/>i - indicative<br/>m - imperative<br/>n - infinitive<br/>r - narrative<br/>o - conditional-optative<br/>Precative forms (e.g. <i>totikem</i> 'I bring something [with love]') are not attested in this text, but, in spite of Kálmán (1965:54), I would rather consider it a derivational category (as in Riese 2001:59)							
+																							
+ań-manəŋ	ань-маныӈ	ań-manəŋ	ań-manəŋ	R		18	1	2	advmod				and now it pricked them.			Forms <i>ań-maləŋ</i> and <i>-manəŋ</i> are considered equal by Kálmán.							
+pēləliane.	пелылиане.	pēləliane	pēləli	Vdia3sp		18	2	0	root														
+																							
+tuwl	тувл	tuwl	tuwəl	R		19	1	4	advmod				then I did not hunt anymore (?).										
+at-	ат-	at	at	Qz		19	2	4	advmod														
+ta	та	ta	ta	Pd		19	3	4	obj														
+kissᵘm.	киссум.	kissum	kinsi	Vmia1s		19	4	0	root					1									
+																							
+tāl	тал	tāl	tāl	N-sn		20	1	2	nsubj				Winter began,			Kálmán: a set phrase.							
+wārs,	варс,	wārs	wāri	Vmia3s		20	2	0	root														
+																							
+ta	та	ta	ta	Pd		21	1	2	advmod				so I went hunting again.										
+kissᵘm.	киссум.	kissum	kinsi	Vmia1s		21	2	0	root														
+																							
+tēli	тели	tēli	tāl	N-sl		22	1	3	advmod				I went far in the winter.										
+χosan	xосан	xosan	xosa	R	N-sd	22	2	3	advmod														
+minasum.	минасум.	minasum	mini	Vmia1s		22	3	0	root														
+																							
+χolitan	xолитан	xolitan	xolit	R	N-sd	23	1	3	advmod				Tomorrow the stoves will be heated up.										
+kūrt	курт	kūrt	kūr	N-sl		23	2	3	nsubj														
+nōŋχ-pāltawet,	ноӈx-палтавет,	nōŋx-pāltawet	nōŋx-pālti	Vmip3p-p		23	3	0	root							Unless indicated by a ʺpʺ at the pos. 6 of the tag, the verb is considered active per default.							
+																							
+tūpəl-ūs	тупыл-ус	tūpəl-ūs	Tūpəl-ūs	N-sn		24	1	5	nsubj				Tobolsk stands in smoke as in a trunk.										
+posimət	посимыт	posimət	posim	N-sl		24	2	5	obl	loc													
+jar	яр	jar	jar	C		24	3	4	mark														
+āŋkwalət	аӈквалыт	āŋkwalət	āŋkwal	N-sl		24	4	5	advcl														
+ľūľentēɣet.	люлентегет.	ľūľentēɣet	ľūľenti	Vmip3p		24	5	0	root														
+																							
+tuw	тув	tuw	tuw	Pr		25	1	2	advmod				There we moved,										
+iləlaχtəltəsuw;	илылаxтылтысув;	iləlaxtəltəsuw	ilxatenti	Vmia1p		25	2	0	root														
+																							
+man	ман	man	man	C		26	1	2	cc				or we will move (?).										
+ilχatentew.	илxатентев.	ilxatentew	ilxatenti	Vmip1p		26	2	0	root														
+																							
+kit	кит	kit	kit	Ml		27	1	2	amod	det			From both sides, the cuckoos were singing, (so strong?) as if dogs were barking.										
+pālnəl	палныл	pālnəl	pāl	N-sb		27	2	4	obl	abl													
+kukkukət	куккукыт	kukkukət	kukkuk	N-pn		27	3	4	nsubj														
+lujɣentēɣət,	луйгентегыт,	lujɣentēɣət	lujɣenti	Vmip3p		27	4	0	root														
+jar	яр	jar	jar	C		27	5	7	mark														
+āmpət	ампыт	āmpət	āmp	N-pn		27	6	7	nsubj														
+ūtentēɣət.	утентегыт.	ūtentēɣət	ūtenti	Vmip3p		27	7	4	advcl					1									
+																							
+tuwəl	тувыл	tuwəl	tuwəl	R		28	1	2	advmod				Then we came back,										
+juw-iləlaχtsew,	юв-илылаxтсев,	juw-iləlaxtsew	juw-ilxatenti	Vmia1p		28	2	0	root														
+																							
+χūlpᵘmn	xулпумн	xūlpumn	xūlp	N-sd1		29	1	2	obl				I went for my fishing net.										
+minasᵘm.	минасум.	minasum	mini	Vmia1s		29	2	0	root														
+																							
+ań-manəŋ	ань-маныӈ	ań-manəŋ	ań-manəŋ	R		30	1	5	advmod				And now the entire fish would be entangled and rotten,										
+akw	акв	akw	akw	Ml		30	2	4	amod	det						Fixed phrase: <i>akw samtal</i> lit. 'one whole'.							
+samtal	самтал	samtal	samtal	R		30	3	2	fixed														
+χūln	xулн	xūln	xūl	N-sd		30	4	5	nsubj							The lative-dative case ending usually marks agents of passive sentences (Kálmán 1965:35, Riese 2001:25 or 52), but here its function is somewhat unclear.							
+pēri̮ɣlimat,	периглимат,	pēriɣlimat	pēriɣli	Vmra3p-p		30	5	0	root														
+χot-sajimat,	xот-сайимат,	xot-sajimat	xot-saji	Vmra3p-p		30	6	5	conj														
+																							
+uś	ущ	uś	uś	R		31	1	4	advmod				(and) already only its side bones are laying (lit. standing) there.										
+akw	акв	akw	akw	Ml		31	2	3	amod														
+pōχ-lusᵘmane	поx-лусумане	pōx-lusumane	pōx-lusam	N-pn3		31	3	4	nsubj														
+ľūľentēɣət.	люлентегыт.	ľūľentēɣət	ľūľenti	Vmip3p		31	4	0	root					1									
+																							
+saχ	саx	sax	sax	A		32	1	2	amod				I rowed home on a sunny day.										
+χōtal	xотал	xōtal	xōtal	N-sn		32	2	3	advmod														
+juw-towentēɣum.	юв-товентегум.	juw-towentēɣum	juw-towenti	Vmip1s		32	3	0	root														
+																							
+χōntsᵘm,	xонтсум,	xōntsum	xōnti	Vmia1s		33	1	0	root				And now, I saw a diving bird, having arisen ashore, to lie about, falling asleep.										
+ań-manəŋ	ань-маныӈ	ań-manəŋ	ań-manəŋ	R		33	2	7	advmod														
+ńāltᵘp	нялтуп	ńāltup	ńāltup	N-sn		33	3	1	obj														
+pā-	па-	pā	pā	R		33	4	5	advmod														
+kwālᵘm	квалум	kwālum	kwāli	Vmpa--m		33	5	3	acl							Cf. Riese 2001:68 for the functions of the m-participle.							
+χujenti	xуйенти	xujenti	xujenti	Vmip3s	Vmpp--i	33	6	5	conj							Lit. 'the diving bird lays about, falling down (into) sleep'. The ending -<i>i</i> can be interpreted both as a 3sg.prs or as an archaic i-participle, but in the latter function it seems to be used following the subjet noun (e.g. <i>lujɣi kukuk</i> 'singing cuckoo', Riese 2001:66).							
+jol-ojima.	йол-ойима.	jol-ojima	jol-oji	Vmrp3s		33	7	6	conj							The suffix -<i>ima</i>- is basically a gerund denoting manner or state (Riese 2001:69), but it also forms past narrative passive forms (ibid. 53).							
+																							
+am	ам	am	am	Pp1-sn		34	1	4	nsubj				I rowed slowly (to) this.										
+akw-śikwəl	акв-щиквыл	akw-śikwəl	akw-śikwəl	R		34	2	4	advmod														
+ti	ти	ti	ti	Pd		34	3	4	obl	lat													
+towaślasᵘm.	товащласум.	towaślasum	towaśli	Vmia1s		34	4	0	root														
+																							
+taw	тав	taw	taw	Pp3-sn		35	1	3	nsubj				It jumped into the water.										
+witn	витн	witn	wit	N-sd		35	2	3	obl	lat													
+lakwaltəs.	лаквалтыс.	lakwaltəs	lakwalti	Vmia3s		35	3	0	root														
+																							
+nalᵘm-pātrāli,	налум-патрали,	nalum-pātrāli	nalum-pātrāli	Vmip3s		36	1	0	root				It dives,										
+																							
+nēɣləli,	неглыли,	nēɣləli	nēɣlali	Vmip3s		37	1	0	root				it emerges,										
+																							
+am	ам	am	am	Pp1-sn		38	1	2	nsubj				I rowed there.										
+tuw-towli̮ɣtasᵘm,	тув-товлигтасум,	tuw-towliɣtasum	tuw-towliɣti	Vmia1s		38	2	0	root														
+																							
+nōŋχ	ноӈx	nōŋx	nōŋx	N-sn		39	1	3	obj				I caught the top (of) this,										
+ti	ти	ti	ti	Pd		39	2	1	det														
+pūɣaslᵘm,	пугаслум,	pūɣaslum	pūwi	Vdia1ss		39	3	0	root														
+																							
+tarwitəŋ,	тарвитыӈ,	tarwitəŋ	tarwitəŋ	A		40	1	0	root				(it was) heavy,										
+																							
+χotam-soχ	xотам-соx	xotam-sox	xotam-sox	R		41	1	3	advmod				(but) somehow I lifted the top.										
+nōŋχ-	ноӈx-	nōŋx	nōŋx	N-sn		41	2	3	obj														
+pattaslᵘm.	паттаслум.	pattaslum	patti	Vdia1ss		41	3	0	root					1									
+																							
+ti	ти	ti	ti	Pd		42	1	4	obj				Then I saw this:										
+am	ам	am	am	Pp1-sn		42	2	4	nsubj														
+koss	косс	koss	kos	C		42	3	4	cc														
+χōntilᵘm:	xонтилум:	xōntilum	xōnti	Vdip1ss		42	4	0	root														
+																							
+wōj	вой	wōj	wōj	N-sn		43	1	3	obj				I made fat (out of it),										
+am	ам	am	am	Pp1-sn		43	2	3	nsubj														
+wāslᵘm,	васлум,	wāslum	wāri	Vdia1ss		43	3	0	root							Shortened <i>wāraslum</i>? Or from <i>wāɣ</i> 'to see, know'?							
+																							
+punəŋ-taɣəl	пуныӈ-тагыл	punəŋ-taɣəl	punəŋ-taɣəl	A	N-si	44	1	4	obl				I cut through the feathers,										
+ūltta	ултта	ūltta	ūltta	S		44	2	1	case														
+supi̮ɣ	супыг	supiɣ	supiɣ	S	N-st	44	3	2	fixed														
+samaslᵘm:	самаслум:	samaslum	sami	Vdia1ss		44	4	0	root														
+																							
+ań-manəŋ	ань-маныӈ	ań-manəŋ	ań-manəŋ	R		45	1	4	advmod				and now the feathers fell into pieces.										
+punane	пунане	punane	pun	N-pn3		45	2	4	nsubj														
+rawi̮ɣ	равиг	rawiɣ	raw	N-st		45	3	4	obl														
+jēmteɣət.	йемтегыт.	jēmteɣət	jēmti	Vmip3p		45	4	0	root														
+																							
+nal	нал	nal	nal	R		46	1	3	advmod				I put it into the water.										
+ti	ти	ti	ti	Pd		46	2	3	obj														
+wāraslᵘm.	вараслум.	wāraslum	wāri	Vdia1ss		46	3	0	root														
+																							
+ti	ти	ti	ti	Pd		47	1	6	nsubj				This filled (?) my seven buckets (with) fat.										
+ānum	анум	ānum	am	Pp1-sa		47	2	4	nmod	poss						The 1sg.acc <i>anum</i> is used likely as an adnominal possessive attribute (cf. Kálmán 1965:34). According to Riese (2001:66), possessive constructions involving two (and more) words ʺusuallyʺ include a possessive suffix.							
+sāt	сат	sāt	sāt	Ml		47	3	4	nummod														
+pētər	петыр	pētər	pētər	N-sn		47	4	6	obj														
+wōj	вой	wōj	wōj	N-sn		47	5	4	nmod														
+tēləs.	телыс.	tēləs	tēli	Vmia3s		47	6	0	root														
+																							
+χotaľ	xоталь	xotaľ	xotaľ	Pq		48	1	2	advmod				Now, I don't have place where to put the vessels!										
+punuŋkwe	пунуӈкве	punuŋkwe	puni	Vmn		48	2	5	advcl	lat													
+tas	тас	tas	tas	N-sn		48	3	5	obl	loc													
+at	ат	at	at	Qz		48	4	5	advmod														
+ōńśeɣᵘm.	оньщегум.	ōńśeɣum	ōńśi	Vmip1si		48	5	0	root														
+																							
+ań-manəŋ	ань-маныӈ	ań-manəŋ	ań-manəŋ	R		49	1	2	advmod				And now my boat is like an intact cup.										
+χāpᵘm	xапум	xāpum	xāp	N-sn1		49	2	0	root														
+jar	яр	jar	jar	C		49	3	5	mark														
+mostal	мостал	mostal	mostal	A		49	4	5	amod														
+āna.	ана.	āna	āna	N-sn		49	5	2	advcl	pred													
+																							
+am	ам	am	am	Pp1-sn		50	1	6	nsubj				I took this seven buckets of fat,										
+ti	ти	ti	ti	Pd		50	2	4	det														
+sāt	сат	sāt	sāt	Ml		50	3	4	nummod														
+pētər	петыр	pētər	pētər	N-sn		50	4	6	obj														
+wōj	вой	wōj	wōj	N-sn		50	5	4	nmod														
+wislᵘm,	вислум,	wislum	wiɣ	Vdia1ss		50	6	0	root														
+																							
+χāp	xап	xāp	xāp	N-sn		51	1	3	obl	lat			I poured it into the boat,										
+kiwərn	кивырн	kiwərn	kiwər	S	N-sd	51	2	1	case														
+sōsaslum.	сосаслум.	sōsaslum	sōsi	Vdia1ss		51	3	0	root														
+																							
+tuwl-	тувл-	tuwl	tuwəl	R		52	1	4	advmod				then I rowed thus.										
+uil	уил	uil	uil	R		52	2	4	advmod														
+ti	ти	ti	ti	Pd		52	3	2	det														
+towentasᵘm;	товентасум;	towentasum	towenti	Vmia1s		52	4	0	root														
+																							
+uś	ущ	uś	uś	R		53	1	4	advmod				Somehow I was nearly brought home.										
+koləŋ-mān	колыӈ-ман	koləŋ-mān	koləŋ-mā	N-sd		53	2	4	obl	lat													
+χotam	xотам	xotam	xotam	R		53	3	4	advmod														
+juw-totilᵘm.	юв-тотилум.	juw-totilum	juw-toti	Vdip1ss		53	4	0	root					1									
+																							
+mat	мат	mat	mat	Pi		54	1	5	nsubj				And now something was out of the pouch for flint.										
+uľa-χuri̮ɣ	уля-xуриг	uľa-xuriɣ	uľa-xuriɣ	N-sn		54	2	5	obl	loc													
+ań-manəŋ	ань-маныӈ	ań-manəŋ	ań-manəŋ	R		54	3	5	advmod														
+konit	конит	konit	kon	S	N-sl	54	4	2	case														
+ōls.	олс.	ōls	ōli	Vmia3s		54	5	0	root														
+																							
+ēntap-kwāli̮ɣt	ентап-квалигт	ēntap-kwāliɣt	ēntap-kwāliɣ	N-sl		55	1	6	obj				I hanged the flint on the edge of the boat.										
+uľa-	уля-	uľa	uľa	N-sn		55	2	3	nmod														
+kēr	кер	kēr	kēr	N-sn		55	3	1	nmod														
+χāp-	xап-	xāp	xāp	N-sn		55	4	5	nmod	poss													
+χūrt	xурт	xūrt	xūr	N-sl		55	5	6	obl	loc													
+kon-taɣataχtᵘm.	кон-тагатаxтум.	kon-taɣataxtum	kon-taɣataxti	Vmpa--m		55	6	0	root														
+																							
+jani̮ɣ	яниг	janiɣ	janiɣ	A		56	1	2	amod				A big pike jumped (for) this,										
+sort	сорт	sort	sort	N-sn		56	2	4	nsubj														
+ti	ти	ti	ti	Pd		56	3	4	obj														
+lakwalti,	лаквалти,	lakwalti	lakwalti	Vmip3s		56	4	0	root														
+																							
+ań	ань	ań	ań	R		57	1	4	advmod				and now it snatched towards this pouch.										
+uľa-χuri̮ɣn	уля-xуригн	uľa-xuriɣn	uľa-xuriɣ	N-sd		57	2	4	obl	lat													
+ti	ти	ti	ti	Pd		57	3	2	det														
+sēltaχti.	селтаxти.	sēltaxti	sēltaxti	Vmip3s		57	4	0	root														
+																							
+ań	ань	ań	ań	R		58	1	4	advmod				I get scared (by) that,										
+am	ам	am	am	Pp1-sn		58	2	4	nsubj														
+ta	та	ta	ta	Pd		58	3	4	obl	abl													
+roχtēɣᵘm;	роxтегум;	roxtēɣum	roxti	Vmip1s		58	4	0	root														
+																							
+roχtᵘmamtəl	роxтумамтыл	roxtumamtəl	roxti	Vmpa--t	N-si1	59	1	3	advcl				and, by being frightened, I capsized.										
+χomi-	xоми-	xomi	xomi	R		59	2	3	advmod														
+rowtlaχtsᵘm.	ровтлаxтсум.	rowtlaxtsum	rowtlaxt	Vmia1s		59	3	0	root														
+																							
+ań	ань	ań	ań	R		60	1	6	advmod				Now, the seven buckets of oil spilled down (into the water).										
+sāt	сат	sāt	sāt	Ml		60	2	3	nummod														
+pētər	петыр	pētər	pētər	N-sn		60	3	6	nsubj														
+wōj	вой	wōj	wōj	N-sn		60	4	3	nmod														
+χomi-	xоми-	xomi	xomi	R		60	5	6	advmod														
+towlaχtəs,	товлаxтыс,	towlaxtəs	towlaxti	Vmia3s		60	6	0	root														
+																							
+jā	я	jā	jā	N-sn		61	1	2	nmod	poss			The river side flew with fat.										
+pāle	пале	pāle	pāl	N-sn3		61	2	4	nsubj														
+wōjəl	войыл	wōjəl	wōj	N-si		61	3	4	obl														
+ōwmals.	овмалс.	ōwmals	ōwmali	Vmia3s		61	4	0	root														
+																							
+śuń	щунь	śuń	śuń	N-sn		62	1	2	obj				I found the riches, took (it), and spilled (it) away.			Technically, the sentence could be split into three separate ones, but as it shares the object, it makes more sense thus.							
+χōnti̮ɣlasᵘm,	xонтигласум,	xōntiɣlasum	xōnti	Vdia1ss		62	2	0	root														
+wislᵘm,	вислум,	wislum	wiɣ	Vdia1ss		62	3	2	conj														
+χomi-	xоми-	xomi	xomi	R		62	4	5	advmod														
+sōsaslᵘm.	сосаслум.	sōsaslum	sōsi	Vdia1ss		62	5	3	conj					2									
+																							
+χotaľ	xоталь	xotaľ	xotaľ	Pq		63	1	2	obl	lat	73	/img/other/man2.png	Where (would) I jump?										
+lakwaltēɣᵘm?!	лаквалтегум?!	lakwaltēɣum	lakwalti	Vmip3s		63	2	0	root														
+																							
+tēne	тене	tēne	tēne	N-sn	Vmpp	64	1	2	nmod				There is nothing to eat.		A ptcp.prs of <i>tē-</i> 'to eat'. Lit. 'something to eat did not become (appear)'.								
+matər	матыр	matər	matər	Pi		64	2	4	obj														
+at	ат	at	at	Qz		64	3	4	advmod														
+jēmtəs.	йемтыс.	jēmtəs	jēmti	Vmia3s		64	4	0	root														
+																							
+ań-mōnt	ань-монт	ań-mōnt	ań-mōnt	R		65	1	3	advmod				Before that I was hunting,										
+kinsim	кинсим	kinsim	kinsi	Vmpa--m		65	2	3	advcl							Riese (2001:68) considers participles ending in -<i>im</i> a separate class, used mostly in passive meaning. This instance could be a common m-ptcp. too, if we consider <i>kinsi</i> an irregular verb.							
+ōlsᵘm,	олсум,	ōlsum	ōli	Vmia3s		65	3	0	root														
+																							
+ōs	ос	ōs	ōs	C		66	1	4	cc				so I went to the forest.										
+wōrn	ворн	wōrn	wōr	N-sd		66	2	4	obl	lat													
+ti	ти	ti	ti	Pd		66	3	2	det														
+jōmentasᵘm.	йоментасум.	jōmentasum	jōmanti	Vmia1s		66	4	0	root														
+																							
+ak-mat-ērt	ак-мат-ерт	ak-mat-ērt	akw-mat-ērt	R		67	1	3	advmod				Suddenly my dog began to bark.										
+ām-pᵘm	ам-пум	ām-pum	āmp	N-sn1		67	2	3	nsubj														
+χorti,	xорти,	xorti	xorti	Vmip3s		67	3	0	root														
+sujti.	суйти.	sujti	sujti	Vmip3s		67	4	3	conj														
+																							
+am	ам	am	am	Pp1-sn		68	1	4	nsubj				I ran there,										
+tuw	тув	tuw	tuw	Pr		68	2	4	advmod														
+ti	ти	ti	ti	Pd		68	3	2	det														
+χājtsᵘm,	xайтсум,	xājtsum	xājti	Vmia1s		68	4	0	root														
+																							
+tuw	тув	tuw	tuw	Pr		69	1	2	advmod				(and) I appeared there (to this):										
+nēɣlasᵘm:	негласум:	nēɣlasum	nēɣli	Vmia1s		69	2	0	root														
+																							
+ań-manəŋ	ань-маныӈ	ań-manəŋ	ań-manəŋ	R		70	1	8	advmod				And now, seven elks stand on one foot.										
+sāt	сат	sāt	sāt	Ml		70	2	3	nummod														
+sōrp	сорп	sōrp	sōrp	N-sn		70	3	8	nsubj														
+akw	акв	akw	akw	Ml		70	4	5	nummod														
+lāɣl-	лагл-	lāɣl	lāɣl	N-sn		70	5	6	nmod														
+pāl-	пал-	pāl	pāl	N-sn		70	6	8	obl	loc													
+tarməl	тармыл	tarməl	tarməl	S		70	7	6	case														
+ľūľentēɣet.	люлентегет.	ľūľentēɣet	ľūľi	Vmia3p		70	8	0	root					1									
+																							
+am	ам	am	am	Pp1-sn		71	1	5	nsubj				I move slowly close to it,										
+ālaɣ	алаг	ālaɣ	āla	R		71	2	5	advmod														
+tuw	тув	tuw	tuw	Pr		71	3	5	advmod														
+ti	ти	ti	ti	Pd		71	4	3	det														
+lakwχatēɣᵘm,	лаквxатегум,	lakwxatēɣum	lakwxati	Vmip1s		71	5	0	root														
+																							
+ań	ань	ań	ań	R		72	1	5	advmod				now my dog begans to bark next to the leg (of the elks).										
+lāɣl-	лагл-	lāɣl	lāɣl	N-sn		72	2	3	nmod	poss													
+pāln	палн	pāln	pāl	N-sd		72	3	5	obl	lat													
+āmpᵘm	ампум	āmpum	āmp	N-sn1		72	4	5	nsubj														
+χortalti.	xорталти.	xortalti	xortalti	Vmip3s		72	5	0	root							Cf. Riese 2001:58 for the inchoative suffix -<i>alt</i>-.							
+																							
+am	ам	am	am	Pp1-sn		73	1	4	nsubj				When I start to chop, he would cease the barking,										
+tuw	тув	tuw	tuw	Pr		73	2	4	advmod														
+ti-ērt	ти-ерт	ti-ērt	ti-ērt	C		73	3	4	mark														
+saɣraltēɣᵘm,	сагралтегум,	saɣraltēɣum	saɣralti	Vmip1s		73	4	7	advcl														
+taw	тав	taw	taw	Pp3-sn		73	5	7	nsubj														
+χortima	xортима	xortima	xorti	Vmra3s-p		73	6	7	obj														
+jol-pojtᵘm,	йол-пойтум,	jol-pojtum	jol-pojti	Vmpa--m		73	7	0	root														
+																							
+am	ам	am	am	Pp1-sn		74	1	4	nsubj				(when) I cease my chopping, he starts barking.										
+saɣrane	сагране	saɣrane	saɣri	Vmpp--n		74	2	4	advcl	obj													
+māmnəl	мамныл	māmnəl	ām	Pp1-sb		74	3	2	obl	abl						Shortened/misspelt <i>ānumnəl</i>, lit. 'chopping from me'? Or <i>mā-m-nəl</i> 'from my ground'?							
+jol-pojtēɣum,	йол-пойтегум,	jol-pojtēɣum	jol-pojti	Vmip1s		74	4	6	advcl														
+taw	тав	taw	taw	Pp3-sn		74	5	6	nsubj														
+χortalti.	xорталти.	xortalti	xortalti	Vmip3s		74	6	0	root														
+																							
+am	ам	am	am	Pp1-sn		75	1	3	nsubj				Now, when I start chopping, suddenly they fall down.										
+ti-ērt	ти-ерт	ti-ērt	ti-ērt	C		75	2	3	cc														
+saɣraltēɣᵘm;	сагралтегум;	saɣraltēɣum	saɣralti	Vmip1s		75	3	0	root														
+akw-mat-ērt	акв-мат-ерт	akw-mat-ērt	akw-mat-ērt	R		75	4	7	advmod														
+jol	йол	jol	jol	R		75	5	7	advmod														
+ta	та	ta	ta	Pd		75	6	7	nsubj														
+patsət.	патсыт.	patsət	pati	Vmia3p		75	7	0	root					1									
+																							
+χot-jaktlasanᵘm,	xот-яктласанум,	xot-jaktlasanum	xot-jaktli	Vdia1sp		76	1	0	root				I cut them into pieces,										
+																							
+χumľe	xумле	xumľe	xumľe	Pq		77	1	2	advmod				(but) how am I going to bring them home?										
+juw-totianum?!	юв-тотианум?!	juw-totianum	juw-toti	Vdip1sp		77	2	0	root														
+																							
+nē-mat-χotpa	не-мат-xотпа	nē-mat-xotpa	nē-mat-xotpa	Pz		78	1	3	obj														
+at	ат	at	at	Qz		78	2	3	advmod														
+ōńśēɣᵘm.	оньщегум.	ōńśēɣum	ōńśi	Vmip1s		78	3	0	root														
+																							
+noməlmatsᵘm:	номылматсум:	noməlmatsum	noməlmati	Vmia1s		79	1	0	root				I thought.										
+																							
+ńila	нила	ńila	ńila	Ml		80	1	2	nummod				I stitched together four skins.										
+tōwəľ	товыль	tōwəľ	tōwəľ	N-sn		80	2	4	obj														
+akwan	акван	akwan	akwan	R	N-sd	80	3	4	advmod							Lit. 'into one'.							
+jūntsᵘm;	юнтсум;	jūntsum	jūnti	Vmia1s		80	4	0	root														
+																							
+wisanᵘm	висанум	wisanum	wāɣ	Vdia1sp		81	1	0	root				I saw those,										
+																							
+ńowəľanᵘm	ньовылянум	ńowəľanum	ńowəľ	N-pn1		82	1	2	nmod	poss			I put the flesh of all (elks) down (into them).										
+sōχe	соxе	sōxe	sōx	A	N-sn3	82	2	3	obj														
+tuw-punsanᵘm.	тув-пунсанум.	tuw-punsanum	tuw-puni	Vdia1sp		82	3	0	root														
+																							
+nu-mianəl	нумианыл	numianəl	numi	S	N-sb	83	1	3	obl	abl			I sew them together on the top.										
+akwan	акван	akwan	akwan	R	N-sd	83	2	3	advmod														
+jūntsanᵘm,	юнтсанум,	jūntsanum	jūnti	Vdia1sp		83	3	0	root														
+																							
+tan	тан	tan	tān	Pp3-pn		84	1	4	nsubj				They would not fall (on the way) home.										
+kol	кол	kol	kol	N-sn		84	2	4	obl														
+ul	ул	ul	ul	Qz		84	3	4	advmod														
+pati̮ɣlēɣət.	патиглегыт.	patiɣlēɣət	patiɣli	Vmip3p		84	4	0	root														
+																							
+χūrᵘm	xурум	xūrum	xūrum	Ml		85	1	2	nummod				I made straps out of three skins.										
+tōwəľ	товыль	tōwəľ	tōwəľ	N-sn		85	2	4	obj														
+ńur-kwālɣi̮ɣ	нюр-квалгиг	ńur-kwālɣiɣ	ńur-kwāliɣ	N-st		85	3	4	obl							Cf. Riese 2001:24							
+siltsᵘm,	силтсум,	siltsum	silti	Vmia1s		85	4	0	root							??							
+																							
+tuwl	тувл	tuwl	tuwəl	R		86	1	3	advmod				Then I joined them together.										
+akwan	акван	akwan	akwan	R	N-sd	86	2	3	advmod														
+ōltsanᵘm;	олтсанум;	ōltsanum	ōlti	Vdia1sp		86	3	0	root														
+																							
+ōwlan	овлан	ōwlan	ōwləŋ	R		87	1	3	advmod				First then I bound it there.										
+tuw-	тув-	tuw	tuw	Pr		87	2	3	advmod														
+nēɣaslᵘm.	негаслум.	nēɣaslum	nēɣli (2)	Vdia1ss		87	3	0	root					1									
+																							
+tuwl	тувл	tuwl	tuwəl	R		88	1	4	advmod				Then I went home (with) this.										
+juw	юв	juw	juw	R		88	2	4	advmod														
+ti	ти	ti	ti	Pd		88	3	4	obj														
+jōmentasᵘm.	йоментасум.	jōmentasum	jōmanti	Vmia1s		88	4	0	root														
+																							
+ńur-kwāli̮ɣ	нюр-квалиг	ńur-kwāliɣ	ńur-kwāliɣ	N-sn		89	1	3	obj				I took along the straps first.										
+ōwle	овле	ōwle	ōwləŋ	R		89	2	3	advmod														
+jot-wislᵘm.	йот-вислум.	jot-wislum	jot-wiɣ	Vdia1ss		89	3	0	root														
+																							
+wislᵘm,	вислум,	wislum	wiɣ	Vdia1ss		90	1	0	root				I saw that,										
+																							
+juw-χartaslᵘm.	юв-xартаслум.	juw-xartaslum	juw-xarti	Vdia1ss		91	1	0	root				I dragged that home.										
+																							
+jaɣᵘmnəl	ягумныл	jaɣumnəl	jaɣ	N-sb1		92	1	4	obl	abl			From my father one bathhouse remained (as my inheritance?).										
+akw	акв	akw	akw	Ml		92	2	3	amod	det													
+pāńa	паня	pāńa	pāńa	N-sn		92	3	4	obj														
+χuľti̮ɣləs.	xультиглыс.	xuľtiɣləs	xuľtiɣli	Vmia3s		92	4	0	root														
+																							
+ań	ань	ań	ań	R		93	1	7	advmod				I bound the straps into that bathhouse (sauna).										
+ta	та	ta	ta	Pd		93	2	3	det														
+pāńan	панян	pāńan	pāńa	N-sd		93	3	7	obl	lat													
+ńur-kwāli̮ɣ	нюр-квалиг	ńur-kwāliɣ	ńur-kwāliɣ	N-sn		93	4	7	obj														
+ōwle	овле	ōwle	ōwləŋ	R		93	5	7	advmod														
+tuw	тув	tuw	tuw	Pr		93	6	7	advmod														
+nēɣsəlaslum.	негсыласлум.	nēɣsəlaslum	nēɣsəli	Vdia1ss		93	7	0	root														
+																							
+pāńam	паням	pāńam	pāńa	N-sn1		94	1	2	obj				I heated up/lighted the bathhouse,										
+nōŋχ-pēlamtalsᵘm.	ноӈx-пеламталсум.	nōŋx-pēlamtalsum	nōŋx-pēlamtalti	Vdia1ss		94	2	0	root														
+																							
+ań-manəŋ	ань-маныӈ	ań-manəŋ	ań-manəŋ	R		95	1	3	advmod				and now it was burning,										
+pāńa	паня	pāńa	pāńa	N-sn		95	2	3	nsubj														
+tājəltawes,	тайылтавес,	tājəltawes	tājəltawe	Vmia3s-p		95	3	0	root														
+																							
+ńur-kwāli̮ɣ	нюр-квалиг	ńur-kwāliɣ	ńur-kwāliɣ	N-sn		96	1	3	nsubj				the straps shrunk back,										
+juw-	юв-	juw	juw	R		96	2	3	advmod							The <i>juw</i> can be interpreted as a verbal prefix, but the form is not given in the Kálmán's dictionary.							
+śakarāls,	щакаралс,	śakarāls	śakərāli	Vmia3s		96	3	0	root														
+																							
+ań	ань	ań	ań	R		97	1	3	advmod				now the elks were dragged home.										
+sōrpət	сорпыт	sōrpət	sōrp	N-pn		97	2	3	nsubj														
+juw-χartaltawest.	юв-xарталтавест.	juw-xartaltawest	juw-xarti	Vmia3p-p		97	3	0	root														
+																							
+pāńa	паня	pāńa	pāńa	N-sn		98	1	3	nsubj				The bathhouse burned,										
+ti	ти	ti	ti	Pd		98	2	1	det														
+tājwes,	тайвес,	tājwes	tēɣ	Vmia3s-p		98	3	0	root														
+																							
+χot	xот	xot	xot	R		99	1	3	advmod				it perished away:										
+ti	ти	ti	ti	Pd		99	2	3	nsubj														
+χōlaltəs:	xолалтыс:	xōlaltəs	xōlalti	Vmia3s		99	3	0	root														
+																							
+akw-mat-ērt	акв-мат-ерт	akw-mat-ērt	akw-mat-ērt	R		100	1	5	advmod				Suddenly a voice resounded:										
+mat	мат	mat	mat	Pi		100	2	3	det														
+suj	суй	suj	suj	N-sn		100	3	5	nsubj														
+ta	та	ta	ta	Pd		100	4	5	discourse														
+sumləs:	сумлыс:	sumləs	sumli	Vmia3s		100	5	0	root														
+																							
+ńāləŋ-warśəŋ	нялыӈ-варщыӈ	ńāləŋ-warśəŋ	ńāləŋ-warśəŋ	A	Vmpp--a	101	1	2	amod				a cracking voice,										
+suj,	суй,	suj	suj	N-sn		101	2	0	root														
+																							
+jiwət	йивыт	jiwət	jiw	N-pn		102	1	2	nsubj				trees were broken,										
+saɣlāwet,	саглавет,	saɣlāwet	saɣli	Vmip3p		102	2	0	root														
+																							
+ań	ань	ań	ań	R		103	1	5	advmod				thus the elks came home.										
+sōrpət	сорпыт	sōrpət	sōrp	N-pn		103	2	5	nsubj														
+toχ	тоx	tox	tox	Qg		103	3	5	advmod														
+ti	ти	ti	ti	Pd		103	4	3	det														
+juw-joχtasət.	юв-йоxтасыт.	juw-joxtasət	juw-joxti	Vmia3p		103	5	0	root					2									
+																							
+15.	15.	15	15	Md		104	1	4	discourse		79	/img/other/man3.jpg	[Title] 15. Song of the Conversion			Lit. 'Song of going to the Cross'							
+pērnan	пернан	pērnan	pērna	N-sd		104	2	3	nmod														
+tūm	тум	tūm	tūm	N-sn		104	3	4	nmod														
+ēri̮ɣ	ериг	ēriɣ	ēri̮ɣ	N-sn		104	4	0	root					1									
+																							
+sāməŋ	самын	sāməŋ	sāməŋ	A		105	1	2	amod				People hear all around the country:										
+mā	ма	mā	mā	N-sn		105	2	3	nmod														
+sāmt	самт	sāmt	sām	N-sl		105	3	6	obl	loc													
+lakwa	лаква	lakwa	lakwa	S		105	4	3	case					1									
+χum	хум	xum	xum	N-sn		105	5	6	nsubj														
+χōntpēɣᵘm:	хонтпегым:	xōntpēɣum	xōntpi	Vmip1s		105	6	0	root					1									
+																							
+ńila	нила	ńila	ńila	Ml		106	1	2	nummod				Baptism of the Four-cornered (Cross) of the country is heard!			Lit. the 1sg.prs and <i>xum</i> may denote something like 'I and my people'.							
+sāmpa	сампа	sāmpa	sāmpa	A		106	2	4	amod														
+sāməŋ	самын	sāməŋ	sāməŋ	A		106	3	2	fixed														
+pērna	перна	pērna	pērna	N-sn		106	4	5	nsubj					1									
+sujtəltawe.	суйтылтаве.	sujtəltawe	sujtəlti	Vmip3s-p		106	5	0	root					1									
+																							
+sāməŋ	самын	sāməŋ	sāməŋ	A		107	1	2	amod				(People) hear all around the country:										
+mā	ма	mā	mā	N-sn		107	2	3	nmod														
+sāmt	самт	sāmt	sām	N-sl		107	3	5	obl	loc													
+lakwa	лаква	lakwa	lakwa	S		107	4	3	case					1									
+χōntpēɣᵘm:	хонтпегым:	xōntpēɣum	xōntpi	Vmip1s		107	5	0	root					1									
+																							
+ńila	нила	ńila	ńila	Ml		108	1	2	nummod				The baptism of the Four-cornered is being placed on everyone!										
+sāmpa	сампа	sāmpa	sāmpa	A		108	2	4	amod														
+sāməŋ	самын	sāməŋ	sāməŋ	A		108	3	2	fixed														
+pērnal	пернал	pērnal	pērna	N-si		108	4	6	obl					1									
+pusən	пусын	pusən	pus	Pi---d		108	5	6	obl	iobj													
+punentawet	пунентавет	punentawet	punenti	Vmip3s-p		108	6	0	root					1									
+																							
+jaɣᵘm	ягым	jaɣum	jaɣ	N-sn1		109	1	3	obl				People assemble in the one-room loghouse built by my father.										
+χum	хум	xum	xum	N-sn		109	2	1	nmod														
+saɣrapālᵘm	саграпалым	saɣrapālum	saɣrapālti	Vmpa--m		109	3	7	acl					1									
+akw-	акв-	akw-	akw-	Ml		109	4	5	nummod														
+pis	пис	pis	pis	N-sn		109	5	6	nmod														
+ōlpa	олпа	ōlpa	ōli	Vmpp--p		109	6	7	amod														
+nor-kolt	нор-колт	nor-kolt	nor-kol	N-sl		109	7	9	obl	loc				1									
+χum	хум	xum	xum	N-sn		109	8	9	nsubj														
+ūnlentasᵘm -	унлентасым -	ūnlentasum	ūnlanti	Vmia1s		109	9	0	root														
+																							
+χotəl	хотыл	xotəl	xot	R	N-si	110	1	2	advmod				Whence they come?										
+χuľi̮ɣli	хульигли	xuľiɣli	xuľiɣli	Vmip3s		110	2	0	root					1									
+																							
+ńaŋra	нянра	ńaŋra	ńaŋra	A		111	1	2	amod				They come (from) a strong-voiced thunderstorm.										
+turpa	турпа	turpa	turpa	A		111	2	4	amod														
+turəŋ	турын	turəŋ	turəŋ	A		111	3	2	fixed														
+śaχl	шахл	śaxl	śaxəl	N-sn		111	4	5	obl	abl				1									
+χuľi̮ɣli.	хульигли.	xuľiɣli	xuľiɣli	Vmip3s		111	5	0	root					1									
+																							
+am	ам	am	am	Pp1-sn		112	1	5	nsubj				I go out to my place.			Or nmod:poss of 3?							
+kanəŋ	канын	kanəŋ	kanəŋ	A		112	2	3	amod														
+ūs	ус	ūs	ūs	N-sn		112	3	4	nmod														
+kanᵘmn	канымн	kanumn	kan	N-sd1		112	4	5	obl	lat				1									
+kon-kwālēɣᵘm,	кон-квалегым,	kon-kwālēɣum	kon-kwāli	Vmip1s		112	5	0	root					1									
+																							
+sēməl	семыл	sēməl	sēməl	A		113	1	2	amod				I look up towards my god-father with the pair of my black currant (-like eyes).			Technically, <i>numi-tōrᵘm</i> could be split to 'up on the sky', but it does not make more sense from the morphosyntactic view.							
+sosi̮ɣ	сосиг	sosiɣ	sosiɣ	N-sn		113	2	3	nmod														
+kitχeɣᵘmtəl	китхегымтыл	kitxeɣumtəl	kitiɣ	N-di1	Ml	113	3	6	obl					1									
+numi-tōrᵘm	нуми-торым	numi-tōrum	numi-tōrum	N-sn		113	4	5	amod														
+jaɣᵘmn	ягымн	jaɣumn	jaɣ	N-sd1		113	5	6	obl	lat													
+nōnχ-sunsēɣᵘm:	нонх-сунсегым:	nōnx-sunsēɣum	nōnχ-sunsi	Vmip1s		113	6	0	root					1									
+																							
+kāsew-	касев-	kāsew	kāsew	N-sn		114	1	2	nmod				I did not see the pieces of clouds of the size of a roach scale there.										
+sām	сам	sām	sām (2)	N-sn		114	2	3	nmod														
+janit	янит	janit	janit	A		114	3	5	acl														
+tul-	тул-	tul	tul	N-sn		114	4	5	nmod					1									
+raw	рав	raw	raw	N-sn		114	5	8	obj														
+ōlme	олме	ōlme	ōli	Vmpa--m		114	6	3	mark														
+at	ат	at	at	Qz		114	7	8	advmod														
+wāɣᵘm.	вагым.	wāɣum	wāɣ	Vmip1s		114	8	0	root					1									
+																							
+lui	луи	lui	luji	A		115	1	2	amod				First, I look at the northern river bend:										
+wōľ	воль	wōľ	wōľ	N-sn		115	2	4	obj														
+ōwlen	овлен	ōwlen	ōwləŋ	R		115	3	4	advmod														
+tuw-sunsēɣᵘm:	тув-сунсегым:	tuw-sunsēɣum	tuw-sunsi	Vmip1s		115	4	0	root					1									
+																							
+kurka-	курка-	kurka	kurka	N-sn		116	1	2	nmod				I see there a mighty ship with a hen-like nose.										
+ńolpa	ньолпа	ńolpa	ńolpa	A		116	2	4	amod														
+jomas	йомас	jomas	jomas	A		116	3	4	amod														
+χāp	хап	xāp	xāp	N-sn		116	4	6	obj					1									
+tūl	тул	tūl	tuwəl	R		116	5	6	advmod														
+nēɣlᵘm.	неглым.	nēɣlum	nēɣli	Vmpa--m		116	6	0	root					1									
+																							
+kēr	кер	kēr	kēr	N-sn		117	1	2	nmod				Strong iron-hearted guns are being fired there.										
+simpa	симпа	simpa	simpa	A		117	2	4	amod														
+wāɣəŋ	вагын	wāɣəŋ	wāɣəŋ	A	Vmpp--a	117	3	4	amod														
+pisaľət	писальыт	pisaľət	pisaľ	N-pn		117	4	6	nsubj					1									
+tot	тот	tot	tot	Pr		117	5	6	advmod														
+tārtalantawet,	тарталантавет,	tārtalantawet	tārtalanti	Vmip3p-p		117	6	0	root					1									
+																							
+kēr	кер	kēr	kēr	N-sn		118	1	2	nmod				Many iron-hearted cannons are being fired there.										
+simpa	симпа	simpa	simpa	A		118	2	4	amod														
+sāw	сав	sāw	sāw	A		118	3	4	amod														
+puska	пуска	puska	puska	N-sn		118	4	6	nsubj					1									
+tot	тот	tot	tot	Pr		118	5	6	advmod														
+tārtalantawet:	тарталантавет:	tārtalantawet	tārtalanti	Vmip3p-p		118	6	0	root					1									
+																							
+sēməl	семыл	sēməl	sēməl	A		119	1	2	amod				The coffin of our black earth only shakes.										
+mā	ма	mā	mā	N-sn		119	2	3	nmod														
+āŋkuw	анкув	āŋkuw	āŋkw	N-sna		119	3	5	nsubj														
+ness	несс	ness	ness	R		119	4	5	advmod														
+sarɣenti.	саргенти.	sarɣenti	sarɣenti	Vmip3s		119	5	0	root					1									
+																							
+am	ам	am	am	Pp1-sn		120	1	5	nmod	poss			I put my quiver with black-iron(-tipped) arrows to ten-fingered hands.										
+sēməl	семыл	sēməl	sēməl	A		120	2	4	amod														
+kērpa	керпа	kērpa	kērpa	A		120	3	4	amod														
+ńāləŋ	ньалын	ńāləŋ	ńāləŋ	A		120	4	5	amod														
+ālᵘm	алым	ālum	ālum	N-sn		120	5	11	obj					1									
+low	лов	low	low	Ml		120	6	7	nummod														
+tuľap	туляп	tuľap	tuľap	A		120	7	9	amod														
+kit	кит	kit	kit	Ml		120	8	9	nummod														
+kātn	катн	kātn	kāt	N-sd		120	9	11	obl	lat				1									
+am	ам	am	am	Pp1-sn		120	10	11	nsubj														
+wi̮ɣlᵘm.	виглым.	wiɣlum	wiɣ	Vmip1s		120	11	0	root					1									
+																							
+kwālᵘm	квалым	kwālum	kwāli	Vmpa--m		121	1	5	advcl				I emerge as the leader (lit. head) of our forces.										
+χōnt	хонт	xōnt	xōnt	N-sn		121	2	3	nmod	poss													
+puŋke	пунке	puŋke	puŋk	N-sn3		121	3	4	nmod														
+χum	хум	xum	xum	N-sn		121	4	1	obl	pred													
+kwālēɣᵘm,	квалегым,	kwālēɣum	kwāli	Vmip1s		121	5	0	root					2									
+																							
+kurka-	курка-	kurka-	kurka	N-sn		122	1	2	nmod		80	/img/other/man4.jpg	I turn the mighty hen-nosed ship back.										
+ńol	ньол	ńol	ńol	N-sn		122	2	4	amod														
+jomas	йомас	jomas	jomas	A		122	3	4	amod														
+χāp	хап	xāp	xāp	N-sn		122	4	5	obj					1									
+juw-jōŋχtilᵘm	юв-йонхтилым	juw-jōŋxtilum	juw-jōŋxti	Vdip1ss		122	5	0	root					1									
+																							
+[*]	[*]	[*]	[*]	X		123	1	9	punct				Afterwards, me and my people build a two-room loghouse.	1									
+ton	тон	ton	ton	Pd		123	2	3	nmod														
+jui-pālt	юи-палт	juji-pālt	juji-pālt	R	N-sl	123	3	9	obl														
+kit-	кит-	kit-	kit	Ml		123	4	5	nummod														
+pis	пис	pis	pis	N-sn		123	5	6	nmod														
+ōlpa	олпа	ōlpa	ōli	Vmpp--p		123	6	7	amod														
+nor-kol	нор-кол	nor-kol	nor-kol	N-sn		123	7	9	obj					1									
+χum	хум	xum	xum	N-sn		123	8	9	nsubj														
+ūntteɣᵘm;	унттегым;	ūntteɣum;	ūntti	Vmip1s		123	9	0	root					1									
+																							
+ti	ти	ti	ti	Pd		124	1	5	det				In this two-roomed loghouse I and my people lay.										
+kit-	кит-	kit-	kit	Ml		124	2	3	nummod														
+pis	пис	pis	pis	N-sn		124	3	4	nmod														
+ōlpa	олпа	ōlpa	ōli	Vmpp--p		124	4	5	amod														
+nor-kolt	нор-колт	nor-kolt	nor-kol	N-sl		124	5	7	obj					1									
+χum	хум	xum	xum	N-sn		124	6	7	nsubj														
+χujɣəlāləlteɣᵘm.	хуйгылалылтегым.	xujɣəlāləlteɣum	xujenti	Vmip1s		124	7	0	root					1									
+																							
+akw-mat-ērt	акв-мат-ерт	akw-mat-ērt	akw-mat-ērt	R		125	1	7	advmod				Suddenly, a strong voice is raised from somewhere.										
+χotəl	хотыл	xotəl	xot	R	N-si	125	2	7	advmod					1									
+ńaŋra	нянра	ńaŋra	ńaŋra	A		125	3	6	amod														
+turpa	турпа	turpa	turpa	A		125	4	6	amod														
+turəŋ	турын	turəŋ	turəŋ	A		125	5	4	fixed														
+śaχl	шахл	śaxl	śaxəl	N-sn		125	6	7	obl	abl				1									
+χuľi̮ɣlanti.	хульигланти.	xuľiɣlanti	xuľiɣlanti	Vmip3s		125	7	0	root					1									
+																							
+am	ам	am	am	Pp1-sn		126	1	3	nsubj				And I go out.										
+ōs	ос	ōs	ōs	C		126	2	3	cc														
+kon-kwālēɣᵘm;	кон-квалегым;	kon-kwālēɣum;	kon-kwāli	Vmip1s		126	3	0	root					1									
+																							
+ruś	руш	ruś	ruś	A		127	1	2	amod				There I see a small part of a Russian flag on the northern river band.										
+tōr	тор	tōr	tōr	N-sn		127	2	4	nmod														
+sup-	суп-	sup-	sup	N-sn		127	3	4	nmod														
+pis	пис	pis	pis	N-sn		127	4	9	obj														
+lui	луи	lui	luji	A		127	5	6	amod														
+wōľ	воль	wōľ	wōľ	N-sn		127	6	7	obl														
+ōwlen	овлен	ōwlen	ōwləŋ	R		127	7	4	acl					1									
+tuw	тув	tuw	tuw	Pr		127	8	9	advmod														
+sunsēɣᵘm:	сунсегым:	sunsēɣum	sunsi	Vmip1s		127	9	0	root					1									
+																							
+kēr	кер	kēr	kēr	N-sn		128	1	2	nmod				Many iron-hearted cannons are being fired there.										
+simpa	симпа	simpa	simpa	A		128	2	4	amod														
+sāw	сав	sāw	sāw	A		128	3	4	amod														
+puska	пуска	puska	puska	N-sn		128	4	6	nsubj					1									
+tot	тот	tot	tot	Pr		128	5	6	advmod														
+tārtalantawet.	тарталантавет.	tārtalantawet	tārtalanti	Vmip3p-p		128	6	0	root					1									
+																							
+tuw	тув	tuw	tuw	Pr		129	1	9	advmod				There I am somehow captured by two Cossacks attacking from behind (?).										
+taɣnᵘm	тагным	taɣnum	taɣn	Vmpa--m		129	2	3	fixed														
+χōpᵘmt	хопымт	xōpumt	xōpi	Vmpa--m	N-sl	129	3	7	obl					1									
+ponsite	понсите	ponsite	ponsi	N-pn3		129	4	5	obj														
+jakti	якти	jakti	jakti	Vmip3s	Vmpp--i	129	5	7	acl							Here the form seems to be an i-participle (Riese 2001:66 §5.6.2.1.), but, generally, the phrase ('in fainting-their buttocks-cutting') makes little sense.							
+kit	кит	kit	kit	Ml		129	6	7	nummod														
+χōsaχn	хосахн	xōsaxn	xōsax	N-sd		129	7	9	obl					1		Lative agent in a passive construction.							
+χuń	хунь	xuń	xuń	R		129	8	9	advmod														
+pūɣawem,	пугавем,	pūɣawem	pūwi	Vmip1s-p		129	9	0	root					1									
+																							
+ti	ти	ti	ti	Pd		130	1	2	det				Somehow, I am caught like a duckling born in this summer.										
+tūw	тув	tūw	tūw	N-sn		130	2	5	3														
+tēli	тели	tēli	tēli	Vmip3s		130	3	5	acl														
+laptal	лаптал	laptal	laptal	N-sn		130	4	5	nmod														
+pirwa	пирва	pirwa	pirwa	N-sn		130	5	8	obl														
+jort	йорт	jort	jort	S		130	6	5	case					1									
+χuń	хунь	xuń	xuń	R		130	7	8	advmod														
+pūɣawem.	пугавем.	pūɣawem	pūwi	Vmip1s-p		130	8	0	root					1									
+																							
+kāləŋəś	калыныш	kāləŋəś	kāləŋəś	R		131	1	3	advmod				Exactly as I think, the whore of the bishop himself is brought.										
+koss	косс	koss	koss	C		131	2	3	mark														
+χōntilᵘm:	хонтилым:	xōntilum	xōnti	Vdip1ss		131	3	7	advcl					1									
+ārkeri	аркери	ārkeri	ārkeri	N-sn		131	4	7	nsubj														
+pōsar	посар	pōsar	pōsar	N-sn		131	5	4	nmod														
+takwi	такви	takwi	takwi	A		131	6	4	amod														
+totentawe.	тотентаве.	totentawe	totenti	Vmip3s-p		131	7	0	root					1									
+																							
+āś	аш	āś	āś	N-sn		132	1	2	nmod				There, me and my people are put into shackles, never put on our fathers.										
+puntlettal	пунтлеттал	puntlettal	punenti	Vmpa--t		132	2	3	acl							The stem is unclear, but it seems to carry the negative particle suffix -<i>tal</i>.							
+lāɣl-kērəl	лагл-керыл	lāɣl-kērəl	lāɣl-kēr	N-si		132	3	6	obl					1									
+χum	хум	xum	xum	N-sn		132	4	6	nsubj														
+tot	тот	tot	tot	Pr		132	5	6	advmod														
+punawem;	пунавем;	punawem;	puni	Vmip1s-p		132	6	0	root					1									
+																							
+kuťuw	куťув	kuťuw	kuťuw	N-sn		133	1	5	acl				(As) sleeping dogs, me and my people are thrown badly down.										
+χujne	хуйне	xujne	xuji	Vmpp--n		133	2	1	amod														
+ľūľ	люль	ľūľ	ľūľ	A		133	3	4	advmod														
+joln	йолн	joln	jol	R	N-sd	133	4	6	advmod					1									
+χum	хум	xum	xum	N-sn		133	5	6	nsubj														
+rēpi̮ɣtawem.	репигтавем.	rēpiɣtawem	rēpiɣti	Vmip1s-p		133	6	0	root					1									
+																							
+χosa	хоса	xosa	xosa	R		134	1	4	advmod				I am taken for long or short (time).										
+man	ман	man	man	C		134	2	3	cc														
+wāťi	ваťи	wāťi	wāťi	R		134	3	1	conj														
+totawem,	тотавем,	totawem	toti	Vmip1s-p		134	4	0	root					1									
+																							
+jaɣum	ягум	jaɣum	jaɣ	N-sn1		135	1	4	nmod	poss			I lay down hundred boxes, the last box from my father (?).										
+χum	хум	xum	xum	N-sn		135	2	1	nmod														
+sāt	сат	sāt	sāt	Ml		135	3	4	nummod														
+sūntaχ	сунтах	sūntax	sūntax	N-sn		135	4	8	obl														
+patit	патит	patit	patit	A		135	5	6	amod														
+sūntaχ	сунтах	sūntax	sūntax	N-sn		135	6	4	conj					1									
+jot	йот	jot	jot	S		135	7	4	case														
+ūntti̮ɣpilᵘm.	унттигпилым.	ūnttiɣpilum	ūnttipi	Vdip1ss		135	8	0	root					1									
+																							
+ań-mat	ань-мат	ań-mat	ań-mat	R		136	1	8	advmod				And then, remembering the light of the morning star (?), me and my people arrive to Tobolsk.										
+lāwəltane	лавылтане	lāwəltane	lāwəlti	Vmpp--n		136	2	8	advcl					1									
+χoli-χuj	холи-хуй	xoli-xuj	xoli-xuj	N-sn		136	3	4	nmod	poss													
+posəŋ	посын	posəŋ	posəŋ	N-sn		136	4	5	nmod	poss													
+sow	сов	sow	sow	N-sn		136	5	2	obj														
+tūpəl-ūs	тупыл-ус	tūpəl-ūs	Tūpəl-ūs	N-sn		136	6	8	obl					1									
+χum	хум	xum	xum	N-sn		136	7	8	nsubj														
+joχtawem.	йохтавем.	joxtawem	joxti	Vmip1p-p		136	8	0	root					1									
+																							
+jaɣᵘm	ягым	jaɣum	jaɣ	N-sn1		137	1	2	nsubj				Not seen by my father, then me and my people are brought into a house full of louses.										
+wāśintettal	вашинтеттал	wāśintettal	waśinti	Vmpp--t		137	2	8	advcl					1									
+ań-mat	ань-мат	ań-mat	ań-mat	R		137	3	8	advmod														
+tākməŋ	такмын	tākməŋ	tākməŋ	A		137	4	5	amod														
+kol	кол	kol	kol	N-sn		137	5	6	nmod														
+simen	симен	simen	sim	N-sd		137	6	8	obl	lat				1									
+χum	хум	xum	xum	N-sn		137	7	8	nsubj														
+rēpi̮ɣtawem.	репигтавем.	rēpiɣtawem	rēpiɣti	Vmip1s-p		137	8	0	root					1									
+																							
+tēlpa	телпа	tēlpa	tēlpa	A		138	1	2	amod				(As?) the growing moon (is) full, me and the hundred of my people give ourselves to louses to be eaten.										
+jōŋχᵘp	йонхып	jōŋxup	jōŋxup	N-sn		138	2	3	nsubj														
+mańtəŋ	маньтын	mańtəŋ	mańtəŋ	A		138	3	8	advcl														
+sāt	сат	sāt	sāt	Ml		138	4	5	nummod					2									
+χum	хум	xum	xum	N-sn		138	5	8	nsubj		81	/img/other/man5.jpg											
+tot	тот	tot	tot	Pr		138	6	8	advmod														
+tākᵘm	такым	tākum	tākum	N-sn		138	7	8	obj														
+titteɣᵘm.	титтегым.	titteɣum	titti	Vmip1s		138	8	0	root					1									
+																							
+jaɣᵘm	ягым	jaɣum	jaɣ	N-sn1		139	1	2	nsubj				I empty everything in the four-cornered treasure chest filled by my father.										
+pońɣətālᵘm	поньгыталым	pońɣətālum	pońɣətāli	Vmpa--m		139	2	5	acl					1									
+ńila	нила	ńila	ńila	Ml		140	3	4	nummod														
+sāmpa	сампа	sāmpa	sāmpa	A		140	4	5	amod														
+saraχ sūntaχ	сарах сунтах	sarax-sūntax	sarax-sūntax	N-sn		140	5	6	nmod	poss													
+sāmət	самыт	sāmət	sām	N-pn		140	6	7	obj					1									
+tātlᵘmtēɣᵘm.-	татлымтегым.-	tātlumtēɣum-	tātlamti	Vmip1s		140	7	0	root														
+																							
+ton	тон	ton	ton	Pd		141	1	2	nmod				Afterwards, I am brought to a powerful, silk-buttonned prince.										
+jui-pālt	юи-палт	jui-pālt	juji-pālt	R	N-sl	141	2	7	obl					1									
+jāpak	йапак	jāpak	jāpak	N-sn		141	3	4	nmod														
+kēŋpa	кенпа	kēŋpa	kēŋpa	A		141	4	6	amod														
+wāɣəŋ	вагын	wāɣəŋ	wāɣəŋ	A	Vmpp--a	141	5	6	amod														
+ōtərn	втырн	ōtərn	ōtər	N-sd		141	6	7	obl	iobj													
+tūwem.	тувем.	tūwem	tūw (2)	Vmip1s-p		141	7	0	root					1									
+																							
+ńēlme	ньелме	ńēlme	ńēlum	N-sn3		142	1	2	obj				I was persuaded there by a man separating his tongue from speaking animals (?).										
+χuli	хули	xuli	xuli	Vmpp--i	Vmip3s	142	2	7	advcl	nsubj													
+ńēlməŋ	ньелмын	ńēlməŋ	ńēlməŋ	A		142	3	4	amod														
+ūj	уй	ūj	ūj	N-sn		142	4	2	obl					1									
+χum	хум	xum	xum	N-sn		142	5	7	obl														
+tot	тот	tot	tot	Pr		142	6	7	advmod														
+luji̮ɣtāntwesᵘm.	луигтантвесым.	lujiɣtāntwesum	lujiɣtānti	Vmia1s-p		142	7	0	root					1									
+																							
+jaɣᵘm	ягым	jaɣum	jaɣ	N-sn1		143	1	3	nsubj				The opening of the four-cornered treasure chest filled by my father becomes wide.										
+χum	хум	xum	xum	N-sn		143	2	1	nmod														
+pońɣətālᵘm	поньгыталым	pońɣətālum	pońɣətāli	Vmpa--m		143	3	6	acl					1									
+ńila	нила	ńila	ńila	Ml		144	4	5	nummod														
+sāmpa	сампа	sāmpa	sāmpa	A		144	5	6	amod														
+saraχ sūntaχ	сарах сунтах	sarax-sūntax	sarax-sūntax	N-sn		144	6	7	nmod	poss				1									
+sūnte	сунте	sūnte	sūnt	N-sn3		144	7	8	obj														
+lōśχats.	лошхатс.	lōśxats	lōśxati	Vmia3s		144	8	0	root					1									
+																							
+jāpak	йапак	jāpak	jāpak	N-sn		145	1	2	nmod				My powerful, silk-buttoned prince dresses himself to throat-mouth.										
+kēŋnpa	кеннпа	kēŋnpa	kēŋpa	A		145	2	4	amod														
+wāɣəŋ	вагын	wāɣəŋ	wāɣəŋ	A	Vmpp--a	145	3	4	amod														
+ōtərᵘm	втырым	ōtərum	ōtər	N-sn1		145	4	7	nsubj					1									
+tōχ-	тох-	tōx-	tōx	N-sn		145	5	6	nmod														
+sūntnə	сунтны	sūntnə	sūnt	N-sd		145	6	7	obl	lat													
+taɣili̮ɣlaχti	тагилиглахти	taɣiliɣlaxti	taɣiliɣlaxti	Vmip3s		145	7	0	root					1									
+																							
+ńań-	нянь-	ńań-	ńań	N-sn		146	1	3	nmod				I buttoned myself proudly only in the manner of bread.										
+kēm	кем	kēm	kēm	S		146	2	1	case														
+kēŋn	кенн	kēŋn	kēŋən	N-sd		146	3	6	obl														
+jorn	йорн	jorn	jorn	A		146	4	6	advmod					1									
+ness	несс	ness	ness	R		146	5	6	advmod														
+taɣili̮ɣtaχtasᵘm.	тагилигтахтасым.	taɣiliɣtaxtasum	taɣiliɣlaxti	Vmia1s		146	6	0	root					1									
+																							
+ńila	нила	ńila	ńila	Ml		147	1	2	nummod				We are put to conversion by the Four-Cornered Gold.										
+sāmpa	сампа	sāmpa	sāmpa	A		147	2	4	amod														
+sōlat	солат	sōlat	sōlat	N-sn		147	3	2	nmod														
+pērnal	пернал	pērnal	pērna	N-si		147	4	6	obl					1									
+χum	хум	xum	xum	N-sn		147	5	6	nsubj														
+punawem.	пунавем.	punawem	puni	Vmip1s-p		147	6	0	root					1									
+																							
+jaɣ	яг	jaɣ	jaɣ	N-sn		148	1	2	nsubj				The rich progeny (?) built by our fathers is what remains in the heavens (?) for thousands of years.										
+ūnttəlᵘm	унттылым	ūnttəlum	ūntti	Vmpa--m		148	2	12	acl	nsubj													
+ńawər-	нявыр-	ńawər-	ńawər	N-sn		148	3	4	nmod														
+wōj	вой	wōj	wōj	N-sn		148	4	5	nmod														
+śuńəŋ	шуньын	śuńəŋ	śuńəŋ	A		148	5	2	amod														
+kiwər	кивыр	kiwər	kiwər	S		148	6	5	case					1									
+tōrᵘm	торым	tōrum	tōrum	N-sn		148	7	9	nmod														
+sōtrəŋ	свтрын	sōtrəŋ	sōtrəŋ	A		148	8	9	nummod														
+χotal	хотал	xotal	xotal	N-sn		148	9	12	obl														
+kāstəl	кастыл	kāstəl	kāstəl	S		148	10	9	case														
+ti	ти	ti	ti	Pd		148	11	12	det														
+χūľtəs.	хультыс.	xūľtəs	xūľti	Vmpa--s		148	12	0	root														

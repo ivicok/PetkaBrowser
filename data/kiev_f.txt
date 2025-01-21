@@ -1,0 +1,1299 @@
+text	cyrillic	diplomatic	lemma	PoS_tag	PoS_ext	sent_id	UD_id	UD_ncy	UD_type	UD_ext	page	folio	translation	eol	chapter	ref	desc
+																	
+Vъ	Ⰲⱏ	vъ	v	Sl		1	1	3	case		1v	/img/kiev/kf_1v.jpg	[Title] On the 23th day (of November), (Feast of St.) Clement	0	kvf Kiev Folia		<b>Kiev Folia</b><br/><br/>A famous fragment of an Old Church Slavonic missal, written likely in Pannonia in the 10th century. One of the oldest examples of Slavonic literature. The preserved fragments contains liturgical prayers for the feasts of St. Clement and St. Felicitas, all martyrs, and others.<br/> Facsimile provided by <a href=http://www.nbuv.gov.ua/>National Library of Ukraine "V.I. Vernandsky"</a> via <a href=https://kodeks.uni-bamberg.de/AKSL/Texte/KievFolia.htm>University of Bamberg</a>.<br/>The transcript is conventional. Final -ⱑ is given as -<i>ě</i> even in neut. soft (e.g. <i>lěta obidocě</i>) and ja-stems (<i>mьšě</i>), where it may be analyzed as /ja/. Two juses - ⱘ and ⱗ - are given, respectively, as <i>jǫ</i> and <i>ję</i> in both blocked and free positions.<br/>A <a target=_blank href=/gla>Glagolitic keyboard</a> can be used for search.
+*iv*	·ⰻⰲ·	*iv*	23	Mc		1	2	3	amod								
+dьnь+	ⰴⱐⱀⱐ₊	dъnъ	den	Nmsni		1	3	0	root	loc							
+klïmenta	ⰽⰾⰹⰿⰵⱀⱅⰰ	klimenta	Kliment	Nmsgy		1	4	2	appos					1			
+																	
+Bъ+	Ⰱⱏ₊	bъ	bog	Nmsny		2	1	14	vocative				(O) merciful God, who for many passing years makes us rejoice by the honor of your martyr and pope, blessed Clement, grant us:				
+ʾīže+	҆ⰺⰶⰵ₊	iže	iže	Pr-msn		2	2	5	mark								
+nъi.	ⱀⱏⰻ.	ny	nie	Pp1-pa		2	3	5	obj								
+lěta	ⰾⱑⱅⰰ	lěta	lěto	Nnpnn		2	4	5	obl								
+ʾogrjędǫcě	҆ⱁⰳⱃⱗⰴⱘⱌⱑ	ogrjędǫcě	ogręsti	Vmpp-pia	Anpnn	2	5	13	advcl					1			
+blaženago	ⰱⰾⰰⰶⰵⱀⰰⰳⱁ	blaženago	blažen	Amsgy		2	6	7	amod								
+klimenta+	ⰽⰾⰻⰿⰵⱀⱅⰰ₊	klimenta	Kliment	Nmsgy		2	7	12	nmod	poss							
+mǫ_čenïka	ⰿⱘ_ⱍⰵⱀⰹⰽⰰ	mǫčenika	mъčenik	Nmsgy		2	8	7	appos					1			
+tvoego+	ⱅⰲⱁⰵⰳⱁ₊	tvoego	tvoi	Amsgy		2	9	8	amod	poss							
+ī+	ⰺ₊	i	i	C		2	10	11	cc								
+papeža	ⱂⰰⱂⰵⰶⰰ	papeža	papež	Nmsgy		2	11	8	conj					1			
+čьstьjǫ	ⱍⱐⱄⱅⱐⱙ	čъstъjǫ	čest	Nfsii		2	12	13	obl								
+veselïšī.	ⰲⰵⱄⰵⰾⰹⱎⰺ.	veseliši	veselja	Vmip2si		2	13	1	acl								
+poda_zь	ⱂⱁⰴⰰ_ⰸⱐ	podazъ	podam	Vmm-2se		2	14	0	root					1			
+mïlostïvъï^.	ⰿⰹⰾⱁⱄⱅⰹⰲⱏⰹ̂.	milostivy	milostiv	Amsny		2	15	1	amod								
+																	
+dá+	ⰴⰰ́₊	da	da	C		3	1	9	aux	opt			May we follow him by the power of martyrdom, to whose honor we give honor				
+ʾegože	҆ⰵⰳⱁⰶⰵ	egože	iže	Pr-msg		3	2	4	mark					1			
+čьstь	ⱍⱐⱄⱅⱐ	čъstъ	čest	Nfsni		3	3	4	obj								
+čьstïmъ.	ⱍⱐⱄⱅⰹⰿⱏ.	čъstimъ	čъstja	Vmip1pi		3	4	8	acl	poss							
+sïlójǫ	ⱄⰹⰾⱁ́ⱙ	silojǫ	sila	Nfsin		3	5	9	obl					1			
+ʾubo	҆ⱆⰱⱁ	ubo	ubo	C		3	6	9	cc								
+mǫčeniě+	ⰿⱘⱍⰵⱀⰻⱑ₊	mǫčeniě	mъčenie	Nnsgn		3	7	5	nmod	poss							
+ʾego	҆ⰵⰳⱁ	ego	toi	Pp3msg		3	8	7	nmod	poss							
+naslědue_mъ:.:	ⱀⰰⱄⰾⱑⰴⱆⰵ_ⰿⱏ:.:	naslěduemъ	naslědovati	Vmip1pi		3	9	0	root					1			
+																	
+gmь:.:	ⰳⰿⱐ:.:	gmъ	glagolati	Vmip1pi		4	1	0	root				We say (...)				
+																	
+nadъ	ⱀⰰⰴⱏ	nadъ	nad	Si		5	1	2	case				[Title] Over Eucharist				
+oplatmь	ⱁⱂⰾⰰⱅⰿⱐ	oplatmъ	oplat	Nmsin		5	2	0	root	loc				1			
+																	
+[da]Rovaníję+	[ⰴⰰ]Ⱃⱁⰲⰰⱀⰻ́ⱗ₊	darovaniję	daruvam	Ampay	Vmpa-pe	6	1	4	obj				O Lord, sanctify the brought gifts				
+gï+	ⰳⰹ₊	gi	Gospod	Nmsvi		6	2	4	vocative								
+prïnesenъiję	ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰻⱗ	prinesenyję	prinesa	Ampay	Vmpa-pe	6	3	1	amod					1			
+svjętï´.	ⱄⰲⱗⱅⰹ́.	svjęti	svęt	Vmm-2si		6	4	0	root								
+																	
+ʾī+	҆ⰺ₊	i	i	C		7	1	13	cc				And, by the mediation of you blessed martyr Clement, purify us with this from the dirt of our sins				
+xodataję´cju	ⱈⱁⰴⰰⱅⰰⱗ́ⱌⱓ	xodatajęcju	xodataistvovati	Vmpp-sia	Amsdn	7	2	13	advcl					1			
+blaženumu	ⰱⰾⰰⰶⰵⱀⱆⰿⱆ	blaženumu	blažen	Amsdy		7	3	4	amod								
+klimentu	ⰽⰾⰻⰿⰵⱀⱅⱆ	klimentu	Kliment	Nmsdy		7	4	2	nsubj					1			
+mǫčeniku	ⰿⱘⱍⰵⱀⰻⰽⱆ	mǫčeniku	mъčenik	Nmsdy		7	5	4	appos								
+tvoemu.	ⱅⰲⱁⰵⰿⱆ.	tvoemu	tvoi	Amsdy		7	6	5	amod	poss							
+simь	ⱄⰻⰿⱐ	simъ	sii	Pd-msi		7	7	13	obl					1			
+nъi`	ⱀⱏⰻ̀	ny	nie	Pp1-pa		7	8	13	obj								
+ʾotъ+	҆ⱁⱅⱏ₊	otъ	ot	Sg		7	9	11	case								
+grěxъ^	ⰳⱃⱑⱈⱏ̂	grěxъ	grěx	Nmpgn		7	10	11	nmod	poss							
+skvrьnostiī	ⱄⰽⰲⱃⱐⱀⱁⱄⱅⰻⰺ	skvrъnostii	skvrъnost	Nfpgi		7	11	13	obl	abl				1			
+našīxъ	ⱀⰰⱎⰺⱈⱏ	našixъ	naš	A-pgy		7	12	10	amod	poss							
+ʾočïstï:	҆ⱁⱍⰹⱄⱅⰹ:	očisti	očistja	Vmm-2se		7	13	0	root								
+																	
+gmь:	ⰳⰿⱐ:	gmъ	glagolati	Vmip1pi		8	1	0	root				We say (...)	1			
+																	
+prěfaciě:	ⱂⱃⱑⱇⰰⱌⰻⱑ:	prěfaciě	prěfacia	Nfsnn		9	1	0	root				[Title] Preface				
+do	ⰴⱁ	do	do	I		9	2	1	discourse								
+																	
+věčьnъï^	ⰲⱑⱍⱐⱀⱏⰹ̂	věčъny	večen	Amsny		10	1	2	amod				O eternal God, honoring the honor of Clement, the law-giver and martyr, who worked to be (like) Your Apostle Peter,				
+bže	ⰱⰶⰵ	bže	bog	Nmsvy		10	2	29	vocative					1			
+Čь´stьnaˇgo+	Ⱍⱐ́ⱄⱅⱐⱀⰰ̆ⰳⱁ₊	čъstъnago	čъsten	Amsgy		10	3	4	amod								
+klimenta+	ⰽⰾⰻⰿⰵⱀⱅⰰ₊	klimenta	Kliment	Nmsgy		10	4	8	nmod	poss							
+zako_nьnïka	ⰸⰰⰽⱁ_ⱀⱐⱀⰹⰽⰰ	zakonъnika	zakonnik	Nmsgy		10	5	4	appos					1			
+ʾī+	҆ⰺ₊	i	i	C		10	6	7	cc								
+mǫčenï´ka	ⰿⱘⱍⰵⱀⰹ́ⰽⰰ	mǫčenika	mъčenik	Nmsgy		10	7	5	conj								
+čьstï	ⱍⱐⱄⱅⰹ	čъsti	čest	Nfsgi		10	8	9	obj					1			
+čьstjęce.	ⱍⱐⱄⱅⱗⱌⰵ.	čъstjęce	čъstja	Vmpp-sia	Ampnn	10	9	29	advcl								
+ʾīže	҆ⰺⰶⰵ	iže	iže	Pr-msn		10	10	11	mark								
+ʾutjęže	҆ⱆⱅⱗⰶⰵ	utjęže	utęžati	Vmia3ser		10	11	4	acl							Miklosich: <i>utęžati</i> 'operare'	
+bъi_tï+	ⰱⱏⰻ_ⱅⰹ₊	byti	sъm	Vmn---i		10	12	11	advcl					1			
+blaženu^mu	ⰱⰾⰰⰶⰵⱀⱆ̂ⰿⱆ	blaženumu	blažen	Amsdy		10	13	14	amod								
+ʾapósto_lu	҆ⰰⱂⱁ́ⱄⱅⱁ_ⰾⱆ	apostolu	apostol	Nmsdy		10	14	10	obl	iobj				1			
+tvoemu	ⱅⰲⱁⰵⰿⱆ	tvoemu	tvoi	Amsdy		10	15	14	amod	poss							
+petru.	ⱂⰵⱅⱃⱆ.	petru	Petъr	Nmsdy		10	16	14	appos								
+vъ	ⰲⱏ	vъ	v	Sl		10	17	18	case								
+ï_nokostï	ⰹ_ⱀⱁⰽⱁⱄⱅⰹ	inokosti	inokost	Nfsgi		10	18	19	nmod	loc			a friend in loneliness, a learned one in confession, a successor in honor, a follower in martyrdom	1			
+podrugъ.	ⱂⱁⰴⱃⱆⰳⱏ.	podrugъ	podrug	Nmsny		10	19	12	obl	pred							
+vъ,	ⰲⱏ,	vъ	v	Sl		10	20	21	case								
+ʾispo_vědï	҆ⰻⱄⱂⱁ_ⰲⱑⰴⰹ	ispovědi	izpověd	Nfsgi		10	21	22	nmod	loc				2			
+učenïkъ.	ⱆⱍⰵⱀⰹⰽⱏ.	učenikъ	učenik	Nmsny		10	22	19	conj	pred	2r	/img/kiev/kf_2r.jpg					
+vъ+	ⰲⱏ₊	vъ	v	Sl		10	23	24	case								
+čьstï	ⱍⱐⱄⱅⰹ	čъsti	čъst	Nfsgi		10	24	25	nmod	loc							
+na_městьnikъ.	ⱀⰰ_ⰿⱑⱄⱅⱐⱀⰻⰽⱏ.	naměstъnikъ	namestnik	Nmsny		10	25	22	conj					1			
+vъ+	ⰲⱏ₊	vъ	v	Sl		10	26	27	case								
+mǫčeniï^	ⰿⱘⱍⰵⱀⰻⰹ̂	mǫčenii	mъčenie	Nnsln		10	27	28	nmod	loc							
+na_slědьníkъ.	ⱀⰰ_ⱄⰾⱑⰴⱐⱀⰻ́ⰽⱏ.	naslědъnikъ	naslednik	Nmsny		10	28	25	conj					1			
+xmь+	ⱈⰿⱐ₊	xmъ	xvalja	Vmip1pi		10	29	0	root				we praise (him)				
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		11	1	0	root				We say to our (...)				
+našmь.	ⱀⰰⱎⰿⱐ.	našmъ	naš	A-pdy		11	2	1	obl	iobj:poss				1			
+																	
+po+	ⱂⱁ₊	po	po	Sl		12	1	2	case				[Title] After the communion				
+vъsǫdě:	ⰲⱏⱄⱘⰴⱑ:	vъsǫdě	vъsǫd	Nmsln		12	2	0	root					1		Cejtlin et al.: <i>vъsǫdъ</i> 'communio, pričaštenie, přijímání'	
+																	
+Tělese	Ⱅⱑⰾⰵⱄⰵ	tělese	tělo	Nnsgn		13	1	6	obj				We pray you, o Lord our God, (for) fully pouring the holy body and most precious blood				
+svjętago	ⱄⰲⱗⱅⰰⰳⱁ	svjętago	svjęt	Ansgy		13	2	1	amod								
+ʾī+	҆ⰺ₊	i	i	C		13	3	5	cc								
+prědra_gyję^+	ⱂⱃⱑⰴⱃⰰ_ⰳⱏⰻⱗ̂₊	prědragyję	prědrag	Afsgy		13	4	5	amod					1			
+krъve	ⰽⱃⱏⰲⰵ	krъve	krъv	Nfsgn		13	5	1	conj								
+naplьnenī`	ⱀⰰⱂⰾⱐⱀⰵⱀⰺ̀	naplъneni	napъlnenie	Nnsgn		13	6	7	acl	nsubj							
+vъ_litíě	ⰲⱏ_ⰾⰻⱅⰻ́ⱑ	vъlitiě	vъlitie	Nnsgn		13	7	8	advcl					1			
+prosī´mъ+	ⱂⱃⱁⱄⰺ́ⰿⱏ₊	prosimъ	prosja	Vmip1pi		13	8	0	root								
+gï+	ⰳⰹ₊	gi	Gospod	Nmsvi		13	9	8	vocative								
+bže+	ⰱⰶⰵ₊	bže	bog	Nmsvy		13	10	9	appos								
+našь:	ⱀⰰⱎⱐ:	našъ	naš	Amsnn		13	11	10	amod	poss				1			
+																	
+da+	ⰴⰰ₊	da	da	C		14	1	5	aux	opt			May we carry its promises, which (are) merciful				
+eže	ⰵⰶⰵ	eže	iže	Pr-nsn		14	2	4	det								
+milostïvaě+	ⰿⰻⰾⱁⱄⱅⰹⰲⰰⱑ₊	milostivaě	milostiv	Anpny		14	3	4	amod								
+ʾoběcě´_níě´+	҆ⱁⰱⱑⱌⱑ́_ⱀⰻ́ⱑ́₊	oběcěniě	obeštanie	Nnsnn		14	4	5	obj					1			
+nosīˇmъ.	ⱀⱁⱄⰺ̆ⰿⱏ.	nosimъ	nosja	Vmip1pi		14	5	0	root								
+																	
+rěsnotï´vьnaě	ⱃⱑⱄⱀⱁⱅⰹ́ⰲⱐⱀⰰⱑ	rěsnotivъnaě	rěsnotivьn	Anpny		15	1	2	amod				(And may) we receive the true liberation	1			
+ʾizdrěšeníě	҆ⰻⰸⰴⱃⱑⱎⰵⱀⰻ́ⱑ	izdrěšeniě	izdrěšeniě	Nnpnn		15	2	3	obj							Miklosich: <i>izdrěšenie</i> 'liberatio'	
+ʾobьmemъ:	҆ⱁⰱⱐⰿⰵⰿⱏ:	obъmemъ	obęti	Vmip1pe		15	3	0	root								
+																	
+gmь:.	ⰳⰿⱐ:.	gmъ	glagolati	Vmip1pi		16	1	0	root				We say (...)	1			
+																	
+Vъ+	Ⰲⱏ₊	vъ	v	Sl		17	1	3	case				[Title] On the same day				
+tъze+	ⱅⱏⰸⰵ₊	tъze	tъžde	Pr-msn		17	2	3	obl	ext							
+dьnь+	ⰴⱐⱀⱐ₊	dъnъ	den	Nmsni		17	3	0	root								
+																	
+felictъi:	ⱇⰵⰾⰻⱌⱅⱏⰻ:	felicty	Felicita	Nfsgy		18	1	0	root	poss			[Title] (Feast of St.) Felicitas	1			
+																	
+Podázь+	Ⱂⱁⰴⰰ́ⰸⱐ₊	podazъ	podam	Vmm-2se		19	1	3	advcl				We pray you, o all-powerful God, grant us our common prayer for the sake of your blessed martyr Felicitas				
+námъ+	ⱀⰰ́ⰿⱏ₊	namъ	nie	Pp1-pd		19	2	1	obl	iobj							
+prosïmъ+	ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		19	3	0	root								
+tję	ⱅⱗ	tję	ty	Pp2-sa		19	4	3	obj					1			
+vь´semogъíī+	ⰲⱐ́ⱄⰵⰿⱁⰳⱏⰻ́ⰺ₊	vъsemogyi	vsemog	Amsny		19	5	6	amod								
+bže.	ⰱⰶⰵ.	bže	bog	Nmsvy		19	6	3	vocative								
+blaženъï_ję^+	ⰱⰾⰰⰶⰵⱀⱏⰹ_ⱗ̂₊	blaženyję	blažen	Afsgy		19	7	9	amod					1			
+rádī^+	ⱃⰰ́ⰴⰺ̂₊	radi	radi	Sg		19	8	9	case								
+mǫčenïcję^	ⰿⱘⱍⰵⱀⰹⱌⱗ̂	mǫčenicję	mъčenica	Nfsgy		19	9	1	obl								
+tvoeję	ⱅⰲⱁⰵⱗ	tvoeję	tvoi	Afsgy		19	10	9	amod	poss				1			
+ѳelïcïtъ^i	ⱚⰵⰾⰹⱌⰹⱅⱏ̂ⰻ	ѳelicity	Felicita	Nfsgy		19	11	9	appos								
+vъkupьnǫjǫ	ⰲⱏⰽⱆⱂⱐⱀⱘⱙ	vъkupъnǫjǫ	vъkupьnъ	Afsay		19	12	13	amod					1			
+molitvǫ.	ⰿⱁⰾⰻⱅⰲⱘ.	molitvǫ	molitva	Nfsan		19	13	1	obj								
+																	
+ʾī+	҆ⰺ₊	i	i	C		20	1	4	cc				And for her sake protect us				
+toję´ze+	ⱅⱁⱗ́ⰸⰵ₊	tojęze	tъžde	Pr-fsg		20	2	4	obl	ext							
+radī^	ⱃⰰⰴⰺ̂	radi	radi	Sg		20	3	2	case					1			
+zaščïˇtï	ⰸⰰⱎⱍⰹ̆ⱅⰹ	zaščiti	zaštitja	Vmm-2se		20	4	0	root								
+nъi`:	ⱀⱏⰻ̀:	ny	nie	Pp1-pa		20	5	4	obj								
+																	
+gmь:	ⰳⰿⱐ:	gmъ	glagolati	Vmip1pi		21	1	0	root				We say (...)				
+																	
+ndъ	ⱀⰴⱏ	ndъ	nad	Si		22	1	2	case				[Title] Over Eucharist				
+[opl]	[ⱁⱂⰾ]	opl	oplat	N		22	2	0	root	loc				1			
+																	
+Na+	Ⱀⰰ₊	na	na	Sa		23	1	2	case				Watch mercifully the service of your people				
+služьbъi+	ⱄⰾⱆⰶⱐⰱⱏⰻ₊	služъby	služba	Nfpnn		23	2	6	obl	lat							
+ljudiī+	ⰾⱓⰴⰻⰺ₊	ljudii	ljudie	Nmpgi		23	3	2	nmod	poss							
+tvoīxъ	ⱅⰲⱁⰺⱈⱏ	tvoixъ	tvoi	Ampgy		23	4	3	amod	poss				1			
+milostijǫ+	ⰿⰻⰾⱁⱄⱅⰻⱙ₊	milostijǫ	milost	Nfsii		23	5	6	obl								
+prïzьrï´.	ⱂⱃⰹⰸⱐⱃⰹ́.	prizъri	prizra	Vmm-2se		23	6	0	root								
+																	
+ī[...]	ⰺ[...]	i	i	C		24	1	6	cc				And (...) this we honor by the honor of the saints	1			
+se+	ⱄⰵ₊	se	se (2)	Qd	Pd-nsa	24	2	6	obj								
+nъi`	ⱀⱏⰻ̀	ny	nie	Pp1-pa		24	3	6	nsubj								
+čьstьjǫ+	ⱍⱐⱄⱅⱐⱙ₊	čъstъjǫ	čest	Nfsii		24	4	6	obl								
+svjętъïxъ+	ⱄⰲⱗⱅⱏⰹⱈⱏ₊	svjętyxъ	svęt	A-pgy		24	5	4	nmod	poss							
+čь_stï´mъ:	ⱍⱐ_ⱄⱅⰹ́ⰿⱏ:	čъstimъ	čъstja	Vmip1pi		24	6	0	root					1			
+																	
+sъtvorï+	ⱄⱏⱅⰲⱁⱃⰹ₊	sъtvori	sъtvorja	Vmm-2se		25	1	0	root				Make us rejoice in the Eternal Life				
+nъi+	ⱀⱏⰻ₊	ny	nie	Pp1-pa		25	2	1	obj								
+rado_stьnъi.	ⱃⰰⰴⱁ_ⱄⱅⱐⱀⱏⰻ.	radostъny	radosten	Ampay	Afpny	25	3	1	obl	pred				1			
+vъ+	ⰲⱏ₊	vъ	v	Sl		25	4	6	case								
+věčьně´mь+	ⰲⱑⱍⱐⱀⱑ́ⰿⱐ₊	věčъněmъ	večen	Amsly		25	5	6	amod								
+živo[tě]	ⰶⰻⰲⱁ[ⱅⱑ]	životě	život	Nmsln		25	6	3	nmod	loc				2			
+																	
+po+	ⱂⱁ₊	po	po	Sl		26	1	2	case		2v	/img/kiev/kf_2v.jpg	[Title] After the communion				
+vъsǫdě:.	ⰲⱏⱄⱘⰴⱑ:.	vъsǫdě	vъsǫd	Nmsln		26	2	0	root					1			
+																	
+Sъměrьno+	Ⱄⱏⰿⱑⱃⱐⱀⱁ₊	sъměrъno	sъměrъno	R		27	1	3	advmod				We pray you humbly, o all-powerful God, by the prayers of your saints				
+tję	ⱅⱗ	tję	ty	Pp2-sa		27	2	3	obj								
+molimъ+	ⰿⱁⰾⰻⰿⱏ₊	molimъ	molja	Vmip1pi		27	3	0	root								
+vь´se_mogъï+	ⰲⱐ́ⱄⰵ_ⰿⱁⰳⱏⰹ₊	vъsemogy	vъsemog	Amsny		27	4	5	amod					1			
+bže.	ⰱⰶⰵ.	bže	bog	Nmsvy		27	5	3	vocative								
+molitvamï+	ⰿⱁⰾⰻⱅⰲⰰⰿⰹ₊	molitvami	molitva	Nfpin		27	6	3	obl								
+svję_tъixъ+	ⱄⰲⱗ_ⱅⱏⰻⱈⱏ₊	svjętyxъ	svęt	A-pgy		27	7	6	nmod	poss				1			
+tvoīxъ.	ⱅⰲⱁⰺⱈⱏ.	tvoixъ	tvoi	A-pgy		27	8	7	amod	poss							
+																	
+ʾi+	҆ⰻ₊	i	i	C		28	1	4	cc				And may you be alone (the one prayed to?)				
+tъi+	ⱅⱏⰻ₊	ty	ty	Pp2-sn		28	2	4	nsubj								
+samъ	ⱄⰰⰿⱏ	samъ	sam	Amsnn		28	3	2	appos					1			
+bǫ^dï.	ⰱⱘ̂ⰴⰹ.	bǫdi	bъda	Vmm-2se		28	4	0	root								
+																	
+ʾī+	҆ⰺ₊	i	i	C		29	1	4	cc				And settle your gift in us				
+darъ+	ⰴⰰⱃⱏ₊	darъ	dar	Nmsnn		29	2	4	obj								
+tvoï+	ⱅⰲⱁⰹ₊	tvoi	tvoi	Amsny		29	3	2	amod	poss							
+vъselï	ⰲⱏⱄⰵⰾⰹ	vъseli	vselja	Vmm-2se		29	4	0	root					1			
+vъ+	ⰲⱏ₊	vъ	v	Sa		29	5	6	case								
+nъi`.	ⱀⱏⰻ̀.	ny	nie	Pp1-pa		29	6	4	obl	lat							
+																	
+ʾī+	҆ⰺ₊	i	i	C		30	1	6	cc				And make our times just				
+vrěmję+	ⰲⱃⱑⰿⱗ₊	vrěmję	vreme	Nnsnn		30	2	6	obj								
+naše+	ⱀⰰⱎⰵ₊	naše	naš	Ansnn		30	3	2	amod	poss							
+vъ	ⰲⱏ	vъ	v	Sa		30	4	5	case					1			
+pravьdǫ+	ⱂⱃⰰⰲⱐⰴⱘ₊	pravъdǫ	pravda	Nfsan		30	5	6	obl	lat							
+postávï:.	ⱂⱁⱄⱅⰰ́ⰲⰹ:.	postavi	postavja	Vmm-2se		30	6	0	root								
+																	
+gmь.	ⰳⰿⱐ.	gmъ	glagolati	Vmip1pi		31	1	0	root				We say (...)	1			
+																	
+mьšě+	ⰿⱐⱎⱑ₊	mъšě	mьša	Nfsnn		32	1	0	root				[Title] Mass on all days of each second (?) year				
+na+	ⱀⰰ₊	na	na	Sa		32	2	4	case								
+vь´sję	ⰲⱐ́ⱄⱗ	vъsję	vse	Nmsnn		32	3	4	amod	det							
+dьnī	ⰴⱐⱀⰺ	dъni	den	Nmpai		32	4	1	nmod	iobj							
+vь_sego+	ⰲⱐ_ⱄⰵⰳⱁ₊	vъsego	vse	Amsgy		32	5	6	amod	det				1			
+lěta+	ⰾⱑⱅⰰ₊	lěta	lěto	Nnsgn		32	6	4	nmod	poss							
+ʾobïdǫcě:.	҆ⱁⰱⰹⰴⱘⱌⱑ:.	obidǫcě	obida	Ansgn	Vmpp-sia	32	7	6	amod					1			
+																	
+Bъ+	Ⰱⱏ₊	bъ	bog	Nmsny		33	1	20	vocative				(O) God, who gave so much mercy to His creation,				
+ʾīže	҆ⰺⰶⰵ	iže	iže	Pr-msn		33	2	6	mark								
+tvarь+	ⱅⰲⰰⱃⱐ₊	tvarъ	tvar	Nfsni		33	3	6	obj								
+svojǫ	ⱄⰲⱁⱙ	svojǫ	svoi	Afsay		33	4	3	amod	poss							
+ve_lьmï+	ⰲⰵ_ⰾⱐⰿⰹ₊	velъmi	velmi	R		33	5	6	advmod					1			
+pomïlova.	ⱂⱁⰿⰹⰾⱁⰲⰰ.	pomilova	pomilovam	Vmia3se		33	6	1	acl								
+ʾī+	҆ⰺ₊	i	i	C		33	7	11	cc				and in His anger chose to take flesh for the sake of salvation of humans,				
+po+	ⱂⱁ₊	po	po	Sd		33	8	9	case								
+gně_vě+	ⰳⱀⱑ_ⰲⱑ₊	gněvě	gněv	Nmsdn		33	9	11	obl					1			
+svoemь.	ⱄⰲⱁⰵⰿⱐ.	svoemъ	svoi	Amsly		33	10	9	amod	poss							
+ʾizvolï+	҆ⰻⰸⰲⱁⰾⰹ₊	izvoli	izvolja	Vmia3se		33	11	6	conj								
+vъ_plъtitï+	ⰲⱏ_ⱂⰾⱏⱅⰻⱅⰹ₊	vъplъtiti	vъplъtiti	Vmn---e		33	12	11	advcl					1			
+sję	ⱄⱗ	sję	se	Px---a		33	13	12	expl								
+sъpáseniě+	ⱄⱏⱂⰰ́ⱄⰵⱀⰻⱑ₊	sъpaseniě	spasenie	Nnsgn		33	14	12	obl								
+ra_dï+	ⱃⰰ_ⰴⰹ₊	radi	radi	Sg		33	15	14	case					1			
+člověčьska.	ⱍⰾⱁⰲⱑⱍⱐⱄⰽⰰ.	člověčъska	človečeski	Ansgn		33	16	14	amod	poss							
+ʾī+	҆ⰺ₊	i	i	C		33	17	18	cc				and thus wanted,				
+vъsxo_těvъ+	ⰲⱏⱄⱈⱁ_ⱅⱑⰲⱏ₊	vъsxotěvъ	vъsxotěti	Vmpa-sea	Amsnn	33	18	11	conj					1			
+námъ	ⱀⰰ́ⰿⱏ	namъ	nie	Pp1-pd		33	19	20	obl	iobj							
+ʾutvrьdï+	҆ⱆⱅⰲⱃⱐⰴⰹ₊	utvrъdi	utvъrdja	Vmn---e		33	20	0	root				make our hearts strong				
+srь_dьcě+	ⱄⱃⱐ_ⰴⱐⱌⱑ₊	srъdъcě	sъrdce	Nnpnn		33	21	20	obj					1			
+nášě.	ⱀⰰ́ⱎⱑ.	našě	naš	Anpnn		33	22	21	amod	poss							
+																	
+ʾī+	҆ⰺ₊	i	i	C		34	1	4	cc				And enlighten us by your mercy				
+milostijǫ	ⰿⰻⰾⱁⱄⱅⰻⱙ	milostijǫ	milost	Nfsii		34	2	4	obl					1			
+tvoéjǫ	ⱅⰲⱁⰵ́ⱙ	tvoejǫ	tvoi	Afsiy		34	3	2	amod	poss							
+prosvětï+	ⱂⱃⱁⱄⰲⱑⱅⰹ₊	prosvěti	prosvětja	Vmm-2se		34	4	0	root								
+nъi`:	ⱀⱏⰻ̀:	ny	nie	Pp1-pa		34	5	4	obj								
+																	
+gmь:	ⰳⰿⱐ:	gmъ	glagolati	Vmip1pi		35	1	0	root				We say (...)	1			
+																	
+nadъ	ⱀⰰⰴⱏ	nadъ	nad	Si		36	1	2	case				[Title] Over Eucharist				
+ʾoplatъmъ:.	҆ⱁⱂⰾⰰⱅⱏⰿⱏ:.	oplatъmъ	oplat	Nmsin		36	2	0	root					1			
+																	
+Blïzъ+	Ⰱⰾⰹⰸⱏ₊	blizъ	bliz	R		37	1	2	amod				O Lord, stand by us				
+násъ+	ⱀⰰ́ⱄⱏ₊	nasъ	nie	Pp1-pg		37	2	3	obl								
+bǫdï+	ⰱⱘⰴⰹ₊	bǫdi	bъda	Vmm-2se		37	3	0	root								
+gï+	ⰳⰹ₊	gi	Gospod	Nmsvi		37	4	3	vocative								
+																	
+prósï_mъ+	ⱂⱃⱁ́ⱄⰹ_ⰿⱏ₊	prosimъ	prosja	Vmip1pi		38	1	0	root				We pray you	1			
+tję.	ⱅⱗ.	tję	ty	Pp2-sa		38	2	1	obj								
+																	
+ʾī+	҆ⰺ₊	i	i	C		39	1	4	cc				And hear our prayer				
+molï´tvǫ+	ⰿⱁⰾⰹ́ⱅⰲⱘ₊	molitvǫ	molitva	Nfsan		39	2	4	obj								
+našǫ	ⱀⰰⱎⱘ	našǫ	naš	Afsan		39	3	2	amod	poss				1			
+uslъ´išï.	ⱆⱄⰾⱏ́ⰻⱎⰹ.	uslyši	uslyšati	Vmm-2se		39	4	0	root								
+																	
+da`	ⰴⰰ̀	da	da	C		40	1	3	aux	opt			May we take hope in our works				
+ʾupъvaníe	҆ⱆⱂⱏⰲⰰⱀⰻ́ⰵ	upъvanie	upъvanie	Nnsnn		40	2	3	obj					1			
+vъnъmémъ	ⰲⱏⱀⱏⰿⰵ́ⰿⱏ	vъnъmemъ	vnema	Vmip1pe		40	3	0	root								
+dělь^	ⰴⱑⰾⱐ̂	dělъ	dělo	Nnpgn		40	4	2	nmod	poss							
+svoïxъ.	ⱄⰲⱁⰹⱈⱏ.	svoixъ	svoi	Anpgy		40	5	4	amod	poss				1			
+																	
+ī+	ⰺ₊	i	i	C		41	1	7	cc				And we bring you this gift in love				
+vъ+	ⰲⱏ₊	vъ	v	Sa		41	2	3	case								
+ljubъvь	ⰾⱓⰱⱏⰲⱐ	ljubъvъ	ljubov	Nfsan		41	3	7	obl								
+darъ+	ⰴⰰⱃⱏ₊	darъ	dar	Nmsnn		41	4	7	obj								
+sь+	ⱄⱐ₊	sъ	sii	Pd-msn		41	5	4	det	p_nom							
+té_bě	ⱅⰵ́_ⰱⱑ	tebě	ty	Pp2-sd		41	6	7	obl	iobj				1			
+prïnosïmъ:	ⱂⱃⰹⱀⱁⱄⰹⰿⱏ:	prinosimъ	prinosja	Vmip1pi		41	7	0	root								
+																	
+gmь:.	ⰳⰿⱐ:.	gmъ	glagolati	Vmip1pi		42	1	0	root				We say (...)	2			
+																	
+prěѳaciě:	ⱂⱃⱑⱚⰰⱌⰻⱑ:	prěѳaciě	prěfacia	Nfsnn		43	1	0	root		3r	/img/kiev/kf_3r.jpg	[Title] Preface				
+																	
+věčьnъ^ï	ⰲⱑⱍⱐⱀⱏ̂ⰹ	věčъny	večen	Amsny		44	1	2	amod				O eternal God, we pray you by your heavenly power				
+bže:	ⰱⰶⰵ:	bže	bog	Nmsvy		44	2	6	vocative					1			
+Nebesьskъiˇję	Ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰻ̆ⱗ	nebesъskyję	nebeski	Afpny	Afsgy	44	3	5	amod								
+tvóję	ⱅⰲⱁ́ⱗ	tvoję	tvoi	Afpny		44	4	5	amod	poss							
+silъ^i	ⱄⰻⰾⱏ̂ⰻ	sily	sila	Nfpnn	Nfsgn	44	5	6	obj					1			
+prosi´mъ	ⱂⱃⱁⱄⰻ́ⰿⱏ	prosimъ	prosja	Vmip1pi		44	6	0	root								
+																	
+ʾī+	҆ⰺ₊	i	i	C		45	1	2	cc								
+mólïmъ.	ⰿⱁ́ⰾⰹⰿⱏ.	molimъ	molja	Vmip1pi		45	2	0	root								
+																	
+da`+	ⰴⰰ̀₊	da	da	C		46	1	6	aux	opt			May you make us worthy with your higher (powers)				
+sъ	ⱄⱏ	sъ	s	Sl		46	2	4	case					1			
+vъíšьnï´mï	ⰲⱏⰻ́ⱎⱐⱀⰹ́ⰿⰹ	vyšъnimi	vyšen	A-piy		46	3	6	obl								
+tvoïmï.	ⱅⰲⱁⰹⰿⰹ.	tvoimi	tvoi	A-piy		46	4	3	amod	poss							
+do_stoʾïnъi	ⰴⱁ_ⱄⱅⱁ҆ⰹⱀⱏⰻ	dostoiny	dostoen	Ampan	Afpnn	46	5	6	obl	pred				1			
+sъtvorïšï	ⱄⱏⱅⰲⱁⱃⰹⱎⰹ	sъtvoriši	sъtvorja	Vmip2se		46	6	0	root								
+nъi`:	ⱀⱏⰻ̀:	ny	nie	Pp1-pa		46	7	6	obj								
+																	
+ʾī	҆ⰺ	i	i	C		47	1	6	cc				And may you mercifully grant us your eternal (...), which we crave for	1			
+věčьnáě	ⰲⱑⱍⱐⱀⰰ́ⱑ	věčъnaě	večen	Anpnn		47	2	6	obj								
+tvóě	ⱅⰲⱁ́ⱑ	tvoě	tvoi	Anpnn		47	3	2	amod	poss							
+ʾīxъže	҆ⰺⱈⱏⰶⰵ	ixъže	iže	Pr-npg		47	4	5	mark								
+žjęda_emъ+	ⰶⱗⰴⰰ_ⰵⰿⱏ₊	žjędaemъ	žędati	Vmip1pi		47	5	2	acl					1			
+podaˇsь	ⱂⱁⰴⰰ̆ⱄⱐ	podasъ	podam	Vmm-2se		47	6	0	root								
+námъ	ⱀⰰ́ⰿⱏ	namъ	nie	Pp1-pd		47	7	6	obl	iobj							
+mīlostï_vьno:	ⰿⰺⰾⱁⱄⱅⰹ_ⰲⱐⱀⱁ:	milostivъno	milostivno	R		47	8	6	advmod					1			
+																	
+xmь+	ⱈⰿⱐ₊	xmъ	xvalja	Vmip1pi		48	1	0	root				We praise				
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		49	1	0	root				We say to our (...)				
+nášïmь.	ⱀⰰ́ⱎⰹⰿⱐ.	našimъ	naš	A-pdy		49	2	1	obl	iobj:poss							
+ʾīmъ	҆ⰺⰿⱏ	imъ	tě	Pp3-pd		49	3	1	discourse					1			
+																	
+po	ⱂⱁ	po	po	Sl		50	1	2	case				[Title] After the communion				
+vъ_sǫ_dě:.	ⰲⱏ_ⱄⱘ_ⰴⱑ:.	vъsǫdě	vъsǫd	Nmsln		50	2	0	root					1			
+																	
+Prósïmъ+	Ⱂⱃⱁ́ⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		51	1	0	root				We pray you, o Lord, may you grant us:				
+tję	ⱅⱗ	tję	ty	Pp2-sa		51	2	1	obj								
+gï	ⰳⰹ	gi	Gospod	Nmsvi		51	3	1	vocative								
+																	
+dazь+	ⰴⰰⰸⱐ₊	dazъ	dam	Vmm-2se		52	1	0	root								
+námъ.	ⱀⰰ́ⰿⱏ.	namъ	nie	Pp1-pd		52	2	1	obl	iobj				1			
+																	
+da`+	ⰴⰰ̀₊	da	da	C		53	1	6	aux	opt			May we, having accepted you holy communion, will be worthy of your purification				
+svję´tъ^ï	ⱄⰲⱗ́ⱅⱏ̂ⰹ	svjęty	svęt	Amsny		53	2	4	amod								
+tvoï	ⱅⰲⱁⰹ	tvoi	tvoi	Amsny		53	3	4	amod	poss							
+vъsǫdъ	ⰲⱏⱄⱘⰴⱏ	vъsǫdъ	vъsǫd	Nmsnn		53	4	6	obj					1			
+prïemljǫce	ⱂⱃⰹⰵⰿⰾⱙⱌⰵ	priemljǫce	priema	Vmpp-pea	Ampnn	53	5	6	advcl								
+dóstoïnï+	ⰴⱁ́ⱄⱅⱁⰹⱀⰹ₊	dostoini	dostoen	Ampnn		53	6	0	root								
+bǫ^_demъ	ⰱⱘ̂_ⰴⰵⰿⱏ	bǫdemъ	bъda	Vmip1pe		53	7	6	cop					1			
+ʾočï´ščeníě	҆ⱁⱍⰹ́ⱎⱍⰵⱀⰻ́ⱑ	očiščeniě	očištenie	Nnsgn		53	8	6	obl								
+tvoego.	ⱅⰲⱁⰵⰳⱁ.	tvoego	tvoi	Ansgy		53	9	8	amod	poss				1			
+																	
+ʾī+	҆ⰺ₊	i	i	C		54	1	7	cc				And may your faith grows in us				
+vě´ra+	ⰲⱑ́ⱃⰰ₊	věra	věra	Nfsnn		54	2	7	nsubj								
+tvoě	ⱅⰲⱁⱑ	tvoě	tvoi	Afsny		54	3	2	amod	poss							
+vъ+	ⰲⱏ₊	vъ	v	Sl		54	4	5	case								
+násъ	ⱀⰰ́ⱄⱏ	nasъ	nas	Pp1-pg		54	5	7	obl	loc							
+da	ⰴⰰ	da	da	C		54	6	7	aux	opt							
+vъ_zdraˇstetъ:	ⰲⱏ_ⰸⰴⱃⰰ̆ⱄⱅⰵⱅⱏ:	vъzdrastetъ	vъzdrastiti	Vmip3se		54	7	0	root					1			
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		55	1	0	root				We say to our (...)				
+našïmь	ⱀⰰⱎⰹⰿⱐ	našimъ	naš	A-pdy		55	2	1	obl	iobj:poss							
+ism	ⰻⱄⰿ	ism	Isus	N		55	3	1	discourse					1			
+																	
+[ж]	[ж]	ж	(...)	X		56	1	0	root				(?)				
+																	
+mьšě	ⰿⱐⱎⱑ	mъšě	mьša	Nfsnn		57	1	0	root				[Title] Mass 2: About the same				
+*b*	·ⰱ·	*b*	2	Mc		57	2	1	nummod								
+ʾo	҆ⱁ	o	o (2)	Sl		57	3	1	case								
+tomьze:.	ⱅⱁⰿⱐⰸⰵ:.	tomъze	tъžde	Pr-msl		57	4	1	nmod	ext				1			
+																	
+Prosïmъ+	Ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		58	1	0	root				We pray you, o eternal God				
+tję	ⱅⱗ	tję	ty	Pp2-sa		58	2	1	obj								
+vьsemogъ^ï	ⰲⱐⱄⰵⰿⱁⰳⱏ̂ⰹ	vъsemogy	vъsemog	Amsny		58	3	5	amod								
+vě_čьnъ^ï+	ⰲⱑ_ⱍⱐⱀⱏ̂ⰹ₊	věčъny	veče	Amsny		58	4	5	amod					1			
+bže.	ⰱⰶⰵ.	bže	bog	Nmsvy		58	5	1	vocative								
+																	
+prïzьrï	ⱂⱃⰹⰸⱐⱃⰹ	prizъri	prizra	Vmm-2se		59	1	0	root				Watch our prayer				
+na+	ⱀⰰ₊	na	na	Sa		59	2	3	case								
+mo_lïtvǫ+	ⰿⱁ_ⰾⰹⱅⰲⱘ₊	molitvǫ	molitva	Nfsan		59	3	1	obl	lat				1			
+našǫ.	ⱀⰰⱎⱘ.	našǫ	naš	Afsan		59	4	3	amod	poss							
+																	
+ʾī+	҆ⰺ₊	i	i	C		60	1	4	cc				And purify us from the inside, which is dried by our sins				
+vъnǫ_trьněě+	ⰲⱏⱀⱘ_ⱅⱃⱐⱀⱑⱑ₊	vъnǫtrъněě	vъnǫtren	Anpny		60	2	4	obj					1			
+našě	ⱀⰰⱎⱑ	našě	naš	Anpnn		60	3	2	amod	poss							
+ʾočïstï.	҆ⱁⱍⰹⱄⱅⰹ.	očisti	očistja	Vmm-2se		60	4	0	root								
+ʾěžo	҆ⱑⰶⱁ	ěžo	iže	Pr-nsn		60	5	7	mark					1			
+nъi`	ⱀⱏⰻ̀	ny	nie	Pp1-pa		60	6	7	obj								
+sušjętъ	ⱄⱆⱎⱗⱅⱏ	sušjętъ	suša	Vmip3pi		60	7	2	acl								
+grěxъ^i	ⰳⱃⱑⱈⱏ̂ⰻ	grěxy	grěx	Nmpan		60	8	7	obl								
+našï_mï:	ⱀⰰⱎⰹ_ⰿⰹ:	našimi	naš	A-piy		60	9	8	amod	poss				1			
+																	
+da`+	ⰴⰰ̀₊	da	da	C		61	1	4	aux	opt			May you free us by your mercy				
+mïlostïjǫ	ⰿⰹⰾⱁⱄⱅⰹⱙ	milostijǫ	milost	Nfsin		61	2	4	obl								
+tvoe_jǫ	ⱅⰲⱁⰵ_ⱙ	tvoejǫ	tvoi	Afsiy		61	3	2	amod	poss				1			
+ʾīzbavï+	҆ⰺⰸⰱⰰⰲⰹ₊	izbavi	izbavja	Vmm-2se	Vmia3se	61	4	0	root								
+nъi:	ⱀⱏⰻ:	ny	nie	Pp1-pa		61	5	4	obj								
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		62	1	0	root				We say to our (...)				
+našï	ⱀⰰⱎⰹ	naši	naš	Ampnn		62	2	1	obl	iobj:poss				1			
+																	
+na_dъ	ⱀⰰ_ⰴⱏ	nadъ	nad	Si		63	1	2	case				[Title] Over Eucharist				
+ʾoplatъmъ:	҆ⱁⱂⰾⰰⱅⱏⰿⱏ:	oplatъmъ	oplat	Nmsin		63	2	0	root					2			
+																	
+Sъï+	Ⱄⱏⰹ₊	sy	sii	Pd-msn		64	1	2	det	ext	3v	/img/kiev/kf_3v.jpg	We pray you, o Lord, accept this this offering brought to you				
+prïnosъ	ⱂⱃⰹⱀⱁⱄⱏ	prinosъ	prinos	Nmsnn		64	2	8	obj								
+prïnesenъ^ï	ⱂⱃⰹⱀⰵⱄⰵⱀⱏ̂ⰹ	prineseny	prinesa	Vmpa-se	Amsny	64	3	2	acl								
+tébě`	ⱅⰵ́ⰱⱑ̀	tebě	ty	Pp2-sd		64	4	3	obl	iobj				1			
+gï	ⰳⰹ	gi	Gospod	Nmsvi		64	5	6	vocative								
+prosïmъ+	ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		64	6	0	root								
+tję+	ⱅⱗ₊	tję	ty	Pp2-sa		64	7	6	obj								
+prïīmï^:	ⱂⱃⰹⰺⰿⰹ̂:	priimi	priema	Vmm-2se		64	8	6	advcl								
+ʾī_že	҆ⰺ_ⰶⰵ	iže	iže	Pr-msn		64	9	11	mark				which you have blessed for our salvation	1			
+ésï	ⰵ́ⱄⰹ	esi	sъm	Vaip2si		64	10	11	aux	prf							
+blagoslovestïlъ	ⰱⰾⰰⰳⱁⱄⰾⱁⰲⰵⱄⱅⰹⰾⱏ	blagoslovestilъ	blagoslovestiti	Vmp--se	Amsnn	64	11	2	acl					1		Miklosich: <i>blagoslovestiti</i> 'eulogein, bene dicere'	
+na+	ⱀⰰ₊	na	na	Sa		64	12	13	case								
+sъpaseníe+	ⱄⱏⱂⰰⱄⰵⱀⰻ́ⰵ₊	sъpasenie	spasenie	Nnsnn		64	13	11	obl	iobj							
+naše:	ⱀⰰⱎⰵ:	naše	naš	Ansnn		64	14	13	amod	poss							
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		65	1	0	root				We say to our (...)				
+našï.	ⱀⰰⱎⰹ.	naši	naš	Ampnn		65	2	1	obl	iobj:poss				1			
+																	
+prěѳa_ciě:	ⱂⱃⱑⱚⰰ_ⱌⰻⱑ:	prěѳaciě	prěfacia	Nfsnn		66	1	0	root				[Title] Preface				
+do+	ⰴⱁ₊	do	do	I		66	2	1	discourse								
+																	
+věčьn	ⰲⱑⱍⱐⱀ	věčъn	večen	Amsnn		67	1	2	amod				O eternal God, may us hold this for you				
+bže:	ⰱⰶⰵ:	bže	bog	Nmsvy		67	2	6	vocative					1			
+Da+	Ⰴⰰ₊	da	da	C		67	3	6	aux	opt							
+sję	ⱄⱗ	sję	se	Px---a		67	4	6	expl								
+tebe+	ⱅⰵⰱⰵ₊	tebe	ty	Pp2-sg		67	5	6	obl								
+drьžïmъ	ⰴⱃⱐⰶⰹⰿⱏ	drъžimъ	dъrža	Vmip1pi		67	6	0	root								
+																	
+ʾī+	҆ⰺ₊	i	i	C		68	1	4	cc				And we pray for your mercy				
+mïlo_stï+	ⰿⰹⰾⱁ_ⱄⱅⰹ₊	milosti	milost	Nfsgi		68	2	4	obl					1			
+tvoeję^+	ⱅⰲⱁⰵⱗ̂₊	tvoeję	tvoi	Afsgy		68	3	2	amod	poss							
+prosïmъ:	ⱂⱃⱁⱄⰹⰿⱏ:	prosimъ	prosja	Vmip1pi		68	4	0	root								
+																	
+prï_zъvalъ+	ⱂⱃⰹ_ⰸⱏⰲⰰⰾⱏ₊	prizъvalъ	prizva	Vmp--se	Amsnn	69	1	0	root				You have called us, o Lord,	1			
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		69	2	1	obj								
+ési+	ⰵ́ⱄⰻ₊	esi	sъm	Vaip2si		69	3	1	aux	prf							
+gï.	ⰳⰹ.	gi	Gospod	Nmsvi		69	4	1	vocative								
+da`+	ⰴⰰ̀₊	da	da	C		69	5	6	mark				to set us straight and purify us not because of our works				
+ʾispra_vï	҆ⰻⱄⱂⱃⰰ_ⰲⰹ	ispravi	izpravja	Vmm-2se	Vmia3se	69	6	1	advcl					1		< *<i>ispraviši</i> ? *<i>ispravitъ</i> ? or a shortened infinitive? <br/>An unclear construction after <i>da</i>.	
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		69	7	6	obj								
+ʾī+	҆ⰺ₊	i	i	C		69	8	9	cc								
+ʾočïstï:	҆ⱁⱍⰹⱄⱅⰹ:	očisti	očistja	Vmm-2se		69	9	6	conj								
+ne+	ⱀⰵ₊	ne	ne	Qz		69	10	12	amod								
+nášï_xъ+	ⱀⰰ́ⱎⰹ_ⱈⱏ₊	našixъ	naš	A-pgy		69	11	12	amod	poss				1			
+dělъ^	ⰴⱑⰾⱏ̂	dělъ	dělo	Nnpgn		69	12	6	obl								
+radï.	ⱃⰰⰴⰹ.	radi	radi	Sg		69	13	12	case								
+nъ+	ⱀⱏ₊	nъ	nъ	C		69	14	15	cc				but because of your sacrifice, which you have offered for us				
+ʾoběta+	҆ⱁⰱⱑⱅⰰ₊	oběta	obět	Nmsgi		69	15	12	conj								
+tvo_ego+	ⱅⰲⱁ_ⰵⰳⱁ₊	tvoego	tvoi	Amsgy		69	16	15	amod					1			
+radi	ⱃⰰⰴⰻ	radi	radi	Sg		69	17	15	case								
+ʾīže+	҆ⰺⰶⰵ₊	iže	iže	Pr-msn		69	18	20	mark								
+ʾésï	҆ⰵ́ⱄⰹ	esi	sъm	Vaip2si		69	19	20	aux	prf							
+ʾoběcělъ	҆ⱁⰱⱑⱌⱑⰾⱏ	oběcělъ	oběštam	Vmp--se	Amsnn	69	20	15	acl					1			
+námъ:	ⱀⰰ́ⰿⱏ:	namъ	nie	Pp1-pd		69	21	20	obl	iobj							
+																	
+da+	ⰴⰰ₊	da	da	C		70	1	2	aux	opt			May we are able with our souls and bodies to accept your commandements, which you have sent to us				
+vъzmožemъ	ⰲⱏⰸⰿⱁⰶⰵⰿⱏ	vъzmožemъ	vъzmoga	Vmip1pe		70	2	0	root								
+du_šěmï	ⰴⱆ_ⱎⱑⰿⰹ	dušěmi	duša	Nfpiy		70	3	2	obl					1			
+ʾī+	҆ⰺ₊	i	i	C		70	4	5	cc								
+tělesъ^i	ⱅⱑⰾⰵⱄⱏ̂ⰻ	tělesy	tělo	Nnpin		70	5	3	conj								
+ʾī+	҆ⰺ₊	i	i	C		70	6	7	cc								
+mъislь_mï	ⰿⱏⰻⱄⰾⱐ_ⰿⰹ	myslъmi	misъl	Nfpin		70	7	5	conj					1			
+našïmī.	ⱀⰰⱎⰹⰿⰺ.	našimi	naš	A-piy		70	8	3	amod	poss							
+prïjęti+	ⱂⱃⰹⱗⱅⰻ₊	prijęti	priema	Vmn---e		70	9	2	advcl								
+zapo_[v]ědï+	ⰸⰰⱂⱁ_[ⰲ]ⱑⰴⰹ₊	zapovědi	zapověd	Nfpnn		70	10	9	obj					1			
+tvoję.	ⱅⰲⱁⱗ.	tvoję	tvoi	Afpny		70	11	10	amod	poss							
+ʾjęže	҆ⱗⰶⰵ	jęže	iže	Pr-fpn		70	12	14	mark								
+ʾesï+	҆ⰵⱄⰹ₊	esi	sъm	Vaip2si		70	13	14	aux	prf							
+posъ_lalъ+	ⱂⱁⱄⱏ_ⰾⰰⰾⱏ₊	posъlalъ	poslati	Vmp--se	Amsnn	70	14	10	acl					1			
+kъ+	ⰽⱏ₊	kъ	k	Sd		70	15	16	case								
+namъ:	ⱀⰰⰿⱏ:	namъ	nie	Pp1-pd		70	16	14	obl								
+																	
+xmь+	ⱈⰿⱐ₊	xmъ	xvalja	Vmip1pi		71	1	0	root				We praise				
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		72	1	0	root				We say to ours, to whom the majesty (...)				
+na_šïmь.	ⱀⰰ_ⱎⰹⰿⱐ.	našimъ	naš	A-pdy		72	2	1	obl	iobj:poss				1			
+ʾïˇmьže+	҆ⰹ̆ⰿⱐⰶⰵ₊	imъže	iže	Pr--pd		72	3	4	mark								
+velïčь:.	ⰲⰵⰾⰹⱍⱐ:.	veličъ	veličьstvo	N		72	4	2	acl					1			
+																	
+po	ⱂⱁ	po	po	Sl		73	1	2	case				[Title] After the communion				
+vъsǫ_dě:.	ⰲⱏⱄⱘ_ⰴⱑ:.	vъsǫdě	vъsǫd	Nmsln		73	2	0	root					1			
+																	
+Svjętъ^ï	Ⱄⰲⱗⱅⱏ̂ⰹ	svjęty	svęt	Amsny		74	1	3	amod				O Lord, we pray you, may your holy communion, which we have taken, will purify us from our sins				
+tvoï	ⱅⰲⱁⰹ	tvoi	tvoi	Amsny		74	2	3	amod	poss							
+vъsǫdъ	ⰲⱏⱄⱘⰴⱏ	vъsǫdъ	vъsǫd	Nmsnn		74	3	11	nsubj					1			
+gï	ⰳⰹ	gi	Gospod	Nmsvi		74	4	8	vocative								
+īže	ⰺⰶⰵ	iže	iže	Pr-msn		74	5	7	mark								
+ésmъ	ⰵ́ⱄⰿⱏ	esmъ	sъm	Vaip1pi		74	6	7	aux	prf							
+vъzjęlï+	ⰲⱏⰸⱗⰾⰹ₊	vъzjęli	vzema	Vmp--pe	A-pnn	74	7	3	acl								
+mo_lïmъ+	ⰿⱁ_ⰾⰹⰿⱏ₊	molimъ	molja	Vmip1pi		74	8	0	root					1			
+tję.	ⱅⱗ.	tję	ty	Pp2-sa		74	9	8	obj								
+da	ⰴⰰ	da	da	C		74	10	11	mark								
+ʾočïstitъ	҆ⱁⱍⰹⱄⱅⰻⱅⱏ	očistitъ	očistja	Vmip3se		74	11	8	advcl					1			
+n[ъi]	ⱀ[ⱏⰻ]	ny	nie	Pp1-pa		74	12	11	obj								
+ʾotъ+	҆ⱁⱅⱏ₊	otъ	ot	Sg		74	13	14	case								
+grěxъ^+	ⰳⱃⱑⱈⱏ̂₊	grěxъ	grěx	Nmpgn		74	14	11	obl								
+našïxъ:	ⱀⰰⱎⰹⱈⱏ:	našixъ	naš	A-pgy		74	15	14	amod	poss							
+ʾī	҆ⰺ	i	i	C		74	16	20	cc				And may it brings us to the heavenly love	1			
+[kъ	[ⰽⱏ	kъ	k	Sd		74	17	19	case								
+neb]esьcěi`	ⱀⰵⰱ]ⰵⱄⱐⱌⱑⰻ̀	nebesъcěi	nebeski	Afsdy		74	18	19	amod								
+ljubъvï	ⰾⱓⰱⱏⰲⰹ	ljubъvi	ljubov	Nfsdn		74	19	20	obl					1			
+[prive]detъ+	[ⱂⱃⰻⰲⰵ]ⰴⰵⱅⱏ₊	privedetъ	priveda	Vmip3se		74	20	11	conj								
+nъ´i:	ⱀⱏ́ⰻ:	ny	nie	Pp1-pa		74	21	20	obj								
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		75	1	0	root				We say to our (...)				
+našï	ⱀⰰⱎⰹ	naši	naš	Ampnn		75	2	1	obl	iobj:poss				2			
+																	
+mьšě	ⰿⱐⱎⱑ	mъšě	mьša	Nfsnn		76	1	0	root		4r	/img/kiev/kf_4r.jpg	[Title] Mass 3 about the same				
+*v*	·ⰲ·	*v*	3	Mc		76	2	1	nummod								
+o+	ⱁ₊	o	o (2)	Sl		76	3	4	case								
+tomьze:	ⱅⱁⰿⱐⰸⰵ:	tomъze	tъžde	Pr-msl		76	4	1	nmod	ext				1			
+																	
+Prosïˇmъ+	Ⱂⱃⱁⱄⰹ̆ⰿⱏ₊	prosimъ	prosja	Vmip1pi		77	1	0	root				We pray you, o all-powerful God				
+tję	ⱅⱗ	tję	ty	Pp2-sa		77	2	1	obj								
+vьsemogъ^ï	ⰲⱐⱄⰵⰿⱁⰳⱏ̂ⰹ	vъsemogy	vъsemog	Amsny		77	3	4	amod					1			
+bže	ⰱⰶⰵ	bže	bog	Nmsvy		77	4	1	vocative								
+																	
+da+	ⰴⰰ₊	da	da	C		78	1	4	advcl				Purify us from all our evils by your mercy, as we are saddened by our sins				
+ʾěkože	҆ⱑⰽⱁⰶⰵ	ěkože	jakože	C		78	2	4	fixed								
+ésmъ+	ⰵ́ⱄⰿⱏ₊	esmъ	sъm	Vmip1pi		78	3	4	cop								
+skrъbьnï	ⱄⰽⱃⱏⰱⱐⱀⰹ	skrъbъni	skъrben	Ampnn		78	4	0	root					1			
+grěxъi+	ⰳⱃⱑⱈⱏⰻ₊	grěxy	grěx	Nmpan		78	5	4	obl								
+našïmī:	ⱀⰰⱎⰹⰿⰺ:	našimi	naš	A-piy		78	6	5	amod	poss							
+																	
+mïlostь_jǫ+	ⰿⰹⰾⱁⱄⱅⱐ_ⱙ₊	milostъjǫ	milost	Nfsii		79	1	7	obl					1			
+tvoejǫ	ⱅⰲⱁⰵⱙ	tvoejǫ	tvoi	Afsiy		79	2	1	amod	poss							
+ʾotъ+	҆ⱁⱅⱏ₊	otъ	ot	Sg		79	3	5	case								
+vьsěxъ+	ⰲⱐⱄⱑⱈⱏ₊	vъsěxъ	vse	Anpgy		79	4	5	amod	det							
+zъ_liï	ⰸⱏ_ⰾⰻⰹ	zъlii	zlo	Nnpgn		79	5	7	obl	abl				1			
+našïxъ	ⱀⰰⱎⰹⱈⱏ	našixъ	naš	A-pgy		79	6	5	amod	poss							
+ʾočïstï+	҆ⱁⱍⰹⱄⱅⰹ₊	očisti	očistja	Vmm-2se		79	7	0	root								
+nъi:	ⱀⱏⰻ:	ny	nie	Pp1-pa		79	8	7	obj					1			
+																	
+gmь:.	ⰳⰿⱐ:.	gmъ	glagolati	Vmip1pi		80	1	0	root				We say (...)				
+																	
+nadъ	ⱀⰰⰴⱏ	nadъ	nad	Si		81	1	2	case				[Title] Over Eucharist				
+ʾoplatъmъ	҆ⱁⱂⰾⰰⱅⱏⰿⱏ	oplatъmъ	oplat	Nmsin		81	2	0	root					1			
+																	
+Prïīmï	Ⱂⱃⰹⰺⰿⰹ	priimi	priema	Vmm-2se		82	1	3	advcl				O Lord, we pray you, accept the offering brought to you for the salvation of humans				
+gï	ⰳⰹ	gi	Gospod	Nmsvi		82	2	3	vocative								
+prosïmъ+	ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		82	3	0	root								
+tję+	ⱅⱗ₊	tję	ty	Pp2-sa		82	4	3	obj								
+pri_nosъ+	ⱂⱃⰻ_ⱀⱁⱄⱏ₊	prinosъ	prinos	Nmsnn		82	5	3	obj					1			
+sь`.	ⱄⱐ̀.	sъ	sii	Pd-msn		82	6	5	det	p_nom							
+prïnesenъ^ï+	ⱂⱃⰹⱀⰵⱄⰵⱀⱏ̂ⰹ₊	prineseny	prinesa	Amsny	Vmpa-se	82	7	5	acl								
+tébě	ⱅⰵ́ⰱⱑ	tebě	ty	Pp2-sd		82	8	7	obl	iobj				1			
+ʾizbavleníě	҆ⰻⰸⰱⰰⰲⰾⰵⱀⰻ́ⱑ	izbavleniě	izbavlenie	Nnsgn		82	9	7	obl								
+radï	ⱃⰰⰴⰹ	radi	radi	Sg		82	10	9	case								
+člově_čьska.	ⱍⰾⱁⰲⱑ_ⱍⱐⱄⰽⰰ.	člověčъska	človečeski	Ansgn		82	11	9	amod					1			
+																	
+ʾī+	҆ⰺ₊	i	i	C		83	1	4	cc				And give us health				
+sъdravï´e	ⱄⱏⰴⱃⰰⰲⰹ́ⰵ	sъdravie	zdrave	Nnsnn		83	2	4	obj								
+námъ	ⱀⰰ́ⰿⱏ	namъ	nie	Pp1-pd		83	3	4	obl	iobj				1			
+dazь.	ⰴⰰⰸⱐ.	dazъ	dam	Vmm-2se		83	4	0	root								
+																	
+ʾī+	҆ⰺ₊	i	i	C		84	1	6	cc				And purify our souls and bodies				
+dušję	ⰴⱆⱎⱗ	dušję	duša	Nfpny		84	2	6	obj								
+našję	ⱀⰰⱎⱗ	našję	naš	Afpnn		84	3	2	amod	poss							
+ʾī+	҆ⰺ₊	i	i	C		84	4	5	cc								
+tě_lesa	ⱅⱑ_ⰾⰵⱄⰰ	tělesa	tělo	Nnpnn		84	5	2	conj					1			
+ʾočistï.	҆ⱁⱍⰻⱄⱅⰹ.	očisti	očistja	Vmm-2se		84	6	0	root								
+																	
+ʾa+	҆ⰰ₊	a	a	C		85	1	4	cc				And accept our prayer				
+molïtv[ǫ]	ⰿⱁⰾⰹⱅⰲ[ⱘ]	molitvǫ	molitva	Nfsan		85	2	4	obj					1			
+našǫ	ⱀⰰⱎⱘ	našǫ	naš	Afsan		85	3	2	amod	poss							
+priīmï:	ⱂⱃⰻⰺⰿⰹ:	priimi	priema	Vmm-2se		85	4	0	root								
+																	
+gmь.	ⰳⰿⱐ.	gmъ	glagolati	Vmip1pi		86	1	0	root				We say (...)				
+																	
+prěf	ⱂⱃⱑⱇ	prěf	prěfacia	N		87	1	0	root				[Title] Preface	1			
+do	ⰴⱁ	do	do	I		87	2	1	discourse								
+																	
+věčьnъ^ï	ⰲⱑⱍⱐⱀⱏ̂ⰹ	věčъny	večen	Amsny		88	1	2	amod				O eternal God, you are our life				
+bže:.	ⰱⰶⰵ:.	bže	bog	Nmsvy		88	2	4	vocative					1			
+Tъi+	Ⱅⱏⰻ₊	ty	ty	Pp2-sn		88	3	4	nsubj								
+ési+	ⰵ́ⱄⰻ₊	esi	sъm	Vaip2si		88	4	0	root								
+životъ+	ⰶⰻⰲⱁⱅⱏ₊	životъ	život	Nmsnn		88	5	4	obl	pred							
+nášь	ⱀⰰ́ⱎⱐ	našъ	naš	Amsnn-n		88	6	5	amod	poss							
+																	
+gï	ⰳⰹ	gi	Gospod	Nmsvi		89	1	7	vocative				Because, o Lord, you have made us from non-existence to existence				
+[o]tъ+	[ⱁ]ⱅⱏ₊	otъ	ot	Sg		89	2	3	case					1			
+nebъitïě+	ⱀⰵⰱⱏⰻⱅⰹⱑ₊	nebytiě	nebytie	Nnsgn		89	3	7	obl	abl							
+bo+	ⰱⱁ₊	bo	bo	C		89	4	7	cc								
+vъ+	ⰲⱏ₊	vъ	v	Sa		89	5	6	case								
+bъit[ie]	ⰱⱏⰻⱅ[ⰻⰵ]	bytie	bytie	Nnsnn		89	6	7	obl	lat				1			
+sъtvorïlъ+	ⱄⱏⱅⰲⱁⱃⰹⰾⱏ₊	sъtvorilъ	sъtvorja	Vmp--se	Amsnn	89	7	0	root								
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		89	8	7	obj								
+esï.	ⰵⱄⰹ.	esi	sъm	Vaip2si		89	9	7	aux	prf							
+																	
+ʾī+	҆ⰺ₊	i	i	C		90	1	3	cc				And restore the fallen ones				
+otъ_pádъšję+	ⱁⱅⱏ_ⱂⰰ́ⰴⱏⱎⱗ₊	otъpadъšję	otpadna	Ampay	Vmpa-pea	90	2	3	obj					1			
+vъskrěsï+	ⰲⱏⱄⰽⱃⱑⱄⰹ₊	vъskrěsi	vъskrěsiti	Vmm-2se		90	3	0	root								
+pakъi.	ⱂⰰⰽⱏⰻ.	paky	paky	R		90	4	3	advmod								
+																	
+ī	ⰺ	i	i	C		91	1	7	cc				And may we will not be able to transgress against you	1			
+da`+	ⰴⰰ̀₊	da	da	C		91	2	5	aux	opt							
+namъ	ⱀⰰⰿⱏ	namъ	nie	Pp1-pd		91	3	5	obl	iobj							
+ne+	ⱀⰵ₊	ne	ne	Qz		91	4	5	advmod								
+dostoïtъ	ⰴⱁⱄⱅⱁⰹⱅⱏ	dostoitъ	dostoiti	Vmip3si		91	5	7	aux								
+[tebě]	[ⱅⰵⰱⱑ]	tebě	ty	Pp2-sd		91	6	7	obl	iobj				1			
+sъgrěšatï:	ⱄⱏⰳⱃⱑⱎⰰⱅⰹ:	sъgrěšati	sъgrěšati	Vmn---e		91	7	0	root								
+																	
+tvoě	ⱅⰲⱁⱑ	tvoě	tvoi	Anpnn		92	1	0	root				For yours are all heavenly and earthly (things)				
+[že	[ⰶⰵ	že	že	Qd		92	2	1	cc								
+sǫ_tъ]	ⱄⱘ_ⱅⱏ]	sǫtъ	sъm	Vmip3pi		92	3	1	cop					1			
+vьsě^.	ⰲⱐⱄⱑ̂.	vъsě	vse	Anpnn		92	4	5	amod	det							
+nebesьsk	ⱀⰵⰱⰵⱄⱐⱄⰽ	nebesъsk	nebeski	A		92	5	1	nsubj								
+[ī+	[ⰺ₊	i	i	C		92	6	7	cc								
+ze_]mlьskaě+	ⰸⰵ_]ⰿⰾⱐⱄⰽⰰⱑ₊	zemlъskaě	zemski	Anpnn		92	7	5	conj					1			
+gï.	ⰳⰹ.	gi	Gospod	Nmsvi		92	8	1	vocative								
+																	
+da+	ⰴⰰ₊	da	da	C		93	1	7	aux	opt			May you alone free us from our sins				
+tъi	ⱅⱏⰻ	ty	ty	Pp2-sn		93	2	7	nsubj								
+s[amъ]	ⱄ[ⰰⰿⱏ]	samъ	sam	Amsnn		93	3	7	advmod					1			
+otъ+	ⱁⱅⱏ₊	otъ	ot	Sg		93	4	5	case								
+grěxъ	ⰳⱃⱑⱈⱏ	grěxъ	grěx	Nmpgn		93	5	7	obl	abl							
+našïxъ	ⱀⰰⱎⰹⱈⱏ	našixъ	naš	A-pgy		93	6	5	amod	poss							
+[izbavi]	[ⰻⰸⰱⰰⰲⰻ]	izbavi	izbavja	Vmm-2se	Vmia3se	93	7	0	root					1			
+nъi:	ⱀⱏⰻ:	ny	nie	Pp1-pa		93	8	7	obj								
+																	
+xmь	ⱈⰿⱐ	xmъ	xvalja	Vmip1pi		94	1	0	root				We praise				
+																	
+gmь:.	ⰳⰿⱐ:.	gmъ	glagolati	Vmip1pi		95	1	0	root				We say (...)	2			
+																	
+Po	Ⱂⱁ	po	po	Sl		96	1				4v	/img/kiev/kf_4v.jpg	[Title] After the communion				
+vъ.sǫ_dě:.	ⰲⱏ.ⱄⱘ_ⰴⱑ:.	vъsǫdě	vъsǫd	Nmsln		96	2	0	root					1			
+																	
+[D]ázь+	[Ⰴ]ⰰ́ⰸⱐ₊	dazъ	dam	Vmm-2se		97	1	0	root				O all-powerful God, grant us				
+námъ+	ⱀⰰ́ⰿⱏ₊	namъ	nie	Pp1-pd		97	2	1	obl	iobj							
+vьsemogъ^ï+	ⰲⱐⱄⰵⰿⱁⰳⱏ̂ⰹ₊	vъsemogy	vъsemog	Amsny		97	3	4	amod								
+bže.	ⰱⰶⰵ.	bže	bog	Nmsvy		97	4	1	vocative					1			
+																	
+da+	ⰴⰰ₊	da	da	C		98	1	7	advmod				As you have satisfied us by your heavenly food,				
+ʾěkože+	҆ⱑⰽⱁⰶⰵ₊	ěkože	jakože	C		98	2	1	fixed								
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		98	3	7	obj								
+ʾesï+	҆ⰵⱄⰹ₊	esi	sъm	Vaip2si		98	4	7	aux	prf							
+nebesьskъ^iję	ⱀⰵⰱⰵⱄⱐⱄⰽⱏ̂ⰻⱗ	nebesъskyję	nebeski	Afsgy		98	5	6	amod					1			
+pïcję^+	ⱂⰹⱌⱗ̂₊	picję	pišta	Nfsgn		98	6	7	obl								
+nasъitïlъ:	ⱀⰰⱄⱏⰻⱅⰹⰾⱏ:	nasytilъ	nasitja	Vmp--se	Amsnn	98	7	0	root								
+																	
+takoze	ⱅⰰⰽⱁⰸⰵ	takoze	takožde	Pr		99	1	8	advmod				may you also strengthen our life by your power	1			
+že	ⰶⰵ	že	že	Qd		99	2	8	cc								
+ʾī+	҆ⰺ₊	i	i	C		99	3	4	amod								
+životъ+	ⰶⰻⰲⱁⱅⱏ₊	životъ	život	Nmsnn		99	4	8	obj								
+nášь	ⱀⰰ́ⱎⱐ	našъ	naš	Amsnn		99	5	4	amod	poss							
+sïlo_jǫ+	ⱄⰹⰾⱁ_ⱙ₊	silojǫ	sila	Nfsin		99	6	8	obl					1			
+tvoejǫ	ⱅⰲⱁⰵⱙ	tvoejǫ	tvoi	Afsiy		99	7	6	amod	poss							
+ʾutvrьdï:	҆ⱆⱅⰲⱃⱐⰴⰹ:	utvrъdi	utvъrdja	Vmm-2se		99	8	0	root								
+																	
+gmь:	ⰳⰿⱐ:	gmъ	glagolati	Vmip1pi		100	1	0	root				We say (...)	1			
+																	
+mьšě	ⰿⱐⱎⱑ	mъšě	mьša	Nfsnn		101	1	0	root				[Title] Mass 4 about the same				
+*g*	·ⰳ·	*g*	4	Mc		101	2	1	nummod								
+ʾo+	҆ⱁ₊	o	o (2)	Sl		101	3	4	case								
+tomьze:.	ⱅⱁⰿⱐⰸⰵ:.	tomъze	tъžde	Pr-msl		101	4	1	nmod	ext				1			
+																	
+[C]ěsarьstvě+	[Ⱌ]ⱑⱄⰰⱃⱐⱄⱅⰲⱑ₊	cěsarъstvě	cěsarьstvo	Nnsln	Nnsgn	102	1	6	obj				O Lord, watch over our kingdom with your mercy			< *jo-.sg.gen <i>cěsarьstvia</i>? or o-sg.loc *<i>cěsarьstvě</i>	
+našemь+	ⱀⰰⱎⰵⰿⱐ₊	našemъ	naš	Ansln		102	2	1	amod	poss							
+gï+	ⰳⰹ₊	gi	Gospod	Nmsvi		102	3	6	vocative								
+mï_lostьjǫ	ⰿⰹ_ⰾⱁⱄⱅⱐⱙ	milostъjǫ	milost	Nfsii		102	4	6	obl					1			
+tvoejǫ	ⱅⰲⱁⰵⱙ	tvoejǫ	tvoi	Afsiy		102	5	4	amod	poss							
+prïzьrï^:	ⱂⱃⰹⰸⱐⱃⰹ̂:	prizъri	prizra	Vmm-2se		102	6	0	root					1			
+																	
+ʾī+	҆ⰺ₊	i	i	C		103	1	3	cc				And do not give our (kingdom) to the foreigners				
+ne+	ⱀⰵ₊	ne	ne	Qz		103	2	3	advmod								
+ʾotъdázь	҆ⱁⱅⱏⰴⰰ́ⰸⱐ	otъdazъ	otdati	Vmm-2se		103	3	0	root								
+našego	ⱀⰰⱎⰵⰳⱁ	našego	naš	Amsgy-n		103	4	5	amod	poss							
+tu_zīˇmъ.	ⱅⱆ_ⰸⰺ̆ⰿⱏ.	tuzimъ	čužd	A-pdy		103	5	3	obl	iobj				1			
+																	
+ʾī+	҆ⰺ₊	i	i	C		104	1	3	cc				And do not turn us over to be conquered by pagan nations,				
+ne+	ⱀⰵ₊	ne	ne	Qz		104	2	3	advmod								
+ʾobratï	҆ⱁⰱⱃⰰⱅⰹ	obrati	obratja	Vmm-2se		104	3	0	root								
+násъ	ⱀⰰ́ⱄⱏ	nasъ	nie	Pp1-pg		104	4	3	obj					1			
+vъ+	ⰲⱏ₊	vъ	v	Sa		104	5	6	case								
+plěnъ	ⱂⰾⱑⱀⱏ	plěnъ	plěn	Nmsnn		104	6	3	obl	lat							
+narodomъ	ⱀⰰⱃⱁⰴⱁⰿⱏ	narodomъ	narod	Nmpdn		104	7	3	obl	iobj							
+poga_nьskъ^imъ:	ⱂⱁⰳⰰ_ⱀⱐⱄⰽⱏ̂ⰻⰿⱏ:	poganъskymъ	poganski	Ampdy		104	8	7	amod					1			
+xa+	ⱈⰰ₊	xa	Xristos	Nmsgy		104	9	3	obl				for the sake of Christ, our Lord, who rules with the Father and the Holy (Spirit)				
+radï+	ⱃⰰⰴⰹ₊	radi	radi	Sg		104	10	9	case								
+gï+	ⰳⰹ₊	gi	Gospod	Nmsgi	Nmsvi	104	11	9	appos							An i-stem declension? (g/d/l/v <i>Gospodi</i>)	
+na_šego.	ⱀⰰ_ⱎⰵⰳⱁ.	našego	naš	Amsgy		104	12	11	amod	poss				1			
+ʾïže+	҆ⰹⰶⰵ₊	iže	iže	Pr-msn		104	13	14	mark								
+cěsarïtъ+	ⱌⱑⱄⰰⱃⰹⱅⱏ₊	cěsaritъ	cěsariti	Vmip3si		104	14	9	acl								
+sъ+	ⱄⱏ₊	sъ	s	Si		104	15	16	case								
+ʾotь_cemь	҆ⱁⱅⱐ_ⱌⰵⰿⱐ	otъcemъ	otec	Nmsiy		104	16	14	obl					1			
+ʾī+	҆ⰺ₊	i	i	C		104	17	19	cc								
+sъ+	ⱄⱏ₊	sъ	s	Si		104	18	19	case								
+svjętъimь:.	ⱄⰲⱗⱅⱏⰻⰿⱐ:.	svjętymъ	svęt	Amsiy		104	19	16	conj					1			
+																	
+na_dъ	ⱀⰰ_ⰴⱏ	nadъ	nad	Si		105	1	2	case				[Title] Over Eucharist				
+ʾoplatъmь:	҆ⱁⱂⰾⰰⱅⱏⰿⱐ:	oplatъmъ	oplat	Nmsin		105	2	0	root	loc				1			
+																	
+[T]voě	[Ⱅ]ⰲⱁⱑ	tvoě	tvoi	Afsny		106	1	3	amod	poss			May the fortress of your Church, o Lord, protects us,				
+cirkъnaě	ⱌⰻⱃⰽⱏⱀⰰⱑ	cirkъnaě	cъrkoven	Afsny		106	2	3	amod								
+tvrdьdь	ⱅⰲⱃⰴⱐⰴⱐ	tvrdъdъ	tvrъd	Nfsni		106	3	4	nsubj								
+za_ščïtï+	ⰸⰰ_ⱎⱍⰹⱅⰹ₊	zaščiti	zaštitja	Vmm-2se		106	4	0	root					1			
+nъi+	ⱀⱏⰻ₊	ny	nie	Pp1-pa		106	5	4	obj								
+gï.	ⰳⰹ.	gi	Gposod	Nmsvy		106	6	4	vocative								
+jǫže+	ⱙⰶⰵ₊	jǫže	iže	Pr-fsa		106	7	11	mark				which you have shaped by your image,				
+ʾesï	҆ⰵⱄⰹ	esi	sъm	Vaip2si		106	8	11	aux	prf				1			
+ʾobrazъmь	҆ⱁⰱⱃⰰⰸⱏⰿⱐ	obrazъmъ	obraz	Nmsin		106	9	11	obl								
+svoïmь	ⱄⰲⱁⰹⰿⱐ	svoimъ	svoi	Amsiy		106	10	9	amod	poss							
+ʾupo_dobïlъ.	҆ⱆⱂⱁ_ⰴⱁⰱⰹⰾⱏ.	upodobilъ	upodobja	Vmp--se	Amsnn	106	11	3	acl					1			
+jǫže+	ⱙⰶⰵ₊	jǫže	iže	Pr-fsa		106	12	14	mark				(and) which we honor for our healing				
+nъ^i+	ⱀⱏ̂ⰻ₊	ny	nie	Pp1-pa		106	13	14	nsubj								
+čьstï_mъ	ⱍⱐⱄⱅⰹ_ⰿⱏ	čъstimъ	čъstja	Vmip1pi		106	14	11	conj					1			
+ná+	ⱀⰰ́₊	na	na	Sa		106	15	16	case								
+balьstvo+	ⰱⰰⰾⱐⱄⱅⰲⱁ₊	balъstvo	balьstvo	Nnsnn		106	16	14	obl	iobj							
+naše.	ⱀⰰⱎⰵ.	naše	naš	Ansnn		106	17	16	amod	poss							
+																	
+to_[go]+	ⱅⱁ_[ⰳⱁ]₊	togo	tъ	Pd-nsg		107	1	7	obl				For that reason you have brought us the eternal offering	1			
+radï	ⱃⰰⰴⰹ	radi	radi	Sg		107	2	1	case								
+ʾesï+	҆ⰵⱄⰹ₊	esi	sъm	Vaip2si		107	3	7	aux	prf							
+námъ	ⱀⰰ́ⰿⱏ	namъ	nie	Pp1-pd		107	4	7	obl	iobj							
+věčь_[noe]+	ⰲⱑⱍⱐ_[ⱀⱁⰵ]₊	věčъnoe	večen	Ansny		107	5	6	amod					1			
+oběcěnie+	ⱁⰱⱑⱌⱑⱀⰻⰵ₊	oběcěnie	oběštanie	Nnsnn		107	6	7	obj								
+prineslъ:.	ⱂⱃⰻⱀⰵⱄⰾⱏ:.	prineslъ	prinesa	Vmp--se		107	7	0	root					1			
+																	
+[gmъ]	[ⰳⰿⱏ]	gmъ	glagolati	Vmip1pi		108	1	0	root				We say to our (...)				
+našïmь:.	ⱀⰰⱎⰹⰿⱐ:.	našimъ	naš	A-pdy		108	2	1	obl	iobj:poss				2			
+																	
+Prěѳaciě	Ⱂⱃⱑⱚⰰⱌⰻⱑ	prěѳaciě	prěfacia	Nfsnn		109	1	0	root		5r	/img/kiev/kf_5r.jpg	[Title] Preface	1			
+																	
+Da+	Ⰴⰰ₊	da	da	C		110	1	12	aux	opt			May we do with our minds such services, as you like				
+ʾěkъiže	҆ⱑⰽⱏⰻⰶⰵ	ěkyže	jakъže	Pr-fpn		110	2	7	mark								
+sǫˇtъ	ⱄⱘ̆ⱅⱏ	sǫtъ	sъm	Vmip3pi		110	3	7	cop								
+tvoję+	ⱅⰲⱁⱗ₊	tvoję	tvoi	Afsgy		110	4	6	amod								
+sï.	ⱄⰹ.	si	sii	Pd-msn		110	5	4	det	p_adj				1		< *<i>się</i>?	
+sluˇžьbъi	ⱄⰾⱆ̆ⰶⱐⰱⱏⰻ	služъby	služba	Nfpnn		110	6	7	nsubj								
+vъžljublenъi^_ję.	ⰲⱏⰶⰾⱓⰱⰾⰵⱀⱏⰻ̂_ⱗ.	vъžljublenyję	vъzljublja	Afpny		110	7	8	acl					1			
+taˇkъiže	ⱅⰰ̆ⰽⱏⰻⰶⰵ	takyže	takъže	Pr-fpn		110	8	12	obj								
+mъislьmï+	ⰿⱏⰻⱄⰾⱐⰿⰹ₊	myslъmi	misъl	Nfpin		110	9	12	obl								
+svo_ïmï	ⱄⰲⱁ_ⰹⰿⰹ	svoimi	svoi	Afpiy		110	10	9	amod	poss				1			
+nъi+	ⱀⱏⰻ₊	ny	nie	Pp1-pa		110	11	12	nsubj								
+tvorïmï.	ⱅⰲⱁⱃⰹⰿⰹ.	tvorimi	tvorja	Vmip1pi		110	12	0	root							< *<i>tvorimy</i>? or ptcp. <i>tvorimimi</i>?	
+																	
+ʾa+	҆ⰰ₊	a	a	C		111	1	7	cc				And may you alone always accept them				
+tъi	ⱅⱏⰻ	ty	ty	Pp2-sn		111	2	7	nsubj					1			
+samъ	ⱄⰰⰿⱏ	samъ	sam	Amsnn		111	3	7	advmod								
+gï+	ⰳⰹ₊	gi	Gospod	Nmsvi		111	4	7	vocative								
+prisno+	ⱂⱃⰻⱄⱀⱁ₊	prisno	prisno	R		111	5	7	advmod								
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		111	6	7	obj								
+prïemlï:	ⱂⱃⰹⰵⰿⰾⰹ:	priemli	priema	Vmm-2se		111	7	0	root					1			
+																	
+da+	ⰴⰰ₊	da	da	C		112	1	2	aux	opt			So that we can follow your just (words?),				
+vъzmožemъ	ⰲⱏⰸⰿⱁⰶⰵⰿⱏ	vъzmožemъ	vъzmoga	Vmip1pe		112	2	5	aux								
+pravьdь_naě	ⱂⱃⰰⰲⱐⰴⱐ_ⱀⰰⱑ	pravъdъnaě	praveden	Anpnn		112	3	5	obj					1			
+tvoě	ⱅⰲⱁⱑ	tvoě	tvoi	Anpnn		112	4	3	amod	poss							
+naslědovatï.	ⱀⰰⱄⰾⱑⰴⱁⰲⰰⱅⰹ.	naslědovati	naslědovati	Vmn---i		112	5	0	root					1			
+ʾī+	҆ⰺ₊	i	i	C		112	6	10	cc				and purify ourselves from the works of the Evil				
+ʾotъ+	҆ⱁⱅⱏ₊	otъ	ot	Sg		112	7	9	case								
+neprïěznïnъ^	ⱀⰵⱂⱃⰹⱑⰸⱀⰹⱀⱏ̂	nepriězninъ	nepriazen	Anpgn		112	8	9	nmod	poss							
+dělъ^	ⰴⱑⰾⱏ̂	dělъ	dělo	Nnpgn		112	9	10	obl	abl				1			
+ʾočïstitï	҆ⱁⱍⰹⱄⱅⰻⱅⰹ	očistiti	očistja	Vmn---e		112	10	5	conj								
+sję:	ⱄⱗ:	sję	se	Px---a		112	11	10	expl								
+																	
+xmь+	ⱈⰿⱐ₊	xmъ	xvalja	Vmip1pi		113	1	0	root				We praise				
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		114	1	0	root				We say to those, to whom majesty (...)				
+náš_mь:	ⱀⰰ́ⱎ_ⰿⱐ:	našmъ	naš	A-pdy		114	2	1	obl	iobj:poss				1			
+ʾïmьže	҆ⰹⰿⱐⰶⰵ	imъže	iže	Pr--pd		114	3	4	mark								
+velïčьstvo:	ⰲⰵⰾⰹⱍⱐⱄⱅⰲⱁ:	veličъstvo	veličьstvo	Nnsnn		114	4	2	acl					1			
+																	
+Po+	Ⱂⱁ₊	po	po	Sl		115	1	2	case				[Title] After the communion				
+vъ_sǫ_dě.	ⰲⱏ_ⱄⱘ_ⰴⱑ.	vъsǫdě	vъsǫd	Nmsln		115	2	0	root					1			
+																	
+Tvoě	Ⱅⰲⱁⱑ	tvoě	tvoi	Anpnn		116	1	2	amod	poss			May your holy (communion), o all-powerful God, which we are going to receive (?), will be for our absolution and purification				
+svjętaě	ⱄⰲⱗⱅⰰⱑ	svjętaě	svęt	Anpny		116	2	15	nsubj								
+vьsemogъ^ï	ⰲⱐⱄⰵⰿⱁⰳⱏ̂ⰹ	vъsemogy	vъsemog	Amsny		116	3	4	amod					1			
+bže.	ⰱⰶⰵ.	bže	bog	Nmsvy		116	4	15	vocative								
+ʾěže	҆ⱑⰶⰵ	ěže	iže	Pr-nsn		116	5	8	mark								
+se+	ⱄⰵ₊	se	se (2)	Qd		116	6	8	advmod								
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		116	7	8	nsubj								
+prïemlemъ:	ⱂⱃⰹⰵⰿⰾⰵⰿⱏ:	priemlemъ	priema	Vmip1pe		116	8	2	acl					1			
+na	ⱀⰰ	na	na	Sa		116	9	10	case								
+razdrěšeníe.	ⱃⰰⰸⰴⱃⱑⱎⰵⱀⰻ́ⰵ.	razdrěšenie	razdrěšenie	Nnsnn		116	10	8	obl	iobj						Miklosich: <i>razdrěšenie</i> 'lysis, solutio'	
+ʾī+	҆ⰺ₊	i	i	C		116	11	13	cc								
+na+	ⱀⰰ₊	na	na	Sa		116	12	13	case								
+ʾočišče_nie	҆ⱁⱍⰻⱎⱍⰵ_ⱀⰻⰵ	očiščenie	očištenie	Nnsnn		116	13	10	conj	iobj				1			
+námъ+	ⱀⰰ́ⰿⱏ₊	namъ	nie	Pp1-pd		116	14	15	obl	iobj							
+bǫdǫ:	ⰱⱘⰴⱘ:	bǫdǫ	bъda	Vmm-3pe	Vmip1se	116	15	0	root							< *<i>bǫdǫtъ</i>?<br/>A 3pl.imp according to Lunt (2001:99), possibly a relic of injunctive (Večerka 1984:162).	
+																	
+ʾa+	҆ⰰ₊	a	a	C		117	1	7	cc				And you alone protect us by your eternal help				
+tъi+	ⱅⱏⰻ₊	ty	ty	Pp2-sn		117	2	7	nsubj								
+sa_mъ	ⱄⰰ_ⰿⱏ	samъ	sam	Amsnn		117	3	7	advmod					1			
+pomocьjǫ	ⱂⱁⰿⱁⱌⱐⱙ	pomocъjǫ	pomošt	Nfsii		117	4	7	obl								
+tvoejǫ	ⱅⰲⱁⰵⱙ	tvoejǫ	tvoi	Afsiy		117	5	4	amod	poss							
+vě_čьnojǫ	ⰲⱑ_ⱍⱐⱀⱁⱙ	věčъnojǫ	večen	Afsiy		117	6	4	amod					1			
+zaščïtï	ⰸⰰⱎⱍⰹⱅⰹ	zaščiti	zaštitja	Vmm-2se		117	7	0	root								
+nъi:	ⱀⱏⰻ:	ny	nie	Pp1-pa		117	8	7	obj								
+																	
+gmь	ⰳⰿⱐ	gmъ	glagolati	Vmip1pi		118	1	0	root				We say (...)	1			
+																	
+[ж]	[ж]	ж	(...)	X		119	1	0	root				(?)				
+																	
+mьšě	ⰿⱐⱎⱑ	mъšě	mьša	Nfsnn		120	1	0	root				[Title] Mass 5 about the same				
+*d*	·ⰴ·	*d*	5	Mc		120	2	1	nummod								
+ʾo+	҆ⱁ₊	o	o (2)	Sl		120	3	4	case								
+tomьze.:	ⱅⱁⰿⱐⰸⰵ.:	tomъze	tъžde	Pr-msl		120	4	1	nmod	ext				1			
+																	
+Prosïmъ+	Ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		121	1	0	root				We pray you, o Lord,				
+tję	ⱅⱗ	tję	ty	Pp2-sa		121	2	1	obj								
+gï	ⰳⰹ	gi	Gospod	Nmsvi		121	3	1	vocative								
+																	
+vъzdv[ï]_gnï	ⰲⱏⰸⰴⰲ[ⰹ]_ⰳⱀⰹ	vъzdvigni	vъzdvigna	Vmm-2se		122	1	0	root				Raise our hearts to you from the earthly desires	1			
+srьdьca+	ⱄⱃⱐⰴⱐⱌⰰ₊	srъdъca	sъrdce	Nnpnn		122	2	1	obj								
+nášě	ⱀⰰ́ⱎⱑ	našě	naš	Anpnn		122	3	2	amod	poss							
+kъ	ⰽⱏ	kъ	k	Sd		122	4	5	case								
+te[bě]	ⱅⰵ[ⰱⱑ]	tebě	ty	Pp2-sd		122	5	1	obl								
+o_tъ+	ⱁ_ⱅⱏ₊	otъ	ot	Sg		122	6	8	case					1			
+zemlьskъixъ	ⰸⰵⰿⰾⱐⱄⰽⱏⰻⱈⱏ	zemlъskyxъ	zemski	Afpgy		122	7	8	amod								
+poxot[ь]	ⱂⱁⱈⱁⱅ[ⱐ]	poxotъ	poxot	Nfpgn		122	8	1	obl	abl				1			
+																	
+da+	ⰴⰰ₊	da	da	C		123	1	2	aux	opt			May we are able to desire to your heavely (?)				
+vъzmožemъ+	ⰲⱏⰸⰿⱁⰶⰵⰿⱏ₊	vъzmožemъ	vъzmoga	Vmip1pe		123	2	3	aux								
+xotětï	ⱈⱁⱅⱑⱅⰹ	xotěti	xotěti	Vmn---i		123	3	0	root								
+[ne]_besьskъimъ+	[ⱀⰵ]_ⰱⰵⱄⱐⱄⰽⱏⰻⰿⱏ₊	nebesъskymъ	nebeski	A-pdy		123	4	5	amod					1			
+tvoïmъ.:.	ⱅⰲⱁⰹⰿⱏ.:.	tvoimъ	tvoi	A-pdy		123	5	3	obl					2			
+																	
+[nadъ	[ⱀⰰⰴⱏ	nadъ	nad	Sd		124	1	2	case		5v	/img/kiev/kf_5v.jpg	[Title] Over Eucharist				
+oplatьmь.]	ⱁⱂⰾⰰⱅⱐⰿⱐ.]	oplatъmъ	oplat	Nmsin		124	2	0	root					1			
+																	
+Ěkože	Ⱑⰽⱁⰶⰵ	ěkože	jakože	C		125	1	3	mark				As we have gifts, they are in front of you				
+darъi	ⰴⰰⱃⱏⰻ	dary	dar	Nmpan		125	2	3	obj								
+ʾīmamъ.	҆ⰺⰿⰰⰿⱏ.	imamъ	imam	Vmip1pi		125	3	6	advcl								
+prědъ	ⱂⱃⱑⰴⱏ	prědъ	pred	Si		125	4	5	case					1			
+tobojǫ+	ⱅⱁⰱⱁⱙ₊	tobojǫ	ty	Pp2-si		125	5	6	obl	loc							
+sǫtъ.	ⱄⱘⱅⱏ.	sǫtъ	sъm	Vmip3pi		125	6	0	root								
+																	
+ī+	ⰺ₊	i	i	C		126	1	2	cc				And we pray you, accept them				
+prosïmъ	ⱂⱃⱁⱄⰹⰿⱏ	prosimъ	prosja	Vmip1pi		126	2	0	root					1			
+tję+	ⱅⱗ₊	tję	ty	Pp2-sa		126	3	2	obj								
+																	
+prïīmï+	ⱂⱃⰹⰺⰿⰹ₊	priimi	priema	Vmm-2se		127	1	0	root								
+ję.	ⱗ.	ję	tě	Pp3mpa		127	2	1	obj								
+																	
+da+	ⰴⰰ₊	da	da	C		128	1	4	aux	opt			So that we, too, will be able (...) in your favor				
+ʾï+	҆ⰹ₊	i	i	C		128	2	3	amod								
+nъi+	ⱀⱏⰻ₊	ny	nie	Pp1-pa		128	3	4	nsubj								
+vъzmo_žemъ	ⰲⱏⰸⰿⱁ_ⰶⰵⰿⱏ	vъzmožemъ	vъzmoga	Vmip1pe		128	4	0	root					1			
+vъ	ⰲⱏ	vъ	v	Sl		128	5	7	case								
+vъžljubleniï+	ⰲⱏⰶⰾⱓⰱⰾⰵⱀⰻⰹ₊	vъžljublenii	vъzljublja	Nnsln		128	6	4	orphan	loc							
+tvo_emь:	ⱅⰲⱁ_ⰵⰿⱐ:	tvoemъ	tvoi	Ansly		128	7	4	amod					1			
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		129	1	0	root				We say to our (...)				
+našïmь:	ⱀⰰⱎⰹⰿⱐ:	našimъ	naš	A-pdy		129	2	1	obl	iobj:poss							
+																	
+Prěѳa_ciě.	Ⱂⱃⱑⱚⰰ_ⱌⰻⱑ.	prěѳaciě	prěfacia	Nfsnn		130	1	0	root				[Title] Preface	1			
+do	ⰴⱁ	do	do	I		130	2	1	discourse								
+																	
+věčьnъï+	ⰲⱑⱍⱐⱀⱏⰹ₊	věčъny	večen	Amsny		131	1	2	amod				O eternal God, may our evil does not take root in us				
+bže:.	ⰱⰶⰵ:.	bže	bog	Nmsvy		131	2	6	vocative					1			
+Zъloba+	Ⰸⱏⰾⱁⰱⰰ₊	zъloba	zloba	Nfsnn		131	3	6	nsubj								
+našě	ⱀⰰⱎⱑ	našě	naš	Afsnn		131	4	3	amod	poss							
+ne+	ⱀⰵ₊	ne	ne	Qz		131	5	6	advmod								
+vъrěsnï+	ⰲⱏⱃⱑⱄⱀⰹ₊	vъrěsni	vъrěsniti	Vmm-3se		131	6	0	root								
+sję+	ⱄⱗ₊	sję	se	Px---a		131	7	6	expl								
+vъ	ⰲⱏ	vъ	v	Sa		131	8	9	case					1			
+nasъ.	ⱀⰰⱄⱏ.	nasъ	nie	Pp1-pg		131	9	6	obl	lat							
+																	
+nъ`	ⱀⱏ̀	nъ	nъ	C		132	1	6	cc				But may there is always a liberation for us, because of our Lord (?)				
+ʾizdrěšenie	҆ⰻⰸⰴⱃⱑⱎⰵⱀⰻⰵ	izdrěšenie	izdrěšenie	Nnsnn		132	2	6	nsubj								
+věčь_noe	ⰲⱑⱍⱐ_ⱀⱁⰵ	věčъnoe	večen	Ansny		132	3	2	amod					1			
+prïsno+	ⱂⱃⰹⱄⱀⱁ₊	prisno	prisno	R		132	4	6	advmod								
+námъ+	ⱀⰰ́ⰿⱏ₊	namъ	nie	Pp1-pd		132	5	6	obl	iobj							
+bǫdï.	ⰱⱘⰴⰹ.	bǫdi	bъda	Vmm-2se		132	6	0	root								
+gï	ⰳⰹ	gi	Gospod	Nmsgi	Nmsvi	132	7	6	obl					1			
+našego+	ⱀⰰⱎⰵⰳⱁ₊	našego	naš	Amsgy		132	8	7	amod	poss							
+radï:	ⱃⰰⰴⰹ:	radi	radi	Sg		132	9	7	case								
+																	
+tъ+	ⱅⱏ₊	tъ	tъ	Pd-msn		133	1	7	nsubj				Because He Himself led us from the darkness,			< *<i>ty</i> ?	
+bo	ⰱⱁ	bo	bo	C		133	2	7	cc								
+nъi`	ⱀⱏⰻ̀	ny	nie	Pp1-pa		133	3	7	obj								
+saˇ_mъ	ⱄⰰ̆_ⰿⱏ	samъ	sam	Amsnn		133	4	7	advmod					1			
+ʾotъ+	҆ⱁⱅⱏ₊	otъ	ot	Sg		133	5	6	case								
+tъmъnъˇixъ	ⱅⱏⰿⱏⱀⱏ̆ⰻⱈⱏ	tъmъnyxъ	tъmen	A-pgy		133	6	7	obl	abl							
+ʾotъve_de:	҆ⱁⱅⱏⰲⰵ_ⰴⰵ:	otъvede	otveda	Vmia3ser		133	7	0	root					1			
+																	
+ʾī	҆ⰺ	i	i	C		134	1	2	cc				And He purified (us)				
+ʾočïstï.	҆ⱁⱍⰹⱄⱅⰹ.	očisti	očistja	Vmia3se		134	2	0	root								
+																	
+ī+	ⰺ₊	i	i	C		135	1	2	cc				And He closed (us)				
+zaklepe.	ⰸⰰⰽⰾⰵⱂⰵ.	zaklepe	zaklepnǫti	Vmia3ser		135	2	0	root					1		Miklosich: <i>zaklenǫti</i> 'kleiein, claudere'	
+																	
+ʾī+	҆ⰺ₊	i	i	C		136	1	3	cc				And He duly freed (us)				
+dostoïno	ⰴⱁⱄⱅⱁⰹⱀⱁ	dostoino	dostoino	R		136	2	3	advmod								
+ʾizbavï:	҆ⰻⰸⰱⰰⰲⰹ:	izbavi	izbavja	Vmia3se		136	3	0	root								
+																	
+xmь	ⱈⰿⱐ	xmъ	xvalja	Vmip1pi		137	1	0	root				We praise	1			
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		138	1	0	root				We say to our (...)				
+našimь:.	ⱀⰰⱎⰻⰿⱐ:.	našimъ	naš	A-pdy		138	2	1	obl	iobj:poss							
+																	
+Po+	Ⱂⱁ₊	po	po	Sl		139	1	2	case				[Title] After the communion				
+vъsǫdě:	ⰲⱏⱄⱘⰴⱑ:	vъsǫdě	vъsǫd	Nmsln		139	2	0	root					1			
+																	
+Vъsǫdьnaě	Ⰲⱏⱄⱘⰴⱐⱀⰰⱑ	vъsǫdъnaě	vъsǫdьn	Afsny		140	1	2	amod				Our prayer for communion, o Lord, give us strength by you eternal (...)				
+molïtva+	ⰿⱁⰾⰹⱅⰲⰰ₊	molitva	molitva	Nfsnn		140	2	4	nsubj								
+našě	ⱀⰰⱎⱑ	našě	naš	Afsnn		140	3	2	amod	poss				1			
+ʾutvrьdï+	҆ⱆⱅⰲⱃⱐⰴⰹ₊	utvrъdi	utvъrdja	Vmm-2se		140	4	0	root								
+nъ^i	ⱀⱏ̂ⰻ	ny	nie	Pp1-pa		140	5	4	obj								
+gï	ⰳⰹ	gi	Gospod	Nmsvi		140	6	4	vocative								
+věčьnъimï	ⰲⱑⱍⱐⱀⱏⰻⰿⰹ	věčъnymi	večen	A-piy		140	7	8	amod					1			
+tvoïmï:	ⱅⰲⱁⰹⰿⰹ:	tvoimi	tvoi	A-piy		140	8	4	obl								
+																	
+ʾī+	҆ⰺ₊	i	i	C		141	1	2	cc				And grant us your salvation				
+podázь+	ⱂⱁⰴⰰ́ⰸⱐ₊	podazъ	podam	Vmm-2se		141	2	0	root								
+námъ	ⱀⰰ́ⰿⱏ	namъ	nie	Pp1-pd		141	3	2	obl	iobj							
+sъ_pasenie	ⱄⱏ_ⱂⰰⱄⰵⱀⰻⰵ	sъpasenie	spasenie	Nnsnn		141	4	2	obj					1			
+tvoe:	ⱅⰲⱁⰵ:	tvoe	tvoi	Ansny		141	5	4	amod	poss							
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		142	1	0	root				We say to our (...)				
+našïmь:.	ⱀⰰⱎⰹⰿⱐ:.	našimъ	naš	A-pdy		142	2	1	obl	iobj:poss				1			
+																	
+mьšě	ⰿⱐⱎⱑ	mъšě	mьša	Nfsnn		143	1	0	root				[Title] Mass 6 about the same				
+*e*	·ⰵ·	*e*	6	Mc		143	2	1	nummod								
+ʾo+	҆ⱁ₊	o	o (2)	Sl		143	3	4	case								
+tomьze:.	ⱅⱁⰿⱐⰸⰵ:.	tomъze	tъžde	Pr-msl		143	4	1	nmod	ext				1			
+																	
+[T]ъi+	[Ⱅ]ⱏⰻ₊	ty	ty	Pp2-sn		144	1	3	nsubj				You, o Lord, take off from our evil-doing				
+gï	ⰳⰹ	gi	Gospod	Nmsvi		144	2	3	vocative								
+ʾotьmï+	҆ⱁⱅⱐⰿⰹ₊	otъmi	otema	Vmm-2se		144	3	0	root								
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		144	4	3	obj								
+ʾotъ+	҆ⱁⱅⱏ₊	otъ	ot	Sg		144	5	6	case								
+lǫkavь_[stva]+	ⰾⱘⰽⰰⰲⱐ_[ⱄⱅⰲⰰ]₊	lǫkavъstva	lǫkavьstvo	Nnsgn		144	6	3	obl	abl				1			
+našego:	ⱀⰰⱎⰵⰳⱁ:	našego	naš	Ansgy		144	7	6	amod	poss							
+																	
+ī+	ⰺ₊	i	i	C		145	1	4	cc				And turn us over to your justice by your mercy				
+tvoejǫ+	ⱅⰲⱁⰵⱙ₊	tvoejǫ	tvoi	Afsiy		145	2	3	amod								
+mïlo_[stьjǫ]	ⰿⰹⰾⱁ_[ⱄⱅⱐⱙ]	milostъjǫ	milost	Nfsin		145	3	4	obl					1			
+ʾobrati+	҆ⱁⰱⱃⰰⱅⰻ₊	obrati	obratja	Vmm-2se		145	4	0	root								
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		145	5	4	obj								
+na+	ⱀⰰ₊	na	na	Sa		145	6	7	case								
+pravьdǫ	ⱂⱃⰰⰲⱐⰴⱘ	pravъdǫ	pravda	Nfsan		145	7	4	obl					1			
+[tvo]jǫ:	[ⱅⰲⱁ]ⱙ:	tvojǫ	tvoi	Afsay		145	8	7	amod	poss							
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		146	1	0	root				We say to our (...)				
+našïmь:.	ⱀⰰⱎⰹⰿⱐ:.	našimъ	naš	A-pdy		146	2	1	obl	iobj:poss				2			
+																	
+nadъ+	ⱀⰰⰴⱏ₊	nadъ	nad	Si		147	1				6r	/img/kiev/kf_6r.jpg	[Title] Over Eucharist				
+ʾoplatъmь:.	҆ⱁⱂⰾⰰⱅⱏⰿⱐ:.	oplatъmъ	oplat	Nmsin		147	2	0	root					1			
+																	
+Prïnesenъ^ï	Ⱂⱃⰹⱀⰵⱄⰵⱀⱏ̂ⰹ	prineseny	prinesa	Vmpa-se	Amsny	148	1	0	root				O Lord, to you (is) offered this gift, which you have given and created for the sake of your Church and our life and our death				
+tébě	ⱅⰵ́ⰱⱑ	tebě	ty	Pp2-sd		148	2	1	obl	iobj							
+gï	ⰳⰹ	gi	Gospod	Nmsvi		148	3	1	vocative								
+sьï	ⱄⱐⰹ	sy	sii	Pd-msn		148	4	5	det	ext							
+darъ	ⰴⰰⱃⱏ	darъ	dar	Nmsnn		148	5	1	nsubj					1			
+ʾīže+	҆ⰺⰶⰵ₊	iže	iže	Pr-msn		148	6	9	mark								
+tъi	ⱅⱏⰻ	ty	ty	Pp2-sn		148	7	9	nsubj								
+ésï+	ⰵ́ⱄⰹ₊	esi	sъm	Vaip2si		148	8	9	aux	prf							
+dalъ	ⰴⰰⰾⱏ	dalъ	dam	Vmp--se	Amsnn	148	9	5	acl								
+ʾī+	҆ⰺ₊	i	i	C		148	10	11	cc								
+sъtvo_rïlъ.	ⱄⱏⱅⰲⱁ_ⱃⰹⰾⱏ.	sъtvorilъ	sъtvorja	Vmp--se	Amsnn	148	11	9	conj					1			
+cīrъkъve	ⱌⰺⱃⱏⰽⱏⰲⰵ	cirъkъve	cъrkva	Nfsgn		148	12	9	obl								
+radï^+	ⱃⰰⰴⰹ̂₊	radi	radi	Sg		148	13	12	case								
+tvoe_ję^.	ⱅⰲⱁⰵ_ⱗ̂.	tvoeję	tvoi	Afsiy		148	14	12	amod	poss				1			
+ʾī+	҆ⰺ₊	i	i	C		148	15	16	cc								
+žïvota	ⰶⰹⰲⱁⱅⰰ	života	život	Nmsgn		148	16	12	conj								
+ʾī+	҆ⰺ₊	i	i	C		148	17	18	cc								
+prěstavle_niě+	ⱂⱃⱑⱄⱅⰰⰲⰾⰵ_ⱀⰻⱑ₊	prěstavleniě	prěstavlenie	Nnsgn		148	18	16	conj					1			
+našego+	ⱀⰰⱎⰵⰳⱁ₊	našego	naš	Ansgy		148	19	16	amod								
+radï:	ⱃⰰⰴⰹ:	radi	radi	Sg		148	20	16	case								
+																	
+ʾī+	҆ⰺ₊	i	i	C		149	1	2	cc				And we confess, that it is the healing of the eternal life				
+sъvěstu_emъ+	ⱄⱏⰲⱑⱄⱅⱆ_ⰵⰿⱏ₊	sъvěstuemъ	sъvěstovati	Vmip1pi		149	2	0	root					1			
+nъi`.	ⱀⱏⰻ̀.	ny	nie	Pp1-pa		149	3	2	nsubj								
+ʾěko+	҆ⱑⰽⱁ₊	ěko	jako (2)	C		149	4	6	mark								
+balьstvo	ⰱⰰⰾⱐⱄⱅⰲⱁ	balъstvo	balьstvo	Nnsnn		149	5	6	obl	pred							
+ʾe_stъ+	҆ⰵ_ⱄⱅⱏ₊	estъ	sъm	Vmip3si		149	6	2	advcl					1			
+to`	ⱅⱁ̀	to	to	Qd	Pd-nsn	149	7	6	nsubj								
+života	ⰶⰻⰲⱁⱅⰰ	života	život	Nmsgn		149	8	5	nmod	poss							
+věčьnago:	ⰲⱑⱍⱐⱀⰰⰳⱁ:	věčъnago	večen	Amsgy		149	9	8	amod					1			
+																	
+gmь:	ⰳⰿⱐ:	gmъ	glagolati	Vmip1pi		150	1	0	root				We say (...)				
+																	
+Prěѳaciě.	Ⱂⱃⱑⱚⰰⱌⰻⱑ.	prěѳaciě	prěfacia	Nfsnn		151	1	0	root				[Title] Preface				
+do	ⰴⱁ	do	do	I		151	2	1	discourse					1			
+																	
+věčьnъ^ï	ⰲⱑⱍⱐⱀⱏ̂ⰹ	věčъny	večen	Amsny		152	1	2	amod				O eternal God, we pray to Jesus Christ your Son and our Lord				
+bže:.	ⰱⰶⰵ:.	bže	bog	Nmsvy		152	2	3	vocative					1			
+Molïmъ+	ⰿⱁⰾⰹⰿⱏ₊	molimъ	molja	Vmip1pi		152	3	0	root								
+sję	ⱄⱗ	sję	se	Px---a		152	4	3	expl								
+isu	ⰻⱄⱆ	isu	Isus	Nmsdy		152	5	3	obl	iobj							
+xu	ⱈⱆ	xu	Xristos	Nmsdy		152	6	5	appos								
+sъinu	ⱄⱏⰻⱀⱆ	synu	sin	Nmsdy		152	7	6	appos					1			
+tvoemu	ⱅⰲⱁⰵⰿⱆ	tvoemu	tvoi	Amsdy		152	8	7	amod	poss							
+gï+	ⰳⰹ₊	gi	Gospod	Nmsgi	Nmsvi	152	9	7	appos								
+našemu.	ⱀⰰⱎⰵⰿⱆ.	našemu	naš	Amsdy		152	10	9	amod	poss							
+																	
+da	ⰴⰰ	da	da	C		153	1	4	aux	opt			May He protects us and saves us by your mercy	1			
+mïlostьjǫ+	ⰿⰹⰾⱁⱄⱅⱐⱙ₊	milostъjǫ	milost	Nfsin		153	2	4	obl								
+tvoejǫ	ⱅⰲⱁⰵⱙ	tvoejǫ	tvoi	Afsiy		153	3	2	amod	poss							
+zaščï_tïtъ+	ⰸⰰⱎⱍⰹ_ⱅⰹⱅⱏ₊	zaščititъ	zaštitja	Vmip3se		153	4	0	root					1			
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		153	5	4	obj								
+ʾī+	҆ⰺ₊	i	i	C		153	6	7	cc								
+sъpasetъ:	ⱄⱏⱂⰰⱄⰵⱅⱏ:	sъpasetъ	spasja	Vmip3se		153	7	4	conj								
+																	
+be_ž+	ⰱⰵ_ⰶ₊	bež	bez	Sg		154	1	4	case				For without His mercy we cannot do anything	1			
+negože+	ⱀⰵⰳⱁⰶⰵ₊	negože	iže	Pr-msg		154	2	4	nmod	poss							
+bo	ⰱⱁ	bo	bo	C		154	3	8	cc								
+mïlostï	ⰿⰹⰾⱁⱄⱅⰹ	milosti	milost	Nfsgn		154	4	8	obl								
+ne+	ⱀⰵ₊	ne	ne	Qz		154	5	6	advmod								
+vъ_zmožemъ	ⰲⱏ_ⰸⰿⱁⰶⰵⰿⱏ	vъzmožemъ	vъzmoga	Vmip1pe		154	6	8	aux					1			
+ničьsože	ⱀⰻⱍⱐⱄⱁⰶⰵ	ničъsože	ničъtože	Pz---g		154	7	8	obj								
+sъtvo_rïtī:	ⱄⱏⱅⰲⱁ_ⱃⰹⱅⰺ:	sъtvoriti	sъtvorja	Vmn---e		154	8	0	root					1			
+																	
+těˇmь+	ⱅⱑ̆ⰿⱐ₊	těmъ	tъ	Pd-nsi		155	1	9	obl				Thus may we accept the gifts and mercy for His sake alone				
+že	ⰶⰵ	že	že	Qd		155	2	9	cc								
+samogo	ⱄⰰⰿⱁⰳⱁ	samogo	sam	Amsgy		155	3	4	amod	det				1			
+ʾego+	҆ⰵⰳⱁ₊	ego	tъ	Pp3msg		155	4	9	obl								
+radï	ⱃⰰⰴⰹ	radi	radi	Sg		155	5	4	case								
+darъi	ⰴⰰⱃⱏⰻ	dary	dar	Nmpan		155	6	9	obj								
+ʾī+	҆ⰺ₊	i	i	C		155	7	8	cc								
+mïlostь	ⰿⰹⰾⱁⱄⱅⱐ	milostъ	milost	Nfsnn		155	8	6	conj					1			
+prïemlemъ	ⱂⱃⰹⰵⰿⰾⰵⰿⱏ	priemlemъ	priema	Vmip1pe		155	9	0	root								
+																	
+ʾī+	҆ⰺ₊	i	i	C		156	1	4	cc				And (may?) we live in love				
+vъ+	ⰲⱏ₊	vъ	v	Sl		156	2	3	case								
+ljubъvi	ⰾⱓⰱⱏⰲⰻ	ljubъvi	ljubov	Nfsdn		156	3	4	obl	loc				1			
+živemъ:	ⰶⰻⰲⰵⰿⱏ:	živemъ	živěti	Vmip1pi		156	4	0	root								
+																	
+xmь	ⱈⰿⱐ	xmъ	xvalja	Vmip1pi		157	1	0	root				We praise				
+																	
+gmь	ⰳⰿⱐ	gmъ	glagolati	Vmip1pi		158	1	0	root				We say to our (...)				
+našïm[ь]	ⱀⰰⱎⰹⰿ[ⱐ]	našimъ	naš	A-pdy		158	2	1	obl	iobj				1			
+																	
+Po+	Ⱂⱁ₊	po	po	Sl		159	1	2	case				[Title] After the communion				
+vъsǫ_dě:.	ⰲⱏⱄⱘ_ⰴⱑ:.	vъsǫdě	vъsǫd	Nmsln		159	2	0	root					1			
+																	
+Vъsǫda+	Ⰲⱏⱄⱘⰴⰰ₊	vъsǫda	vъsǫd	Nmsgn		160	1	4	obl				Satisfied by your communion, o Lord, we pray you:				
+tvoego	ⱅⰲⱁⰵⰳⱁ	tvoego	tvoi	Amsgy		160	2	1	amod	poss							
+gï	ⰳⰹ	gi	Gospod	Nmsvi		160	3	5	vocative								
+nas[ъi]_cenï+	ⱀⰰⱄ[ⱏⰻ]_ⱌⰵⱀⰹ₊	nasyceni	nasitja	Vmpa-pe	Ampnn	160	4	5	advcl	csubj				1			
+prosïmъ+	ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		160	5	0	root								
+tję:	ⱅⱗ:	tję	ty	Pp2-sa		160	6	5	obj								
+																	
+otъ+	ⱁⱅⱏ₊	otъ	ot	Sg		161	1	3	case				Save us from all who oppose us				
+v[ь]_sěxъ+	ⰲ[ⱐ]_ⱄⱑⱈⱏ₊	vъsěxъ	vse	A-pgy		161	2	3	amod	det				2			
+protivjęcīxъ+	ⱂⱃⱁⱅⰻⰲⱗⱌⰺⱈⱏ₊	protivjęcixъ	protiviti	Vmpp-pia	A-pgy	161	3	6	advcl	obl:abl	6v	/img/kiev/kf_6v.jpg					
+sję+	ⱄⱗ₊	sję	se	Px---a		161	4	3	expl								
+ná_mъ+	ⱀⰰ́_ⰿⱏ₊	namъ	nie	Pp1-pd		161	5	3	obl	iobj				1			
+sъpasï+	ⱄⱏⱂⰰⱄⰹ₊	sъpasi	spasja	Vmm-2se		161	6	0	root								
+nъi:	ⱀⱏⰻ:	ny	nie	Pp1-pa		161	7	6	obj								
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		162	1	0	root				We say to our (...)				
+našï:.	ⱀⰰⱎⰹ:.	naši	naš	Amsnn		162	2	1	obl	iobj:poss				1			
+																	
+mьšě	ⰿⱐⱎⱑ	mъšě	mьša	Nfsnn		163	1	0	root				[Title] Mass about martyrs				
+o+	ⱁ₊	o	o (2)	Sl		163	2	3	case								
+mǫčenïcěxъ:.	ⰿⱘⱍⰵⱀⰹⱌⱑⱈⱏ:.	mǫčenicěxъ	mъčenik	Nmply		163	3	1	nmod					1			
+																	
+Mǫčenīkъ^	ⰿⱘⱍⰵⱀⰺⰽⱏ̂	mǫčenikъ	mъčenik	Nmpgy		164	1	4	nmod	poss			Honoring the honor of your martyrs, we pray you, o lord, asking you:				
+tvoïxъ+	ⱅⰲⱁⰹⱈⱏ₊	tvoixъ	tvoi	A-pgy		164	2	1	amod	poss							
+gï	ⰳⰹ	gi	Gospod	Nmsvi		164	3	6	vocative								
+čь_stï+	ⱍⱐ_ⱄⱅⰹ₊	čъsti	čest	Nfsgi		164	4	5	obl					1			
+čьstjęce`	ⱍⱐⱄⱅⱗⱌⰵ̀	čъstjęce	čъstja	Vmpp-pia	Ampnn	164	5	6	advmod								
+molïmъ+	ⰿⱁⰾⰹⰿⱏ₊	molimъ	molja	Vmip1pi		164	6	0	root								
+tję	ⱅⱗ	tję	ty	Pp2-sa		164	7	6	obj					1			
+prosjęce:	ⱂⱃⱁⱄⱗⱌⰵ:	prosjęce	prosja	Vmpp-pia	Ampnn	164	8	6	advmod								
+																	
+da+	ⰴⰰ₊	da	da	C		165	1	8	advmod				As you have given them strength by your heavenly glory,				
+ʾěkože+	҆ⱑⰽⱁⰶⰵ₊	ěkože	jakože	C		165	2	1	fixed								
+ję+	ⱗ₊	ję	tě	Pp3mpa		165	3	8	obj								
+ʾesï	҆ⰵⱄⰹ	esi	sъm	Vaip2si		165	4	8	aux	prf				1			
+slavojǫ	ⱄⰾⰰⰲⱁⱙ	slavojǫ	slava	Nfsin		165	5	8	obl								
+tvoejǫ+	ⱅⰲⱁⰵⱙ₊	tvoejǫ	tvoi	Afsiy		165	6	5	amod	poss							
+nebesьsku_jǫ	ⱀⰵⰱⰵⱄⱐⱄⰽⱆ_ⱙ	nebesъskujǫ	nebeski	Afsiy		165	7	5	amod					1			
+ʾutvrьdïlъ:	҆ⱆⱅⰲⱃⱐⰴⰹⰾⱏ:	utvrъdilъ	utvъrdja	Vmp--se	Amsnn	165	8	0	root								
+																	
+takoze+	ⱅⰰⰽⱁⰸⰵ₊	takoze	takožde	Pr		166	1	7	advmod				may you accept us by your mercy				
+že	ⰶⰵ	že	že	Qd		166	2	7	cc					1			
+ʾī+	҆ⰺ₊	i	i	C		166	3	4	amod								
+nъi`	ⱀⱏⰻ̀	ny	nie	Pp1-pa		166	4	7	obj								
+mïlostïjǫ	ⰿⰹⰾⱁⱄⱅⰹⱙ	milostijǫ	milost	Nfsin		166	5	7	obl								
+tvoejǫ	ⱅⰲⱁⰵⱙ	tvoejǫ	tvoi	Afsiy		166	6	5	amod	poss				1			
+prīˇmï^	ⱂⱃⰺ̆ⰿⰹ̂	primi	priema	Vmm-2se		166	7	0	root								
+																	
+gmь:.	ⰳⰿⱐ:.	gmъ	glagolati	Vmip1pi		167	1	0	root				We say (...)				
+																	
+nadъ+	ⱀⰰⰴⱏ₊	nadъ	nad	Si		168	1	2	case				[Title] Over Eucharist				
+oplatmь:	ⱁⱂⰾⰰⱅⰿⱐ:	oplatmъ	oplat	Nmsnn		168	2	0	root	loc				1			
+																	
+Prïnosъ+	Ⱂⱃⰹⱀⱁⱄⱏ₊	prinosъ	prinos	Nmsnn		169	1	8	obj				O Lord, accept the offering brought to you for the sake of your holy martyrs				
+gï+	ⰳⰹ₊	gi	Gospod	Nmsvi		169	2	8	vocative								
+prïnesenъ^ï+	ⱂⱃⰹⱀⰵⱄⰵⱀⱏ̂ⰹ₊	prineseny	prinesa	Vmpa-se	Amsny	169	3	1	acl								
+tébě	ⱅⰵ́ⰱⱑ	tebě	ty	Pp2-sd		169	4	3	obl	iobj				1			
+mǫčenïkъ^	ⰿⱘⱍⰵⱀⰹⰽⱏ̂	mǫčenikъ	mъčenik	Nmpgy		169	5	3	obl								
+svjętъ^ïxъ+	ⱄⰲⱗⱅⱏ̂ⰹⱈⱏ₊	svjętyxъ	svęt	Ampgy		169	6	5	amod								
+ra_dï+	ⱃⰰ_ⰴⰹ₊	radi	radi	Sg		169	7	5	case					1			
+primï^:	ⱂⱃⰻⰿⰹ̂:	primi	priema	Vmm-2se		169	8	0	root								
+																	
+ʾī+	҆ⰺ₊	i	i	C		170	1	7	cc				And may may your help comes to us by their prayers and your commandements				
+molïtvamï	ⰿⱁⰾⰹⱅⰲⰰⰿⰹ	molitvami	molitva	Nfpin		170	2	7	obl					1			
+ʾīxъ	҆ⰺⱈⱏ	ixъ	tě	Pp3-pg		170	3	2	nmod	poss							
+ʾī+	҆ⰺ₊	i	i	C		170	4	5	cc								
+zapovědьmï+	ⰸⰰⱂⱁⰲⱑⰴⱐⰿⰹ₊	zapovědъmi	zapověd	Nfpin		170	5	2	conj								
+tvoī_mï+	ⱅⰲⱁⰺ_ⰿⰹ₊	tvoimi	tvoi	A-piy		170	6	5	amod	poss				1			
+prïspěï+	ⱂⱃⰹⱄⱂⱑⰹ₊	prispěi	prispěti	Vmm-2se		170	7	0	root								
+námъ+	ⱀⰰ́ⰿⱏ₊	namъ	nie	Pp1-pd		170	8	7	obl	iobj							
+pomocь	ⱂⱁⰿⱁⱌⱐ	pomocъ	pomošt	Nfsni		170	9	7	nsubj					1			
+tvoě.	ⱅⰲⱁⱑ.	tvoě	tvoi	Afsny		170	10	9	amod	poss							
+																	
+gmь:	ⰳⰿⱐ:	gmъ	glagolati	Vmip1pi		171	1	0	root				We say (...)				
+																	
+po+	ⱂⱁ₊	po	po	Sl		172	1	2	case				[Title] After the communion				
+vъsǫdě:.	ⰲⱏⱄⱘⰴⱑ:.	vъsǫdě	vъsǫd	Nmsln		172	2	0	root	loc				1			
+																	
+ʾOčístï+	҆Ⱁⱍⰻ́ⱄⱅⰹ₊	Očisti	očistja	Vmm-2se		173	1	4	advcl				Purify us, o Lord, we pray you for the sake of your heavenly commandements				
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		173	2	1	obj								
+gï+	ⰳⰹ₊	gi	Gospod	Nmsvi		173	3	4	vocative								
+prosïmъ+	ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		173	4	0	root								
+tję	ⱅⱗ	tję	ty	Pp2-sa		173	5	4	obj					1			
+nebesьskъ^ixъ	ⱀⰵⰱⰵⱄⱐⱄⰽⱏ̂ⰻⱈⱏ	nebesъskyxъ	nebeski	A-pgy		173	6	9	amod								
+tvoïxъ+	ⱅⰲⱁⰹⱈⱏ₊	tvoixъ	tvoi	A-pgy		173	7	9	amod	poss							
+ra_di^+	ⱃⰰ_ⰴⰻ̂₊	radi	radi	Sg		173	8	9	case					1			
+zapovědь^ï:	ⰸⰰⱂⱁⰲⱑⰴⱐ̂ⰹ:	zapovědy	zapověd	Nfpnn		173	9	4	obl							< *<i>zapovědь</i>?	
+																	
+ʾī+	҆ⰺ₊	i	i	C		174	1	2	cc				And strengthen us, so that we can celebrate you in front of your saints by our prayers				
+ʾutvrь_dï´+	҆ⱆⱅⰲⱃⱐ_ⰴⰹ́₊	utvrъdi	utvъrdja	Vmm-2se		174	2	0	root					1			
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		174	3	2	obj								
+da+	ⰴⰰ₊	da	da	C		174	4	5	mark								
+slavïmъ+	ⱄⰾⰰⰲⰹⰿⱏ₊	slavimъ	slavja	Vmip1pi		174	5	2	advcl								
+tję+	ⱅⱗ₊	tję	ty	Pp2-sa		174	6	5	obj								
+prědъ+	ⱂⱃⱑⰴⱏ₊	prědъ	pred	Si		174	7	8	case					1			
+svjętъ^imï	ⱄⰲⱗⱅⱏ̂ⰻⰿⰹ	svjętymi	svęt	A-piy		174	8	5	obl	loc							
+tvoïmī	ⱅⰲⱁⰹⰿⰺ	tvoimi	tvoi	A-piy		174	9	8	amod	poss				1			
+molïtvamï	ⰿⱁⰾⰹⱅⰲⰰⰿⰹ	molitvami	molitva	Nfpin		174	10	5	obl								
+našïmï:	ⱀⰰⱎⰹⰿⰹ:	našimi	naš	A-piy		174	11	10	amod	poss				1			
+																	
+gmь	ⰳⰿⱐ	gmъ	glagolati	Vmip1pi		175	1	0	root				We say to our (...)				
+našïmь:.	ⱀⰰⱎⰹⰿⱐ:.	našimъ	naš	A-pdy		175	2	1	obl	iobj:poss				2			
+																	
+[ж]	[ж]	ж	(...)	X		176	1	0	root		7r	/img/kiev/kf_7r.jpg	(?)				
+																	
+mьšě	ⰿⱐⱎⱑ	mъšě	mьša	Nfsnn		177	1	0	root				[Title] Mass about all heavenly powers				
+ʾo+	҆ⱁ₊	o	o (2)	Sl		177	2	5	case								
+vьsěxъ	ⰲⱐⱄⱑⱈⱏ	vъsěxъ	vse	Afpgy		177	3	5	amod	det							
+nebesьskъ_xъ+	ⱀⰵⰱⰵⱄⱐⱄⰽⱏ_ⱈⱏ₊	nebesъskъxъ	nebeski	Afpln		177	4	5	amod					1			
+sīlaxъ:	ⱄⰺⰾⰰⱈⱏ:	silaxъ	sila	Nfpln		177	5	1	nmod								
+																	
+pomlïmъ+	ⱂⱁⰿⰾⰹⰿⱏ₊	pomlimъ	pomolja	Vmip1pe		178	1	0	root				Let us pray				
+sję:.	ⱄⱗ:.	sję	se	Px---a		178	2	1	expl					1			
+																	
+Bъ	Ⰱⱏ	bъ	bog	Nmsny		179	1	41	vocative				(O) God, as you have always given us joy, for the sake of prayers of the blessed Mother of God and Ever-Virgin Mary,				
+ʾïže+	҆ⰹⰶⰵ₊	iže	iže	Pr-msn		179	2	37	mark								
+nъi	ⱀⱏⰻ	ny	nie	Pp1-pa		179	3	37	obj								
+molītvъi	ⰿⱁⰾⰺⱅⰲⱏⰻ	molitvy	molitva	Nfpnn		179	4	37	obl								
+radï^	ⱃⰰⰴⰹ̂	radi	radi	Sg		179	5	4	case					1			
+blaženъ^iję^	ⰱⰾⰰⰶⰵⱀⱏ̂ⰻⱗ̂	blaženyję	blažen	Afsgy		179	6	7	amod								
+bcję^	ⰱⱌⱗ̂	bcję	Bogorodica	Nfsgy		179	7	4	nmod	poss							
+ʾī+	҆ⰺ₊	i	i	C		179	8	10	cc								
+prïsno	ⱂⱃⰹⱄⱀⱁ	prisno	prisno	R		179	9	10	amod					1			
+děvъ^i+	ⰴⱑⰲⱏ̂ⰻ₊	děvy	děva	Nfsgy		179	10	7	appos								
+marïję^:	ⰿⰰⱃⰹⱗ̂:	mariję	Maria	Nfsgy		179	11	10	appos								
+ʾī+	҆ⰺ₊	i	i	C		179	12	15	cc				and for the sake of your blessed angels and all heavenly powers,				
+blaženъ^i_xъ+	ⰱⰾⰰⰶⰵⱀⱏ̂ⰻ_ⱈⱏ₊	blaženyxъ	blažen	Ampgy		179	13	15	amod					1			
+radï^	ⱃⰰⰴⰹ̂	radi	radi	Sg		179	14	15	case								
+ʾanǵelъ^	҆ⰰⱀⰼⰵⰾⱏ̂	anǵelъ	angel	Nmpgy		179	15	7	conj								
+tvoï´xъ.	ⱅⰲⱁⰹ́ⱈⱏ.	tvoixъ	tvoi	A-pgy		179	16	15	amod	poss							
+ʾī	҆ⰺ	i	i	C		179	17	20	cc					1			
+vьsě´xъ	ⰲⱐⱄⱑ́ⱈⱏ	vъsěxъ	vse	Afpgy		179	18	20	amod	det							
+nebesьskъixъ	ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰻⱈⱏ	nebesъskyxъ	nebeski	Afpgy		179	19	20	amod								
+sïla_xъ:	ⱄⰹⰾⰰ_ⱈⱏ:	silaxъ	sila	Nfpln		179	20	15	conj					1			
+ʾī+	҆ⰺ₊	i	i	C		179	21	22	cc								
+apostolъ^.	ⰰⱂⱁⱄⱅⱁⰾⱏ̂.	apostolъ	apostol	Nmpgy		179	22	20	conj								
+ʾī+	҆ⰺ₊	i	i	C		179	23	24	cc								
+mǫče_nīkъ^.	ⰿⱘⱍⰵ_ⱀⰺⰽⱏ̂.	mǫčenikъ	mъčenik	Nmpgy		179	24	22	conj					1			
+ʾī+	҆ⰺ₊	i	i	C		179	25	29	cc				and the prayers of apostles, and martyrs, and most reverend and pure maidens, and all the saints,				
+prěpodobьnъ^ixъ.	ⱂⱃⱑⱂⱁⰴⱁⰱⱐⱀⱏ̂ⰻⱈⱏ.	prěpodobъnyxъ	prěpodoben	Afpgy		179	26	29	amod					1			
+ʾī+	҆ⰺ₊	i	i	C		179	27	28	cc								
+čïstъ^ixъ	ⱍⰹⱄⱅⱏ̂ⰻⱈⱏ	čistyxъ	čist	Afpgy		179	28	26	conj								
+děvъ^.	ⰴⱑⰲⱏ̂.	děvъ	děva	Nmpgy		179	29	24	conj								
+ʾī+	҆ⰺ₊	i	i	C		179	30	32	cc								
+vъsěxъ	ⰲⱏⱄⱑⱈⱏ	vъsěxъ	vse	A-pgy		179	31	32	amod	det				1			
+svjętъ^ixъ	ⱄⰲⱗⱅⱏ̂ⰻⱈⱏ	svjętyxъ	svęt	A-pgy		179	32	29	conj								
+tvoīxъ+	ⱅⰲⱁⰺⱈⱏ₊	tvoixъ	tvoi	A-pgy		179	33	32	amod	poss							
+molī_tvamï.	ⰿⱁⰾⰺ_ⱅⰲⰰⰿⰹ.	molitvami	molitva	Nfpin		179	34	39	obl					1			
+prïsno+	ⱂⱃⰹⱄⱀⱁ₊	prisno	prisno	R		179	35	37	advmod								
+nъi`	ⱀⱏⰻ̀	ny	nie	Pp1-pa		179	36	37	obj								
+vъzve_selïlъ	ⰲⱏⰸⰲⰵ_ⱄⰵⰾⰹⰾⱏ	vъzveselilъ	vъzveselja	Vmp--se	Amsnn	179	37	1	acl					1			
+ʾésï:	҆ⰵ́ⱄⰹ:	esi	sъm	Vaip2si		179	38	37	aux	prf							
+prosïmъ+	ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		179	39	0	root				we pray you, o Lord				
+tję	ⱅⱗ	tję	ty	Pp2-sa		179	40	39	obj					1			
+gï.	ⰳⰹ.	gi	Gospod	Nmsvi		179	41	39	vocative								
+																	
+da+	ⰴⰰ₊	da	da	C		180	1	4	mark				As we honor the honor of these (...) on all days,				
+ʾěkože+	҆ⱑⰽⱁⰶⰵ₊	ěkože	jakože	C		180	2	1	fixed								
+nъi`	ⱀⱏⰻ̀	ny	nie	Pp1-pa		180	3	4	nsubj								
+čьstïˇmъ	ⱍⱐⱄⱅⰹ̆ⰿⱏ	čъstimъ	čъstja	Vmip1pi		180	4	12	advcl					1			
+čьstï+	ⱍⱐⱄⱅⰹ₊	čъsti	čest	Nfsgi		180	5	4	obj								
+sï`_ʾīxъ+	ⱄⰹ̀_҆ⰺⱈⱏ₊	siixъ	sii	Pd--pg		180	6	5	nmod	det:poss							
+na+	ⱀⰰ₊	na	na	Sa		180	7	9	case								
+vьsję+	ⰲⱐⱄⱗ₊	vъsję	vse	Ampan		180	8	9	amod	det							
+dьnï	ⰴⱐⱀⰹ	dъni	den	Nmpai		180	9	4	obl					1			
+milostьjǫ	ⰿⰻⰾⱁⱄⱅⱐⱙ	milostъjǫ	milost	Nfsin		180	10	12	obl				grant us by your mercy, to always follow your heavenly powers				
+tvoéjǫ	ⱅⰲⱁⰵ́ⱙ	tvoejǫ	tvoi	Afsiy		180	11	10	amod	poss							
+dázь	ⰴⰰ́ⰸⱐ	dazъ	dam	Vmm-2se		180	12	0	root					1			
+namъ	ⱀⰰⰿⱏ	namъ	nie	Pp1-pd		180	13	12	obl	iobj							
+priˇsno	ⱂⱃⰻ̆ⱄⱀⱁ	prisno	prisno	R		180	14	12	advmod								
+naslědovátï	ⱀⰰⱄⰾⱑⰴⱁⰲⰰ́ⱅⰹ	naslědovati	naslědovati	Vmn---i		180	15	12	advcl					1			
+nebesьskъ^iję	ⱀⰵⰱⰵⱄⱐⱄⰽⱏ̂ⰻⱗ	nebesъskyję	nebeski	Afpny		180	16	18	amod								
+tvóję	ⱅⰲⱁ́ⱗ	tvoję	tvoi	Afpny		180	17	18	amod	poss							
+sílъi:.	ⱄⰻ́ⰾⱏⰻ:.	sily	sila	Nfpnn		180	18	15	obj					1			
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		181	1	0	root				We say to our (...)				
+našmь:	ⱀⰰⱎⰿⱐ:	našmъ	naš	A-pdy		181	2	1	obl	iobj							
+																	
+nad	ⱀⰰⰴ	nad	nad	Si		182	1	2	case				[Title] Over Eucharist				
+ʾoplat[m]	҆ⱁⱂⰾⰰⱅ[ⰿ]	oplatm	oplat	Nmsin		182	2	0	root					1			
+																	
+Darъ+	Ⰴⰰⱃⱏ₊	darъ	dar	Nmsnn		183	1	19	nsubj				O Lord, this gift, brought to you for the sake of all holy heavenly powers,				
+sь	ⱄⱐ	sъ	sii	Pd-msn		183	2	1	det	p_nom							
+prinesenъ^i	ⱂⱃⰻⱀⰵⱄⰵⱀⱏ̂ⰻ	prineseny	prinesa	Vmpa-se	Amsny	183	3	1	acl								
+tebě+	ⱅⰵⰱⱑ₊	tebě	ty	Pp2-sd		183	4	3	obl	iobj							
+gï	ⰳⰹ	gi	Gospod	Nmsvi		183	5	19	vocative					1			
+vьsě´xъ	ⰲⱐⱄⱑ́ⱈⱏ	vъsěxъ	vse	Afpgy		183	6	9	amod	det							
+svjętъ^ixъ	ⱄⰲⱗⱅⱏ̂ⰻⱈⱏ	svjętyxъ	svęt	Afpgy		183	7	9	amod								
+nebesь_skъ^ixъ	ⱀⰵⰱⰵⱄⱐ_ⱄⰽⱏ̂ⰻⱈⱏ	nebesъskyxъ	nebeski	Afpgy		183	8	9	amod					1			
+sīlъ^+	ⱄⰺⰾⱏ̂₊	silъ	sila	Nfpgn		183	9	3	obl								
+radï^:	ⱃⰰⰴⰹ̂:	radi	radi	Sg		183	10	9	case								
+ʾī+	҆ⰺ₊	i	i	C		183	11	13	cc				and all your saints, and the righteous ones,				
+vьsě_xъ	ⰲⱐⱄⱑ_ⱈⱏ	vъsěxъ	vse	A-pgy		183	12	13	amod	det				1			
+svjętъ^ixъ.	ⱄⰲⱗⱅⱏ̂ⰻⱈⱏ.	svjętyxъ	svęt	A-pgy		183	13	9	conj								
+tvoïxъ+	ⱅⰲⱁⰹⱈⱏ₊	tvoixъ	tvoi	A-pgy		183	14	13	amod	poss							
+r[adi]	ⱃ[ⰰⰴⰻ]	radi	radi	Sg		183	15	13	case					2			
+ʾī+	҆ⰺ₊	i	i	C		183	16	17	cc		7v	/img/kiev/kf_7v.jpg					
+pravьdьnъ^ixъ+	ⱂⱃⰰⰲⱐⰴⱐⱀⱏ̂ⰻⱈⱏ₊	pravъdъnyxъ	praveden	A-pgy		183	17	13	conj								
+radï^:	ⱃⰰⰴⰹ̂:	radi	radi	Sg		183	18	17	case								
+bǫ_dï+	ⰱⱘ_ⰴⰹ₊	bǫdi	bъda	Vmm-2se		183	19	0	root				may it be for your praise	1			
+tebě	ⱅⰵⰱⱑ	tebě	ty	Pp2-sd		183	20	19	obl	iobj							
+vъ+	ⰲⱏ₊	vъ	v	Sa		183	21	22	case								
+xvaˇlǫ:	ⱈⰲⰰ̆ⰾⱘ:	xvalǫ	xvala	Nfsan		183	22	19	obl								
+																	
+ʾa+	҆ⰰ₊	a	a	C		184	1	6	cc				And may you worthily compensate us by their prayers				
+namъ	ⱀⰰⰿⱏ	namъ	nie	Pp1-pd		184	2	6	obl	iobj				1			
+molïtvamï	ⰿⱁⰾⰹⱅⰲⰰⰿⰹ	molitvami	molitva	Nfpin		184	3	6	obl								
+ʾīxъ	҆ⰺⱈⱏ	ixъ	tě	Pp3-pg		184	4	3	nmod	poss							
+dostoï_noe+	ⰴⱁⱄⱅⱁⰹ_ⱀⱁⰵ₊	dostoinoe	dostoin	Ansny		184	5	6	obj					1			
+otъplatï:	ⱁⱅⱏⱂⰾⰰⱅⰹ:	otъplati	otplatja	Vmm-2se		184	6	0	root								
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		185	1	0	root				We say to our (...)				
+našïmь	ⱀⰰⱎⰹⰿⱐ	našimъ	naš	A-pdy		185	2	1	obl	iobj				1			
+																	
+Po+	Ⱂⱁ₊	po	po	Sl		186	1	2	case				[Title] After the communion				
+vъ_sǫ_dě:.	ⰲⱏ_ⱄⱘ_ⰴⱑ:.	vъsǫdě	vъsǫd	Nmsln		186	2	0	root					1			
+																	
+Prosïmъ+	Ⱂⱃⱁⱄⰹⰿⱏ₊	prosimъ	prosja	Vmip1pi		187	1	0	root				We pray you, o Lord				
+tję+	ⱅⱗ₊	tję	ty	Pp2-sa		187	2	1	obj								
+gï.	ⰳⰹ.	gi	Gospod	Nmsvi		187	3	1	vocative								
+																	
+da+	ⰴⰰ₊	da	da	C		188	1	2	aux	opt			May we know, by the prayers of all heavenly powers and all your saints, and their righteous works				
+zьnamъ	ⰸⱐⱀⰰⰿⱏ	zъnamъ	znam	Vmip1pi		188	2	0	root					1			
+molïtvamï	ⰿⱁⰾⰹⱅⰲⰰⰿⰹ	molitvami	molitva	Nfpin		188	3	2	obl								
+vьsěxъ+	ⰲⱐⱄⱑⱈⱏ₊	vъsěxъ	vse	Afpgy		188	4	6	amod	det							
+nebe_sьskъ^ixъ	ⱀⰵⰱⰵ_ⱄⱐⱄⰽⱏ̂ⰻⱈⱏ	nebesъskyxъ	nebeski	Afpgy		188	5	6	amod					1			
+sílaxъ.	ⱄⰻ́ⰾⰰⱈⱏ.	silaxъ	sila	Nfpln		188	6	3	nmod	poss						sic	
+ʾī+	҆ⰺ₊	i	i	C		188	7	9	cc								
+vьsě´xъ	ⰲⱐⱄⱑ́ⱈⱏ	vъsěxъ	vse	A-pgy		188	8	9	amod	det				1			
+svjętъ^ixъ	ⱄⰲⱗⱅⱏ̂ⰻⱈⱏ	svjętyxъ	svęt	A-pgy		188	9	6	conj								
+tvoïxъ.	ⱅⰲⱁⰹⱈⱏ.	tvoixъ	tvoi	A-pgy		188	10	9	amod	poss							
+ʾī+	҆ⰺ₊	i	i	C		188	11	12	cc								
+dělъ^	ⰴⱑⰾⱏ̂	dělъ	dělo	Nnpgn		188	12	9	conj					1			
+ʾīxъ+	҆ⰺⱈⱏ₊	ixъ	tě	Pp3-pg		188	13	12	nmod	poss							
+radï^	ⱃⰰⰴⰹ̂	radi	radi	Sg		188	14	12	case								
+pravьdьnъixъ:	ⱂⱃⰰⰲⱐⰴⱐⱀⱏⰻⱈⱏ:	pravъdъnyxъ	praveden	Anpgy		188	15	12	amod								
+																	
+vъ_sǫdъmь	ⰲⱏ_ⱄⱘⰴⱏⰿⱐ	vъsǫdъmъ	vъsǫd	Nmsin		189	1	4	obl				Purify our hearts from our sins by this communion we have taken	1			
+sīˇmь	ⱄⰺ̆ⰿⱐ	simъ	sii	Pd-msi		189	2	1	det	p_nom							
+vъzjętъi_mь.	ⰲⱏⰸⱗⱅⱏⰻ_ⰿⱐ.	vъzjętymъ	vzema	Amsiy	Vmpa-se	189	3	1	amod					1			
+ʾočïstï	҆ⱁⱍⰹⱄⱅⰹ	očisti	očistja	Vmm-2se		189	4	0	root								
+srьdьcě	ⱄⱃⱐⰴⱐⱌⱑ	srъdъcě	sъrdce	Nnpnn		189	5	4	obj								
+našě	ⱀⰰⱎⱑ	našě	naš	Anpnn		189	6	5	amod	poss				1			
+ʾotъ	҆ⱁⱅⱏ	otъ	ot	Sg		189	7	8	case								
+grěxъ^	ⰳⱃⱑⱈⱏ̂	grěxъ	grěx	Nmpgn		189	8	4	obl								
+našïxъ:	ⱀⰰⱎⰹⱈⱏ:	našixъ	naš	A-pgy		189	9	8	amod	poss							
+																	
+gmь+	ⰳⰿⱐ₊	gmъ	glagolati	Vmip1pi		190	1	0	root				We say (to our ...)				
+na:.	ⱀⰰ:.	na	naš	A		190	2	1	obl	iobj				1			
+																	
+mo_li_tva	ⰿⱁ_ⰾⰻ_ⱅⰲⰰ	molitva	molitva	Nfsnn		191	1	0	root				[Title] Prayer 2				
+*b*:	·ⰱ·:	*b*	2	Mc		191	2	1	nummod					1			
+																	
+[S]ъtvorï´+	[Ⱄ]ⱏⱅⰲⱁⱃⰹ́₊	sъtvori	sъtvorja	Vmm-2se		192	1	0	root				Make us, o Lord God, to commune with holy Mother of God and Ever-Virgin Mary,				
+nъi`	ⱀⱏⰻ̀	ny	nie	Pp1-pa		192	2	1	obj								
+gï	ⰳⰹ	gi	Gospod	Nmsvi		192	3	1	vocative								
+bže	ⰱⰶⰵ	bže	bog	Nmsvy		192	4	3	appos								
+pričję_stьnъ^i	ⱂⱃⰻⱍⱗ_ⱄⱅⱐⱀⱏ̂ⰻ	pričjęstъny	pričęstьn	Ampan		192	5	1	obl	pred				1			
+svjętě^ï	ⱄⰲⱗⱅⱑ̂ⰹ	svjętěi	svęt	Afsdy		192	6	7	amod								
+bcï	ⰱⱌⰹ	bci	Bogorodica	Nfsdy		192	7	5	nmod	iobj							
+ʾī+	҆ⰺ₊	i	i	C		192	8	9	cc								
+pri_snoděvě	ⱂⱃⰻ_ⱄⱀⱁⰴⱑⰲⱑ	prisnoděvě	prisnoděva	Nfsdy		192	9	7	appos					1			
+mariï`:	ⰿⰰⱃⰻⰹ̀:	marii	Maria	Nfsdy		192	10	9	appos								
+ʾī+	҆ⰺ₊	i	i	C		192	11	12	cc				and worthy of your holy angels, and blessed apostles, martyrs,				
+dóstoï_nъi	ⰴⱁ́ⱄⱅⱁⰹ_ⱀⱏⰻ	dostoiny	dostoin	Ampan		192	12	5	conj	pred				1			
+svjętъ^ixъ	ⱄⰲⱗⱅⱏ̂ⰻⱈⱏ	svjętyxъ	svęt	Ampgy		192	13	14	amod								
+anǵelъ	ⰰⱀⰼⰵⰾⱏ	anǵelъ	angel	Nmpgy		192	14	12	nmod	iobj							
+ʾī	҆ⰺ	i	i	C		192	15	17	cc					1			
+[bl]aženъixъ	[ⰱⰾ]ⰰⰶⰵⱀⱏⰻⱈⱏ	blaženyxъ	blažen	Ampgy		192	16	17	amod								
+ʾapostolъ^.	҆ⰰⱂⱁⱄⱅⱁⰾⱏ̂.	apostolъ	apostol	Nmpgy		192	17	14	conj								
+m[ǫ_čenī]kъ^.	ⰿ[ⱘ_ⱍⰵⱀⰺ]ⰽⱏ̂.	mǫčenikъ	mъčenik	Nmpgy		192	18	17	conj					1			
+ʾī+	҆ⰺ₊	i	i	C		192	19	23	cc				and most reverend and pure maidens, and all your saints				
+prěpodobьnъixъ	ⱂⱃⱑⱂⱁⰴⱁⰱⱐⱀⱏⰻⱈⱏ	prěpodobъnyxъ	prěpodoben	Afpgy		192	20	23	amod					1			
+[i+	[ⰻ₊	i	i	C		192	21	22	cc								
+č]ïstъixъ	ⱍ]ⰹⱄⱅⱏⰻⱈⱏ	čistyxъ	čist	Afpgy		192	22	20	conj								
+děvъ^.	ⰴⱑⰲⱏ̂.	děvъ	děva	Nfpgy		192	23	18	conj								
+ʾī+	҆ⰺ₊	i	i	C		192	24	26	cc								
+vьs[ě_xъ]	ⰲⱐⱄ[ⱑ_ⱈⱏ]	vъsěxъ	vse	A-pgy		192	25	26	amod	det				1			
+[s]vjętъixъ	[ⱄ]ⰲⱗⱅⱏⰻⱈⱏ	svjętyxъ	svęt	A-pgy		192	26	23	conj								
+tvoï´xъ:	ⱅⰲⱁⰹ́ⱈⱏ:	tvoixъ	tvoi	A-pgy		192	27	26	amod	poss							
+																	
+mo_[li]tvamï	ⰿⱁ_[ⰾⰻ]ⱅⰲⰰⰿⰹ	molitvami	molitva	Nfpin		193	1	3	obl				Protect us by their prayers	1			
+ʾīxъ+	҆ⰺⱈⱏ₊	ixъ	tě	Pp3-pg		193	2	1	nmod	poss							
+zaščitï	ⰸⰰⱎⱍⰻⱅⰹ	zaščiti	zaštitja	Vmm-2se		193	3	0	root					1			
+nъ^i	ⱀⱏ̂ⰻ	ny	nie	Pp1-pa		193	4	3	obj								

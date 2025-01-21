@@ -1,0 +1,114 @@
+text	cyrillic	diplomatic	lemma	PoS_tag	PoS_ext	sent_id	UD_id	UD_ncy	UD_type	UD_ext	page	folio	translation	eol	chapter	ref	desc	lat_header	cyr_header	alt_page_lat	alt_page_cyr	chunk	chunk_desc	pic_desc
+																								
+om	ॐ	om	om	I		1	1	0	root		3.18	/img/rv3-18.png	Om!	0	rva RgVeda		Rigveda Hymn 3.18<br/><b>To Agni from Kata Vaiśvāmitra</b><br/><br/><font size=1>Devanagari transcript: <a href=https://hinduismpedia.kailaasa.org/wiki/RigVeda_3.18.1>HinduismPedia</a><br/>Literature:<br/> Jamison, Stephanie W. & Brereton, Joel P. (2014) <i>The Rigveda: The Earliest Religious Poetry of India</i>, Vol. 1. Oxford: Oxford Univ. Press.<br/>Nootenvan, B. A. van (1994). <i>Rig Veda: a metrically restored text with an introduction and notes</i>. Harvard Univ. Press. <br/>Annotation: Stefan Hainig</font>	<audio id='mwe_player_0' controls='' preload='none' width='150' style='width:200px;' data-durationhint='143' data-mwtitle='rv3-18.mp3' data-mwprovider='wikimediacommons'><source src='/mp3/rv3-18.mp3' type='audio/mpeg' data-title='MP3' data-shorttitle='MP3' data-transcodekey='mp3' data-width='0' data-height='0' data-bandwidth='183232' /></audio>	<audio id='mwe_player_0' controls='' preload='none' width='150' style='width:200px;' data-durationhint='143' data-mwtitle='rv3-18.mp3' data-mwprovider='wikimediacommons'><source src='/mp3/rv3-18.mp3' type='audio/mpeg' data-title='MP3' data-shorttitle='MP3' data-transcodekey='mp3' data-width='0' data-height='0' data-bandwidth='183232' /></audio>					
+[...]	[...]	[...]	[...]	X		1	2	1	punct					1										
+																								
+bhávā	भवा॑	bhavā	√bhū	Vmm-2sia		2	1	4	cop				1. Become benevolent toward us, Agni, at our reverent approach,											
+no	नो	no	ahám	Pp1-pd	Pp1-pa:Pp1-pg	2	2	4	obl	iobj						Allowable final consonant: <i>nas</i> > <i>naḥ</i><br/>Sandhi: <i>naḥ</i> > <i>no</i>								
+agne	अग्ने	agne	Agní	Nmsv		2	3	4	vocative															
+sumánā	सु॒मना॒	sumanā	sumánas-	Nmsn		2	4	0	root							Allowable final consonant: <i>sumánās</i> > <i>sumánāḥ</i><br/>Sandhi: <i>sumánāḥ</i> > <i>sumánā</i>								
+úpetau	उपे॑तौ॒	upetau	úpeti-	Nfsl		2	5	1	advmod															
+																								
+sákh+	सखे॑व॒	sakh	sákhi-	Nmsn		3	1	6	acl				bringing success (to us), like a companion to his companion, like a father and mother.			Contractional Sandhi: <i>sákhā+iva</i> > <i>sákheva</i><br/>Irregular i-stem								
+eva	*	eva	iva	C		3	2	1	mark															
+sákhye	सख्ये॑	sakhye	sákhi-	Nmsd		3	3	1	obl	iobj						Irregular i-stem								
+pitár+	पि॒तरे॑व	pitar	pitár-	Nmdn	Nmda	3	4	1	conj							Contractional Sandhi: <i>pitárā+iva</i> > <i>pitáreva</i>								
+eva	*	eva	iva	C		3	5	4	mark															
+sādhúḥ	सा॒धुः	sādhuḥ	sādhú-	Nmsn		3	6	0	root					1		Allowable final consonant: <i>sādhús</i> > <i>sādhúḥ</i>								
+																								
+purudrúho	पु॒रु॒द्रुहो॒	purudruho	purudrúh-	Nfpn		4	1	0	root				Since the dwelling places of the peoples have many deceptions,			Allowable final consonant: <i>purudrúhas</i> > <i>purudrúhaḥ</i><br/>Sandhi: <i>purudrúhaḥ</i> > <i>purudrúho</i>								
+hí	हि	hi	hí	C		4	2	1	cc															
+kṣitáyo	क्षि॒तयो॒	kṣitayo	kṣití-	Nfpn	Nfpv	4	3	1	nsubj							Allowable final consonant: <i>kṣitáyas</i> > <i>kṣitáyaḥ</i><br/> Sandhi: <i>kṣitáyaḥ</i> > <i>kṣitáyo</i>								
+jánānām	जना॑नां॒	janānām	jána-	Nmpg		4	4	3	nmod															
+																								
+práti	प्रति॑	prati	práti	Sa		5	1	4	case				burn against the hostilities turned against us.											
+pratīcī́r+	प्रती॒चीर्द॑हता॒दरा॑तीः	praticīr	pratyáñc-	Nfpa	Nfpn	5	2	4	amod							Allowable final consonant: <i>pratīcī́s</i> > <i>pratīcī́ḥ</i><br/>Sandhi: <i>pratīcī́ḥ</i> > <i>pratīcī́r</i><br/>Derived Feminine, for the paradigm see <i>Ī-stems (devī-class)<i/>								
+dahatād+	*	dahatād	√dah	Vmm-2sia		5	3	0	root							Sandhi: <i>dahatāt</i> > <i>dahatād</i>								
+árātīḥ	*	arātiḥ	árāti-	Nfpa		5	4	3	obl					1		Allowable final consonant: <i>árātīs</i> > <i>árātīḥ</i>								
+																								
+táp+	तपो॒ 	tap	√tap	Vmm-2sia		6	1	0	root				2. Scorch our near enemies, Agni.			Contractional Sandhi: <i>tápa+u</i> > <i>tápo</i>								
+o	*	o	u	C		6	2	1	cc															
+ṣú+	ष्व॑ग्ने॒ 	ṣu	sú	R		6	3	1	advmod															
+agne	*	agne	Agní	Nmsv		6	4	1	vocative															
+ántarām̐	अन्त॑राँ	antarām̐	ántara-	Nmpa		6	5	6	amod							Sandhi: <i>ántarān</i> > <i>ántarām̐</i>								
+amítrān	अ॒मित्रा॒न्	amitrān	amítra-	Nmpa		6	6	1	obj															
+																								
+tápā	तपा॒	tap	√tap	Vmm-2sia		7	1	0	root				Scorch the recitation of the distant, ungenerous one.											
+śáṃsam+	शंस॒मर॑रुषः॒	śaṃsam	śáṃsa-	Nmsa		7	2	1	obj															
+áraruṣaḥ	*	araruṣaḥ	árarivaṃs-	Nmsg	Vmp--saa	7	3	2	nmod	poss														
+párasya	पर॑स्य	parasya	pára-	Nmsg		7	4	3	appos					1										
+																								
+táp+	तपो॑	tap	√tap	Vmm-2sia		8	1	0	root				And scorch the invisible ones as you become more visible, good (Agni).			Contractional Sandhi: <i>tápa+u</i> > <i>tápo</i>								
+o	*	o	u	C		8	2	1	cc															
+vaso	वसो	vaso	vásu-	Nmsv		8	3	1	vocative															
+cikitānó	चिकिता॒नो	cikitāno	√cit	Nmsn	Vmp--sam	8	4	3	amod							Allowable final consonant: <i>cikitānás</i> > <i>cikitānáḥ</i><br/>Sandhi: <i>cikitānáḥ</i> > <i>cikitānó</i>								
+acíttān+	अ॒चित्ता॒न्वि	acittān	√cit	Nmpa	Vmp--pap	8	5	1	obj															
+																								
+ví	*	vi	ví	Q		9	1	3	advmod				Let your unaging, irrepressible (flames) spread out.											
+te	ते॑	te	tvám	Pp2-sg	Pp2-sd	9	2	4	nmod	poss														
+tiṣṭhantām+	तिष्ठन्ताम॒जरा॑	tiṣṭhantām	√sthā-	Vmm-3pim		9	3	0	root															
+ajárā	*	ajarā	ajára-	Nmpn	Nmpv	9	4	3	nsubj							Allowable final consonant: <i>ajárās</i> > <i>ajárāḥ</i><br/>Sandhi: <i>ajárāḥ</i> > <i>ajárā</i>								
+ayā́saḥ	अ॒यासः॑	ayā́saḥ	ayā́s-	Nmpn		9	5	4	appos					1		Allowable final consonant: <i>ayā́sas</i> > <i>ayā́saḥ</i>								
+																								
+idhmén+	इ॒ध्मेना॑ग्न	idhmen	idhmá-	Nmsi		10	1	5	advmod				3. With kindling wood and ghee, o Agni, seeking, I pour an oblation for endurance and strength.			Contractional Sandhi: <i>idhména+agna</i> > <i>idhménāgna</i>								
+āgna	*	āgna	Agní	Nmsv		10	2	5	vocative							Sandhi: <i>agne</i> > <i>agna</i>								
+ichámāno	इ॒च्छमा॑नो	ichamāno	√iṣ	Nmsn	Vmp--sim	10	3	5	nsubj							Allowable final consonant: <i>ichámānas</i> > <i>ichámānaḥ</i><br/>Sandhi: <i>ichámānaḥ</i> > <i>ichámāno</i>								
+ghr̥téna	घृ॒तेन॑	ghr̥tena	ghṛtá-	Nnsi		10	4	5	advmod															
+juhómi	जु॒होमि॑	juhomi	√hu	Vmip1sia		10	5	0	root															
+havyáṃ	ह॒व्यं	havyaṃ	havyá-	Nnsa		10	6	5	obj							Sandhi: <i>havyám</i> > <i>havyáṃ</i>								
+tárase	तर॑से॒	tarase	táras-	Nnsd		10	7	5	obl	iobj														
+bálāya	बला॑य	balāya	bála-	Nnsd		10	8	5	obl	iobj				1										
+																								
+yā́vad+	याव॒दीशे॒	yāvad	yā́vat	R		11	1	2	mark				Insofar as I am master by my ritual formulation, offering praise (by it), (I pour) this divine insight in order to win hundreds.			Sandhi: <i>yā́vat</i> > <i>yā́vad</i>								
+ī́śe	*	īśe	√īś	Vmip1sim		11	2	6	acl															
+bráhmaṇā	ब्रह्म॑णा॒	brahmaṇā	bráhman-	Nnsi		11	3	6	advmod															
+vándamāna	वन्द॑मान	vandamāna	√vand	Nmsn	Vmp--sim	11	4	2	advmod							Allowable final consonant: <i>vándamānas</i> > <i>vándamānaḥ</i><br/>Sandhi: <i>vándamānaḥ</i> > <i>vándamāna</i>								
+imā́ṃ	इ॒मां	imāṃ	ayám	Pd-fsa		11	5	6	det	ext						Sandhi: <i>imā́m</i> > <i>imā́ṃ</i>								
+dhíyaṃ	धियं॑	dhiyaṃ	√dhī́	Nfsa		11	6	0	root							Sandhi: <i>dhíyam</i> > <i>dhíyaṃ</i>								
+śataséyāya	शत॒सेया॑य	śataseyāya	śataséya	Nnsd		11	7	6	obl															
+devī́m	दे॒वीम्	devīm	devī́-	Nfsa		11	8	6	amod					1										
+																								
+úc+	उच्छो॒चिषा॑	uc	úd	R		12	1	0	root				4. (Flame) up with your flame, son of strength, when you are praised.			Allowable final consonant: <i>úd</i> > <i>út</i><br/>Sandhi: <i>út</i> > <i>úc</i>								
+chocíṣā	*	chociṣā	śocís-	Nnsi		12	2	1	advmod							Sandhi: <i>śocíṣā</i> > <i>chocíṣā</i>								
+sahasas+	सहसस्पुत्र	sahasas	sáhas	Nnsg	Nnsb	12	3	4	nmod	poss						Allowable final consonants: <i>sahasas</i> > <i>sahasaḥ</i><br/>Sandhi: <i>sahasaḥ</i> > <i>sahasas</i>								
+putra	*	putra	putrá-	Nmsv		12	4	1	vocative															
+stutó	स्तु॒तो	stuto	√stu	Nmsn	Vmp--sap	12	5	4	appos							Allowable final consonant: <i>stutás</i> > <i>stutáḥ</i><br/>Sandhi: <i>stutáḥ</i> > <i>stutó</i>								
+																								
+br̥hád	बृ॒हद्वयः॑ 	br̥had	bṛhánt-	Nnsa	Nnsn	13	1	2	amod				Set rising vigor upon those toiling;			Sandhi: <i>br̥hát</i> > <i>br̥hád</i>								
+váyaḥ	*	vayaḥ	váyas-	Nnsa	Nnsn:Nnsv	13	2	4	obj							Allowable final consonant :<i>váyas</i> > <i>váyaḥ</i>								
+śaśamānéṣu	शशमा॒नेषु॑	śaśamāneṣu	√śam	Nmpl	Vmp--pam	13	3	4	obl	iobj														
+dhehi	धेहि	dhehi	√dhā	Vmm-2sia		13	4	0	root					1		Irregular Verb								
+revád+	रे॒वद॑ग्ने	revad	revánt-	Nnsa	Nnsn	13	5	8	amod				(set) rich (vigor) upon the Viśvāmitras, o Agni, for their luck and life.			Sandhi: <i>revát</i> > <i>revád</i>								
+agne	*	agne	Agní	Nmsv		13	6	4	vocative															
+viśvā́mitreṣu	वि॒श्वामि॑त्रेषु॒	viśvāmitreṣu	Viśvā́mitra	Nmpl		13	7	3	appos															
+śáṃ	शं	śaṃ	śám	N		13	8	2	conj							Defictive Stem<br/>Sandhi: <i>śám</i> > <i>śáṃ</i>								
+yór+	योर्म॑र्मृ॒ज्मा	yor	yós	N		13	9	8	fixed							Defective Stem<br/>Allowable final consonant: <i>yós</i> > <i>yóḥ</i><br/>Sandhi: <i>yóḥ</i> > <i>yór</i>								
+																								
+marmr̥jmā́	*	marmr̥jmā	√mṛj	Vmjj1pia	Vmi-1paa	14	1	0	root				We have groomed your body many times.			For the different opinions on this debatable form see Hoffmann (1967, p.254) and Kümmel (2000, p.378)								
+te	ते॑	te	tvám	Pp2-sg	Pp2-sd	14	2	3	amod	poss														
+tanúvam	त॒न्वं१॒॑	tanuvam	tanū́	Nfsa		14	3	1	obj															
+bhū́ri	भूरि॒	bhūri	bhū́ri-	Nnsa	Nnsn:Nnsv	14	4	5	advmod															
+kŕ̥tvaḥ	कृत्वः॑	kŕ̥tvaḥ	kŕ̥tvaḥ	R		14	5	1	advmod					1		Allowable final consonant: <i>kŕ̥tvas</i> > <i>kŕ̥tvaḥ</i>								
+																								
+kr̥dhí	कृ॒धि	kr̥dhi	√kr̥	Vmm-2sea		15	1	0	root				5. Create wealth, o you who are good at winning the stakes -											
+rátnaṃ	रत्नं॑	ratnaṃ	rátna-	Nnsa	Nnsn:Nnsv	15	2	1	obj							Sandhi: <i>rátnam</i>><i>rátnaṃ</i>								
+susanitar+	सुसनित॒र्धना॑नां॒	susanitar	susanitar-	Nmsv		15	3	1	vocative							Alloweable final consonant:<i>susanitar</i> > <i>susanitaḥ</i><br/>Sandhi: <i>susanitaḥ</i> > <i>susanitar</i><br/>The Sandhi for the vocatives of <i>tar-</i>stems differs from other forms in <i>aḥ</i> and equals the Sandhi for <i>ḥ</i> after all other vowels.								
+dhánānāṃ	*	dhanānāṃ	dhána-	Nnpg		15	4	3	nmod							Sandhi: <i>dhánānām</i> > <i>dhánānāṃ<i/>								
+																								
+sá	स	sa	sá	Pd-msn		16	1	0	root				when kindled, you become just that, o Agni;											
+gh+	घेद॑ग्ने	gh	gha	Qg		16	2	1	amod							Contractional Sandhi: <i>gha+ít</i> > <i>ghét</i>								
+éd+	*	id	íd	Qg		16	3	1	amod							Allowable final consonant: <i>íd</i> > <i>ít</i><br/>Sandhi: <i>ít</i> > <i>íd</i>								
+agne	*	agne	Agní	Nmsv		16	4	1	vocative															
+bhavasi	भवसि॒	bhavasi	√bhū	Vmip2sia		16	5	1	cop															
+yát+	यत्समि॑द्धः	yat	yád	C		16	6	7	mark							Allowable final consonant: <i>yát</i> > <i>yád</i>								
+sámiddhaḥ	*	samiddhaḥ	√idh	Nmsn	Vmp--sap	16	7	1	acl					1		Allowable final consonant: <i>sámiddhas</i> > <i>sámiddhaḥ</i>								
+																								
+stotúr+	स्तो॒तुर्दु॑रो॒णे	stotur	stotár	Nmsg	Nmsb	17	1	2	nmod	poss			(create) rich (vigor) in the house of the praise singer of good fortune.			Allowable final Consonant: <i>stotur</i> > <i>stotuḥ</i><br/>Sandhi: <i>stotuḥ</i> > <i>stotur</i>								
+duroṇé	*	duroṇe	duroṇá-	Nnsl		17	2	4	obl	iobj														
+subhágasya	सु॒भग॑स्य	subhagasya	subhága	Nmsg		17	3	1	amod															
+revát+	रे॒वत्सृ॒प्रा	revat	revánt-	Nnsa	Nnsn	17	4	0	root															
+																								
+sr̥prā́	*	sr̥prā	sr̥prá-	Nmda	Nmdn	18	1	2	amod				You have acquired glossy forearms and wondrous forms.											
+karásnā	क॒रस्ना॑	karasnā	karásna-	Nmda	Nmdn	18	2	3	obj															
+dadhiṣe	दधिषे॒	dadhiṣe	√dhā	Vmi-2sam		18	3	0	root															
+vápūṃṣi	वपूं॑षि	vapūṃṣi	vápus-	Nnpa	Nnpn	18	4	2	conj															
