@@ -160,6 +160,40 @@
 		// Schrift muss als String angegeben werden, so dass es nicht mit dem $sent_id interferiert
 		echo "<span id='data' class='" . $chapter_id . " " . $script_str . " " . $sent_id . " " . $corpus_id . "' />";
 
+		// Daten für die Kontext-Analyse
+		$readings = [
+			"1" => "actual-processual",
+			"2" => "conative",
+			"3" => "inactual-continuous",
+			"4" => "durative",
+			"5" => "general-factual",
+			"6" => "iterative",
+			"7" => "habitual",
+			"8" => "potential",
+			"9" => "permanent-atemporal",
+			"1e" => "future-potential",
+			"4e" => "chained event",
+			"5e" => "isolated event",
+			"6e" => "iterative-summary",
+			"7e" => "exemplifying",
+			"8e" => "present-potential",
+			"b" => "benefactive (benevolent optative)",
+			"c" => "conditional",
+			"d" => "deontic",
+			"f" => "destined future",
+			"h" => "hypothetic",
+			"i" => "imperative",
+			"o" => "optative (neutral)",
+			"p" => "prayer (optative towards God)",
+			"q" => "interrogative",
+			"t" => "telic",
+			"u" => "curse (malevolent optative)",
+			"v" => "volitive future",
+			"x" => "experiential perfect",
+			"y" => "universal perfect",
+			"z" => "resultative perfect",
+		];
+
 
 		if(!ini_set('default_socket_timeout', 15)) echo "<!-- unable to change socket timeout -->";
 
@@ -214,6 +248,7 @@
 						$token[$element]["ud_ncy"] = $data[8];
 						$token[$element]["ud_type"] = $data[9];
 						$token[$element]["notes"] = $data[16];
+						$token[$element]["read"] = $data[27];
 						
 						if ($data[9] == "")
 							$ud_ready = FALSE;
@@ -376,6 +411,16 @@
 			
 			echo nl2br("\n") . "element " . $tok["id"];
 			echo nl2br("\n") . "dependency: <font style='font-variant: small-caps'>" . $tok["ud_type"] . "</font>→" . $tok["ud_ncy"];
+			
+			if (isset($tok["read"]) and $tok["read"] !== "") {
+				echo nl2br("\n") . "readings: ";
+				$read = explode('-', $tok["read"]);
+				for ($i = 0; $i < sizeof($read); $i++) {
+					if ($i > 0)
+						echo ", ";
+					echo $readings[$read[$i]];
+				}
+			}
 			
 			if ($tok["notes"] !== '')
 				echo nl2br("\n") . "<font size=1>" . $tok["notes"] . "</font>";
